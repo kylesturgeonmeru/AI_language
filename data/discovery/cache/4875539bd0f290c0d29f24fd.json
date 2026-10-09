@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/67670067/376/3/yellow-corporation/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Application/Motion to <mark>Employ</mark>/<mark>Retain</mark> Goodmans LLP as Canadian Restructuring Counsel Effective as of August 6, 2023 Pursuant to Sedtion 327(e), 328(a), 330, and 363(b)(1) of the Bankruptcy Code Filed by Yellow Corporation. Hearing scheduled for 9/26/2023 at 12:00 PM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 9/13/2023. (Attachments: # 1 Notice # 2 Exhibit A - Proposed Order # 3 Exhibit B - Chadwick Declaration # 4 Exhibit C - Doheny Declaration) (Jones, Laura Davis) (Entered: 08/30/2023)",
+        "docket_entry_id": 363487162,
+        "docket_id": 67670067,
+        "document_number": 376,
+        "document_type": "Attachment",
+        "entry_date_filed": "2023-08-30",
+        "entry_number": 376,
+        "filepath_local": "recap/gov.uscourts.deb.190462/gov.uscourts.deb.190462.376.3.pdf",
+        "id": 372042715,
+        "is_available": true,
+        "meta": {
+          "date_created": "2023-09-18T18:11:03.154674Z",
+          "score": {
+            "bm25": 14.502505
+          },
+          "timestamp": "2026-08-12T16:24:16.814681Z"
+        },
+        "pacer_doc_id": "042021099631",
+        "page_count": 68,
+        "short_description": "Exhibit B - Chadwick Declaration",
+        "snippet": "technologies, artificial\n      intelligence, <mark>machine learning</mark> document analysis, matter management tools"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=%22machine+learning%22+AND+chapter%3A11&court=deb+njb+txsb+txnb+nysb+vaeb+ganb&filed_after=01%2F01%2F2025&highlight=on&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

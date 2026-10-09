@@ -217,7 +217,18 @@ def track_a_rank(sess, dockets, max_pages):
     print("Track A ranking: funded debt in first-day declarations")
     rows = []
     desc = '"first day" OR "in support of chapter 11" OR "in support of the chapter 11" OR "in support of debtors"'
-    for r in cl_search(sess, base_params("rd", '"funded debt" AND chapter:11', desc), "A rank funded debt", max_pages):
+    # Many declarations describe the capital structure without the phrase
+    # "funded debt", so a second query catches those (deduplicated below).
+    queries = [('"funded debt" AND chapter:11', "A rank funded debt"),
+               ('("aggregate principal amount" OR indebtedness) AND chapter:11', "A rank principal amount")]
+    seen = set()
+    results = []
+    for q, purpose in queries:
+        for r in cl_search(sess, base_params("rd", q, desc), purpose, max_pages):
+            if r.get("id") not in seen:
+                seen.add(r.get("id"))
+                results.append(r)
+    for r in results:
         snip = clean(r.get("snippet"))
         rows.append({"docket_id": r["docket_id"], "recap_doc_id": r.get("id"),
                      "document_number": r.get("document_number"),

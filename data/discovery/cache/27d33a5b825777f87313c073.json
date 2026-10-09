@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 222,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NzQwNDU0NjImdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd",
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/69517992/1920/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Supplemental Declaration of Harris Fischman in Support of Debtors Application for an Order Authorizing the Retention and Employment of Paul, Weiss, Rifkind, Wharton & Garrison LLP as Special Litigation Counsel for the Debtors and Debtors in Possession as of the Petition Date (Docket No. 1917) and Nineteenth Monthly Fee Application of Paul, Weiss, Rifkind, Wharton & Garrison LLP for Allowance of Compensation for Services Rendered and Reimbursement of Expenses as Special Litigation Counsel for the Debtors and Debtors in Possession for the Period from July 1, 2026 Through July 31, 2026 (Docket No. 1919). Filed by Stretto. (related document(s)1917, 1919) (Betance, Sheryl) (Entered: 10/05/2026)",
+        "docket_entry_id": 480583740,
+        "docket_id": 69517992,
+        "document_number": 1920,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-10-05",
+        "entry_number": 1920,
+        "filepath_local": null,
+        "id": 496293228,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-10-05T23:31:19.532783Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-06T15:11:56.644012Z"
+        },
+        "pacer_doc_id": "042023227488",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1917/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Supplemental Declaration in Support (Supplemental Declaration of Harris Fischman in Support of Debtors' Application for an Order Authorizing the Retention and Employment of Paul, Weiss, Rifkind, Wharton & Garrison LLP as Special Litigation Counsel for the Debtors and Debtors in Possession as of the Petition Date) (related document(s)184, 254) Filed by Ligado Networks LLC. (Meehan, Colin) (Entered: 10/01/2026)",
+        "docket_entry_id": 480229529,
+        "docket_id": 69517992,
+        "document_number": 1917,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-10-01",
+        "entry_number": 1917,
+        "filepath_local": null,
+        "id": 495926118,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-10-01T23:03:04.174211Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-05T12:57:10.391213Z"
+        },
+        "pacer_doc_id": "042023222655",
+        "page_count": null,
+        "short_description": "Declaration in Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1881/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Fourth Supplemental Declaration of Matthew L. Brod in Support of the Debtors Application for Entry of an Order Authorizing the Employment and Retention of Milbank LLP as Counsel for the Debtors in Possession Effective as of the Petition Date (Docket No. 1879). Filed by Stretto. (related document(s)1879) (Betance, Sheryl) (Entered: 09/01/2026)",
+        "docket_entry_id": 476574828,
+        "docket_id": 69517992,
+        "document_number": 1881,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-01",
+        "entry_number": 1881,
+        "filepath_local": null,
+        "id": 492141179,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-01T20:06:52.211545Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-02T12:54:55.056093Z"
+        },
+        "pacer_doc_id": "042023170473",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1879/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Supplemental Declaration (Fourth Supplemental Declaration of Mathew L. Brod in Support of the Debtors' Application for Entry of an Order Authorizing the Employment and Retention of Milbank LLP as Counsel for the Debtors in Possession Effective as of the Petition Date) Filed by Ligado Networks LLC. (Meehan, Colin) (Entered: 08/31/2026)",
+        "docket_entry_id": 476457768,
+        "docket_id": 69517992,
+        "document_number": 1879,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-31",
+        "entry_number": 1879,
+        "filepath_local": null,
+        "id": 492020391,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-31T23:04:05.470489Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-01T12:55:33.278945Z"
+        },
+        "pacer_doc_id": "042023168863",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1827/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Notice of Ordinary Course Professionals Increased Cap Amount with Respect to Covington & Burling LLP (Docket No. 1826). Filed by Stretto. (related document(s)1826) (Betance, Sheryl) (Entered: 08/04/2026)",
+        "docket_entry_id": 473252627,
+        "docket_id": 69517992,
+        "document_number": 1827,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-04",
+        "entry_number": 1827,
+        "filepath_local": null,
+        "id": 488712723,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-04T21:33:27.506509Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-05T12:36:56.022724Z"
+        },
+        "pacer_doc_id": "042023122744",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1826/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Exhibit(s) (Notice of Ordinary Course Professional's Increased Cap Amount with Respect to Covington & Burling LLP) (related document(s)176) Filed by Ligado Networks LLC. (Javorsky, Zachary) (Entered: 08/03/2026)",
+        "docket_entry_id": 473020693,
+        "docket_id": 69517992,
+        "document_number": 1826,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-03",
+        "entry_number": 1826,
+        "filepath_local": null,
+        "id": 488474861,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-03T15:35:17.803332Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-04T17:32:44.678320Z"
+        },
+        "pacer_doc_id": "042023119408",
+        "page_count": null,
+        "short_description": "Exhibit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1825/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Notice of Filing of Debtors Sixth Quarterly Statement Regarding Payments Made to Ordinary Course Professionals for Services Provided During the Period of April 1, 2026 Through June 30, 2026 (Docket No. 1807). Filed by Stretto. (related document(s)1807) (Betance, Sheryl) (Entered: 07/31/2026)",
+        "docket_entry_id": 472900286,
+        "docket_id": 69517992,
+        "document_number": 1825,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-31",
+        "entry_number": 1825,
+        "filepath_local": null,
+        "id": 488347344,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-31T22:36:35.538489Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-04T17:32:44.692107Z"
+        },
+        "pacer_doc_id": "042023117963",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1807/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Professionals' Compensation (Notice of Filing of Debtors' Sixth Quarterly Statement Regarding Payments Made to Ordinary Course Professionals for Services Provided During the Period of April 1, 2026 through June 30, 2026) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit A) (Meehan, Colin) (Entered: 07/30/2026)",
+        "docket_entry_id": 472665624,
+        "docket_id": 69517992,
+        "document_number": 1807,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-30",
+        "entry_number": 1807,
+        "filepath_local": null,
+        "id": 488106833,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-30T16:36:12.595266Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-07-31T17:40:47.995514Z"
+        },
+        "pacer_doc_id": "042023113319",
+        "page_count": null,
+        "short_description": "Statement of Professionals' Compensation",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1743/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Sixteenth Monthly Fee Application of Paul, Weiss, Rifkind, Wharton & Garrison LLP for Allowance of Compensation for Services Rendered and Reimbursement of Expenses as Special Litigation Counsel for the Debtors and Debtors in Possession for the Period from April 1, 2026 Through April 30, 2026 (Docket No. 1733), Sixth Monthly Fee Application of Greenberg Traurig, LLP for Compensation and Reimbursement of Expenses as Special Counsel to the Debtors and Debtors in Possession for the Period from April 1, 2026 Through and Including April 30, 2026 (Docket No. 1738), and Third Supplemental Declaration of Matthew L. Brod in Support of the Debtors Application for Entry of an Order Authorizing the Employment and Retention of Milbank LLP as Counsel for the Debtors in Possession Effective as of the Petition Date (Docket No. 1739). Filed by Stretto. (related document(s)1733, 1738, 1739) (Betance, Sheryl) (Entered: 06/09/2026)",
+        "docket_entry_id": 466822223,
+        "docket_id": 69517992,
+        "document_number": 1743,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-09",
+        "entry_number": 1743,
+        "filepath_local": null,
+        "id": 482070747,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-09T18:00:44.937888Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-06-10T13:42:59.695935Z"
+        },
+        "pacer_doc_id": "042023027163",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1739/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Supplemental Declaration (Third Supplemental Declaration of Matthew L. Brod in Support of the Debtors' Application for Entry of an Order Authorizing the Employment and Retention of Milbank LLP as Counsel for the Debtors in Possession Effective as of the Petition Date) Filed by Ligado Networks LLC. (Meehan, Colin) (Entered: 06/05/2026)",
+        "docket_entry_id": 466513545,
+        "docket_id": 69517992,
+        "document_number": 1739,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-05",
+        "entry_number": 1739,
+        "filepath_local": null,
+        "id": 481753680,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-05T22:04:57.217077Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-06-08T14:03:45.582471Z"
+        },
+        "pacer_doc_id": "042023022201",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1716/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Seventh Supplemental Declaration of John M. Conlon in Support of Debtors Application for an Order Authorizing the Retention and Employment of Mayer Brown LLP as Special Counsel for the Debtors and Debtors in Possession as of the Petition Date (Docket No. 1711). Filed by Stretto. (related document(s)1711) (Betance, Sheryl) (Entered: 05/28/2026)",
+        "docket_entry_id": 465548509,
+        "docket_id": 69517992,
+        "document_number": 1716,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-05-28",
+        "entry_number": 1716,
+        "filepath_local": null,
+        "id": 480755464,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-05-28T22:33:26.257189Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-05-29T12:37:25.374030Z"
+        },
+        "pacer_doc_id": "042023007985",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1711/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Supplemental Declaration (Seventh Supplemental Declaration of John M. Conlon in Support of Debtors' Application for an Order Authorizing the Retention and Employment of Mayer Brown LLP as Special Counsel for the Debtors and Debtors in Possession as of the Petition Date) Filed by Ligado Networks LLC. (Meehan, Colin) (Entered: 05/27/2026)",
+        "docket_entry_id": 465290949,
+        "docket_id": 69517992,
+        "document_number": 1711,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-05-27",
+        "entry_number": 1711,
+        "filepath_local": null,
+        "id": 480491678,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-05-27T14:01:35.803361Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-05-27T14:21:18.715175Z"
+        },
+        "pacer_doc_id": "042023003526",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1660/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Notice of Filing of Debtors Fifth Quarterly Statement Regarding Payments Made to Ordinary Course Professionals for Services Provided During the Period of January 1, 2026 Through March 31, 2026 (Docket No. 1638), Thirteenth Monthly Fee Application of PwC US Business Advisory LLP, as Bankruptcy Transaction Advisory Services Provider to the Debtors, for Compensation and Reimbursement of Expenses for the Period from March 1, 2026 Through March 31, 2026 (Docket No. 1651), and Debtor Ligado Networks LLC and its Affiliates Notice of 30(b)(6) Deposition of The Boeing Company (Docket No. 1656). Filed by Stretto. (related document(s)1638, 1651, 1656) (Betance, Sheryl) (Entered: 05/04/2026)",
+        "docket_entry_id": 462926848,
+        "docket_id": 69517992,
+        "document_number": 1660,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-05-04",
+        "entry_number": 1660,
+        "filepath_local": null,
+        "id": 478053148,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-05-04T22:01:29.023173Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-05-05T02:00:03.399447Z"
+        },
+        "pacer_doc_id": "042022965863",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1638/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Professionals' Compensation (Notice of Filing of Debtors' Fifth Quarterly Statement Regarding Payments Made to Ordinary Course Professionals for Services Provided During the Period of January 1, 2026 through March 31, 2026) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit A) (Javorsky, Zachary) (Entered: 04/30/2026)",
+        "docket_entry_id": 462510680,
+        "docket_id": 69517992,
+        "document_number": 1638,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-30",
+        "entry_number": 1638,
+        "filepath_local": null,
+        "id": 477627341,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-30T16:31:24.000110Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-05-01T16:07:28.745857Z"
+        },
+        "pacer_doc_id": "042022960041",
+        "page_count": null,
+        "short_description": "Statement of Professionals' Compensation",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1612/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Certification of Counsel Regarding Order Terminating Omni Agent Solutions, Inc. as Claims, Noticing and Administrative Agent [Docket No. 1604], Certification of Counsel Regarding Order Appointing Stretto, Inc. as Replacement Claims and Noticing Agent [Docket No. 1605], Order Terminating Omni Agent Solutions, Inc. as Claims, Noticing and Administrative Agent [Docket No. 1606], and Order Appointing Stretto, Inc. as Replacement Claims and Noticing Agent [Docket No. 1607]. Filed by Ligado Networks LLC. (related document(s)1604, 1605, 1606, 1607) (Lowry, Randy) (Entered: 04/09/2026)",
+        "docket_entry_id": 460296694,
+        "docket_id": 69517992,
+        "document_number": 1612,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-09",
+        "entry_number": 1612,
+        "filepath_local": null,
+        "id": 475352604,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-09T22:04:18.452882Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-04-10T12:47:50.818486Z"
+        },
+        "pacer_doc_id": "042022924560",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1607/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Appointing Stretto, Inc. as Replacement Claims and Noticing Agent (related document(s)1558, 1605) Order Signed on 4/8/2026. (AMH) (Entered: 04/08/2026)",
+        "docket_entry_id": 460070956,
+        "docket_id": 69517992,
+        "document_number": 1607,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-08",
+        "entry_number": 1607,
+        "filepath_local": null,
+        "id": 475118553,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-08T16:04:00.905174Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-04-08T16:04:28.078895Z"
+        },
+        "pacer_doc_id": "042022921676",
+        "page_count": null,
+        "short_description": "Application to Appoint Claims/Noticing Agent",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1605/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Order Appointing Stretto, Inc. as Replacement Claims and Noticing Agent (related document(s)1558) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit A # 2 Exhibit B) (Javorsky, Zachary) (Entered: 04/07/2026)",
+        "docket_entry_id": 459988657,
+        "docket_id": 69517992,
+        "document_number": 1605,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-07",
+        "entry_number": 1605,
+        "filepath_local": null,
+        "id": 475033848,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-07T20:34:18.184952Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-04-08T12:43:33.454192Z"
+        },
+        "pacer_doc_id": "042022920646",
+        "page_count": null,
+        "short_description": "Certification of Counsel(Aty)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1594/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Debtors Application for Appointment of Stretto, Inc. as Replacement Claims and Noticing Agent [Docket No. 1558]. Filed by Omni Agent Solutions, Inc.. (related document(s)1558) (Lowry, Randy) (Entered: 04/02/2026)",
+        "docket_entry_id": 459481984,
+        "docket_id": 69517992,
+        "document_number": 1594,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-02",
+        "entry_number": 1594,
+        "filepath_local": null,
+        "id": 474510531,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-02T16:12:07.598427Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-04-02T16:31:06.541407Z"
+        },
+        "pacer_doc_id": "042022914565",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1592/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service Notice of Hearing Regarding Debtors Application for Appointment of Stretto, Inc. as Replacement Claims and Noticing Agent [Docket No. 1577]. Filed by Omni Agent Solutions, Inc.. (related document(s)1577) (Heck, Will) (Entered: 04/01/2026)",
+        "docket_entry_id": 459409635,
+        "docket_id": 69517992,
+        "document_number": 1592,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-01",
+        "entry_number": 1592,
+        "filepath_local": null,
+        "id": 474435781,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-01T23:01:42.947427Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-04-02T12:43:10.636300Z"
+        },
+        "pacer_doc_id": "042022913726",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1577/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Hearing Regarding Debtors' Application for Appointment of Stretto, Inc. as Replacement Claims and Noticing Agent (related document(s)1558) Filed by Ligado Networks LLC. Hearing scheduled for 4/13/2026 at 10:00 AM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 4/6/2026. (Javorsky, Zachary) (Entered: 03/30/2026)",
+        "docket_entry_id": 459028930,
+        "docket_id": 69517992,
+        "document_number": 1577,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-30",
+        "entry_number": 1577,
+        "filepath_local": null,
+        "id": 474045462,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-30T19:04:18.248553Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-30T19:55:47.843840Z"
+        },
+        "pacer_doc_id": "042022907338",
+        "page_count": null,
+        "short_description": "Hearing - Notice",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A69517992&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

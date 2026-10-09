@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 222,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00Njc3ODQzODgmdD1yZCZkPTIwMjYtMTAtMDkmcD0z&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NzM4NzcwMTAmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9MQ%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69517992/1558/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Appoint Claims/Noticing Agent STRETTO Filed by Ligado Networks LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Javorsky, Zachary) (Entered: 03/27/2026)",
+        "docket_entry_id": 458864101,
+        "docket_id": 69517992,
+        "document_number": 1558,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-27",
+        "entry_number": 1558,
+        "filepath_local": null,
+        "id": 473877010,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-27T22:01:14.492977Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-30T11:51:23.658932Z"
+        },
+        "pacer_doc_id": "042022905306",
+        "page_count": null,
+        "short_description": "Application to Appoint Claims/Noticing Agent",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1553/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Motion for Entry of an Order Terminating Retention/Employment of Omni Agent Solutions as Claims, Noticing and Administrative Agent as Claims Agent. Filed by Ligado Networks LLC. Objections due by 4/2/2026. (Attachments: # 1 Notice # 2 Exhibit A) (Javorsky, Zachary) (Entered: 03/26/2026)",
+        "docket_entry_id": 458711594,
+        "docket_id": 69517992,
+        "document_number": 1553,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-03-26",
+        "entry_number": 1553,
+        "filepath_local": null,
+        "id": 473749482,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-27T00:54:18.810309Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-27T12:11:59.424839Z"
+        },
+        "pacer_doc_id": "042022903059",
+        "page_count": 4,
+        "short_description": "Exhibit A",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1553/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Motion for Entry of an Order Terminating Retention/Employment of Omni Agent Solutions as Claims, Noticing and Administrative Agent as Claims Agent. Filed by Ligado Networks LLC. Objections due by 4/2/2026. (Attachments: # 1 Notice # 2 Exhibit A) (Javorsky, Zachary) (Entered: 03/26/2026)",
+        "docket_entry_id": 458711594,
+        "docket_id": 69517992,
+        "document_number": 1553,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-03-26",
+        "entry_number": 1553,
+        "filepath_local": null,
+        "id": 473749481,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-27T00:54:18.637512Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-27T12:11:59.420125Z"
+        },
+        "pacer_doc_id": "042022903058",
+        "page_count": 3,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1553/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Motion for Entry of an Order Terminating Retention/Employment of Omni Agent Solutions as Claims, Noticing and Administrative Agent as Claims Agent. Filed by Ligado Networks LLC. Objections due by 4/2/2026. (Attachments: # 1 Notice # 2 Exhibit A) (Javorsky, Zachary) (Entered: 03/26/2026)",
+        "docket_entry_id": 458711594,
+        "docket_id": 69517992,
+        "document_number": 1553,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-26",
+        "entry_number": 1553,
+        "filepath_local": null,
+        "id": 473721104,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-26T21:05:57.330897Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-27T12:11:59.421328Z"
+        },
+        "pacer_doc_id": "042022903057",
+        "page_count": null,
+        "short_description": "Terminate Retention/Employment of Claims Agent - Motion",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1529/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Sixth Supplemental Declaration of John M. Conlon in Support of Debtors Application for an Order Authorizing the Retention and Employment of Mayer Brown LLP as Special Counsel for the Debtors and Debtors in Possession as of the Petition Date [Docket No. 1522]. Filed by Omni Agent Solutions, Inc.. (related document(s)1522) (Lowry, Randy) (Entered: 03/23/2026)",
+        "docket_entry_id": 458194562,
+        "docket_id": 69517992,
+        "document_number": 1529,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-23",
+        "entry_number": 1529,
+        "filepath_local": null,
+        "id": 473192244,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-23T17:06:37.939906Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-24T13:38:37.786067Z"
+        },
+        "pacer_doc_id": "042022895284",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1522/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Supplemental Declaration (Sixth Supplemental Declaration of John M. Conlon in Support of Debtors' Application for an Order Authorizing the Retention and Employment of Mayer Brown LLP as Special Counsel for the Debtors and Debtors in Possession as of the Petition Date) (related document(s)181) Filed by Ligado Networks LLC. (Meehan, Colin) (Entered: 03/19/2026)",
+        "docket_entry_id": 457831279,
+        "docket_id": 69517992,
+        "document_number": 1522,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-19",
+        "entry_number": 1522,
+        "filepath_local": null,
+        "id": 472821045,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-19T17:04:59.144015Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-20T15:54:46.527182Z"
+        },
+        "pacer_doc_id": "042022890976",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1516/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Order Authorizing the Employment and Retention of Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 [Docket No. 1507]. Filed by Omni Agent Solutions, Inc.. (related document(s)1507) (Lowry, Randy) (Entered: 03/18/2026)",
+        "docket_entry_id": 457677877,
+        "docket_id": 69517992,
+        "document_number": 1516,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-18",
+        "entry_number": 1516,
+        "filepath_local": "recap/gov.uscourts.deb.195197/gov.uscourts.deb.195197.1516.0.pdf",
+        "id": 472665623,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-03-18T20:07:29.241861Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-04-16T12:45:47.005512Z"
+        },
+        "pacer_doc_id": "042022889677",
+        "page_count": 16,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": "Case 25-10006-TMH   Doc 1516   Filed 03/18/26   Page 1 of 16\n\fCase 25-10006-TMH   Doc 1516   Filed 03/18/26   Page 2 of 16\n\n                    EXHIBIT A\n\f                                    Case 25-10006-TMH                                      Doc 1516                Filed 03/18/26                       Page 3 of 16\n\n\n                                                                                                     Exhibit A\n                                                                   "
+      },
+      {
+        "absolute_url": "/docket/69517992/1507/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Employment and Retention of Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 (related document(s)1421, 1502) Order Signed on 3/16/2026. (DRG) (Entered: 03/16/2026)",
+        "docket_entry_id": 457280590,
+        "docket_id": 69517992,
+        "document_number": 1507,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-16",
+        "entry_number": 1507,
+        "filepath_local": null,
+        "id": 472261124,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-16T16:03:58.573802Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-17T15:41:31.002352Z"
+        },
+        "pacer_doc_id": "042022885067",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1502/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Debtors' Application for Authorization to Employ and Retain Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 (related document(s)1421) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit A) (Meehan, Colin) (Entered: 03/13/2026)",
+        "docket_entry_id": 457137306,
+        "docket_id": 69517992,
+        "document_number": 1502,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-03-13",
+        "entry_number": 1502,
+        "filepath_local": null,
+        "id": 472142745,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-14T01:37:47.369776Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-17T15:41:30.478853Z"
+        },
+        "pacer_doc_id": "042022883731",
+        "page_count": 4,
+        "short_description": "Exhibit A",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1502/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Debtors' Application for Authorization to Employ and Retain Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 (related document(s)1421) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit A) (Meehan, Colin) (Entered: 03/13/2026)",
+        "docket_entry_id": 457137306,
+        "docket_id": 69517992,
+        "document_number": 1502,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-13",
+        "entry_number": 1502,
+        "filepath_local": null,
+        "id": 472114970,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-13T21:02:57.312880Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-17T15:41:30.466479Z"
+        },
+        "pacer_doc_id": "042022883730",
+        "page_count": null,
+        "short_description": "Certificate of No Objection",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1459/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Debtors Application for Authorization to Employ and Retain Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 [Docket No. 1421]. Filed by Omni Agent Solutions, Inc.. (related document(s)1421) (Lowry, Randy) (Entered: 03/03/2026)",
+        "docket_entry_id": 455731977,
+        "docket_id": 69517992,
+        "document_number": 1459,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-03",
+        "entry_number": 1459,
+        "filepath_local": null,
+        "id": 470682415,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-04T01:32:52.391993Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-04T13:53:43.847346Z"
+        },
+        "pacer_doc_id": "042022866724",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1421/5/ligado-networks-llc/",
+        "attachment_number": 5,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 Filed by Ligado Networks LLC. Hearing scheduled for 3/27/2026 at 10:00 AM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #5, Wilmington, Delaware. Objections due by 3/12/2026. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C # 5 Exhibit D) (Meehan, Colin) (Entered: 02/26/2026)",
+        "docket_entry_id": 455235699,
+        "docket_id": 69517992,
+        "document_number": 1421,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-02-26",
+        "entry_number": 1421,
+        "filepath_local": null,
+        "id": 470300881,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-27T21:28:41.881762Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-27T21:28:41.938113Z"
+        },
+        "pacer_doc_id": "042022859216",
+        "page_count": 4,
+        "short_description": "Exhibit D",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1421/4/ligado-networks-llc/",
+        "attachment_number": 4,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 Filed by Ligado Networks LLC. Hearing scheduled for 3/27/2026 at 10:00 AM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #5, Wilmington, Delaware. Objections due by 3/12/2026. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C # 5 Exhibit D) (Meehan, Colin) (Entered: 02/26/2026)",
+        "docket_entry_id": 455235699,
+        "docket_id": 69517992,
+        "document_number": 1421,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-02-26",
+        "entry_number": 1421,
+        "filepath_local": null,
+        "id": 470300880,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-27T21:28:41.826406Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-27T21:28:42.169268Z"
+        },
+        "pacer_doc_id": "042022859215",
+        "page_count": 32,
+        "short_description": "Exhibit C",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1421/3/ligado-networks-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 Filed by Ligado Networks LLC. Hearing scheduled for 3/27/2026 at 10:00 AM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #5, Wilmington, Delaware. Objections due by 3/12/2026. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C # 5 Exhibit D) (Meehan, Colin) (Entered: 02/26/2026)",
+        "docket_entry_id": 455235699,
+        "docket_id": 69517992,
+        "document_number": 1421,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-02-26",
+        "entry_number": 1421,
+        "filepath_local": null,
+        "id": 470300879,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-27T21:28:41.766437Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-27T21:28:41.833353Z"
+        },
+        "pacer_doc_id": "042022859214",
+        "page_count": 4,
+        "short_description": "Exhibit B",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1421/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 Filed by Ligado Networks LLC. Hearing scheduled for 3/27/2026 at 10:00 AM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #5, Wilmington, Delaware. Objections due by 3/12/2026. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C # 5 Exhibit D) (Meehan, Colin) (Entered: 02/26/2026)",
+        "docket_entry_id": 455235699,
+        "docket_id": 69517992,
+        "document_number": 1421,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-02-26",
+        "entry_number": 1421,
+        "filepath_local": null,
+        "id": 470300878,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-27T21:28:41.700124Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-27T21:28:41.808271Z"
+        },
+        "pacer_doc_id": "042022859213",
+        "page_count": 4,
+        "short_description": "Exhibit A",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1421/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 Filed by Ligado Networks LLC. Hearing scheduled for 3/27/2026 at 10:00 AM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #5, Wilmington, Delaware. Objections due by 3/12/2026. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C # 5 Exhibit D) (Meehan, Colin) (Entered: 02/26/2026)",
+        "docket_entry_id": 455235699,
+        "docket_id": 69517992,
+        "document_number": 1421,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-02-26",
+        "entry_number": 1421,
+        "filepath_local": null,
+        "id": 470300877,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-27T21:28:40.388458Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-27T21:28:41.518879Z"
+        },
+        "pacer_doc_id": "042022859212",
+        "page_count": 3,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1421/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Greenberg Traurig, LLP as Special Counsel for the Debtors Effective as of January 1, 2026 Filed by Ligado Networks LLC. Hearing scheduled for 3/27/2026 at 10:00 AM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #5, Wilmington, Delaware. Objections due by 3/12/2026. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C # 5 Exhibit D) (Meehan, Colin) (Entered: 02/26/2026)",
+        "docket_entry_id": 455235699,
+        "docket_id": 69517992,
+        "document_number": 1421,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-26",
+        "entry_number": 1421,
+        "filepath_local": null,
+        "id": 470173708,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-26T23:32:18.381036Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-27T14:41:47.349680Z"
+        },
+        "pacer_doc_id": "042022859211",
+        "page_count": null,
+        "short_description": "Employ/Retain - Application/Motion",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1379/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Withdrawal of Claim Nos. 4 and 24 with the claims agent. Filed by Bexar County. (Stecker, Don) (Entered: 02/18/2026)",
+        "docket_entry_id": 454243245,
+        "docket_id": 69517992,
+        "document_number": 1379,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-18",
+        "entry_number": 1379,
+        "filepath_local": null,
+        "id": 469155712,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-18T19:05:27.341396Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-18T19:51:52.125048Z"
+        },
+        "pacer_doc_id": "042022844316",
+        "page_count": null,
+        "short_description": "Withdrawal of Claim-Chapter 11",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1343/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service Notice of Filing of Additional Ernst & Young LLP Engagement Letter [Docket No. 1302]. Filed by Omni Agent Solutions, Inc.. (related document(s)1302) (Heck, Will) (Entered: 02/05/2026)",
+        "docket_entry_id": 452906274,
+        "docket_id": 69517992,
+        "document_number": 1343,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-05",
+        "entry_number": 1343,
+        "filepath_local": null,
+        "id": 467784404,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-05T23:05:25.059805Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-06T17:02:56.107393Z"
+        },
+        "pacer_doc_id": "042022821668",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/1344/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service Notice of Filing of Debtors Fourth Quarterly Statement Regarding Payments Made to Ordinary Course Professionals for Services Provided During the Period of October 1, 2025 through December 31, 2025 [Docket No. 1308]. Filed by Omni Agent Solutions, Inc.. (related document(s)1308) (Heck, Will) (Entered: 02/05/2026)",
+        "docket_entry_id": 452906256,
+        "docket_id": 69517992,
+        "document_number": 1344,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-05",
+        "entry_number": 1344,
+        "filepath_local": null,
+        "id": 467784388,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-05T23:05:24.236427Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-06T17:02:56.162755Z"
+        },
+        "pacer_doc_id": "042022821678",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NzQwNDU0NjImdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd"
+}

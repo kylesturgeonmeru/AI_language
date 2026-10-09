@@ -240,6 +240,25 @@ def track_a_rank(sess, dockets, max_pages):
     return rows
 
 
+def track_a_census(sess, dockets, docs, top_n, max_pages):
+    """Phase 2: every retention-described docket entry in the top-N ranked cases."""
+    path = DATA / "track_a_ranking.csv"
+    if top_n <= 0 or not path.exists():
+        return []
+    with open(path, newline="", encoding="utf-8") as f:
+        ranked = [r for r in csv.DictReader(f) if r["rank"] and int(r["rank"]) <= top_n]
+    # Case metadata for all census dockets in one call.
+    ids = " OR ".join(r["docket_id"] for r in ranked)
+    for r in cl_search(sess, {"type": "d", "q": f"docket_id:({ids})"}, "A census metadata", 2):
+        dockets[r["docket_id"]] = docket_row(r)
+    for r in sorted(ranked, key=lambda r: int(r["rank"])):
+        print(f"Track A census: #{r['rank']} {r['debtor'][:40]} (docket {r['docket_id']})")
+        params = {"type": "rd", "q": f"docket_id:{r['docket_id']}", "description": RETENTION_DESC}
+        for d in cl_search(sess, params, f"A census {r['docket_id']}", max_pages):
+            docs.append(doc_row(dict(d, docket_id=int(r["docket_id"])), "A", f"census #{r['rank']}"))
+    return ranked
+
+
 def sec_search(sess, max_pages):
     rows = []
     for term in SEC_TERMS:
@@ -362,17 +381,21 @@ def summarize(cands, cases, sec_rows, stopped):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--max-pages", type=int, default=10)
+    ap.add_argument("--track-a-top", type=int, default=10,
+                    help="census size for Track A phase 2 (approved 10/09/2026: top 10)")
+    ap.add_argument("--census-max-pages", type=int, default=25)
     args = ap.parse_args()
     require_env("COURTLISTENER_TOKEN", "SEC_USER_AGENT")
 
     # Every stage runs every time; pages already fetched come from cache.
     sess = Session()
-    dockets, docs, universe, sec_rows, rank_rows, stopped = {}, [], set(), [], [], ""
+    dockets, docs, universe, sec_rows, rank_rows, census, stopped = {}, [], set(), [], [], [], ""
     try:
         track_b(sess, dockets, docs, args.max_pages)
         universe = track_a_universe(sess, dockets, docs, args.max_pages)
         track_b_related(sess, dockets, docs, args.max_pages)
         rank_rows = track_a_rank(sess, dockets, args.max_pages)
+        census = track_a_census(sess, dockets, docs, args.track_a_top, args.census_max_pages)
     except SourceStopped as e:
         stopped = f"CourtListener stopped: {e}. Rerun later; cached pages are reused."
         print(stopped)

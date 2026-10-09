@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 115,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00OTM1Nzc1MDEmdD1yZCZkPTIwMjYtMTAtMDkmcD0z&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A73556804&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00OTQzNzkyNzQmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9MQ%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A73556804&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/73556804/1533/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Granting Dish DBS Corporation's Application for Entry of an Order Authorizing the Retention and Employment of Quinn Emanuel Urquhart & Sullivan, LLP as Special Litigation and Conflicts Counsel for Dish DBS Corporation Effective as of August 12, 2026 (Related document(s):1172 Application to Employ, 1505 Certificate of No Objection) Signed on 9/21/2026. (yml4) (Entered: 09/21/2026)",
+        "docket_entry_id": 478746720,
+        "docket_id": 73556804,
+        "document_number": 1533,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-21",
+        "entry_number": 1533,
+        "filepath_local": null,
+        "id": 494379274,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-21T17:33:10.459031Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055172605",
+        "page_count": null,
+        "short_description": "Generic Order",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1525/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Benesch, Friedlander, Coplan & Aronoff LLP for the DISH Wireless Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/18/2026)",
+        "docket_entry_id": 478600211,
+        "docket_id": 73556804,
+        "document_number": 1525,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-18",
+        "entry_number": 1525,
+        "filepath_local": null,
+        "id": 494229047,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-18T23:32:56.397919Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055164330",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1512/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Frontier Intellectual Property Law, PLLC for the DBS Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/17/2026)",
+        "docket_entry_id": 478433472,
+        "docket_id": 73556804,
+        "document_number": 1512,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-17",
+        "entry_number": 1512,
+        "filepath_local": null,
+        "id": 494058841,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-17T21:36:22.457006Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055154534",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1513/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Frontier Intellectual Property Law, PLLC for the DISH Wireless Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/17/2026)",
+        "docket_entry_id": 478433431,
+        "docket_id": 73556804,
+        "document_number": 1513,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-17",
+        "entry_number": 1513,
+        "filepath_local": null,
+        "id": 494058799,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-17T21:36:21.545075Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055154559",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1514/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Morrison Mahoney LLP for the DISH Wireless Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/17/2026)",
+        "docket_entry_id": 478433208,
+        "docket_id": 73556804,
+        "document_number": 1514,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-17",
+        "entry_number": 1514,
+        "filepath_local": null,
+        "id": 494058576,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-17T21:36:16.063081Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055154639",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1516/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Orrick, Herrington & Sutcliffe LLP for the DBS Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/17/2026)",
+        "docket_entry_id": 478433116,
+        "docket_id": 73556804,
+        "document_number": 1516,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-17",
+        "entry_number": 1516,
+        "filepath_local": null,
+        "id": 494058485,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-17T21:36:13.292496Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055154676",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1510/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Granting Dish DBS Corporation's Application for Entry of an Order Authorizing the Retention and Employment of Quinn Emanuel Urqhart & Sullivan, LLP as Special Litigation and Conflicts Counsel for Dish DBS Corporation Effective as of August 12, 2026 (Related Doc # 1172). Signed on 9/17/2026. (rgs4) (Entered: 09/17/2026)",
+        "docket_entry_id": 478426478,
+        "docket_id": 73556804,
+        "document_number": 1510,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-17",
+        "entry_number": 1510,
+        "filepath_local": null,
+        "id": 494051722,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-17T21:05:17.334959Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055154131",
+        "page_count": null,
+        "short_description": "Order to Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1505/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection (Filed By DISH DBS Corporation ).(Related document(s):1172 Application to Employ) (Attachments: # 1 Proposed Order) (Kelly, Cameron) (Entered: 09/17/2026)",
+        "docket_entry_id": 478376356,
+        "docket_id": 73556804,
+        "document_number": 1505,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-17",
+        "entry_number": 1505,
+        "filepath_local": null,
+        "id": 494000597,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-17T17:05:47.750349Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055151847",
+        "page_count": null,
+        "short_description": "Certificate of No Objection (Complex 11 ONLY)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1503/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service of Andrea Speelman re: Various Ordinary Course Professional Declarations [related Docket Nos. 1474-1477] Filed by Epiq Corporate Restructuring, LLC (Heintz, Mark) (Entered: 09/16/2026)",
+        "docket_entry_id": 478288277,
+        "docket_id": 73556804,
+        "document_number": 1503,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-16",
+        "entry_number": 1503,
+        "filepath_local": null,
+        "id": 493910342,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-17T00:05:42.755461Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055146438",
+        "page_count": null,
+        "short_description": "Certificate",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1501/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of the Official Committee of Unsecured Creditors Regarding DISH DBS Corporation's Application for Entry of an Order Authorizing the Retention and Employment of Quinn Emanuel Urquhart & Sullivan, LLP as Special Litigation and Conflicts Counsel for DISH DBS Corporation Effective as of August 12, 2026 (Filed By Official Committee of Unsecured Creditors of DISH DBS Corporation, DISH Wireless L.L.C., et al ).(Related document(s):1172 Application to Employ) (Brimmage, Marty) (Entered: 09/16/2026)",
+        "docket_entry_id": 478273906,
+        "docket_id": 73556804,
+        "document_number": 1501,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-16",
+        "entry_number": 1501,
+        "filepath_local": null,
+        "id": 493895563,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-16T22:01:11.780278Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055145096",
+        "page_count": null,
+        "short_description": "Statement",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1499/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service of Jennifer Noble re: Various Ordinary Course Professional Declarations Filed by Epiq Corporate Restructuring, LLC (Heintz, Mark) (Entered: 09/16/2026)",
+        "docket_entry_id": 478247179,
+        "docket_id": 73556804,
+        "document_number": 1499,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-16",
+        "entry_number": 1499,
+        "filepath_local": null,
+        "id": 493867972,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-16T20:01:44.685974Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055143163",
+        "page_count": null,
+        "short_description": "Certificate",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1485/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Jackson Lewis P.C. for the DBS Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/15/2026)",
+        "docket_entry_id": 478127886,
+        "docket_id": 73556804,
+        "document_number": 1485,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-15",
+        "entry_number": 1485,
+        "filepath_local": null,
+        "id": 493745732,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-15T23:31:26.556337Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055138351",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1486/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Jackson Lewis P.C. for the DISH Wireless Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/15/2026)",
+        "docket_entry_id": 478127872,
+        "docket_id": 73556804,
+        "document_number": 1486,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-15",
+        "entry_number": 1486,
+        "filepath_local": null,
+        "id": 493745718,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-15T23:31:25.991779Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055138357",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1487/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of John Murphy & Associates, P.C. for the DISH Wireless Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/15/2026)",
+        "docket_entry_id": 478127850,
+        "docket_id": 73556804,
+        "document_number": 1487,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-15",
+        "entry_number": 1487,
+        "filepath_local": null,
+        "id": 493745696,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-15T23:31:25.082010Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055138379",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1488/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Martinez Law Group, P.C. for the DBS Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/15/2026)",
+        "docket_entry_id": 478127830,
+        "docket_id": 73556804,
+        "document_number": 1488,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-15",
+        "entry_number": 1488,
+        "filepath_local": null,
+        "id": 493745676,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-15T23:31:24.179285Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055138398",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1489/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Reddie & Grose LLP for the DBS Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/15/2026)",
+        "docket_entry_id": 478127818,
+        "docket_id": 73556804,
+        "document_number": 1489,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-15",
+        "entry_number": 1489,
+        "filepath_local": null,
+        "id": 493745664,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-15T23:31:23.467098Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055138413",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1490/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Reddie & Grose LLP for the DISH Wireless Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/15/2026)",
+        "docket_entry_id": 478127806,
+        "docket_id": 73556804,
+        "document_number": 1490,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-15",
+        "entry_number": 1490,
+        "filepath_local": null,
+        "id": 493745652,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-15T23:31:23.066307Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055138422",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1474/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Withers & Rogers LLP for the DISH Wireless Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/14/2026)",
+        "docket_entry_id": 477964642,
+        "docket_id": 73556804,
+        "document_number": 1474,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-14",
+        "entry_number": 1474,
+        "filepath_local": null,
+        "id": 493577512,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-15T02:04:24.589189Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055131208",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1475/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Benesch, Friedlander, Coplan & Aronoff LLP for the DBS Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/14/2026)",
+        "docket_entry_id": 477964633,
+        "docket_id": 73556804,
+        "document_number": 1475,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-14",
+        "entry_number": 1475,
+        "filepath_local": null,
+        "id": 493577502,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-15T02:04:24.064639Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055131223",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73556804/1476/dish-dbs-corporation-and-official-committee-of-unsecured-creditors-of-dish/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Ordinary Course Professional Declaration of Fox Rothschild LLP for the DBS Debtors (Filed By DISH DBS Corporation ).(Related document(s):1204 Generic Order) (Koster, Charles) (Entered: 09/14/2026)",
+        "docket_entry_id": 477964631,
+        "docket_id": 73556804,
+        "document_number": 1476,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-14",
+        "entry_number": 1476,
+        "filepath_local": null,
+        "id": 493577501,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-15T02:04:23.983336Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178055131226",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00OTQ0OTg5MjUmdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A73556804&type=rd"
+}

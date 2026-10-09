@@ -5,7 +5,7 @@ tracks, and downloads each available one. Documents not in RECAP go on
 data/manual_pull_list.csv. Every PDF is validated after download; bad
 files are logged as failures and not kept.
 
-Usage: python fetch.py --tracks B B_related [--dry-run]
+Usage: python fetch.py --tracks B B_related [--ids-file data/fetch_list_b.csv] [--dry-run]
 """
 import argparse
 import csv
@@ -79,11 +79,15 @@ def user_daily_used(sess):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tracks", nargs="+", required=True)
+    ap.add_argument("--ids-file", help="CSV with a recap_doc_id column; fetch only these (curated list)")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
     require_env("COURTLISTENER_TOKEN")
 
     todo = select(read_csv(DATA / "candidates.csv"), args.tracks)
+    if args.ids_file:
+        ids = {r["recap_doc_id"] for r in read_csv(args.ids_file)}
+        todo = [c for c in todo if c["recap_doc_id"] in ids]
     manifest = {m["recap_doc_id"]: m for m in read_csv(MANIFEST)}
     manual = {(m["docket_number"], m["document_number"], m["attachment_number"]): m for m in read_csv(MANUAL)}
 

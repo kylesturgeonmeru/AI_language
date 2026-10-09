@@ -1,0 +1,535 @@
+{
+  "response": {
+    "count": 40,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00ODg3NzEwNTImdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=order+AND+%28retain+OR+employ+OR+retention+OR+appoint%29&q=docket_id%3A73574916&type=rd",
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/73574916/166/3/pacifica-of-the-valley-corporation/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Houlihan Lokey Capital, Inc. as Investment Banker to the Debtor Filed by Pacifica of the Valley Corporation. Hearing scheduled for 9/29/2026 at 11:00 AM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 9/4/2026. (Attachments: # 1 Notice # 2 Exhibit A-Proposed Order # 3 Exhibit B-Declaration) (Jones, Laura Davis) (Entered: 08/21/2026)",
+        "docket_entry_id": 475346967,
+        "docket_id": 73574916,
+        "document_number": 166,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-08-21",
+        "entry_number": 166,
+        "filepath_local": "recap/gov.uscourts.deb.201904/gov.uscourts.deb.201904.166.3.pdf",
+        "id": 494417512,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-09-21T20:25:54.713131Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-23T15:12:18.422362Z"
+        },
+        "pacer_doc_id": "042023149955",
+        "page_count": 17,
+        "short_description": "Exhibit B-Declaration",
+        "snippet": "             Case 26-11060-TMH   Doc 166-3   Filed 08/21/26   Page 1 of 17\n\n\n\n\n                                    EXHIBIT B\n\n                           TURNBULL DECLARATION\n\n\n\n\nUS_ACTIVE\\138363064\\V-2\n\f                 Case 26-11060-TMH             Doc 166-3        Filed 08/21/26        Page 2 of 17\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n\n    In re                                                         Chap"
+      },
+      {
+        "absolute_url": "/docket/73574916/166/2/pacifica-of-the-valley-corporation/",
+        "attachment_number": 2,
+        "cites": [
+          9495663
+        ],
+        "description": "Application/Motion to Employ/Retain Houlihan Lokey Capital, Inc. as Investment Banker to the Debtor Filed by Pacifica of the Valley Corporation. Hearing scheduled for 9/29/2026 at 11:00 AM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 9/4/2026. (Attachments: # 1 Notice # 2 Exhibit A-Proposed Order # 3 Exhibit B-Declaration) (Jones, Laura Davis) (Entered: 08/21/2026)",
+        "docket_entry_id": 475346967,
+        "docket_id": 73574916,
+        "document_number": 166,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-08-21",
+        "entry_number": 166,
+        "filepath_local": "recap/gov.uscourts.deb.201904/gov.uscourts.deb.201904.166.2_2.pdf",
+        "id": 494417511,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-09-21T20:25:54.694305Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-23T14:59:56.976681Z"
+        },
+        "pacer_doc_id": "042023149954",
+        "page_count": 22,
+        "short_description": "Exhibit A-Proposed Order",
+        "snippet": "             Case 26-11060-TMH   Doc 166-2   Filed 08/21/26   Page 1 of 22\n\n\n\n\n                                    EXHIBIT A\n\n                                 FORM OF ORDER\n\n\n\n\nUS_ACTIVE\\138363064\\V-2\n\f                Case 26-11060-TMH              Doc 166-2        Filed 08/21/26         Page 2 of 22\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n\n    In re                                                          Cha"
+      },
+      {
+        "absolute_url": "/docket/73574916/166/1/pacifica-of-the-valley-corporation/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Houlihan Lokey Capital, Inc. as Investment Banker to the Debtor Filed by Pacifica of the Valley Corporation. Hearing scheduled for 9/29/2026 at 11:00 AM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 9/4/2026. (Attachments: # 1 Notice # 2 Exhibit A-Proposed Order # 3 Exhibit B-Declaration) (Jones, Laura Davis) (Entered: 08/21/2026)",
+        "docket_entry_id": 475346967,
+        "docket_id": 73574916,
+        "document_number": 166,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-08-21",
+        "entry_number": 166,
+        "filepath_local": "recap/gov.uscourts.deb.201904/gov.uscourts.deb.201904.166.1.pdf",
+        "id": 494417510,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-09-21T20:25:54.634367Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-21T20:44:38.263388Z"
+        },
+        "pacer_doc_id": "042023149953",
+        "page_count": 3,
+        "short_description": "Notice",
+        "snippet": "                Case 26-11060-TMH             Doc 166-1        Filed 08/21/26       Page 1 of 3\n\n\n\n\n                             IN THE UNITED STATES BANKRUPTCY COURT\n                                  FOR THE DISTRICT OF DELAWARE\n\n                                                           Chapter 11\n    In re:\n                                                           Case No. 26-11060 (TMH)\n    Pacifica of the Valley Corporation, 1\n\n                            Debtor.\n\n                         "
+      },
+      {
+        "absolute_url": "/docket/73574916/202/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Retention and Employment of Robinson & Cole LLP as Counsel Nunc Pro Tunc to July 27, 2026 (related document(s)167, 199) Order Signed on 9/17/2026. (DRG) (Entered: 09/17/2026)",
+        "docket_entry_id": 478386620,
+        "docket_id": 73574916,
+        "document_number": 202,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-17",
+        "entry_number": 202,
+        "filepath_local": null,
+        "id": 494011110,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-17T18:04:03.108621Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-17T18:58:27.751162Z"
+        },
+        "pacer_doc_id": "042023195176",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/199/2/pacifica-of-the-valley-corporation/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Amended Certificate of No Objection Regarding the Application of Patient Care Ombudsman for Entry of Order Authorizing the Retention and Employment of Robinson & Cole LLP as Counsel Nunc Pro Tunc to July 27, 2026 (related document(s)167) Filed by Jerry Selig as Patient Care Ombudsman. (Attachments: # 1 Exhibit A # 2 Exhibit B) (Keilson, Brya) (Entered: 09/16/2026)",
+        "docket_entry_id": 478222491,
+        "docket_id": 73574916,
+        "document_number": 199,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-09-16",
+        "entry_number": 199,
+        "filepath_local": null,
+        "id": 493920627,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-17T04:06:59.379792Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-17T04:06:59.435034Z"
+        },
+        "pacer_doc_id": "042023192886",
+        "page_count": 34,
+        "short_description": "Exhibit B",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/199/1/pacifica-of-the-valley-corporation/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Amended Certificate of No Objection Regarding the Application of Patient Care Ombudsman for Entry of Order Authorizing the Retention and Employment of Robinson & Cole LLP as Counsel Nunc Pro Tunc to July 27, 2026 (related document(s)167) Filed by Jerry Selig as Patient Care Ombudsman. (Attachments: # 1 Exhibit A # 2 Exhibit B) (Keilson, Brya) (Entered: 09/16/2026)",
+        "docket_entry_id": 478222491,
+        "docket_id": 73574916,
+        "document_number": 199,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-09-16",
+        "entry_number": 199,
+        "filepath_local": null,
+        "id": 493920626,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-17T04:06:59.343754Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-17T04:06:59.418682Z"
+        },
+        "pacer_doc_id": "042023192884",
+        "page_count": 3,
+        "short_description": "Exhibit A",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/199/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Amended Certificate of No Objection Regarding the Application of Patient Care Ombudsman for Entry of Order Authorizing the Retention and Employment of Robinson & Cole LLP as Counsel Nunc Pro Tunc to July 27, 2026 (related document(s)167) Filed by Jerry Selig as Patient Care Ombudsman. (Attachments: # 1 Exhibit A # 2 Exhibit B) (Keilson, Brya) (Entered: 09/16/2026)",
+        "docket_entry_id": 478222491,
+        "docket_id": 73574916,
+        "document_number": 199,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-16",
+        "entry_number": 199,
+        "filepath_local": null,
+        "id": 493842870,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-16T18:03:58.041856Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-16T19:24:01.770126Z"
+        },
+        "pacer_doc_id": "042023192882",
+        "page_count": null,
+        "short_description": "Certificate of No Objection",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/187/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Retention and Employment of Seelig + Cussigh HCO LLC Effective July 27, 2026 (related document(s)159, 185) Order Signed on 9/9/2026. (DRG) (Entered: 09/09/2026)",
+        "docket_entry_id": 477404710,
+        "docket_id": 73574916,
+        "document_number": 187,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-09",
+        "entry_number": 187,
+        "filepath_local": null,
+        "id": 492998533,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-09T19:27:44.551006Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-09T19:35:10.943682Z"
+        },
+        "pacer_doc_id": "042023181230",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/177/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Employment and Retention of Sills Cummis & Gross P.C. as Co-Counsel for the Official Committee of Unsecured Creditors of Pacifica of the Valley Corp., Effective as of July 20, 2026 (related document(s)158, 173) Order Signed on 8/28/2026. (AMH) (Entered: 08/28/2026)",
+        "docket_entry_id": 476191554,
+        "docket_id": 73574916,
+        "document_number": 177,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-28",
+        "entry_number": 177,
+        "filepath_local": null,
+        "id": 491747561,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-28T18:33:55.168442Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-08T20:38:44.816637Z"
+        },
+        "pacer_doc_id": "042023163553",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/178/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Employment and Retention of Ice Miller LLP as Delaware Counsel to the Official Committee of Unsecured Creditors of Pacifica of the Valley Corporation, Effective as of July 20, 2026 (related document(s)154, 174) Order Signed on 8/28/2026. (AMH) (Entered: 08/28/2026)",
+        "docket_entry_id": 476191477,
+        "docket_id": 73574916,
+        "document_number": 178,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-28",
+        "entry_number": 178,
+        "filepath_local": null,
+        "id": 491747485,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-28T18:33:52.184848Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-08T20:38:44.833957Z"
+        },
+        "pacer_doc_id": "042023163562",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/174/1/pacifica-of-the-valley-corporation/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Application of the Official Committee of Unsecured Creditors of Pacifica of the Valley Corporation for Entry of an Order Authorizing the Employment and Retention of Ice Miller LLP as Delaware Counsel Effective as of July 20, 2026 (related document(s)154) Filed by Committee of Unsecured Creditors. (Attachments: # 1 Exhibit A) (Ehrmann, Andrew) (Entered: 08/27/2026)",
+        "docket_entry_id": 476068506,
+        "docket_id": 73574916,
+        "document_number": 174,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-08-27",
+        "entry_number": 174,
+        "filepath_local": null,
+        "id": 491648759,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-27T23:20:37.048409Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-08T20:38:44.640888Z"
+        },
+        "pacer_doc_id": "042023161460",
+        "page_count": 4,
+        "short_description": "Exhibit A",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/174/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Application of the Official Committee of Unsecured Creditors of Pacifica of the Valley Corporation for Entry of an Order Authorizing the Employment and Retention of Ice Miller LLP as Delaware Counsel Effective as of July 20, 2026 (related document(s)154) Filed by Committee of Unsecured Creditors. (Attachments: # 1 Exhibit A) (Ehrmann, Andrew) (Entered: 08/27/2026)",
+        "docket_entry_id": 476068506,
+        "docket_id": 73574916,
+        "document_number": 174,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-27",
+        "entry_number": 174,
+        "filepath_local": null,
+        "id": 491620342,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-27T20:33:37.218089Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-08T20:38:44.653594Z"
+        },
+        "pacer_doc_id": "042023161459",
+        "page_count": null,
+        "short_description": "Certificate of No Objection",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/169/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: Application of the Debtor for Entry of an Order Pursuant to 11 U.S.C. \u00a7\u00a7 327 and 328(a), Fed. R. Bankr. P. 2014 and 5002, and Local Rules 2014-1 and 2016-1 Authorizing Retention and Employment of Houlihan Lokey Capital, Inc. as Investment Banker to the Debtor Nunc Pro Tunc to July 29, 2026 (related document(s)166) Filed by Kurtzman Carson Consultants, LLC dba Verita Global. (Kass, Albert) (Entered: 08/24/2026)",
+        "docket_entry_id": 475622699,
+        "docket_id": 73574916,
+        "document_number": 169,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-24",
+        "entry_number": 169,
+        "filepath_local": null,
+        "id": 491161215,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-24T23:01:22.049598Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-08T20:38:44.401864Z"
+        },
+        "pacer_doc_id": "042023154600",
+        "page_count": null,
+        "short_description": "Certificate of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/166/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [
+          13150,
+          8306175
+        ],
+        "description": "Application/Motion to Employ/Retain Houlihan Lokey Capital, Inc. as Investment Banker to the Debtor Filed by Pacifica of the Valley Corporation. Hearing scheduled for 9/29/2026 at 11:00 AM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 9/4/2026. (Attachments: # 1 Notice # 2 Exhibit A-Proposed Order # 3 Exhibit B-Declaration) (Jones, Laura Davis) (Entered: 08/21/2026)",
+        "docket_entry_id": 475346967,
+        "docket_id": 73574916,
+        "document_number": 166,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-21",
+        "entry_number": 166,
+        "filepath_local": "recap/gov.uscourts.deb.201904/gov.uscourts.deb.201904.166.0.pdf",
+        "id": 490876101,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-08-21T16:02:11.920124Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-23T15:10:35.223164Z"
+        },
+        "pacer_doc_id": "042023149952",
+        "page_count": 13,
+        "short_description": "Employ/Retain - Application/Motion",
+        "snippet": "                  Case 26-11060-TMH               Doc 166        Filed 08/21/26         Page 1 of 13\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                     Chapter 11\nIn re\n                                                                     Case No. 26-11060 (TMH)\nPacifica of the Valley Corp., 1\n\n                                          Debtor.\n\n     AP"
+      },
+      {
+        "absolute_url": "/docket/73574916/122/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Retention and Employment of Berkeley Research Group, LLC to Provide a Chief Restructuring Officer and Additional Personnel for the Debtor Effective as of the Petition Date (related document(s)75, 116) Order Signed on 8/5/2026. (DRG) (Entered: 08/05/2026)",
+        "docket_entry_id": 473320692,
+        "docket_id": 73574916,
+        "document_number": 122,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-05",
+        "entry_number": 122,
+        "filepath_local": null,
+        "id": 488783691,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-05T16:05:41.435740Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-05T16:38:49.711215Z"
+        },
+        "pacer_doc_id": "042023123613",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/123/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Employment and Retention of Dentons US LLP as Counsel for the Debtor and Debtor in Possession, Effective as of the Petition Date (related document(s)72, 117) Order Signed on 8/5/2026. (DRG) (Entered: 08/05/2026)",
+        "docket_entry_id": 473320664,
+        "docket_id": 73574916,
+        "document_number": 123,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-05",
+        "entry_number": 123,
+        "filepath_local": null,
+        "id": 488783664,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-05T16:05:40.772505Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-05T16:38:49.752216Z"
+        },
+        "pacer_doc_id": "042023123633",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/125/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Debtor to Employ and Retain Kurtzman Carson Consultants, LLC dba Verita Global as Administrative Advisor Effective as of the Petition Date (related document(s)74, 119) Order Signed on 8/5/2026. (DRG) (Entered: 08/05/2026)",
+        "docket_entry_id": 473320599,
+        "docket_id": 73574916,
+        "document_number": 125,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-05",
+        "entry_number": 125,
+        "filepath_local": null,
+        "id": 488783599,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-05T16:05:39.231381Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-05T16:38:49.735641Z"
+        },
+        "pacer_doc_id": "042023123663",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/126/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Employment and Retention of Pachulski Stang Ziehl & Jones LLP as Co-Counsel for the Debtor Effective as of the Petition Date (related document(s)73, 120) Order Signed on 8/5/2026. (DRG) (Entered: 08/05/2026)",
+        "docket_entry_id": 473320575,
+        "docket_id": 73574916,
+        "document_number": 126,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-05",
+        "entry_number": 126,
+        "filepath_local": null,
+        "id": 488783577,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-05T16:05:38.612217Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-05T16:38:49.753854Z"
+        },
+        "pacer_doc_id": "042023123672",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/120/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Debtor's Application for Authorization to Employ and Retain Pachulski Stang Ziehl & Jones LLP as Co-Counsel for the Debtor Effective as of the Petition Date (related document(s)73) Filed by Pacifica of the Valley Corporation. (Attachments: # 1 Exhibit A - Proposed Order) (Jones, Laura Davis) (Entered: 08/05/2026)",
+        "docket_entry_id": 473308345,
+        "docket_id": 73574916,
+        "document_number": 120,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-05",
+        "entry_number": 120,
+        "filepath_local": null,
+        "id": 488771053,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-05T14:58:39.017445Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-05T15:04:11.194460Z"
+        },
+        "pacer_doc_id": "042023123473",
+        "page_count": null,
+        "short_description": "Certificate of No Objection",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73574916/119/pacifica-of-the-valley-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Debtor's Application to Employ and Retain Kurtzman Carson Consultants, LLC dba Verita Global as Administrative Advisor Effective as of the Petition Date (related document(s)74) Filed by Pacifica of the Valley Corporation. (Attachments: # 1 Exhibit A - Proposed Order) (Jones, Laura Davis) (Entered: 08/05/2026)",
+        "docket_entry_id": 473308344,
+        "docket_id": 73574916,
+        "document_number": 119,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-05",
+        "entry_number": 119,
+        "filepath_local": null,
+        "id": 488771052,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-05T14:58:38.958156Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-05T15:04:15.241538Z"
+        },
+        "pacer_doc_id": "042023123456",
+        "page_count": null,
+        "short_description": "Certificate of No Objection",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A73574916&description=order+AND+%28retain+OR+employ+OR+retention+OR+appoint%29"
+}

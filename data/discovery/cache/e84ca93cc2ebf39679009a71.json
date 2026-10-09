@@ -1,0 +1,545 @@
+{
+  "response": {
+    "count": 80,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xOC44NjIxMzUmcz00ODc2MTIxNTEmdD1yZCZkPTIwMjYtMTAtMDkmcD0z&description=%22first+day%22+OR+%22in+support+of+chapter+11%22+OR+%22in+support+of+the+chapter+11%22+OR+%22in+support+of+debtors%22&filed_after=01%2F01%2F2025&highlight=on&q=%22funded+debt%22+AND+chapter%3A11&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0yMi4zMDUwNjkmcz00MzE5NzU5NzEmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9MQ%3D%3D&description=%22first+day%22+OR+%22in+support+of+chapter+11%22+OR+%22in+support+of+the+chapter+11%22+OR+%22in+support+of+debtors%22&filed_after=01%2F01%2F2025&highlight=on&q=%22funded+debt%22+AND+chapter%3A11&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69700734/35/docudata-solutions-lc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Filing of <mark>First Day</mark> Hearing Presentation. Filed by DocuData Solutions, L.C. (Davidson, Timothy) (Entered: 03/04/2025)",
+        "docket_entry_id": 418184876,
+        "docket_id": 69700734,
+        "document_number": 35,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 35,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.35.0.pdf",
+        "id": 431975971,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T16:31:59.077953Z",
+          "score": {
+            "bm25": 22.305069
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052237076",
+        "page_count": 18,
+        "short_description": "Notice",
+        "snippet": "investments are extremely costly.\n\n\uf076 Significant <mark>Funded Debt</mark>: To fund their growth strategy, the Debtors\n"
+      },
+      {
+        "absolute_url": "/docket/73166168/15/gev-io-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Declaration in Support of <mark>First Day</mark> Pleadings filed by Debtor GEV IO, LLC (RE: related document(s)1 Voluntary petition (chapter 11)). (Janak, Taylre)",
+        "docket_entry_id": 460655269,
+        "docket_id": 73166168,
+        "document_number": 15,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-13",
+        "entry_number": 15,
+        "filepath_local": "recap/gov.uscourts.txnb.541113/gov.uscourts.txnb.541113.15.0.pdf",
+        "id": 475721953,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-04-14T04:31:55.790897Z",
+          "score": {
+            "bm25": 22.209024
+          },
+          "timestamp": "2026-09-10T14:32:48.550772Z"
+        },
+        "pacer_doc_id": "176052005843",
+        "page_count": 8,
+        "short_description": "Declaration",
+        "snippet": "security\n\n interest. The Debtors have no other <mark>funded debt</mark>.\n\n        8.      The Debtors do have a number"
+      },
+      {
+        "absolute_url": "/docket/73638662/11/alea-holdings-us-company/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Peter Kravitz in Support of the Debtors Chapter 11 Petitions and <mark>First Day</mark> Pleadings (Filed By Alea Holdings US Company ).(Related document(s):1 Voluntary Petition (Chapter 11), 2 Motion for Joint Administration, 3 Notice of Designation as Complex Chapter 11 Bankruptcy Case, 4 Emergency Motion, 5 Emergency Motion, 6 Emergency Motion, 7 Emergency Motion, 8 Emergency Motion, 9 Proposed Order, 10 Emergency Motion) (McFaul, Duston) (Entered: 07/19/2026)",
+        "docket_entry_id": 471368716,
+        "docket_id": 73638662,
+        "document_number": 11,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-19",
+        "entry_number": 11,
+        "filepath_local": "recap/gov.uscourts.txsb.498070/gov.uscourts.txsb.498070.11.0.pdf",
+        "id": 486771629,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-07-19T16:35:15.527466Z",
+          "score": {
+            "bm25": 22.196735
+          },
+          "timestamp": "2026-07-21T15:27:32.747462Z"
+        },
+        "pacer_doc_id": "178054782698",
+        "page_count": 37,
+        "short_description": "Declaration",
+        "snippet": "Capital Structure\n\n           18.     The Debtors\u2019 <mark>funded debt</mark> obligations consist of a $160 million secured"
+      },
+      {
+        "absolute_url": "/docket/70335865/10/broadway-realty-i-co-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Ephraim Diamond Pursuant to Local Bankruptcy Rule 1007-2 <mark>in Support of Debtors</mark> Chapter 11 Petitions and <mark>First Day</mark> Relief filed by Gary Holtzer on behalf of Broadway Realty I Co., LLC. (Holtzer, Gary) (Entered: 05/27/2025)",
+        "docket_entry_id": 426578693,
+        "docket_id": 70335865,
+        "document_number": 10,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-27",
+        "entry_number": 10,
+        "filepath_local": "recap/gov.uscourts.nysb.329376/gov.uscourts.nysb.329376.10.0.pdf",
+        "id": 440751875,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-27T18:34:02.563786Z",
+          "score": {
+            "bm25": 21.993378
+          },
+          "timestamp": "2026-06-09T14:26:50.669724Z"
+        },
+        "pacer_doc_id": "126023924650",
+        "page_count": 37,
+        "short_description": "Declaration",
+        "snippet": "has approximately $1.1 billion of\n\noutstanding <mark>funded debt</mark> obligations comprised of (i) two series of Israeli-issued"
+      },
+      {
+        "absolute_url": "/docket/69719365/18/mln-us-holdco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Declaration of Janine Yetter <mark>In Support of Chapter 11</mark> Petitions and <mark>First Day</mark> Motions (Filed By MLN US HoldCo LLC ). (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Exhibit C) (Higgins, John) (Entered: 03/10/2025)",
+        "docket_entry_id": 418745000,
+        "docket_id": 69719365,
+        "document_number": 18,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-10",
+        "entry_number": 18,
+        "filepath_local": "recap/gov.uscourts.txsb.480415/gov.uscourts.txsb.480415.18.0.pdf",
+        "id": 432566590,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-10T10:04:04.769257Z",
+          "score": {
+            "bm25": 21.901646
+          },
+          "timestamp": "2025-05-19T18:34:53.141271Z"
+        },
+        "pacer_doc_id": "178052266272",
+        "page_count": 47,
+        "short_description": "Declaration",
+        "snippet": "billion. The following table summarizes the <mark>funded\n\n    debt</mark> obligations as of the Petition Date (which"
+      },
+      {
+        "absolute_url": "/docket/71160429/14/modivcare-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Declaration of Chad J. Shandler <mark>in Support of Debtors</mark>' Chapter 11 Petitions and <mark>First Day</mark> Relief (Filed By ModivCare Inc. ). (Davidson, Timothy) (Entered: 08/20/2025)",
+        "docket_entry_id": 435352693,
+        "docket_id": 71160429,
+        "document_number": 14,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-20",
+        "entry_number": 14,
+        "filepath_local": "recap/gov.uscourts.txsb.485766/gov.uscourts.txsb.485766.14.0_1.pdf",
+        "id": 449765164,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-21T03:05:42.007727Z",
+          "score": {
+            "bm25": 21.778345
+          },
+          "timestamp": "2026-08-11T15:02:17.093862Z"
+        },
+        "pacer_doc_id": "178053046244",
+        "page_count": 225,
+        "short_description": "Declaration",
+        "snippet": "4 billion in\n\ntotal <mark>funded debt</mark> to approximately $300 million in total <mark>funded debt</mark> upon emergence. It"
+      },
+      {
+        "absolute_url": "/docket/71884150/19/pine-gate-renewables-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Ray Shem, President and Chief Financial Officer of the Debtors, <mark>in Support of the Chapter 11</mark> Petitions and <mark>First-Day</mark> Relief (Filed By Pine Gate Renewables, LLC ). (Davidson, Timothy) (Entered: 11/06/2025)",
+        "docket_entry_id": 443414743,
+        "docket_id": 71884150,
+        "document_number": 19,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-06",
+        "entry_number": 19,
+        "filepath_local": "recap/gov.uscourts.txsb.488722/gov.uscourts.txsb.488722.19.0.pdf",
+        "id": 458050473,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-11-07T02:35:12.588802Z",
+          "score": {
+            "bm25": 21.71444
+          },
+          "timestamp": "2026-09-08T21:03:09.446605Z"
+        },
+        "pacer_doc_id": "178053425592",
+        "page_count": 37,
+        "short_description": "Declaration",
+        "snippet": "billion of construction period <mark>funded debt</mark> and permanent <mark>funded debt</mark>, primarily at non-\n\nDebtor project"
+      },
+      {
+        "absolute_url": "/docket/71012535/14/agdp-holding-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Stephen Golmont <mark>in Support of Debtors</mark>' Motion for Entry of Interim and Final Orders, Pursuant to Sections 105, 361, 362, 363, 364, 503 and 507 of the Bankruptcy Code, (I) Authorizing the Debtors to Obtain Senior Secured Superpriority Postpetition Financing; (II) Granting (A) Liens and Superpriority Administrative Expense Claims and (B) Adequate Protection to Certain Prepetition Lenders; (III) Authorizing Use of Cash Collateral; (IV) Scheduling a Final Hearing; and (V) Granting Related Relief (related document(s)12) Filed by AGDP Holding Inc.. (Faris, S. Alexander) (Entered: 08/04/2025)",
+        "docket_entry_id": 433569671,
+        "docket_id": 71012535,
+        "document_number": 14,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-04",
+        "entry_number": 14,
+        "filepath_local": "recap/gov.uscourts.deb.198542/gov.uscourts.deb.198542.14.0.pdf",
+        "id": 447926245,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-04T07:04:21.989408Z",
+          "score": {
+            "bm25": 21.556921
+          },
+          "timestamp": "2026-07-24T19:03:45.677662Z"
+        },
+        "pacer_doc_id": "042022466717",
+        "page_count": 8,
+        "short_description": "Declaration",
+        "snippet": "Filed 08/04/25     Page 6 of 8\n\n\n\n\n         <mark>funded debt</mark> obligations, (ii) potential priming disputes"
+      },
+      {
+        "absolute_url": "/docket/69826539/19/hooters-of-america-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: /Declaration of Keith Maib, Chief Restructuring Officer of the Debtors, in Support of the Debtors' Chapter 11 Petitions and <mark>First Day</mark> Motions filed by Debtor Hooters of America, LLC (RE: related document(s)1 Voluntary petition (chapter 11), 2 Motion for joint administration of cases 25-80078, 25-80079, 25-80080, 25-80081, 25-80082, 25-80083, 25-80084, 25-80085, 25-80086, 25-80087, 25-80088, 25-80089, 25-80090, 25-80091, 25-80092, 25-80093, 25-80094, 25-80095, 25-80096, 25-80097, 25-80098,, 3 Notice of designation as complex chapter 11 case, 4 Motion for DIP financing. /Debtors Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain Postpetition Financing and (B) Use Cash Collateral, (II) Granting Liens and Providing Claims with Superpriority Admin, 5 Application to employ Kroll Restructuring Administration LLC as Claims Agent /Debtors Emergency Application for Appointment of Kroll Restructuring Administration LLC as Claims, Noticing, and Solicitation Agent, 6 Motion for approval of form notice. /Debtors Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) File a Consolidated Creditor Matrix, (B) File a Consolidated Top 30 Creditors List, (C) Serve Certain Parties in Interest by Email, 7 Motion to extend time to file schedules or new case deficiencies, excluding matrix, 8 Motion regarding pre or post petition contracts. /Debtors Emergency Motion for Entry of an Order (I) Authorizing Debtors to (A)Continue Prepetition Insurance Program and Satisfy Prepetition Obligations Related Thereto, (B) Renew, Amend, Supplement,, 9 Motion to pay pre-petition debt/Debtors Emergency Motion for Entry of an Order (I) Authorizing Debtors to Pay Certain Prepetition Taxes and Fees and (II) Granting Related Relief, 10 Motion regarding utilities. /Debtors Emergency Motion for Entry of an Order (I)(A) Approving Debtors Proposed Form of Adequate Assurance of Payment for Future Utility Services, (B) Approving Debtors Proposed Procedures for Resolving Adequate Assuran, 11 Motion to pay pre-petition debt/Debtors Emergency Motion for Entry of an Order (I) Authorizing Debtors to (A) Pay Prepetition Wages, Employee Benefits Obligations, and Other Compensation and (B) Continue Employee Benefits Programs and Pay Related Ad, 12 Motion to maintain bank accounts. /Debtors Emergency Motion for Entry of Interim and Final Orders (I) Authorizing Debtors to (A) Continue to Operate Their Cash Management System, (B) Honor Certain Prepetition Obligations Related Thereto, (C) Maintai, 13 Motion to pay pre-petition debt/Debtors Emergency Motion for Entry of Interim and Final Orders (I) Authorizing Debtors to Pay Certain Prepetition Claims of Critical Vendors, Section 503(b)(9) Claimants, and PACA/PASA Claimants, (II) Authorizing Bank, 14 Motion regarding pre or post petition contracts. /Debtors Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Maintain and Administer Their Existing Customer Programs and (B) Honor Their Prepetition Obligations Related Thereto, 15 Motion to reject executory contract or unexpired lease, 16 Motion to establish procedures. /Debtors Emergency Motion for Entry of an Order (I) Authorizing And Approving Procedures to Reject Executory Contracts and Unexpired Leases and (II) Granting Related Relief). (O'Neil, Holland)",
+        "docket_entry_id": 420984305,
+        "docket_id": 69826539,
+        "document_number": 19,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-01",
+        "entry_number": 19,
+        "filepath_local": "recap/gov.uscourts.txnb.526530/gov.uscourts.txnb.526530.19.0.pdf",
+        "id": 434971481,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-01T06:01:10.006205Z",
+          "score": {
+            "bm25": 21.28659
+          },
+          "timestamp": "2026-06-17T22:31:43.426693Z"
+        },
+        "pacer_doc_id": "176050295402",
+        "page_count": 27,
+        "short_description": "Declaration",
+        "snippet": "The following table summarizes the Debtors\u2019 <mark>funded debt</mark> obligations as of the\n\n Petition Date.\n\n    "
+      },
+      {
+        "absolute_url": "/docket/68074855/16/near-intelligence-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Abraham T. Han <mark>in Support of Debtors</mark>' Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Obtain Postpetition Senior Secured Financing and the Use of Cash Collateral, (II) Granting Adequate Protection, (III) Granting Liens and Superpriority Administrative Expense Claims, (IV) Modifying the Automatic Stay, (V) Scheduling a Final Hearing, and (VI) Granting Related Relief (related document(s)15) Filed by Near Intelligence, Inc.. (Reil, Shane) (Entered: 12/08/2023)",
+        "docket_entry_id": 372805397,
+        "docket_id": 68074855,
+        "document_number": 16,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2023-12-08",
+        "entry_number": 16,
+        "filepath_local": "recap/gov.uscourts.deb.191691/gov.uscourts.deb.191691.16.0.pdf",
+        "id": 380347392,
+        "is_available": true,
+        "meta": {
+          "date_created": "2023-12-09T01:02:41.618830Z",
+          "score": {
+            "bm25": 20.846972
+          },
+          "timestamp": "2026-10-08T17:44:40.881276Z"
+        },
+        "pacer_doc_id": "042021294938",
+        "page_count": 11,
+        "short_description": "Declaration",
+        "snippet": "their assets, and to address their unsustainable <mark>funded debt</mark> obligations in a manner that\n\nmaximizes value"
+      },
+      {
+        "absolute_url": "/docket/69545727/410/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [
+          561312,
+          723754,
+          736257,
+          1039771,
+          1362209,
+          1552643,
+          1806215,
+          1824699,
+          1844146,
+          1859814,
+          1863113,
+          1974411,
+          2739032,
+          4967620
+        ],
+        "description": "Motion for Leave (Motion of Debtors for Leave to File Late Reply <mark>in Support of Debtors</mark>' Bidding Procedures Motion) (related document(s)17) Filed by JOANN Inc.. Hearing scheduled for 2/14/2025 at 09:30 AM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Bidding Procedures Motion Reply) (Reilley, Patrick) (Entered: 02/13/2025)",
+        "docket_entry_id": 416501219,
+        "docket_id": 69545727,
+        "document_number": 410,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-13",
+        "entry_number": 410,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.410.2.pdf",
+        "id": 430234311,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-13T20:57:43.189782Z",
+          "score": {
+            "bm25": 20.568546
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022105420",
+        "page_count": 24,
+        "short_description": "Exhibit B - Bidding Procedures Motion Reply",
+        "snippet": "similar consultation party rights to the debtors\u2019 <mark>funded debt</mark> lenders, one of which was\n\nan affiliate of the"
+      },
+      {
+        "absolute_url": "/docket/69744209/25/brightmark-plastics-renewal-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration in Support // Declaration of Craig R. Jalbert <mark>in Support of Chapter 11</mark> Petitions and <mark>First Day</mark> Pleadings Filed by Brightmark Plastics Renewal LLC. (Ryan, Jeremy) (Entered: 03/17/2025)",
+        "docket_entry_id": 419551686,
+        "docket_id": 69744209,
+        "document_number": 25,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-17",
+        "entry_number": 25,
+        "filepath_local": "recap/gov.uscourts.deb.196147/gov.uscourts.deb.196147.25.0.pdf",
+        "id": 433479076,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-17T23:34:11.078358Z",
+          "score": {
+            "bm25": 20.410109
+          },
+          "timestamp": "2025-06-17T01:04:29.380484Z"
+        },
+        "pacer_doc_id": "042022169833",
+        "page_count": 24,
+        "short_description": "Declaration in Support",
+        "snippet": "Debtors have approximately $178 million in total\n\n<mark>funded debt</mark>. The following table depicts the Debtors\u2019 prepetition"
+      },
+      {
+        "absolute_url": "/docket/73450943/4/gohealth-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration in Support of <mark>First Day</mark> Motion Declaration of Vijay Kotte, Chief Executive Officer of GoHealth, Inc., <mark>in Support of Chapter 11</mark> Petitions, <mark>First Day</mark> Motions, and Access to Cash Collateral Filed By GoHealth, Inc. (Attachments: # 1 Exhibit A - Corporate Organizational Chart)(Jones, Laura Davis) (Entered: 06/07/2026)",
+        "docket_entry_id": 466588414,
+        "docket_id": 73450943,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-07",
+        "entry_number": 4,
+        "filepath_local": "recap/gov.uscourts.deb.201581/gov.uscourts.deb.201581.4.0_1.pdf",
+        "id": 481831405,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-06-07T23:05:18.516447Z",
+          "score": {
+            "bm25": 20.2106
+          },
+          "timestamp": "2026-06-30T20:33:16.107172Z"
+        },
+        "pacer_doc_id": "042023022885",
+        "page_count": 41,
+        "short_description": "Affidavit/Declaration in Support of First Day Motion",
+        "snippet": "interest rate more than doubling while its\n\noverall <mark>funded debt</mark> balance significantly increased.\n\n        6."
+      },
+      {
+        "absolute_url": "/docket/69744198/2/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration in Support of <mark>First Day</mark> Motion - Declaration of Stephen Coulombe <mark>in Support of Chapter 11</mark> Petitions and <mark>First Day</mark> Pleadings Filed By F21 OpCo, LLC (Magaziner, Andrew) (Entered: 03/16/2025)",
+        "docket_entry_id": 419420626,
+        "docket_id": 69744198,
+        "document_number": 2,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-16",
+        "entry_number": 2,
+        "filepath_local": "recap/gov.uscourts.deb.196144/gov.uscourts.deb.196144.2.0.pdf",
+        "id": 433342618,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-17T04:02:38.956250Z",
+          "score": {
+            "bm25": 20.169018
+          },
+          "timestamp": "2025-03-25T09:13:07.051110Z"
+        },
+        "pacer_doc_id": "042022166431",
+        "page_count": 51,
+        "short_description": "Affidavit/Declaration in Support of First Day Motion (BF)",
+        "snippet": "following table summarizes the Debtors\u2019 outstanding <mark>funded-debt</mark> obligations\n\n         as of the Petition Date:"
+      },
+      {
+        "absolute_url": "/docket/69700734/6/docudata-solutions-lc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Declaration of Randall S. Eisenberg <mark>in Support of Chapter 11</mark> Petitions and <mark>First Day</mark> Motions (Filed By DocuData Solutions, L.C. ). (Davidson, Timothy) (Entered: 03/03/2025)",
+        "docket_entry_id": 418154977,
+        "docket_id": 69700734,
+        "document_number": 6,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-03",
+        "entry_number": 6,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.6.0.pdf",
+        "id": 431945213,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T05:33:00.039785Z",
+          "score": {
+            "bm25": 19.688038
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052235396",
+        "page_count": 47,
+        "short_description": "Declaration",
+        "snippet": "approximately $1.315 billion of secured and unsecured <mark>funded debt</mark> obligations.\n\n                              "
+      },
+      {
+        "absolute_url": "/docket/71133061/69/aleon-metals-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Transcript RE: <mark>First-Day</mark> Motions Hearing held on 8/19/25 before Judge Christopher M. Lopez. Transcript is available for viewing in the Clerk's Office. Within 21 days, parties are advised to comply with privacy requirements of Fed. R. Bank. P. 9037, ensuring that certain protected information is redacted from transcripts prior to their availability on PACER. Filed by Transcript access will be restricted through 11/19/2025. (AccessTranscripts) (Entered: 08/21/2025)",
+        "docket_entry_id": 435541367,
+        "docket_id": 71133061,
+        "document_number": 69,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-21",
+        "entry_number": 69,
+        "filepath_local": "recap/gov.uscourts.txsb.485682/gov.uscourts.txsb.485682.69.0.pdf",
+        "id": 449957473,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-22T15:02:20.993936Z",
+          "score": {
+            "bm25": 19.624136
+          },
+          "timestamp": "2026-06-24T20:08:41.310349Z"
+        },
+        "pacer_doc_id": "178053052869",
+        "page_count": 50,
+        "short_description": "Transcript AND Transcript",
+        "snippet": " especially the cost of carrying all of the <mark>funded debt</mark>, has\n\n\n\n\n        ACCESS TRANSCRIPTS, LLC    "
+      },
+      {
+        "absolute_url": "/docket/71012535/13/agdp-holding-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration in Support of <mark>First Day</mark> Motion // Declaration of Gary Richards <mark>in Support of Chapter 11</mark> Petitions and <mark>First Day</mark> Pleadings Filed By AGDP Holding Inc. (Faris, S. Alexander) (Entered: 08/04/2025)",
+        "docket_entry_id": 433569672,
+        "docket_id": 71012535,
+        "document_number": 13,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-04",
+        "entry_number": 13,
+        "filepath_local": "recap/gov.uscourts.deb.198542/gov.uscourts.deb.198542.13.0.pdf",
+        "id": 447926246,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-04T07:04:22.215948Z",
+          "score": {
+            "bm25": 19.466509
+          },
+          "timestamp": "2026-07-24T19:03:45.677662Z"
+        },
+        "pacer_doc_id": "042022466714",
+        "page_count": 44,
+        "short_description": "Affidavit/Declaration in Support of First Day Motion (BF)",
+        "snippet": "secured\n\n         <mark>funded debt</mark> obligations and approximately $1,500,000 in unsecured <mark>funded debt</mark> obligations"
+      },
+      {
+        "absolute_url": "/docket/73556804/63/dish-dbs-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Objection / Crown Castle's Objection and Reservation of Rights with Respect to the DISH Wireless Debtors' Requested <mark>First Day</mark> Relief (related document(s):15 Emergency Motion (with hearing date), 16 Emergency Motion (with hearing date), 18 Emergency Motion (with hearing date)). Filed by Crown Castle (Higgins, John) (Entered: 07/01/2026)",
+        "docket_entry_id": 469455044,
+        "docket_id": 73556804,
+        "document_number": 63,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-01",
+        "entry_number": 63,
+        "filepath_local": "recap/gov.uscourts.txsb.497254/gov.uscourts.txsb.497254.63.0.pdf",
+        "id": 484793575,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-07-01T19:32:55.485636Z",
+          "score": {
+            "bm25": 19.009789
+          },
+          "timestamp": "2026-10-08T22:05:53.853516Z"
+        },
+        "pacer_doc_id": "178054683435",
+        "page_count": 15,
+        "short_description": "Objection",
+        "snippet": "those infrastructure providers, not the Debtors\u2019 <mark>funded-debt</mark> lenders,\n        Case 26-90627 Document 63 Filed"
+      },
+      {
+        "absolute_url": "/docket/73443160/62/simad-holdings-ltd/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Document re: / Declaration of Assaf Ravid, Chief Restructuring Officer of the SIMAD Debtors, in Support of the Debtors' Chapter 11 Petitions and <mark>First Day</mark> Motions (related document:1 Voluntary Petition (Chapter 11) filed by Debtor SIMAD Holdings Ltd.) filed by Michael D. Sirota on behalf of SIMAD Holdings Ltd.. (Sirota, Michael) (Entered: 06/14/2026)",
+        "docket_entry_id": 467389504,
+        "docket_id": 73443160,
+        "document_number": 62,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-14",
+        "entry_number": 62,
+        "filepath_local": "recap/gov.uscourts.njb.1143021/gov.uscourts.njb.1143021.62.0_1.pdf",
+        "id": 482652366,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-06-15T04:00:29.127435Z",
+          "score": {
+            "bm25": 18.93099
+          },
+          "timestamp": "2026-06-30T11:12:56.632444Z"
+        },
+        "pacer_doc_id": "118070986592",
+        "page_count": 15,
+        "short_description": "Document",
+        "snippet": "SIMAD Debtors would not be able to satisfy their <mark>funded debt</mark> obligations without\n\na chapter 11 filing and"
+      },
+      {
+        "absolute_url": "/docket/73673073/10/omnis-pleasants-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration in Support of <mark>First Day</mark> Motion - Declaration of David Hindman, as Chief Executive Officer of Omnis Pleasants, LLC d/b/a Pleasants Power Station, <mark>in Support of Chapter 11</mark> Petition and <mark>First Day</mark> Motions Filed By Omnis Pleasants, LLC (Magaziner, Andrew) (Entered: 07/27/2026)",
+        "docket_entry_id": 472185885,
+        "docket_id": 73673073,
+        "document_number": 10,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-27",
+        "entry_number": 10,
+        "filepath_local": "recap/gov.uscourts.deb.202016/gov.uscourts.deb.202016.10.0_1.pdf",
+        "id": 487612151,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-07-27T06:04:57.615009Z",
+          "score": {
+            "bm25": 18.862135
+          },
+          "timestamp": "2026-09-01T19:49:04.714200Z"
+        },
+        "pacer_doc_id": "042023105645",
+        "page_count": 32,
+        "short_description": "Affidavit/Declaration in Support of First Day Motion",
+        "snippet": "39.    As of the Petition Date, the Debtor\u2019s <mark>funded debt</mark> and guarantee obligations totaled\n\napproximately"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0yMi4zMDYyODImcz00MzE5NzU5NzEmdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=%22first+day%22+OR+%22in+support+of+chapter+11%22+OR+%22in+support+of+the+chapter+11%22+OR+%22in+support+of+debtors%22&filed_after=01%2F01%2F2025&highlight=on&q=%22funded+debt%22+AND+chapter%3A11&type=rd"
+}

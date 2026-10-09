@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 80,
+    "next": null,
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz05LjEwODk3OSZzPTQyNjE0NTYwOCZyPTEmdD1yZCZkPTIwMjYtMTAtMDkmcD00&description=%22first+day%22+OR+%22in+support+of+chapter+11%22+OR+%22in+support+of+the+chapter+11%22+OR+%22in+support+of+debtors%22&filed_after=01%2F01%2F2025&highlight=on&q=%22funded+debt%22+AND+chapter%3A11&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69517992/2/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration in Support of <mark>First Day</mark> Motion (Declaration of Douglas Smith, Chief Executive Officer of Ligado Networks LLC, <mark>in Support of Chapter 11</mark> Petitions and <mark>First Day</mark> Pleadings) Filed By Ligado Networks LLC (Merchant, Michael) (Entered: 01/06/2025)",
+        "docket_entry_id": 412651002,
+        "docket_id": 69517992,
+        "document_number": 2,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-01-06",
+        "entry_number": 2,
+        "filepath_local": "recap/gov.uscourts.deb.195197/gov.uscourts.deb.195197.2.0.pdf",
+        "id": 426145608,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-01-06T13:34:15.617213Z",
+          "score": {
+            "bm25": 9.108979
+          },
+          "timestamp": "2025-09-25T13:51:17.921205Z"
+        },
+        "pacer_doc_id": "042022026854",
+        "page_count": 331,
+        "short_description": "Affidavit/Declaration in Support of First Day Motion (BF)",
+        "snippet": "          % of Support for RSA\n\n            <mark>Funded Debt</mark> Obligations\n\n            Prepetition First Out"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz05LjUxNzc3OCZzPTQ0NTI1MTA3MyZ0PXJkJmQ9MjAyNi0xMC0wOSZwPTU%3D&description=%22first+day%22+OR+%22in+support+of+chapter+11%22+OR+%22in+support+of+the+chapter+11%22+OR+%22in+support+of+debtors%22&filed_after=01%2F01%2F2025&highlight=on&q=%22funded+debt%22+AND+chapter%3A11&type=rd"
+}

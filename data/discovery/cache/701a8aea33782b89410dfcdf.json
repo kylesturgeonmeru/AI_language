@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/70549975/604/at-home-group-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Exhibit(s) - Notice of Additional Engagement Letter Related to the Retention and Employment of Ernst & Young LLP as Tax Advisory Services Provider (related document(s)348) Filed by At Home Group Inc.. (Powell, Timothy) (Entered: 09/09/2025)",
+        "docket_entry_id": 437240950,
+        "docket_id": 70549975,
+        "document_number": 604,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-09-09",
+        "entry_number": 604,
+        "filepath_local": "recap/gov.uscourts.deb.197402/gov.uscourts.deb.197402.604.0_1.pdf",
+        "id": 451709474,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-09T16:31:30.954356Z",
+          "score": {
+            "bm25": 4.0
+          },
+          "timestamp": "2025-12-05T16:02:42.364270Z"
+        },
+        "pacer_doc_id": "042022543668",
+        "page_count": 19,
+        "short_description": "Exhibit",
+        "snippet": "                  Case 25-11120-JKS              Doc 604       Filed 09/09/25         Page 1 of 19\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    AT HOME GROUP INC., et al., 1                       "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A70549975+AND+document_number%3A604"
+}

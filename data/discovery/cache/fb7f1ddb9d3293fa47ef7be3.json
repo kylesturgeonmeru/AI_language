@@ -1,0 +1,1482 @@
+{
+  "response": {
+    "_shards": {
+      "failed": 0,
+      "skipped": 0,
+      "successful": 50,
+      "total": 50
+    },
+    "aggregations": {
+      "biz_states_filter": {
+        "buckets": [
+          {
+            "doc_count": 9,
+            "key": "NY"
+          },
+          {
+            "doc_count": 9,
+            "key": "WA"
+          },
+          {
+            "doc_count": 5,
+            "key": "FL"
+          },
+          {
+            "doc_count": 2,
+            "key": "CO"
+          },
+          {
+            "doc_count": 2,
+            "key": "F5"
+          },
+          {
+            "doc_count": 2,
+            "key": "UT"
+          },
+          {
+            "doc_count": 2,
+            "key": "X0"
+          },
+          {
+            "doc_count": 1,
+            "key": "L3"
+          },
+          {
+            "doc_count": 1,
+            "key": "OH"
+          },
+          {
+            "doc_count": 1,
+            "key": "TX"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "entity_filter": {
+        "buckets": [
+          {
+            "doc_count": 9,
+            "key": "AMC Corp  (CIK 0002044018)"
+          },
+          {
+            "doc_count": 9,
+            "key": "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)"
+          },
+          {
+            "doc_count": 3,
+            "key": "Rome Wildlife, Inc.  (CIK 0002136387)"
+          },
+          {
+            "doc_count": 2,
+            "key": "DOMO, INC.  (DOMO)  (CIK 0001505952)"
+          },
+          {
+            "doc_count": 2,
+            "key": "Perfect Corp.  (PERF, PERFF)  (CIK 0001899830)"
+          },
+          {
+            "doc_count": 2,
+            "key": "RE/MAX Holdings, Inc.  (RMAX)  (CIK 0001581091)"
+          },
+          {
+            "doc_count": 1,
+            "key": "AIM EQUITY FUNDS (INVESCO EQUITY FUNDS)  (CIK 0000105377)"
+          },
+          {
+            "doc_count": 1,
+            "key": "BARCLAYS PLC  (BCS, BCLYF)  (CIK 0000312069)"
+          },
+          {
+            "doc_count": 1,
+            "key": "MAGIC SOFTWARE ENTERPRISES LTD  (MGIC)  (CIK 0000876779)"
+          },
+          {
+            "doc_count": 1,
+            "key": "Matrix I.T. Ltd.  (CIK 0002093979)"
+          },
+          {
+            "doc_count": 1,
+            "key": "Mobileye Global Inc.  (MBLY)  (CIK 0001910139)"
+          },
+          {
+            "doc_count": 1,
+            "key": "PEARSON PLC  (PSO, PSORF)  (CIK 0000938323)"
+          },
+          {
+            "doc_count": 1,
+            "key": "PROCTER & GAMBLE Co  (PG)  (CIK 0000080424)"
+          },
+          {
+            "doc_count": 1,
+            "key": "Real Brokerage Inc  (CIK 0001862461)"
+          },
+          {
+            "doc_count": 1,
+            "key": "Real Brokerage Inc  (REAX)  (CIK 0001862461)"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "form_filter": {
+        "buckets": [
+          {
+            "doc_count": 10,
+            "key": "S-4"
+          },
+          {
+            "doc_count": 3,
+            "key": "424B3"
+          },
+          {
+            "doc_count": 2,
+            "key": "20-F"
+          },
+          {
+            "doc_count": 2,
+            "key": "SC 13E3"
+          },
+          {
+            "doc_count": 1,
+            "key": "425"
+          },
+          {
+            "doc_count": 1,
+            "key": "6-K"
+          },
+          {
+            "doc_count": 1,
+            "key": "8-K"
+          },
+          {
+            "doc_count": 1,
+            "key": "CB"
+          },
+          {
+            "doc_count": 1,
+            "key": "DEF 14A"
+          },
+          {
+            "doc_count": 1,
+            "key": "DEFM14A"
+          },
+          {
+            "doc_count": 1,
+            "key": "DEFM14C"
+          },
+          {
+            "doc_count": 1,
+            "key": "N-CSR"
+          },
+          {
+            "doc_count": 1,
+            "key": "PREM14C"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "sic_filter": {
+        "buckets": [
+          {
+            "doc_count": 10,
+            "key": "5700"
+          },
+          {
+            "doc_count": 6,
+            "key": "7372"
+          },
+          {
+            "doc_count": 5,
+            "key": "6531"
+          },
+          {
+            "doc_count": 1,
+            "key": "2731"
+          },
+          {
+            "doc_count": 1,
+            "key": "2840"
+          },
+          {
+            "doc_count": 1,
+            "key": "6029"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      }
+    },
+    "hits": {
+      "hits": [
+        {
+          "_id": "0001193125-26-372211:pg-20260826.htm",
+          "_index": "edgar_file",
+          "_score": 9.6195,
+          "_source": {
+            "adsh": "0001193125-26-372211",
+            "biz_locations": [
+              "Cincinnati, OH"
+            ],
+            "biz_states": [
+              "OH"
+            ],
+            "ciks": [
+              "0000080424"
+            ],
+            "display_names": [
+              "PROCTER & GAMBLE Co  (PG)  (CIK 0000080424)"
+            ],
+            "file_date": "2026-08-28",
+            "file_description": "DEF 14A",
+            "file_num": [
+              "001-00434"
+            ],
+            "file_type": "DEF 14A",
+            "film_num": [
+              "261332914"
+            ],
+            "form": "DEF 14A",
+            "inc_states": [
+              "OH"
+            ],
+            "items": [],
+            "period_ending": "2026-10-13",
+            "root_forms": [
+              "DEF 14A"
+            ],
+            "sequence": 1,
+            "sics": [
+              "2840"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-26-001672:8de4c393f8822e4.htm",
+          "_index": "edgar_file",
+          "_score": 9.467154,
+          "_source": {
+            "adsh": "0001193125-26-001672",
+            "biz_locations": [
+              "Houston, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0000105377"
+            ],
+            "display_names": [
+              "AIM EQUITY FUNDS (INVESCO EQUITY FUNDS)  (CIK 0000105377)"
+            ],
+            "file_date": "2026-01-05",
+            "file_description": "10312025 AEF NCSR",
+            "file_num": [
+              "811-01424"
+            ],
+            "file_type": "N-CSR",
+            "film_num": [
+              "26504230"
+            ],
+            "form": "N-CSR",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-10-31",
+            "root_forms": [
+              "N-CSR"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-101025:tm2623859d1_ex99-a1.htm",
+          "_index": "edgar_file",
+          "_score": 7.3440866,
+          "_source": {
+            "adsh": "0001104659-26-101025",
+            "biz_locations": [
+              "New Taipei City, F5"
+            ],
+            "biz_states": [
+              "F5"
+            ],
+            "ciks": [
+              "0001899830"
+            ],
+            "display_names": [
+              "Perfect Corp.  (PERF, PERFF)  (CIK 0001899830)"
+            ],
+            "file_date": "2026-08-26",
+            "file_description": "EXHIBIT (A)-(1)",
+            "file_num": [
+              "005-93810"
+            ],
+            "file_type": "EX-99.(A)-(1)",
+            "film_num": [
+              "261317527"
+            ],
+            "form": "SC 13E3/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "SC 13E3"
+            ],
+            "sequence": "2",
+            "sics": [
+              "7372"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-089222:tm2621676d1_ex99-a1.htm",
+          "_index": "edgar_file",
+          "_score": 7.2660904,
+          "_source": {
+            "adsh": "0001104659-26-089222",
+            "biz_locations": [
+              "New Taipei City, F5"
+            ],
+            "biz_states": [
+              "F5"
+            ],
+            "ciks": [
+              "0001899830"
+            ],
+            "display_names": [
+              "Perfect Corp.  (PERF, PERFF)  (CIK 0001899830)"
+            ],
+            "file_date": "2026-07-31",
+            "file_description": "EXHIBIT (A)-(1)",
+            "file_num": [
+              "005-93810"
+            ],
+            "file_type": "EX-99.(A)-(1)",
+            "film_num": [
+              "261228741"
+            ],
+            "form": "SC 13E3",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "SC 13E3"
+            ],
+            "sequence": "2",
+            "sics": [
+              "7372"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-082273:tm2615804-7_424b3.htm",
+          "_index": "edgar_file",
+          "_score": 5.6063194,
+          "_source": {
+            "adsh": "0001104659-26-082273",
+            "biz_locations": [
+              "Miami, FL"
+            ],
+            "biz_states": [
+              "FL"
+            ],
+            "ciks": [
+              "0002136387"
+            ],
+            "display_names": [
+              "Rome Wildlife, Inc.  (CIK 0002136387)"
+            ],
+            "file_date": "2026-07-09",
+            "file_description": "424B3",
+            "file_num": [
+              "333-296768"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "261165942"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6531"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-081350:none-20260424xs4a.htm",
+          "_index": "edgar_file",
+          "_score": 5.5458713,
+          "_source": {
+            "adsh": "0001104659-26-081350",
+            "biz_locations": [
+              "Miami, FL"
+            ],
+            "biz_states": [
+              "FL"
+            ],
+            "ciks": [
+              "0002136387"
+            ],
+            "display_names": [
+              "Rome Wildlife, Inc.  (CIK 0002136387)"
+            ],
+            "file_date": "2026-07-07",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-296768"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "261160155"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6531"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-073581:tm2615804-1_s4.htm",
+          "_index": "edgar_file",
+          "_score": 5.438419,
+          "_source": {
+            "adsh": "0001104659-26-073581",
+            "biz_locations": [
+              "Miami, FL"
+            ],
+            "biz_states": [
+              "FL"
+            ],
+            "ciks": [
+              "0002136387"
+            ],
+            "display_names": [
+              "Rome Wildlife, Inc.  (CIK 0002136387)"
+            ],
+            "file_date": "2026-06-12",
+            "file_description": "S-4",
+            "file_num": [
+              "333-296768"
+            ],
+            "file_type": "S-4",
+            "film_num": [
+              "261088002"
+            ],
+            "form": "S-4",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-082298:tm2615804-10_425.htm",
+          "_index": "edgar_file",
+          "_score": 5.438419,
+          "_source": {
+            "adsh": "0001104659-26-082298",
+            "biz_locations": [
+              "Denver, CO",
+              "Miami, FL"
+            ],
+            "biz_states": [
+              "CO",
+              "FL"
+            ],
+            "ciks": [
+              "0001581091",
+              "0001862461"
+            ],
+            "display_names": [
+              "RE/MAX Holdings, Inc.  (RMAX)  (CIK 0001581091)",
+              "Real Brokerage Inc  (CIK 0001862461)"
+            ],
+            "file_date": "2026-07-09",
+            "file_description": "425",
+            "file_num": [
+              "001-36101"
+            ],
+            "file_type": "425",
+            "film_num": [
+              "261166311"
+            ],
+            "form": "425",
+            "inc_states": [
+              "CO",
+              "A6"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "425"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6531",
+              "6531"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-082291:tm2620002-1_defm14a.htm",
+          "_index": "edgar_file",
+          "_score": 5.431055,
+          "_source": {
+            "adsh": "0001104659-26-082291",
+            "biz_locations": [
+              "Denver, CO"
+            ],
+            "biz_states": [
+              "CO"
+            ],
+            "ciks": [
+              "0001581091"
+            ],
+            "display_names": [
+              "RE/MAX Holdings, Inc.  (RMAX)  (CIK 0001581091)"
+            ],
+            "file_date": "2026-07-09",
+            "file_description": "DEFM14A",
+            "file_num": [
+              "001-36101"
+            ],
+            "file_type": "DEFM14A",
+            "film_num": [
+              "261166136"
+            ],
+            "form": "DEFM14A",
+            "inc_states": [
+              "CO"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DEFM14A"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6531"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-082445:tm2615804d9_ex99-1.htm",
+          "_index": "edgar_file",
+          "_score": 5.3928585,
+          "_source": {
+            "adsh": "0001104659-26-082445",
+            "biz_locations": [
+              "Miami, FL"
+            ],
+            "biz_states": [
+              "FL"
+            ],
+            "ciks": [
+              "0001862461"
+            ],
+            "display_names": [
+              "Real Brokerage Inc  (REAX)  (CIK 0001862461)"
+            ],
+            "file_date": "2026-07-10",
+            "file_description": "EXHIBIT 99.1",
+            "file_num": [
+              "001-40442"
+            ],
+            "file_type": "EX-99.1",
+            "film_num": [
+              "261167015"
+            ],
+            "form": "6-K",
+            "inc_states": [
+              "A6"
+            ],
+            "items": [],
+            "period_ending": "2026-07-10",
+            "root_forms": [
+              "6-K"
+            ],
+            "sequence": "2",
+            "sics": [
+              "6531"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0000950103-25-014243:dp236802_ex9901.htm",
+          "_index": "edgar_file",
+          "_score": 5.211348,
+          "_source": {
+            "adsh": "0000950103-25-014243",
+            "biz_locations": [
+              "Or Yehuda Israel, L3",
+              "Kfar Saba"
+            ],
+            "biz_states": [
+              "L3"
+            ],
+            "ciks": [
+              "0000876779",
+              "0002093979"
+            ],
+            "display_names": [
+              "MAGIC SOFTWARE ENTERPRISES LTD  (MGIC)  (CIK 0000876779)",
+              "Matrix I.T. Ltd.  (CIK 0002093979)"
+            ],
+            "file_date": "2025-11-04",
+            "file_description": "EXHIBIT 99.1",
+            "file_num": [
+              "005-41906"
+            ],
+            "file_type": "EX-99.1",
+            "film_num": [
+              "251448450"
+            ],
+            "form": "CB",
+            "inc_states": [
+              "L3",
+              "L3"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "CB"
+            ],
+            "sequence": "2",
+            "sics": [
+              "7372"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-001340:tm261864d1_ex2-1.htm",
+          "_index": "edgar_file",
+          "_score": 5.1790185,
+          "_source": {
+            "adsh": "0001104659-26-001340",
+            "biz_locations": [
+              "Jerusalem"
+            ],
+            "biz_states": [],
+            "ciks": [
+              "0001910139"
+            ],
+            "display_names": [
+              "Mobileye Global Inc.  (MBLY)  (CIK 0001910139)"
+            ],
+            "file_date": "2026-01-06",
+            "file_description": "EXHIBIT 2.1",
+            "file_num": [
+              "001-41541"
+            ],
+            "file_type": "EX-2.1",
+            "film_num": [
+              "26512083"
+            ],
+            "form": "8-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [
+              "1.01",
+              "3.02",
+              "9.01"
+            ],
+            "period_ending": "2026-01-05",
+            "root_forms": [
+              "8-K"
+            ],
+            "sequence": "2",
+            "sics": [
+              "7372"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-26-104945:d33885d20f.htm",
+          "_index": "edgar_file",
+          "_score": 4.4776864,
+          "_source": {
+            "adsh": "0001193125-26-104945",
+            "biz_locations": [
+              "London England, X0"
+            ],
+            "biz_states": [
+              "X0"
+            ],
+            "ciks": [
+              "0000938323"
+            ],
+            "display_names": [
+              "PEARSON PLC  (PSO, PSORF)  (CIK 0000938323)"
+            ],
+            "file_date": "2026-03-13",
+            "file_description": "20-F",
+            "file_num": [
+              "001-16055"
+            ],
+            "file_type": "20-F",
+            "film_num": [
+              "26749918"
+            ],
+            "form": "20-F",
+            "inc_states": [
+              "X0"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "20-F"
+            ],
+            "sequence": 1,
+            "sics": [
+              "2731"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-094949:tm2621515-1_prem14c.htm",
+          "_index": "edgar_file",
+          "_score": 3.8342505,
+          "_source": {
+            "adsh": "0001104659-26-094949",
+            "biz_locations": [
+              "American Fork, UT"
+            ],
+            "biz_states": [
+              "UT"
+            ],
+            "ciks": [
+              "0001505952"
+            ],
+            "display_names": [
+              "DOMO, INC.  (DOMO)  (CIK 0001505952)"
+            ],
+            "file_date": "2026-08-12",
+            "file_description": "PREM14C",
+            "file_num": [
+              "001-38553"
+            ],
+            "file_type": "PREM14C",
+            "film_num": [
+              "261268208"
+            ],
+            "form": "PREM14C",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2026-08-12",
+            "root_forms": [
+              "PREM14C"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7372"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-099866:tm2621515-3_defm14c.htm",
+          "_index": "edgar_file",
+          "_score": 3.7676153,
+          "_source": {
+            "adsh": "0001104659-26-099866",
+            "biz_locations": [
+              "American Fork, UT"
+            ],
+            "biz_states": [
+              "UT"
+            ],
+            "ciks": [
+              "0001505952"
+            ],
+            "display_names": [
+              "DOMO, INC.  (DOMO)  (CIK 0001505952)"
+            ],
+            "file_date": "2026-08-24",
+            "file_description": "DEFM14C",
+            "file_num": [
+              "001-38553"
+            ],
+            "file_type": "DEFM14C",
+            "film_num": [
+              "261306292"
+            ],
+            "form": "DEFM14C",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DEFM14C"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7372"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0000312069-26-000004:bcs-20251231.htm",
+          "_index": "edgar_file",
+          "_score": 2.211876,
+          "_source": {
+            "adsh": "0000312069-26-000004",
+            "biz_locations": [
+              "London, X0"
+            ],
+            "biz_states": [
+              "X0"
+            ],
+            "ciks": [
+              "0000312069"
+            ],
+            "display_names": [
+              "BARCLAYS PLC  (BCS, BCLYF)  (CIK 0000312069)"
+            ],
+            "file_date": "2026-02-10",
+            "file_description": "20-F",
+            "file_num": [
+              "001-09246"
+            ],
+            "file_type": "20-F",
+            "film_num": [
+              "26614718"
+            ],
+            "form": "20-F",
+            "inc_states": [
+              "X0"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "20-F"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6029"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-005711:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 2.0577326,
+          "_source": {
+            "adsh": "0001493152-25-005711",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-02-11",
+            "file_description": null,
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "25607545",
+              "25607546"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-016803:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.8458338,
+          "_source": {
+            "adsh": "0001641172-25-016803",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-06-27",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "251082162",
+              "251082163"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-006740:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.836235,
+          "_source": {
+            "adsh": "0001641172-25-006740",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-04-30",
+            "file_description": null,
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "25890578",
+              "25890579"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-022894:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.8324981,
+          "_source": {
+            "adsh": "0001641172-25-022894",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-08-11",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "251200103",
+              "251200104"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-024570:form-424b3.htm",
+          "_index": "edgar_file",
+          "_score": 1.8256807,
+          "_source": {
+            "adsh": "0001641172-25-024570",
+            "biz_locations": [
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "WA"
+            ],
+            "ciks": [
+              "0002044018"
+            ],
+            "display_names": [
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-08-18",
+            "file_description": "424B3",
+            "file_num": [
+              "333-283183-01"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "251227451"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-023104:form-424b3.htm",
+          "_index": "edgar_file",
+          "_score": 1.8191152,
+          "_source": {
+            "adsh": "0001641172-25-023104",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001937891"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)"
+            ],
+            "file_date": "2025-08-12",
+            "file_description": "424B3",
+            "file_num": [
+              "333-283183"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "251204017"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-006051:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.8146877,
+          "_source": {
+            "adsh": "0001641172-25-006051",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-04-25",
+            "file_description": null,
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "25869462",
+              "25869463"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-019939:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.8114152,
+          "_source": {
+            "adsh": "0001641172-25-019939",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-07-17",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "251128314",
+              "251128315"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-022054:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.8050756,
+          "_source": {
+            "adsh": "0001641172-25-022054",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-08-04",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "251180827",
+              "251180828"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-009530:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.6854868,
+          "_source": {
+            "adsh": "0001641172-25-009530",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-05-12",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "25932185",
+              "25932186"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        }
+      ],
+      "max_score": 9.6195,
+      "total": {
+        "relation": "eq",
+        "value": 26
+      }
+    },
+    "query": {
+      "_source": {
+        "exclude": [
+          "doc_text"
+        ]
+      },
+      "aggregations": {
+        "biz_states_filter": {
+          "terms": {
+            "field": "biz_states",
+            "size": 30
+          }
+        },
+        "entity_filter": {
+          "terms": {
+            "field": "display_names.raw",
+            "size": 30
+          }
+        },
+        "form_filter": {
+          "terms": {
+            "field": "root_forms",
+            "size": 30
+          }
+        },
+        "sic_filter": {
+          "terms": {
+            "field": "sics",
+            "size": 30
+          }
+        }
+      },
+      "from": 0,
+      "query": {
+        "bool": {
+          "filter": [
+            {
+              "range": {
+                "file_date": {
+                  "gte": "2025-01-01",
+                  "lte": "2026-10-09"
+                }
+              }
+            }
+          ],
+          "must": [
+            {
+              "match_phrase": {
+                "doc_text": "Copilot"
+              }
+            },
+            {
+              "match_phrase": {
+                "doc_text": "engagement letter"
+              }
+            },
+            {
+              "match_phrase": {
+                "doc_text": "restructuring"
+              }
+            }
+          ],
+          "must_not": [],
+          "should": []
+        }
+      },
+      "size": 100
+    },
+    "timed_out": false,
+    "took": 232
+  },
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Copilot%22+%22engagement+letter%22+%22restructuring%22&dateRange=custom&startdt=2025-01-01&enddt=2026-10-09&from=0"
+}

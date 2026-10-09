@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/71884150/228/1/pine-gate-renewables-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Application to <mark>Employ</mark> Latham & Watkins LLP as Bankruptcy Co-Counsel. Objections/Request for Hearing Due in 21 days. Filed by Debtor Pine Gate Renewables, LLC (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Proposed Order) (Davidson, Timothy) (Entered: 11/20/2025)",
+        "docket_entry_id": 444880448,
+        "docket_id": 71884150,
+        "document_number": 228,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-11-20",
+        "entry_number": 228,
+        "filepath_local": "recap/gov.uscourts.txsb.488722/gov.uscourts.txsb.488722.228.1.pdf",
+        "id": 461049708,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-12-05T21:08:41.314129Z",
+          "score": {
+            "bm25": 11.08886
+          },
+          "timestamp": "2026-09-08T21:03:09.446605Z"
+        },
+        "pacer_doc_id": "178053497248",
+        "page_count": 66,
+        "short_description": "Exhibit A",
+        "snippet": "accessible to the general public, and all results from <mark>AI tools</mark> will be\n             reviewed by qualified lawyers"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=%22AI+Tools%22+AND+chapter%3A11&court=deb+njb+txsb+txnb+nysb+vaeb+ganb&filed_after=01%2F01%2F2025&highlight=on&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

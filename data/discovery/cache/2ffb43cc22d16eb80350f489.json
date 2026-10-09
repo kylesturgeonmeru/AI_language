@@ -1,0 +1,139 @@
+{
+  "response": {
+    "count": 1,
+    "document_count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "assignedTo": "Thomas M. Horan",
+        "assigned_to_id": null,
+        "attorney": [
+          "Tania M. Moyron",
+          "Samuel R. Maizel",
+          "Thomas Reichert",
+          "Boris I. Mankovetskiy",
+          "Doherty Maizel",
+          "Andrew H. Sherman",
+          "Laura Davis Jones",
+          "Henry Thomas",
+          "Andrew C. Ehrmann",
+          "John Beck",
+          "Geoffrey M. Miller",
+          "Aaron H. Stulman",
+          "Hannah J McCollum",
+          "Christopher M. Samis",
+          "Albert Kass",
+          "Timothy P. Cairns"
+        ],
+        "attorney_id": [
+          13808934,
+          13846727,
+          13808936,
+          13808937,
+          13854761,
+          13854762,
+          13801484,
+          13854763,
+          13854764,
+          13854765,
+          13803089,
+          13808977,
+          13808724,
+          13808950,
+          13801278,
+          13931423
+        ],
+        "caseName": "Pacifica of the Valley Corporation",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation_string": "Bankr. D. Del.",
+        "court_id": "deb",
+        "dateArgued": null,
+        "dateFiled": "2026-07-04",
+        "dateTerminated": null,
+        "docketNumber": "26-11060",
+        "docket_absolute_url": "/docket/73574916/pacifica-of-the-valley-corporation/",
+        "docket_id": 73574916,
+        "firm": [
+          "Dentons US LLP",
+          "Thomas Reichert",
+          "Kcc LLC Dba Verita Global",
+          "Ice Miller LLP",
+          "Pachulski Stang Young & Jones LLP",
+          "Pachulski Stang Ziehl & Jones LLP"
+        ],
+        "firm_id": [
+          25761,
+          1310433,
+          63946,
+          884812,
+          63823,
+          1349424,
+          64530,
+          964501,
+          64795,
+          10239
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2026-07-04T08:01:41.251288Z",
+          "more_docs": false,
+          "score": {
+            "bm25": 49.19905
+          },
+          "timestamp": "2026-07-06T11:30:37.857765Z"
+        },
+        "pacer_case_id": "201904",
+        "party": [
+          "Pacifica of the Valley Corporation",
+          "Reliable Companies",
+          "Kurtzman Carson Consultants, LLC dba Verita Global",
+          "Committee of Unsecured Creditors",
+          "U.S. Trustee"
+        ],
+        "party_id": [
+          20155874,
+          20146614,
+          20146615,
+          20146618,
+          20227069
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/73574916/15/1/pacifica-of-the-valley-corporation/",
+            "attachment_number": 1,
+            "cites": [
+              9495663
+            ],
+            "description": "Application to Appoint Claims/<mark>Noticing Agent</mark> KURTZMAN CARSON CONSULTANTS, LLC Filed By Pacifica of the Valley Corporation (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Gershbein Declaration)(Jones, Laura Davis) (Entered: 07/07/2026)",
+            "docket_entry_id": 469907313,
+            "document_number": 15,
+            "document_type": "Attachment",
+            "entry_date_filed": "2026-07-07",
+            "entry_number": 15,
+            "filepath_local": "recap/gov.uscourts.deb.201904/gov.uscourts.deb.201904.15.1.pdf",
+            "id": 485282445,
+            "is_available": true,
+            "meta": {
+              "date_created": "2026-07-07T14:07:23.212447Z",
+              "timestamp": "2026-07-07T14:09:47.742151Z"
+            },
+            "pacer_doc_id": "042023072159",
+            "page_count": 17,
+            "short_description": "Exhibit A - Proposed Order",
+            "snippet": "ARTIFICIAL INTELLIGENCE (AI)\n\nVerita may use <mark>AI-assisted</mark> tools solely to support service delivery (e.g"
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=r&q=%22AI-assisted%22+AND+chapter%3A11&court=deb+njb+txsb+txnb+nysb+vaeb+ganb&filed_after=01%2F01%2F2025&highlight=on&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

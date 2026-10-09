@@ -221,6 +221,11 @@ def in_window(row):
     pd = row.get("petition_date")
     if not pd:
         return "unknown"
+    # Reopened cases and adversary proceedings can carry a recent dateFiled
+    # on an old case number (e.g., 17-12082), so check the case-number year too.
+    m = re.match(r"(?:\d+:)?(\d{2})-", row.get("docket_number") or "")
+    if m and 2000 + int(m.group(1)) < int(WINDOW_START[:4]):
+        return False
     return pd >= WINDOW_START and row.get("court_id") in COURTS
 
 

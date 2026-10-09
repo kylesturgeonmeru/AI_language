@@ -1,0 +1,561 @@
+{
+  "response": {
+    "count": 276,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xNi42ODg4MDcmcz00Mzg3MjYwNjcmdD1yZCZkPTIwMjYtMTAtMDkmcD0xMA%3D%3D&filed_after=01%2F01%2F2025&highlight=on&q=%22artificial+intelligence%22+AND+chapter%3A11&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xNy41NzAwNCZzPTQzNjUyNTAzNiZyPTEmdD1yZCZkPTIwMjYtMTAtMDkmcD04&filed_after=01%2F01%2F2025&highlight=on&q=%22artificial+intelligence%22+AND+chapter%3A11&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69749977/6/danimer-bioplastics-inc/",
+        "attachment_number": null,
+        "cites": [
+          1936452
+        ],
+        "description": "",
+        "docket_entry_id": 422493920,
+        "docket_id": 69749977,
+        "document_number": 6,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 6,
+        "filepath_local": "recap/gov.uscourts.deb.196204/gov.uscourts.deb.196204.6.0.pdf",
+        "id": 436525036,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T23:34:40.726904Z",
+          "score": {
+            "bm25": 17.57004
+          },
+          "timestamp": "2025-08-22T20:00:25.594652Z"
+        },
+        "pacer_doc_id": "042022229217",
+        "page_count": 68,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69744367/914/17/village-roadshow-entertainment-group-usa-inc/",
+        "attachment_number": 17,
+        "cites": [
+          106497,
+          118482,
+          223097,
+          242101,
+          391288,
+          471378,
+          538573,
+          670598,
+          781870,
+          785304,
+          1242689,
+          1485446,
+          1597541,
+          2500074,
+          2509265,
+          2509502,
+          2580671,
+          2647678,
+          2672209,
+          4303222,
+          6936173,
+          7229125,
+          7235538,
+          8699301,
+          8736152,
+          9435053,
+          9553185,
+          10516276
+        ],
+        "description": "(REDACTED) Appendix of Warner Bros. Entertainment Inc. and its Affiliates to Warner Bros.' Supplemental Objection in Connection with the Derivative Rights Sale Hearing (related document(s)910) Filed by Warner Bros. Entertainment Inc., and its Affiliates. (Attachments: # 1 Exhibit 26 # 2 Exhibit 27-29 # 3 Exhibit 30A # 4 Exhibit 30B # 5 Exhibit 31 # 6 Exhibit 32 # 7 Exhibit 33A # 8 Exhibit 33B # 9 Exhibit 34A # 10 Exhibit 34B # 11 Exhibit 35 # 12 Exhibit 36A # 13 Exhibit 36B # 14 Exhibit 36C # 15 Exhibit 36D # 16 Exhibit 37 # 17 Exhibit 38 # 18 Exhibit 39 # 19 Exhibit 40 # 20 Exhibit 41 # 21 Exhibit 42 # 22 Exhibit 43-60 # 23 Exhibit 61 # 24 Exhibit 62-64 # 25 Exhibit 65) (Sawyer, Casey) (Entered: 10/06/2025)",
+        "docket_entry_id": 440094462,
+        "docket_id": 69744367,
+        "document_number": 914,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-10-06",
+        "entry_number": 914,
+        "filepath_local": "recap/gov.uscourts.deb.196150/gov.uscourts.deb.196150.914.17.pdf",
+        "id": 454662490,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-10-07T03:13:26.077914Z",
+          "score": {
+            "bm25": 16.954737
+          },
+          "timestamp": "2025-10-16T18:47:19.404106Z"
+        },
+        "pacer_doc_id": "042022598657",
+        "page_count": 27,
+        "short_description": "Exhibit 38",
+        "snippet": "the Event, Musk employed an\n 18\n      <mark>artificial intelligence</mark> (&quot;AI&quot;)-generated image in his"
+      },
+      {
+        "absolute_url": "/docket/69749979/6/novomer-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "",
+        "docket_entry_id": 422493955,
+        "docket_id": 69749979,
+        "document_number": 6,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 6,
+        "filepath_local": "recap/gov.uscourts.deb.196202/gov.uscourts.deb.196202.6.0.pdf",
+        "id": 436525071,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T23:34:43.241438Z",
+          "score": {
+            "bm25": 16.86576
+          },
+          "timestamp": "2025-08-21T22:18:35.527715Z"
+        },
+        "pacer_doc_id": "042022229166",
+        "page_count": 66,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69700734/599/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By Exela Enterprise Solutions, Inc. ). (Davidson, Timothy) (Entered: 05/08/2025)",
+        "docket_entry_id": 424806306,
+        "docket_id": 69700734,
+        "document_number": 599,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-08",
+        "entry_number": 599,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.599.0.pdf",
+        "id": 438922458,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-08T17:05:57.233688Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052551082",
+        "page_count": 81,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/551/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By RC4 Capital, LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617761,
+        "docket_id": 69700734,
+        "document_number": 551,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 551,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.551.0.pdf",
+        "id": 438727314,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T04:03:15.503392Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542653",
+        "page_count": 72,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/553/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Novitex Intermediate, LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617759,
+        "docket_id": 69700734,
+        "document_number": 553,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 553,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.553.0.pdf",
+        "id": 438727312,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T04:03:15.381747Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542659",
+        "page_count": 72,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/555/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Recognition Mexico Holding Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617756,
+        "docket_id": 69700734,
+        "document_number": 555,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 555,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.555.0.pdf",
+        "id": 438727309,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T04:03:14.974887Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542669",
+        "page_count": 72,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/557/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By TransCentra, Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617754,
+        "docket_id": 69700734,
+        "document_number": 557,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 557,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.557.0.pdf",
+        "id": 438727307,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T04:03:14.870462Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542675",
+        "page_count": 74,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/559/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Regulus America LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617752,
+        "docket_id": 69700734,
+        "document_number": 559,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 559,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.559.0.pdf",
+        "id": 438727305,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T04:03:14.759562Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542681",
+        "page_count": 71,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/563/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Pangea Acquisitions Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617748,
+        "docket_id": 69700734,
+        "document_number": 563,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 563,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.563.0.pdf",
+        "id": 438727301,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T04:03:14.544943Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542693",
+        "page_count": 72,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/537/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By TRAC Holdings, LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617356,
+        "docket_id": 69700734,
+        "document_number": 537,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 537,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.537.0.pdf",
+        "id": 438726894,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T03:32:44.794253Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542596",
+        "page_count": 72,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/539/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Managed Care Professionals, LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617353,
+        "docket_id": 69700734,
+        "document_number": 539,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 539,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.539.0.pdf",
+        "id": 438726891,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T03:32:44.642038Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542607",
+        "page_count": 72,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/541/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Meridian Consulting Group, LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617350,
+        "docket_id": 69700734,
+        "document_number": 541,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 541,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.541.0.pdf",
+        "id": 438726888,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T03:32:44.175913Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542617",
+        "page_count": 72,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/547/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Plexus Global Finance, LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617343,
+        "docket_id": 69700734,
+        "document_number": 547,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 547,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.547.0.pdf",
+        "id": 438726881,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T03:32:43.797829Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542641",
+        "page_count": 71,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/549/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Novitex Holdings, Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424617341,
+        "docket_id": 69700734,
+        "document_number": 549,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 549,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.549.0_1.pdf",
+        "id": 438726879,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T03:32:43.700252Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542647",
+        "page_count": 72,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/519/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Exela Finance Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424616557,
+        "docket_id": 69700734,
+        "document_number": 519,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 519,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.519.0.pdf",
+        "id": 438726079,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T03:02:14.207197Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542529",
+        "page_count": 72,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/521/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By SOURCECORP, Incorporated ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424616555,
+        "docket_id": 69700734,
+        "document_number": 521,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 521,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.521.0.pdf",
+        "id": 438726077,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T03:02:14.095895Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542535",
+        "page_count": 74,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/525/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Exela RE LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424616549,
+        "docket_id": 69700734,
+        "document_number": 525,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 525,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.525.0.pdf",
+        "id": 438726071,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T03:02:13.613913Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542553",
+        "page_count": 71,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/527/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By SourceHOV Healthcare, Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424616547,
+        "docket_id": 69700734,
+        "document_number": 527,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 527,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.527.0.pdf",
+        "id": 438726069,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T03:02:13.520323Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542559",
+        "page_count": 74,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/529/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedule A/B: Property Non-Individual, Schedule D Non-Individual- Creditors Having Claims Secured by Property, Schedule E/F: Creditors Who Have Unsecured Claims Non-Individual, Schedule G Non-Individual- Executory Contracts and Unexpired Leases, Schedule H Non-Individual- Codebtors, Summary of Assets and Liabilities Schedules for Non-Individual (Filed By Kinsella Media LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424616545,
+        "docket_id": 69700734,
+        "document_number": 529,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 529,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.529.0.pdf",
+        "id": 438726067,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T03:02:13.420760Z",
+          "score": {
+            "bm25": 16.688807
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542565",
+        "page_count": 71,
+        "short_description": "Schedule A/B AND Schedule D AND Schedule E/F AND Schedule G AND Schedule H AND Summary of Assets and Liabilities Form 106Sum",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xNy43MTA1MjYmcz00NTQ2NjI0ODMmdD1yZCZkPTIwMjYtMTAtMDkmcD05&filed_after=01%2F01%2F2025&highlight=on&q=%22artificial+intelligence%22+AND+chapter%3A11&type=rd"
+}

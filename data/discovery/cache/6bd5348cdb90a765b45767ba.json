@@ -1,0 +1,538 @@
+{
+  "response": {
+    "count": 276,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0yMi42MzYxNzEmcz00MzY1MTM2OTAmdD1yZCZkPTIwMjYtMTAtMDkmcD00&filed_after=01%2F01%2F2025&highlight=on&q=%22artificial+intelligence%22+AND+chapter%3A11&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0yNS43OTQyMiZzPTQ0NDgyMzU5OCZyPTEmdD1yZCZkPTIwMjYtMTAtMDkmcD0y&filed_after=01%2F01%2F2025&highlight=on&q=%22artificial+intelligence%22+AND+chapter%3A11&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/70716560/13/my-job-matcher-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration in Support of First Day Motion -- Declaration of Robert J. Corliss in Support of Chapter 11 Petitions and First Day Pleadings Filed By My Job Matcher, Inc. (Attachments: # 1 Exhibit 1)(Waxman, Jeffrey) (Entered: 07/06/2025)",
+        "docket_entry_id": 430541161,
+        "docket_id": 70716560,
+        "document_number": 13,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-06",
+        "entry_number": 13,
+        "filepath_local": "recap/gov.uscourts.deb.197618/gov.uscourts.deb.197618.13.0.pdf",
+        "id": 444823598,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-06T21:03:21.617591Z",
+          "score": {
+            "bm25": 25.79422
+          },
+          "timestamp": "2025-07-17T19:55:19.783270Z"
+        },
+        "pacer_doc_id": "042022395742",
+        "page_count": 24,
+        "short_description": "Affidavit/Declaration in Support of First Day Motion",
+        "snippet": "through\n\ntechnological solutions, such as <mark>artificial intelligence</mark> (\u201cAI\u201d). I understand that the Company\n"
+      },
+      {
+        "absolute_url": "/docket/69615748/236/zips-car-wash-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Publication filed by Debtor Zips Car Wash, LLC (RE: related document(s)216 Order (I) Setting Bar Dates for Filing Proofs of Claim; (II) Approving the Form and Manner for Filing Proofs of Claim; and (III) Approving the Form and Manner for Filing Proofs of Claim, including Section 503(b)(9) Requests Notice of Bar Dates Filed by Debtor Zips Car Wash, LLC. The Claims Bar Date is set for April 10, 2025 at 4:00 p.m. The Governmental Bar Date is set for August 4, 2025 at 4:00 p.m. (related document 114) Entered on 3/13/2025. (Okafor, M.) Modified text on 3/13/2025 (mdo).). (Brookner, Jason)",
+        "docket_entry_id": 419623462,
+        "docket_id": 69615748,
+        "document_number": 236,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-18",
+        "entry_number": 236,
+        "filepath_local": "recap/gov.uscourts.txnb.524778/gov.uscourts.txnb.524778.236.0.pdf",
+        "id": 433553759,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-18T18:02:54.275632Z",
+          "score": {
+            "bm25": 25.732075
+          },
+          "timestamp": "2026-05-21T23:32:51.801056Z"
+        },
+        "pacer_doc_id": "176050238050",
+        "page_count": 6,
+        "short_description": "Notice (generic)",
+        "snippet": "strategist at In-            tential of <mark>artificial intelligence</mark>, or   outside the United States, double"
+      },
+      {
+        "absolute_url": "/docket/69744367/914/8/village-roadshow-entertainment-group-usa-inc/",
+        "attachment_number": 8,
+        "cites": [
+          2262232,
+          9429296
+        ],
+        "description": "(REDACTED) Appendix of Warner Bros. Entertainment Inc. and its Affiliates to Warner Bros.' Supplemental Objection in Connection with the Derivative Rights Sale Hearing (related document(s)910) Filed by Warner Bros. Entertainment Inc., and its Affiliates. (Attachments: # 1 Exhibit 26 # 2 Exhibit 27-29 # 3 Exhibit 30A # 4 Exhibit 30B # 5 Exhibit 31 # 6 Exhibit 32 # 7 Exhibit 33A # 8 Exhibit 33B # 9 Exhibit 34A # 10 Exhibit 34B # 11 Exhibit 35 # 12 Exhibit 36A # 13 Exhibit 36B # 14 Exhibit 36C # 15 Exhibit 36D # 16 Exhibit 37 # 17 Exhibit 38 # 18 Exhibit 39 # 19 Exhibit 40 # 20 Exhibit 41 # 21 Exhibit 42 # 22 Exhibit 43-60 # 23 Exhibit 61 # 24 Exhibit 62-64 # 25 Exhibit 65) (Sawyer, Casey) (Entered: 10/06/2025)",
+        "docket_entry_id": 440094462,
+        "docket_id": 69744367,
+        "document_number": 914,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-10-06",
+        "entry_number": 914,
+        "filepath_local": "recap/gov.uscourts.deb.196150/gov.uscourts.deb.196150.914.8.pdf",
+        "id": 454662481,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-10-07T03:13:25.914956Z",
+          "score": {
+            "bm25": 25.64016
+          },
+          "timestamp": "2025-10-16T18:43:13.068255Z"
+        },
+        "pacer_doc_id": "042022598648",
+        "page_count": 48,
+        "short_description": "Exhibit 33B",
+        "snippet": "partially autonomous, or even shown to employ <mark>artificial intelligence</mark> themselves in\n  21 any way. None of the"
+      },
+      {
+        "absolute_url": "/docket/69744367/914/14/village-roadshow-entertainment-group-usa-inc/",
+        "attachment_number": 14,
+        "cites": [],
+        "description": "(REDACTED) Appendix of Warner Bros. Entertainment Inc. and its Affiliates to Warner Bros.' Supplemental Objection in Connection with the Derivative Rights Sale Hearing (related document(s)910) Filed by Warner Bros. Entertainment Inc., and its Affiliates. (Attachments: # 1 Exhibit 26 # 2 Exhibit 27-29 # 3 Exhibit 30A # 4 Exhibit 30B # 5 Exhibit 31 # 6 Exhibit 32 # 7 Exhibit 33A # 8 Exhibit 33B # 9 Exhibit 34A # 10 Exhibit 34B # 11 Exhibit 35 # 12 Exhibit 36A # 13 Exhibit 36B # 14 Exhibit 36C # 15 Exhibit 36D # 16 Exhibit 37 # 17 Exhibit 38 # 18 Exhibit 39 # 19 Exhibit 40 # 20 Exhibit 41 # 21 Exhibit 42 # 22 Exhibit 43-60 # 23 Exhibit 61 # 24 Exhibit 62-64 # 25 Exhibit 65) (Sawyer, Casey) (Entered: 10/06/2025)",
+        "docket_entry_id": 440094462,
+        "docket_id": 69744367,
+        "document_number": 914,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-10-06",
+        "entry_number": 914,
+        "filepath_local": "recap/gov.uscourts.deb.196150/gov.uscourts.deb.196150.914.14.pdf",
+        "id": 454662487,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-10-07T03:13:26.036491Z",
+          "score": {
+            "bm25": 25.151968
+          },
+          "timestamp": "2025-10-16T18:45:39.963487Z"
+        },
+        "pacer_doc_id": "042022598654",
+        "page_count": 24,
+        "short_description": "Exhibit 36C",
+        "snippet": "all have especially high resonance as to <mark>artificial intelligence</mark>,\n   2 fully autonomous automotive technology"
+      },
+      {
+        "absolute_url": "/docket/69744367/914/12/village-roadshow-entertainment-group-usa-inc/",
+        "attachment_number": 12,
+        "cites": [
+          2262232
+        ],
+        "description": "(REDACTED) Appendix of Warner Bros. Entertainment Inc. and its Affiliates to Warner Bros.' Supplemental Objection in Connection with the Derivative Rights Sale Hearing (related document(s)910) Filed by Warner Bros. Entertainment Inc., and its Affiliates. (Attachments: # 1 Exhibit 26 # 2 Exhibit 27-29 # 3 Exhibit 30A # 4 Exhibit 30B # 5 Exhibit 31 # 6 Exhibit 32 # 7 Exhibit 33A # 8 Exhibit 33B # 9 Exhibit 34A # 10 Exhibit 34B # 11 Exhibit 35 # 12 Exhibit 36A # 13 Exhibit 36B # 14 Exhibit 36C # 15 Exhibit 36D # 16 Exhibit 37 # 17 Exhibit 38 # 18 Exhibit 39 # 19 Exhibit 40 # 20 Exhibit 41 # 21 Exhibit 42 # 22 Exhibit 43-60 # 23 Exhibit 61 # 24 Exhibit 62-64 # 25 Exhibit 65) (Sawyer, Casey) (Entered: 10/06/2025)",
+        "docket_entry_id": 440094462,
+        "docket_id": 69744367,
+        "document_number": 914,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-10-06",
+        "entry_number": 914,
+        "filepath_local": "recap/gov.uscourts.deb.196150/gov.uscourts.deb.196150.914.12.pdf",
+        "id": 454662485,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-10-07T03:13:26.004235Z",
+          "score": {
+            "bm25": 25.151968
+          },
+          "timestamp": "2025-10-16T18:44:39.295183Z"
+        },
+        "pacer_doc_id": "042022598652",
+        "page_count": 24,
+        "short_description": "Exhibit 36A",
+        "snippet": "26 autonomous driving capabilities and <mark>artificial intelligence</mark>.\n 27 Ill\n 28\n                         "
+      },
+      {
+        "absolute_url": "/docket/70619299/174/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed: Sch A-B, Sch D, Sch E-F, Sch G, Sch H,, Sum of Assets and Liabilities, Decl Concerning Debtors Schs,. (Military Advantage LLC, 25-11204) Filed by Zen JV, LLC. (Liu, Huiqi) (Entered: 07/15/2025)",
+        "docket_entry_id": 431526063,
+        "docket_id": 70619299,
+        "document_number": 174,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-15",
+        "entry_number": 174,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.174.0.pdf",
+        "id": 445833911,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-16T01:49:29.550208Z",
+          "score": {
+            "bm25": 25.115566
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022420826",
+        "page_count": 43,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.      <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/70619299/162/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed: Sch A-B, Sch D, Sch E-F, Sch G, Sch H,, Sum of Assets and Liabilities, Decl Concerning Debtors Schs,. (Monster Government Solutions LLC, 25-11198) Filed by Zen JV, LLC. (Liu, Huiqi) (Entered: 07/15/2025)",
+        "docket_entry_id": 431525275,
+        "docket_id": 70619299,
+        "document_number": 162,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-15",
+        "entry_number": 162,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.162.0.pdf",
+        "id": 445833105,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-16T01:28:31.956407Z",
+          "score": {
+            "bm25": 25.115566
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022420774",
+        "page_count": 41,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.      <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69749662/160/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Meredian, Inc. / Case No. 25-10522) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422482935,
+        "docket_id": 69749662,
+        "document_number": 160,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 160,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.160.0.pdf",
+        "id": 436513807,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T22:02:47.579743Z",
+          "score": {
+            "bm25": 25.104687
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022228937",
+        "page_count": 48,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69749662/162/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Danimer Scientific, L.L.C. / Case No. 25-10523) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422482870,
+        "docket_id": 69749662,
+        "document_number": 162,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 162,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.162.0.pdf",
+        "id": 436513742,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T22:02:45.735097Z",
+          "score": {
+            "bm25": 25.104687
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022228955",
+        "page_count": 48,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69749662/166/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Novomer, Inc. / Case No. 25-10525) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422482726,
+        "docket_id": 69749662,
+        "document_number": 166,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 166,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.166.0.pdf",
+        "id": 436513598,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T22:02:40.690928Z",
+          "score": {
+            "bm25": 25.104687
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022229009",
+        "page_count": 48,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69749662/154/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Meredian Holdings Group, Inc. / Case No. 25-10519) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422478015,
+        "docket_id": 69749662,
+        "document_number": 154,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 154,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.154.0.pdf",
+        "id": 436508758,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T21:32:13.176114Z",
+          "score": {
+            "bm25": 25.104687
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022228831",
+        "page_count": 48,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69749662/158/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Danimer Scientific Manufacturing, Inc. / Case No. 25-10521) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422477791,
+        "docket_id": 69749662,
+        "document_number": 158,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 158,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.158.0.pdf",
+        "id": 436508534,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T21:32:05.983534Z",
+          "score": {
+            "bm25": 25.104687
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022228908",
+        "page_count": 48,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69744367/914/7/village-roadshow-entertainment-group-usa-inc/",
+        "attachment_number": 7,
+        "cites": [
+          2262232,
+          7669012
+        ],
+        "description": "(REDACTED) Appendix of Warner Bros. Entertainment Inc. and its Affiliates to Warner Bros.' Supplemental Objection in Connection with the Derivative Rights Sale Hearing (related document(s)910) Filed by Warner Bros. Entertainment Inc., and its Affiliates. (Attachments: # 1 Exhibit 26 # 2 Exhibit 27-29 # 3 Exhibit 30A # 4 Exhibit 30B # 5 Exhibit 31 # 6 Exhibit 32 # 7 Exhibit 33A # 8 Exhibit 33B # 9 Exhibit 34A # 10 Exhibit 34B # 11 Exhibit 35 # 12 Exhibit 36A # 13 Exhibit 36B # 14 Exhibit 36C # 15 Exhibit 36D # 16 Exhibit 37 # 17 Exhibit 38 # 18 Exhibit 39 # 19 Exhibit 40 # 20 Exhibit 41 # 21 Exhibit 42 # 22 Exhibit 43-60 # 23 Exhibit 61 # 24 Exhibit 62-64 # 25 Exhibit 65) (Sawyer, Casey) (Entered: 10/06/2025)",
+        "docket_entry_id": 440094462,
+        "docket_id": 69744367,
+        "document_number": 914,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-10-06",
+        "entry_number": 914,
+        "filepath_local": "recap/gov.uscourts.deb.196150/gov.uscourts.deb.196150.914.7.pdf",
+        "id": 454662480,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-10-07T03:13:25.889183Z",
+          "score": {
+            "bm25": 24.919407
+          },
+          "timestamp": "2025-10-16T18:33:31.419821Z"
+        },
+        "pacer_doc_id": "042022598647",
+        "page_count": 36,
+        "short_description": "Exhibit 33A",
+        "snippet": "of way, Musk and Tesla\n 15 opened their <mark>artificial intelligence</mark> spell book to do it faster and more cheaply"
+      },
+      {
+        "absolute_url": "/docket/72267129/188/avenger-flight-group-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit of Publication of the Notice of Proposed Sale or Sales of the Debtors Assets, Free and Clear of all Encumbrances, Other Than Assumed Liabilities, and Scheduling Final Sale Hearing Related Thereto (related document(s)161) Filed by Kurtzman Carson Consultants, LLC dba Verita Global. (Kass, Albert) (Entered: 03/24/2026)",
+        "docket_entry_id": 458410032,
+        "docket_id": 72267129,
+        "document_number": 188,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-24",
+        "entry_number": 188,
+        "filepath_local": "recap/gov.uscourts.deb.200423/gov.uscourts.deb.200423.188.0.pdf",
+        "id": 473412971,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-03-24T22:35:33.111876Z",
+          "score": {
+            "bm25": 24.778255
+          },
+          "timestamp": "2026-08-14T16:06:34.020404Z"
+        },
+        "pacer_doc_id": "042022898853",
+        "page_count": 4,
+        "short_description": "Affidavit",
+        "snippet": "whether the new A.I. model will be\nnew <mark>artificial intelligence</mark> models      for developing new chatbots"
+      },
+      {
+        "absolute_url": "/docket/69749662/170/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Danimer Bioplastics, Inc. / Case No. 25-10527) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422487338,
+        "docket_id": 69749662,
+        "document_number": 170,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 170,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.170.0.pdf",
+        "id": 436518303,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T22:32:47.834491Z",
+          "score": {
+            "bm25": 24.20658
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022229051",
+        "page_count": 52,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69749662/168/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Meredian Bioplastics, Inc. / Case No. 25-10526) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422482627,
+        "docket_id": 69749662,
+        "document_number": 168,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 168,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.168.0.pdf",
+        "id": 436513498,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T22:02:38.080722Z",
+          "score": {
+            "bm25": 24.20658
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022229029",
+        "page_count": 50,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69749662/161/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed: Sch A-B, Sch D, Sch E-F, Sch G, Sch H,, Sum of Assets and Liabilities, Decl Concerning Debtors Schs,. (Danimer Scientific, L.L.C. / Case No. 10523) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422482890,
+        "docket_id": 69749662,
+        "document_number": 161,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 161,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.161.0.pdf",
+        "id": 436513762,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T22:02:46.505972Z",
+          "score": {
+            "bm25": 23.387033
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022228948",
+        "page_count": 40,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69749662/152/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Danimer Scientific, Inc. / 25-10518) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422470246,
+        "docket_id": 69749662,
+        "document_number": 152,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 152,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.152.0.pdf",
+        "id": 436500782,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T21:01:16.196851Z",
+          "score": {
+            "bm25": 23.387033
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022228749",
+        "page_count": 54,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/70619299/145/3/zen-jv-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain AlixPartners, LLP as Financial Advisor for the Debtors Effective as of the Petition Date Filed by Zen JV, LLC. Hearing scheduled for 8/21/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #6, Wilmington, Delaware. Objections due by 7/28/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Carlisle, Clint) (Entered: 07/14/2025)",
+        "docket_entry_id": 431377697,
+        "docket_id": 70619299,
+        "document_number": 145,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-14",
+        "entry_number": 145,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.145.3.pdf",
+        "id": 445681249,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-14T22:29:18.299296Z",
+          "score": {
+            "bm25": 23.181208
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022417084",
+        "page_count": 13,
+        "short_description": "Exhibit B",
+        "snippet": "creates specifically for the\nAlixPartners\u2019 <mark>Artificial Intelligence</mark> (AI) technologies to          Company in"
+      },
+      {
+        "absolute_url": "/docket/69749662/164/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Danimer Scientific Kentucky, Inc. / Case No. 25-10524) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422482817,
+        "docket_id": 69749662,
+        "document_number": 164,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 164,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.164.0.pdf",
+        "id": 436513690,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T22:02:43.891761Z",
+          "score": {
+            "bm25": 22.636171
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022228972",
+        "page_count": 56,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0yNi4xMzY5ODYmcz00MzEyNTEyNjgmdD1yZCZkPTIwMjYtMTAtMDkmcD0z&filed_after=01%2F01%2F2025&highlight=on&q=%22artificial+intelligence%22+AND+chapter%3A11&type=rd"
+}

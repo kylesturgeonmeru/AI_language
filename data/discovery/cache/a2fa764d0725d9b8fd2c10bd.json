@@ -1,0 +1,532 @@
+{
+  "response": {
+    "count": 276,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0yMC4zODQyMzImcz00NTIwNjMwODYmdD1yZCZkPTIwMjYtMTAtMDkmcD03&filed_after=01%2F01%2F2025&highlight=on&q=%22artificial+intelligence%22+AND+chapter%3A11&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0yMC44OTIwNDQmcz00Mzg3MjQzMzcmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9NQ%3D%3D&filed_after=01%2F01%2F2025&highlight=on&q=%22artificial+intelligence%22+AND+chapter%3A11&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69700734/498/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By Deliverex, LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424614854,
+        "docket_id": 69700734,
+        "document_number": 498,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 498,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.498.0.pdf",
+        "id": 438724337,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T02:05:41.867421Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542420",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/500/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By SIG-GP, L.L.C. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424614848,
+        "docket_id": 69700734,
+        "document_number": 500,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 500,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.500.0.pdf",
+        "id": 438724331,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T02:05:41.440323Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542435",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/484/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By BTC Ventures, Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424612787,
+        "docket_id": 69700734,
+        "document_number": 484,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 484,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.484.0.pdf",
+        "id": 438722142,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T01:04:37.349167Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542315",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/486/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By Rustic Canyon III, LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424612779,
+        "docket_id": 69700734,
+        "document_number": 486,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 486,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.486.0.pdf",
+        "id": 438722134,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T01:04:37.204470Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542321",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/488/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By Charter Lason, Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424612763,
+        "docket_id": 69700734,
+        "document_number": 488,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 488,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.488.0.pdf",
+        "id": 438722118,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T01:04:36.818508Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542333",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/492/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By Services Integration Group, L.P. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424612741,
+        "docket_id": 69700734,
+        "document_number": 492,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 492,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.492.0.pdf",
+        "id": 438722096,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T01:04:36.305410Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542369",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/476/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By Regulus West LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424611840,
+        "docket_id": 69700734,
+        "document_number": 476,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 476,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.476.0.pdf",
+        "id": 438721107,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T00:33:31.488358Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542265",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/480/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By HOV Enterprise Services, Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424611813,
+        "docket_id": 69700734,
+        "document_number": 480,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 480,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.480.0.pdf",
+        "id": 438721080,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T00:33:31.009723Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542280",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/482/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By Rust Consulting, Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424611789,
+        "docket_id": 69700734,
+        "document_number": 482,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 482,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.482.0.pdf",
+        "id": 438721056,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T00:33:30.537334Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542300",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/472/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By BancTec Intermediate Holding, Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424609915,
+        "docket_id": 69700734,
+        "document_number": 472,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 472,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.472.0.pdf",
+        "id": 438719082,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T00:03:13.041912Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542228",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/474/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By FTS Parent Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424609906,
+        "docket_id": 69700734,
+        "document_number": 474,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 474,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.474.0.pdf",
+        "id": 438719073,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-07T00:03:12.650134Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542243",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/462/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By BancTec (Puerto Rico), Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424608533,
+        "docket_id": 69700734,
+        "document_number": 462,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 462,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.462.0.pdf",
+        "id": 438717639,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-06T23:31:54.842860Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542117",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/464/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By Exela XBP, LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424608497,
+        "docket_id": 69700734,
+        "document_number": 464,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 464,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.464.0.pdf",
+        "id": 438717604,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-06T23:31:54.158933Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542129",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/466/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By Regulus Holding Inc. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424608469,
+        "docket_id": 69700734,
+        "document_number": 466,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 466,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.466.0.pdf",
+        "id": 438717578,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-06T23:31:53.713617Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542138",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/456/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By Regulus Group II LLC ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424604993,
+        "docket_id": 69700734,
+        "document_number": 456,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 456,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.456.0.pdf",
+        "id": 438714059,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-06T23:01:17.439175Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052542076",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/69700734/446/docudata-solutions-lc-and-official-commitee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Financial Affairs for Non-Individual (Filed By DocuData Solutions, L.C. ). (Davidson, Timothy) (Entered: 05/06/2025)",
+        "docket_entry_id": 424602821,
+        "docket_id": 69700734,
+        "document_number": 446,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-06",
+        "entry_number": 446,
+        "filepath_local": "recap/gov.uscourts.txsb.480218/gov.uscourts.txsb.480218.446.0.pdf",
+        "id": 438711875,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-06T22:35:36.769177Z",
+          "score": {
+            "bm25": 20.892044
+          },
+          "timestamp": "2026-08-07T20:05:54.245219Z"
+        },
+        "pacer_doc_id": "178052541989",
+        "page_count": 57,
+        "short_description": "Statement of Financial Affairs",
+        "snippet": "         thereto.\n\n       i.   Use of <mark>Artificial Intelligence</mark>. In certain situations, the Debtors and/or"
+      },
+      {
+        "absolute_url": "/docket/70619299/159/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Monster Worldwide LLC, 25-11196) Filed by Zen JV, LLC. (Liu, Huiqi) (Entered: 07/15/2025)",
+        "docket_entry_id": 431525174,
+        "docket_id": 70619299,
+        "document_number": 159,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-15",
+        "entry_number": 159,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.159.0.pdf",
+        "id": 445833003,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-16T01:22:33.109542Z",
+          "score": {
+            "bm25": 20.752533
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022420765",
+        "page_count": 74,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.      <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69749662/156/danimer-scientific-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Schedules/Statements filed:, Stmt of Financial Affairs,. (Danimer Scientific Holdings, LLC / Case No. 25-10520) Filed by Danimer Scientific, Inc.. (Milana, Matthew) (Entered: 04/15/2025)",
+        "docket_entry_id": 422477942,
+        "docket_id": 69749662,
+        "document_number": 156,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-15",
+        "entry_number": 156,
+        "filepath_local": "recap/gov.uscourts.deb.196195/gov.uscourts.deb.196195.156.0.pdf",
+        "id": 436508688,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-15T21:32:10.760030Z",
+          "score": {
+            "bm25": 20.691456
+          },
+          "timestamp": "2025-06-05T16:46:43.540166Z"
+        },
+        "pacer_doc_id": "042022228859",
+        "page_count": 64,
+        "short_description": "Schedules/Statements",
+        "snippet": "those estimates and assumptions.\n\n17.    <mark>Artificial Intelligence</mark> and/or Machine Learning Technology. In"
+      },
+      {
+        "absolute_url": "/docket/69545727/1565/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Monthly Application for Compensation (Third) of Deloitte Tax LLP for Compensation for Services Rendered and Reimbursement of Expenses Incurred as Tax Advisory Services Provider to the Debtors for the period from April 1, 2025 to April 30, 2025. Filed by JOANN Inc.. Objections due by 9/2/2025. (Attachments: # 1 Notice of Fee Application # 2 Exhibit A) (Fitzpatrick, Michael) (Entered: 08/11/2025)",
+        "docket_entry_id": 434286501,
+        "docket_id": 69545727,
+        "document_number": 1565,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-11",
+        "entry_number": 1565,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.1565.2.pdf",
+        "id": 448665287,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-11T14:30:46.761659Z",
+          "score": {
+            "bm25": 20.419611
+          },
+          "timestamp": "2025-08-12T14:21:59.491886Z"
+        },
+        "pacer_doc_id": "042022482605",
+        "page_count": 43,
+        "short_description": "Exhibit A",
+        "snippet": "Mahajan, Tanvi             Update the <mark>Artificial intelligence</mark>                 $0.00     1.0    $0.00"
+      },
+      {
+        "absolute_url": "/docket/71035961/438/claires-holdings-llc/",
+        "attachment_number": null,
+        "cites": [
+          7131826
+        ],
+        "description": "Notice of Certificate/Affidavit of Publication (Affidavit of Publication for Larnyce Tabron of the New York Times) Filed by Claire's Holdings LLC. (Carlisle, Clint) (Entered: 09/11/2025)",
+        "docket_entry_id": 437586323,
+        "docket_id": 71035961,
+        "document_number": 438,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-09-11",
+        "entry_number": 438,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.438.0.pdf",
+        "id": 452063086,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-11T23:48:17.337706Z",
+          "score": {
+            "bm25": 20.384232
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022549562",
+        "page_count": 3,
+        "short_description": "Certificate/Affidavit of Publication - Notice",
+        "snippet": "me-\nchanics first. Instead, they rely on\n<mark>artificial intelligence</mark> and software\nand have battery technology"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0yMC44OTIwNDQmcz00Mzg3MjQzNDImdD1yZCZkPTIwMjYtMTAtMDkmcD02&filed_after=01%2F01%2F2025&highlight=on&q=%22artificial+intelligence%22+AND+chapter%3A11&type=rd"
+}

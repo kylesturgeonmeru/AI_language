@@ -40,9 +40,9 @@ By AI term (a document can match several):
 
 ## Track A phase 1 (case universe)
 
-- Chapter 11 cases in window with a claims agent retention in RECAP: 153
+- Chapter 11 cases in window with a claims agent retention in RECAP: 150
 
-- deb: 87
+- deb: 84
 - njb: 20
 - txnb: 18
 - txsb: 13

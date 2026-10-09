@@ -76,13 +76,67 @@ def user_daily_used(sess):
     return None
 
 
+RANK_MANIFEST = DATA / "ranking_manifest.csv"
+RANK_FIELDS = ["recap_doc_id", "docket_id", "document_number", "description", "url", "path", "status",
+               "error", "sha256", "bytes", "pages", "expected_pages"]
+
+
+def fetch_ranking(dry_run):
+    """First-day declarations used only to rank Track A cases by funded debt.
+
+    Kyle exempted these from DOWNLOAD_CAP on 10/09/2026; they have their own
+    manifest so they never count toward it.
+    """
+    rows = {r["recap_doc_id"]: r for r in read_csv(DATA / "track_a_funded_debt.csv")}
+    manifest = {m["recap_doc_id"]: m for m in read_csv(RANK_MANIFEST)}
+    pending = [r for k, r in rows.items() if r["is_available"] == "True" and r["filepath_local"]
+               and not (k in manifest and manifest[k]["status"] == "ok" and Path(manifest[k]["path"]).exists())]
+    print(f"{len(rows)} ranking documents; {len(pending)} to fetch")
+    if dry_run:
+        return
+    sess = Session()
+    for i, r in enumerate(pending):
+        url = CL_STORAGE + r["filepath_local"]
+        path = RAW / "ranking" / r["docket_id"] / f"{r['recap_doc_id']}.pdf"
+        entry = {k: r.get(k, "") for k in RANK_FIELDS}
+        entry.update(url=url, path=str(path.relative_to(DATA.parent)), expected_pages=r["page_count"])
+        try:
+            data = sess.get(url, "cl_storage", purpose=f"ranking {r['recap_doc_id']}")
+        except SourceStopped as e:
+            print(f"Stopped: {e}")
+            break
+        except Exception as e:
+            entry.update(status="failed", error=str(e)[:200])
+            manifest[r["recap_doc_id"]] = entry
+            continue
+        pages, err = validate_pdf(data)
+        entry.update(sha256=sha256_bytes(data), bytes=len(data), pages=pages, status="failed" if err else "ok",
+                     error=err or "")
+        if err:
+            log_request(url, 200, body=data, error=f"validation: {err}", source="cl_storage",
+                        purpose=f"validate ranking {r['recap_doc_id']}")
+        else:
+            atomic_write_bytes(DATA.parent / entry["path"], data)
+        manifest[r["recap_doc_id"]] = entry
+        print(f"  [{i + 1}/{len(pending)}] {entry['status']} docket {r['docket_id']} ({pages} pp) {err or ''}")
+    write_csv(RANK_MANIFEST, sorted(manifest.values(), key=lambda m: m["recap_doc_id"]), RANK_FIELDS)
+    ok = sum(1 for m in manifest.values() if m["status"] == "ok")
+    print(f"Ranking manifest: {ok} ok, {len(manifest) - ok} failed.")
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--tracks", nargs="+", required=True)
+    ap.add_argument("--tracks", nargs="+", default=[])
+    ap.add_argument("--ranking", action="store_true",
+                    help="fetch first-day declarations for the Track A ranking (exempt from the cap)")
     ap.add_argument("--ids-file", help="CSV with a recap_doc_id column; fetch only these (curated list)")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
     require_env("COURTLISTENER_TOKEN")
+    if args.ranking:
+        return fetch_ranking(args.dry_run)
+    if not args.tracks:
+        ap.error("--tracks is required unless --ranking is given")
 
     todo = select(read_csv(DATA / "candidates.csv"), args.tracks)
     if args.ids_file:

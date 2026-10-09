@@ -223,6 +223,8 @@ def track_a_rank(sess, dockets, max_pages):
                      "document_number": r.get("document_number"),
                      "description": clean(r.get("description"))[:200],
                      "funded_debt_musd": funded_debt(snip), "snippet": snip[:600],
+                     "is_available": r.get("is_available"), "page_count": r.get("page_count"),
+                     "filepath_local": r.get("filepath_local") or "",
                      "doc_url": "https://www.courtlistener.com" + (r.get("absolute_url") or "")})
     return rows
 
@@ -309,7 +311,7 @@ DOC_FIELDS = ["track", "query", "in_window", "court_id", "case_name", "docket_nu
 CASE_FIELDS = ["docket_id", "court_id", "case_name", "docket_number", "petition_date", "chapter",
                "in_window", "in_track_a_universe", "track_b_hits", "docket_url"]
 RANK_FIELDS = ["docket_id", "recap_doc_id", "document_number", "funded_debt_musd", "description",
-               "snippet", "doc_url"]
+               "snippet", "is_available", "page_count", "filepath_local", "doc_url"]
 SEC_FIELDS = ["query", "exhibit", "form", "file_type", "file_date", "company", "file_description", "url"]
 
 

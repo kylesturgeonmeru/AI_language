@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 222,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MzM0NjY0NzAmdD1yZCZkPTIwMjYtMTAtMDkmcD02&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NDMwMjMxNjkmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9NA%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69517992/665/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Debtors' Motion for Entry of an Order (I) Authorizing Payment of Prepetition Trade Claims in the Ordinary Course and (II) Granting Certain Related Relief (related document(s)616) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit A) (Meehan, Colin) (Entered: 06/17/2025)",
+        "docket_entry_id": 428785827,
+        "docket_id": 69517992,
+        "document_number": 665,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-06-17",
+        "entry_number": 665,
+        "filepath_local": null,
+        "id": 443023169,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-06-17T20:32:55.193645Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-06-18T13:50:34.111532Z"
+        },
+        "pacer_doc_id": "042022359677",
+        "page_count": null,
+        "short_description": "Certificate of No Objection",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/660/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Supplemental Declaration of Matthew Brod in Support of the Debtors Application for Entry of an Order Authorizing the Employment and Retention of Milbank LLP as Counsel for the Debtors In Possession Effective as of the Petition Date [Docket No. 639]. Filed by Omni Agent Solutions, Inc.. (related document(s)639) (Lowry, Randy) (Entered: 06/17/2025)",
+        "docket_entry_id": 428715708,
+        "docket_id": 69517992,
+        "document_number": 660,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-06-17",
+        "entry_number": 660,
+        "filepath_local": null,
+        "id": 442949282,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-06-17T14:57:39.737909Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-06-17T15:05:16.670621Z"
+        },
+        "pacer_doc_id": "042022358372",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/639/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration in Support (Supplemental Declaration of Matthew Brod in Support of the Debtors' Application for Entry of an Order Authorizing the Employment and Retention of Milbank LLP as Counsel for the Debtors in Possession Effective as of the Petition Date) (related document(s)177) Filed by Ligado Networks LLC. (Javorsky, Zachary) (Entered: 06/09/2025)",
+        "docket_entry_id": 427953452,
+        "docket_id": 69517992,
+        "document_number": 639,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-06-09",
+        "entry_number": 639,
+        "filepath_local": null,
+        "id": 442163900,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-06-10T00:34:53.144253Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-06-11T17:23:52.205749Z"
+        },
+        "pacer_doc_id": "042022342254",
+        "page_count": null,
+        "short_description": "Declaration in Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/632/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Debtors Motion for Entry of an Order (I) Authorizing Payment of Prepetition Trade Claims in the Ordinary Course and (II) Granting Certain Related Relief [Docket No. 616]. Filed by Omni Agent Solutions, Inc.. (related document(s)616) (Lowry, Randy) (Entered: 06/06/2025)",
+        "docket_entry_id": 427724894,
+        "docket_id": 69517992,
+        "document_number": 632,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-06-06",
+        "entry_number": 632,
+        "filepath_local": null,
+        "id": 441927899,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-06-06T18:24:07.330706Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-06-07T06:14:09.438141Z"
+        },
+        "pacer_doc_id": "042022338550",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/616/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Motion to Authorize (Debtors' Motion for Entry of an Order (I) Authorizing Payment of Prepetition Trade Claims in the Ordinary Course and (II) Granting Certain Related Relief) Filed by Ligado Networks LLC. Hearing scheduled for 6/23/2025 at 02:00 PM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 6/16/2025. (Attachments: # 1 Notice # 2 Exhibit A) (Javorsky, Zachary) (Entered: 06/02/2025)",
+        "docket_entry_id": 427230749,
+        "docket_id": 69517992,
+        "document_number": 616,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-06-02",
+        "entry_number": 616,
+        "filepath_local": null,
+        "id": 441589605,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-06-04T02:57:16.976043Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-06-04T13:11:43.389368Z"
+        },
+        "pacer_doc_id": "042022329936",
+        "page_count": 6,
+        "short_description": "Exhibit A",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/616/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Motion to Authorize (Debtors' Motion for Entry of an Order (I) Authorizing Payment of Prepetition Trade Claims in the Ordinary Course and (II) Granting Certain Related Relief) Filed by Ligado Networks LLC. Hearing scheduled for 6/23/2025 at 02:00 PM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 6/16/2025. (Attachments: # 1 Notice # 2 Exhibit A) (Javorsky, Zachary) (Entered: 06/02/2025)",
+        "docket_entry_id": 427230749,
+        "docket_id": 69517992,
+        "document_number": 616,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-06-02",
+        "entry_number": 616,
+        "filepath_local": null,
+        "id": 441589604,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-06-04T02:57:16.907374Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-06-04T13:11:41.880303Z"
+        },
+        "pacer_doc_id": "042022329935",
+        "page_count": 3,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/616/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Motion to Authorize (Debtors' Motion for Entry of an Order (I) Authorizing Payment of Prepetition Trade Claims in the Ordinary Course and (II) Granting Certain Related Relief) Filed by Ligado Networks LLC. Hearing scheduled for 6/23/2025 at 02:00 PM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 6/16/2025. (Attachments: # 1 Notice # 2 Exhibit A) (Javorsky, Zachary) (Entered: 06/02/2025)",
+        "docket_entry_id": 427230749,
+        "docket_id": 69517992,
+        "document_number": 616,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-06-02",
+        "entry_number": 616,
+        "filepath_local": null,
+        "id": 441424016,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-06-02T21:04:58.028714Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:48.185582Z"
+        },
+        "pacer_doc_id": "042022329934",
+        "page_count": null,
+        "short_description": "Motion to Authorize (B)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/582/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Supplemental List of Ordinary Course Professionals (Notice of Supplement to OCP List) (related document(s)126, 176) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit A) (Javorsky, Zachary) (Entered: 05/23/2025)",
+        "docket_entry_id": 426436496,
+        "docket_id": 69517992,
+        "document_number": 582,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-23",
+        "entry_number": 582,
+        "filepath_local": null,
+        "id": 440687574,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-27T03:37:57.958410Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-27T16:05:34.954106Z"
+        },
+        "pacer_doc_id": "042022314783",
+        "page_count": 2,
+        "short_description": "Exhibit A",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/582/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Supplemental List of Ordinary Course Professionals (Notice of Supplement to OCP List) (related document(s)126, 176) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit A) (Javorsky, Zachary) (Entered: 05/23/2025)",
+        "docket_entry_id": 426436496,
+        "docket_id": 69517992,
+        "document_number": 582,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-23",
+        "entry_number": 582,
+        "filepath_local": null,
+        "id": 440605470,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-23T22:04:24.007590Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-27T16:05:34.947225Z"
+        },
+        "pacer_doc_id": "042022314782",
+        "page_count": null,
+        "short_description": "List of Ordinary Course Professionals",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/511/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Notice of Filing of Debtors First Quarterly Statement Regarding Payments Made to Ordinary Course Professionals for Services Provided During the Period of January 5, 2025 Through March 31, 2025 [Docket No. 486]. Filed by Omni Agent Solutions, Inc.. (related document(s)486) (Lowry, Randy) (Entered: 05/05/2025)",
+        "docket_entry_id": 424482403,
+        "docket_id": 69517992,
+        "document_number": 511,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-05",
+        "entry_number": 511,
+        "filepath_local": null,
+        "id": 438588316,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-06T01:01:15.358733Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-06T19:04:04.297651Z"
+        },
+        "pacer_doc_id": "042022272099",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/486/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Statement of Professionals' Compensation (Notice of Filing of Debtors' First Quarterly Statement Regarding Payments Made to Ordinary Course Professionals for Services Provided During the Period of January 5, 2025 through March 31, 2025) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit A) (Mathews, Emily) (Entered: 04/30/2025)",
+        "docket_entry_id": 423995463,
+        "docket_id": 69517992,
+        "document_number": 486,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-04-30",
+        "entry_number": 486,
+        "filepath_local": null,
+        "id": 438545431,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-05T19:35:55.873955Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-05T19:35:56.070995Z"
+        },
+        "pacer_doc_id": "042022261331",
+        "page_count": 1,
+        "short_description": "Exhibit A",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/486/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Professionals' Compensation (Notice of Filing of Debtors' First Quarterly Statement Regarding Payments Made to Ordinary Course Professionals for Services Provided During the Period of January 5, 2025 through March 31, 2025) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit A) (Mathews, Emily) (Entered: 04/30/2025)",
+        "docket_entry_id": 423995463,
+        "docket_id": 69517992,
+        "document_number": 486,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-30",
+        "entry_number": 486,
+        "filepath_local": null,
+        "id": 438077210,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-04-30T20:34:25.364427Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-04-30T21:24:50.444407Z"
+        },
+        "pacer_doc_id": "042022261330",
+        "page_count": null,
+        "short_description": "Statement of Professionals' Compensation",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/405/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: First Supplemental Declaration of John M. Conlon in Support of Debtors Application for an Order Authorizing the Retention and Employment of Mayer Brown LLP as Special Counsel for the Debtors and Debtors In Possession as of the Petition Date [Docket No. 397]. Filed by Omni Agent Solutions, Inc.. (related document(s)397) (Lowry, Randy) (Entered: 04/08/2025)",
+        "docket_entry_id": 421764306,
+        "docket_id": 69517992,
+        "document_number": 405,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-08",
+        "entry_number": 405,
+        "filepath_local": null,
+        "id": 435773893,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-04-08T21:03:53.922041Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-04-14T13:00:16.844854Z"
+        },
+        "pacer_doc_id": "042022214645",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/401/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Certification of Counsel Regarding Revised Order (I) Authorizing the Retention and Employment of PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief [Docket No. 368] and Order (I) Authorizing the Retention and Employment of PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief [Docket No. 371]. Filed by Omni Agent Solutions, Inc.. (related document(s)368, 371) (Lowry, Randy) (Entered: 04/03/2025)",
+        "docket_entry_id": 421361449,
+        "docket_id": 69517992,
+        "document_number": 401,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-03",
+        "entry_number": 401,
+        "filepath_local": null,
+        "id": 435359725,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-04-04T04:03:14.369469Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-04-14T13:00:16.748779Z"
+        },
+        "pacer_doc_id": "042022207370",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/397/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration (First Supplemental Declaration of John M. Conlon in Support of Debtors' Application for an Order Authorizing the Retention and Employment of Mayer Brown LLP as Special Counsel for the Debtors and Debtors in Possession as of the Petition Date) (related document(s)181, 252) Filed by Ligado Networks LLC. (Mathews, Emily) (Entered: 04/03/2025)",
+        "docket_entry_id": 421261705,
+        "docket_id": 69517992,
+        "document_number": 397,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-03",
+        "entry_number": 397,
+        "filepath_local": null,
+        "id": 435257399,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-04-03T15:00:47.743832Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-04-14T13:00:16.639776Z"
+        },
+        "pacer_doc_id": "042022205546",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/371/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order (I) Authorizing the Retention and Employment of PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief (related document(s)331, 368) Order Signed on 3/31/2025. (AMH) (Entered: 03/31/2025)",
+        "docket_entry_id": 420886910,
+        "docket_id": 69517992,
+        "document_number": 371,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-31",
+        "entry_number": 371,
+        "filepath_local": null,
+        "id": 434870896,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-31T16:31:36.606884Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:36.001537Z"
+        },
+        "pacer_doc_id": "042022197458",
+        "page_count": null,
+        "short_description": "Order on Application to Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/368/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order (I) Authorizing the Retention and Employment of PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief (related document(s)331) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Meehan, Colin) (Entered: 03/28/2025)",
+        "docket_entry_id": 420755185,
+        "docket_id": 69517992,
+        "document_number": 368,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-28",
+        "entry_number": 368,
+        "filepath_local": null,
+        "id": 434749039,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-28T21:38:48.203164Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-04-01T21:07:09.143326Z"
+        },
+        "pacer_doc_id": "042022194695",
+        "page_count": 7,
+        "short_description": "Exhibit 2",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/368/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order (I) Authorizing the Retention and Employment of PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief (related document(s)331) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Meehan, Colin) (Entered: 03/28/2025)",
+        "docket_entry_id": 420755185,
+        "docket_id": 69517992,
+        "document_number": 368,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-28",
+        "entry_number": 368,
+        "filepath_local": null,
+        "id": 434749036,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-28T21:38:47.917810Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-04-01T21:07:09.145942Z"
+        },
+        "pacer_doc_id": "042022194694",
+        "page_count": 7,
+        "short_description": "Exhibit 1",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/368/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order (I) Authorizing the Retention and Employment of PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief (related document(s)331) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Meehan, Colin) (Entered: 03/28/2025)",
+        "docket_entry_id": 420755185,
+        "docket_id": 69517992,
+        "document_number": 368,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-28",
+        "entry_number": 368,
+        "filepath_local": null,
+        "id": 434734936,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-28T20:31:21.074966Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:35.871309Z"
+        },
+        "pacer_doc_id": "042022194693",
+        "page_count": null,
+        "short_description": "Certification of Counsel",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/337/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Application of Debtors for Entry of an Order (I) Authorizing the Retention and Employment of PwC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief [Docket No. 331]. Filed by Omni Agent Solutions, Inc.. (related document(s)331) (Lowry, Randy) (Entered: 03/17/2025)",
+        "docket_entry_id": 419539351,
+        "docket_id": 69517992,
+        "document_number": 337,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-17",
+        "entry_number": 337,
+        "filepath_local": null,
+        "id": 433466470,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-17T22:02:36.262172Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022169514",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NDMwOTc0MDYmdD1yZCZkPTIwMjYtMTAtMDkmcD01&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd"
+}

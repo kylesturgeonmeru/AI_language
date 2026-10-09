@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 222,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MzA3NTMyMTcmdD1yZCZkPTIwMjYtMTAtMDkmcD05&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MzA4MDI2NTYmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9Nw%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69517992/251/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing Retention of FTI Consulting, Inc. as Financial Advisor for the Debtors (related document(s)185, 240) Order Signed on 2/20/2025. (AMH) (Entered: 02/20/2025)",
+        "docket_entry_id": 417050669,
+        "docket_id": 69517992,
+        "document_number": 251,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-20",
+        "entry_number": 251,
+        "filepath_local": null,
+        "id": 430802656,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T17:32:30.610679Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:30.076093Z"
+        },
+        "pacer_doc_id": "042022117964",
+        "page_count": null,
+        "short_description": "Order on Application to Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/249/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Employment and Retention of Milbank LLP as Counsel for the Debtors and Debtors in Possession Effective as of the Petition Date (related document(s)177, 238) Order Signed on 2/20/2025. (DRG) (Entered: 02/20/2025)",
+        "docket_entry_id": 417030537,
+        "docket_id": 69517992,
+        "document_number": 249,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-20",
+        "entry_number": 249,
+        "filepath_local": null,
+        "id": 430781024,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T15:30:59.143463Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:29.972533Z"
+        },
+        "pacer_doc_id": "042022117548",
+        "page_count": null,
+        "short_description": "Order on Application to Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/250/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order (I) Authorizing the Retention and Employment of Richards, Layton & Finger, P.A. as Co-Counsel to the Debtors Effective as of the Petition Date and (II) Granting Related Relief (related document(s)178) Filed by Ligado Networks LLC. (Mathews, Emily) (Entered: 02/19/2025) (related document(s)178, 239) Order Signed on 2/20/2025. (DRG) (Entered: 02/20/2025)",
+        "docket_entry_id": 417030517,
+        "docket_id": 69517992,
+        "document_number": 250,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-20",
+        "entry_number": 250,
+        "filepath_local": null,
+        "id": 430781003,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T15:30:58.648462Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:30.017733Z"
+        },
+        "pacer_doc_id": "042022117562",
+        "page_count": null,
+        "short_description": "Order on Application to Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/242/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing Employment and Retention of Omni Agent Solutions, Inc. as Administrative Agent Effective as of the Petition Date (related document(s)186) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417003534,
+        "docket_id": 69517992,
+        "document_number": 242,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 242,
+        "filepath_local": null,
+        "id": 430761261,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:31:17.168405Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117020",
+        "page_count": 5,
+        "short_description": "Exhibit 2",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/242/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing Employment and Retention of Omni Agent Solutions, Inc. as Administrative Agent Effective as of the Petition Date (related document(s)186) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417003534,
+        "docket_id": 69517992,
+        "document_number": 242,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 242,
+        "filepath_local": null,
+        "id": 430761260,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:31:17.089024Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117019",
+        "page_count": 5,
+        "short_description": "Exhibit 1",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/241/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing the Retention and Employment of Mayer Brown LLP as Special Counsel for the Debtors and Debtors in Possession as of the Petition Date (related document(s)181) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417001953,
+        "docket_id": 69517992,
+        "document_number": 241,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 241,
+        "filepath_local": null,
+        "id": 430761207,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:29:11.732043Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117003",
+        "page_count": 22,
+        "short_description": "Exhibit 2",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/241/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing the Retention and Employment of Mayer Brown LLP as Special Counsel for the Debtors and Debtors in Possession as of the Petition Date (related document(s)181) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417001953,
+        "docket_id": 69517992,
+        "document_number": 241,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 241,
+        "filepath_local": null,
+        "id": 430761206,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:29:11.663243Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117002",
+        "page_count": 22,
+        "short_description": "Exhibit 1",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/240/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing Retention of FTI Consulting, Inc. as Financial Advisor for the Debtors (related document(s)185) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417001957,
+        "docket_id": 69517992,
+        "document_number": 240,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 240,
+        "filepath_local": null,
+        "id": 430761200,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:27:15.880693Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022116998",
+        "page_count": 6,
+        "short_description": "Exhibit 2",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/240/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing Retention of FTI Consulting, Inc. as Financial Advisor for the Debtors (related document(s)185) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417001957,
+        "docket_id": 69517992,
+        "document_number": 240,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 240,
+        "filepath_local": null,
+        "id": 430761199,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:27:15.860823Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022116997",
+        "page_count": 4,
+        "short_description": "Exhibit 1",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/243/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing the Retention and Employment of Paul, Weiss, Rifkind, Wharton & Garrison LLP as Special Litigation Counsel for the Debtors and Debtors in Possession as of the Petition Date (related document(s)184) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417003495,
+        "docket_id": 69517992,
+        "document_number": 243,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 243,
+        "filepath_local": null,
+        "id": 430761141,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:25:04.238784Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117033",
+        "page_count": 14,
+        "short_description": "Exhibit 2",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/243/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing the Retention and Employment of Paul, Weiss, Rifkind, Wharton & Garrison LLP as Special Litigation Counsel for the Debtors and Debtors in Possession as of the Petition Date (related document(s)184) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417003495,
+        "docket_id": 69517992,
+        "document_number": 243,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 243,
+        "filepath_local": null,
+        "id": 430761139,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:25:04.216870Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117032",
+        "page_count": 14,
+        "short_description": "Exhibit 1",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/244/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing Employment and Retention of Perella Weinberg Partners LP as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date (related document(s)179) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417005636,
+        "docket_id": 69517992,
+        "document_number": 244,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 244,
+        "filepath_local": null,
+        "id": 430760981,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:19:52.187051Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117045",
+        "page_count": 25,
+        "short_description": "Exhibit 2",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/244/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing Employment and Retention of Perella Weinberg Partners LP as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date (related document(s)179) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417005636,
+        "docket_id": 69517992,
+        "document_number": 244,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 244,
+        "filepath_local": null,
+        "id": 430760980,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:19:52.147240Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117044",
+        "page_count": 25,
+        "short_description": "Exhibit 1",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/245/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing the Retention and Employment of Selendy Gay as Special Litigation Counsel for the Debtors and Debtors in Possession as of the Petition Date (related document(s)180) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417005630,
+        "docket_id": 69517992,
+        "document_number": 245,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 245,
+        "filepath_local": null,
+        "id": 430760867,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:18:43.859975Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117053",
+        "page_count": 16,
+        "short_description": "Exhibit 2",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/245/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing the Retention and Employment of Selendy Gay as Special Litigation Counsel for the Debtors and Debtors in Possession as of the Petition Date (related document(s)180) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417005630,
+        "docket_id": 69517992,
+        "document_number": 245,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 245,
+        "filepath_local": null,
+        "id": 430760866,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T04:18:43.812514Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117052",
+        "page_count": 16,
+        "short_description": "Exhibit 1",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/246/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration in Support of Employment of Arnold & Porter as Professional Utilized in Ordinary Course of Business (related document(s)126, 176) Filed by Ligado Networks LLC. (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417006491,
+        "docket_id": 69517992,
+        "document_number": 246,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 246,
+        "filepath_local": null,
+        "id": 430756264,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T02:01:40.975042Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117093",
+        "page_count": null,
+        "short_description": "Declaration in Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/247/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration in Support of Employment of Lerman Senter PLLC as Professional Utilized in Ordinary Course of Business (related document(s)126, 176) Filed by Ligado Networks LLC. (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417006486,
+        "docket_id": 69517992,
+        "document_number": 247,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 247,
+        "filepath_local": null,
+        "id": 430756259,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T02:01:40.825843Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022117100",
+        "page_count": null,
+        "short_description": "Declaration in Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/244/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing Employment and Retention of Perella Weinberg Partners LP as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date (related document(s)179) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417005636,
+        "docket_id": 69517992,
+        "document_number": 244,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 244,
+        "filepath_local": null,
+        "id": 430755396,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T01:31:05.295738Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:29.750304Z"
+        },
+        "pacer_doc_id": "042022117043",
+        "page_count": null,
+        "short_description": "Certification of Counsel",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/245/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing the Retention and Employment of Selendy Gay as Special Litigation Counsel for the Debtors and Debtors in Possession as of the Petition Date (related document(s)180) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417005630,
+        "docket_id": 69517992,
+        "document_number": 245,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 245,
+        "filepath_local": null,
+        "id": 430755390,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T01:31:05.011733Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:29.790915Z"
+        },
+        "pacer_doc_id": "042022117051",
+        "page_count": null,
+        "short_description": "Certification of Counsel",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/242/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Revised Order Authorizing Employment and Retention of Omni Agent Solutions, Inc. as Administrative Agent Effective as of the Petition Date (related document(s)186) Filed by Ligado Networks LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Mathews, Emily) (Entered: 02/19/2025)",
+        "docket_entry_id": 417003534,
+        "docket_id": 69517992,
+        "document_number": 242,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 242,
+        "filepath_local": null,
+        "id": 430753217,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-02-20T01:05:34.604080Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:29.643742Z"
+        },
+        "pacer_doc_id": "042022117018",
+        "page_count": null,
+        "short_description": "Certification of Counsel",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MzA4MDcxODUmdD1yZCZkPTIwMjYtMTAtMDkmcD04&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd"
+}

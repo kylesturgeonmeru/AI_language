@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 222,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MzE3NDM3MTgmdD1yZCZkPTIwMjYtMTAtMDkmcD03&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MzMxOTE1OTkmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9NQ%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69517992/335/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Hearing (Re-Notice of Application and Hearing re: Application of Debtors for Entry of an Order (I) Authorizing the Retention and Employment of PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief) (related document(s)331) Filed by Ligado Networks LLC. Hearing scheduled for 4/28/2025 at 02:00 PM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 3/27/2025. (Steele, Amanda) (Entered: 03/14/2025)",
+        "docket_entry_id": 419274222,
+        "docket_id": 69517992,
+        "document_number": 335,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-14",
+        "entry_number": 335,
+        "filepath_local": null,
+        "id": 433191599,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-14T13:31:41.688599Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:34.082011Z"
+        },
+        "pacer_doc_id": "042022163117",
+        "page_count": null,
+        "short_description": "Notice of Hearing (B)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/331/4/ligado-networks-llc/",
+        "attachment_number": 4,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief Filed by Ligado Networks LLC. Objections due by 3/27/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Steele, Amanda) (Entered: 03/13/2025)",
+        "docket_entry_id": 419234512,
+        "docket_id": 69517992,
+        "document_number": 331,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-13",
+        "entry_number": 331,
+        "filepath_local": null,
+        "id": 433160854,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-14T03:50:21.680778Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022162592",
+        "page_count": 34,
+        "short_description": "Exhibit C",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/331/3/ligado-networks-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief Filed by Ligado Networks LLC. Objections due by 3/27/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Steele, Amanda) (Entered: 03/13/2025)",
+        "docket_entry_id": 419234512,
+        "docket_id": 69517992,
+        "document_number": 331,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-13",
+        "entry_number": 331,
+        "filepath_local": null,
+        "id": 433160853,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-14T03:50:21.573470Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022162591",
+        "page_count": 39,
+        "short_description": "Exhibit B",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/331/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief Filed by Ligado Networks LLC. Objections due by 3/27/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Steele, Amanda) (Entered: 03/13/2025)",
+        "docket_entry_id": 419234512,
+        "docket_id": 69517992,
+        "document_number": 331,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-13",
+        "entry_number": 331,
+        "filepath_local": null,
+        "id": 433160852,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-14T03:50:21.565438Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022162590",
+        "page_count": 7,
+        "short_description": "Exhibit A",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/331/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief Filed by Ligado Networks LLC. Objections due by 3/27/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Steele, Amanda) (Entered: 03/13/2025)",
+        "docket_entry_id": 419234512,
+        "docket_id": 69517992,
+        "document_number": 331,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-13",
+        "entry_number": 331,
+        "filepath_local": null,
+        "id": 433160851,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-14T03:50:21.544657Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022162589",
+        "page_count": 3,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/331/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain PWC US Business Advisory LLP as Bankruptcy Transaction Advisory Services Provider to the Debtors Effective as of February 11, 2025 and (II) Granting Related Relief Filed by Ligado Networks LLC. Objections due by 3/27/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Steele, Amanda) (Entered: 03/13/2025)",
+        "docket_entry_id": 419234512,
+        "docket_id": 69517992,
+        "document_number": 331,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-13",
+        "entry_number": 331,
+        "filepath_local": null,
+        "id": 433146036,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-13T23:04:53.629597Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:33.883828Z"
+        },
+        "pacer_doc_id": "042022162588",
+        "page_count": null,
+        "short_description": "Application/Motion to Employ (B)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/326/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Declaration in Support of Employment of Cleary Gottlieb Steen & Hamilton LLP as Professional Utilized in Ordinary Course of Business [Docket No. 310] and Declaration in Support of Employment of Munger, Tolles & Olson LLP as Professional Utilized in Ordinary Course of Business [Docket No. 311]. Filed by Omni Agent Solutions, Inc.. (related document(s)310, 311) (Lowry, Randy) (Entered: 03/10/2025)",
+        "docket_entry_id": 418863940,
+        "docket_id": 69517992,
+        "document_number": 326,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-10",
+        "entry_number": 326,
+        "filepath_local": null,
+        "id": 432693285,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-11T03:01:16.674418Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022154813",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/327/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Declaration in Support of Employment of Michael Best & Friedrich, LLP as Professional Utilized in Ordinary Course of Business [Docket No. 314]. Filed by Omni Agent Solutions, Inc.. (related document(s)314) (Lowry, Randy) (Entered: 03/10/2025)",
+        "docket_entry_id": 418863938,
+        "docket_id": 69517992,
+        "document_number": 327,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-10",
+        "entry_number": 327,
+        "filepath_local": null,
+        "id": 432693282,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-11T03:01:16.565937Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022154816",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/320/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Declaration in Support of Employment of Stewart McKelvey as Professional Utilized in Ordinary Course of Business [Docket No. 294], Declaration in Support of Employment of Greenberg Traurig, LLP as Professional Utilized in Ordinary Course of Business [Docket No. 295], Declaration in Support of Employment of Pillsbury Winthrop Shaw Pittman LLP as Professional Utilized in Ordinary Course of Business [Docket No. 296]. Filed by Omni Agent Solutions, Inc.. (related document(s)294, 295, 296) (Lowry, Randy) (Entered: 03/07/2025)",
+        "docket_entry_id": 418677903,
+        "docket_id": 69517992,
+        "document_number": 320,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-07",
+        "entry_number": 320,
+        "filepath_local": null,
+        "id": 432489945,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-08T04:03:44.488299Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022151284",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/318/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Declaration in Support of Employment of Dentons Canada LLP as Professional Utilized in Ordinary Course of Business [Docket No. 298]. Filed by Omni Agent Solutions, Inc.. (related document(s)298) (Lowry, Randy) (Entered: 03/06/2025)",
+        "docket_entry_id": 418549022,
+        "docket_id": 69517992,
+        "document_number": 318,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-06",
+        "entry_number": 318,
+        "filepath_local": null,
+        "id": 432356494,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-07T05:02:27.032939Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022148536",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/311/2/ligado-networks-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Declaration in Support of Employment of Munger, Tolles & Olson LLP as Professional Utilized in Ordinary Course of Business (related document(s)176) Filed by Ligado Networks LLC. (Attachments: # 1 Schedule 1 # 2 Schedule 2) (Mathews, Emily) (Entered: 03/05/2025)",
+        "docket_entry_id": 418355300,
+        "docket_id": 69517992,
+        "document_number": 311,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-05",
+        "entry_number": 311,
+        "filepath_local": null,
+        "id": 432206247,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-06T04:18:50.030256Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022145571",
+        "page_count": 5,
+        "short_description": "Schedule 2",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/311/1/ligado-networks-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Declaration in Support of Employment of Munger, Tolles & Olson LLP as Professional Utilized in Ordinary Course of Business (related document(s)176) Filed by Ligado Networks LLC. (Attachments: # 1 Schedule 1 # 2 Schedule 2) (Mathews, Emily) (Entered: 03/05/2025)",
+        "docket_entry_id": 418355300,
+        "docket_id": 69517992,
+        "document_number": 311,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-05",
+        "entry_number": 311,
+        "filepath_local": null,
+        "id": 432206246,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-06T04:18:50.009461Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022145570",
+        "page_count": 21,
+        "short_description": "Schedule 1",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/314/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration in Support of Employment of Michael Best & Friedrich, LLP as Professional Utilized in Ordinary Course of Business (related document(s)126, 176) Filed by Ligado Networks LLC. (Mathews, Emily) (Entered: 03/05/2025)",
+        "docket_entry_id": 418394340,
+        "docket_id": 69517992,
+        "document_number": 314,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-05",
+        "entry_number": 314,
+        "filepath_local": null,
+        "id": 432196832,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-06T00:35:57.029158Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022146216",
+        "page_count": null,
+        "short_description": "Declaration in Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/313/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Declaration in Support of Employment of the Lenzner Firm as Professional Utilized in Ordinary Course of Business [Docket No. 271]. Filed by Omni Agent Solutions, Inc.. (related document(s)271) (Lowry, Randy) (Entered: 03/05/2025)",
+        "docket_entry_id": 418380067,
+        "docket_id": 69517992,
+        "document_number": 313,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-05",
+        "entry_number": 313,
+        "filepath_local": null,
+        "id": 432181285,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-05T22:33:07.003938Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022145950",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/310/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration in Support of Employment of Cleary Gottlieb Steen & Hamilton LLP as Professional Utilized in Ordinary Course of Business (related document(s)176) Filed by Ligado Networks LLC. (Mathews, Emily) (Entered: 03/05/2025)",
+        "docket_entry_id": 418355328,
+        "docket_id": 69517992,
+        "document_number": 310,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-05",
+        "entry_number": 310,
+        "filepath_local": null,
+        "id": 432156100,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-05T20:35:49.462122Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022145542",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/311/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration in Support of Employment of Munger, Tolles & Olson LLP as Professional Utilized in Ordinary Course of Business (related document(s)176) Filed by Ligado Networks LLC. (Attachments: # 1 Schedule 1 # 2 Schedule 2) (Mathews, Emily) (Entered: 03/05/2025)",
+        "docket_entry_id": 418355300,
+        "docket_id": 69517992,
+        "document_number": 311,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-05",
+        "entry_number": 311,
+        "filepath_local": null,
+        "id": 432156073,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-05T20:35:48.895417Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022145569",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/302/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Certification of Counsel Regarding Revised Order Authorizing the Retention and Employment of Ernst & Young LLP as Provider of (I) Audit Services and (II) Tax Services to the Debtors and Debtors In Possession Effective as of the Petition Date [Docket No. 259] and Order Authorizing the Retention and Employment of Ernst & Young LLP as Provider of (I) Audit Services and (II) Tax Services to the Debtors and Debtors In Possession Effective as of the Petition Date [Docket No. 260]. Filed by Omni Agent Solutions, Inc.. (related document(s)259, 260) (Lowry, Randy) (Entered: 03/04/2025)",
+        "docket_entry_id": 418274427,
+        "docket_id": 69517992,
+        "document_number": 302,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 302,
+        "filepath_local": null,
+        "id": 432072861,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-05T04:01:29.755719Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022144080",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/304/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Declaration in Support of Employment of Covington & Burling LLP as Professional Utilized in the Ordinary Course of Business [Docket No. 266]. Filed by Omni Agent Solutions, Inc.. (related document(s)266) (Lowry, Randy) (Entered: 03/04/2025)",
+        "docket_entry_id": 418274425,
+        "docket_id": 69517992,
+        "document_number": 304,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 304,
+        "filepath_local": null,
+        "id": 432072859,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-05T04:01:29.633083Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022144086",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/298/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration in Support of Employment of Dentons Canada LLP as Professional Utilized in Ordinary Course of Business (related document(s)126, 176) Filed by Ligado Networks LLC. (Mathews, Emily) (Entered: 03/03/2025)",
+        "docket_entry_id": 418069094,
+        "docket_id": 69517992,
+        "document_number": 298,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-03",
+        "entry_number": 298,
+        "filepath_local": null,
+        "id": 431856946,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-03T17:31:53.312280Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022140056",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/294/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration in Support of Employment of Stewart McKelvey as Professional Utilized in Ordinary Course of Business (related document(s)126, 176) Filed by Ligado Networks LLC. (Mathews, Emily) (Entered: 02/28/2025)",
+        "docket_entry_id": 417960511,
+        "docket_id": 69517992,
+        "document_number": 294,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-28",
+        "entry_number": 294,
+        "filepath_local": null,
+        "id": 431743718,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-01T01:03:24.475587Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022137800",
+        "page_count": null,
+        "short_description": "Declaration in Support",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MzM0NjY0NzAmdD1yZCZkPTIwMjYtMTAtMDkmcD02&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd"
+}

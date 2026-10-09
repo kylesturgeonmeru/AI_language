@@ -147,7 +147,10 @@ def _cl_wait_seconds(http):
         margin = CL_MARGIN.get(row["window_seconds"], 0)
         if row["remaining"] > margin:
             continue
-        secs = (datetime.fromisoformat(row["reset_at"]) - now).total_seconds() + 1
+        if not row.get("reset_at"):  # the endpoint sometimes omits it; wait out the window
+            secs = float(row["window_seconds"])
+        else:
+            secs = (datetime.fromisoformat(row["reset_at"]) - now).total_seconds() + 1
         if row["window_seconds"] >= 86400:
             return None
         wait = max(wait, secs)

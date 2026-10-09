@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 41,
+    "next": null,
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NjgwMjg4ODkmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9Mg%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A72247921&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/72247921/5/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Motion for an Order Authorizing Debtor to Retain a Claims and Noticing Agent Filed by Michael D. Sirota on behalf of Eddie Bauer LLC.. (Sirota, Michael) (Entered: 02/09/2026)",
+        "docket_entry_id": 453143911,
+        "docket_id": 72247921,
+        "document_number": 5,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-09",
+        "entry_number": 5,
+        "filepath_local": null,
+        "id": 468028889,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-09T11:01:32.719292Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-09T12:21:33.294652Z"
+        },
+        "pacer_doc_id": "118070257128",
+        "page_count": null,
+        "short_description": "Retain Claims and Noticing Agent",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NjgwMzMxMzEmdD1yZCZkPTIwMjYtMTAtMDkmcD0z&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A72247921&type=rd"
+}

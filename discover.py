@@ -384,11 +384,14 @@ def main():
     ap.add_argument("--track-a-top", type=int, default=10,
                     help="census size for Track A phase 2 (approved 10/09/2026: top 10)")
     ap.add_argument("--census-max-pages", type=int, default=25)
+    ap.add_argument("--max-wait", type=int, default=3700,
+                    help="longest pause (seconds) for a rate window before stopping; use a small value "
+                         "to rebuild outputs from cache without waiting")
     args = ap.parse_args()
     require_env("COURTLISTENER_TOKEN", "SEC_USER_AGENT")
 
     # Every stage runs every time; pages already fetched come from cache.
-    sess = Session()
+    sess = Session(max_wait=args.max_wait)
     dockets, docs, universe, sec_rows, rank_rows, census, stopped = {}, [], set(), [], [], [], ""
     try:
         track_b(sess, dockets, docs, args.max_pages)

@@ -1,0 +1,62 @@
+{
+  "response": {
+    "count": 222,
+    "next": null,
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MjYzODU1MzMmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9MTE%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69517992/97/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order (I) Authorizing and Approving the Appointment of Omni Agent Solutions, Inc. as Claims and Noticing Agent and (II) Granting Related Relief (related document(s)18) Order Signed on 1/7/2025. (AMH) (Entered: 01/07/2025)",
+        "docket_entry_id": 412841161,
+        "docket_id": 69517992,
+        "document_number": 97,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-01-07",
+        "entry_number": 97,
+        "filepath_local": null,
+        "id": 426385533,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-01-07T20:34:55.339807Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-24T17:27:57.323137Z"
+        },
+        "pacer_doc_id": "042022030236",
+        "page_count": null,
+        "short_description": "Application to Appoint Claims/Noticing Agent",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69517992/18/ligado-networks-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Appoint Claims/Noticing Agent OMNI AGENT SOLUTIONS Filed By Ligado Networks LLC (Steele, Amanda) (Entered: 01/06/2025)",
+        "docket_entry_id": 412656818,
+        "docket_id": 69517992,
+        "document_number": 18,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-01-06",
+        "entry_number": 18,
+        "filepath_local": null,
+        "id": 426157579,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-01-06T15:00:50.955496Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-09-25T13:51:18.966574Z"
+        },
+        "pacer_doc_id": "042022027034",
+        "page_count": null,
+        "short_description": "Application to Appoint Claims/Noticing Agent (BF)",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MjY2NTQxNjImdD1yZCZkPTIwMjYtMTAtMDkmcD0xMg%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69517992&type=rd"
+}

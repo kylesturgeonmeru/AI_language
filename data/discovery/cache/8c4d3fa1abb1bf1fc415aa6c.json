@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 39,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00OTI4ODQ3MzkmdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A73739399&type=rd",
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/73739399/365/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit / Certificate of Publication of USA TODAY of the Notice of Deadlines for Filing Proofs of Claim filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)337 Notice (generic)). (Mailloux, Kathryn)",
+        "docket_entry_id": 480864990,
+        "docket_id": 73739399,
+        "document_number": 365,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-10-07",
+        "entry_number": 365,
+        "filepath_local": null,
+        "id": 496582108,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-10-07T21:34:19.648027Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:44.145482Z"
+        },
+        "pacer_doc_id": "176052922354",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/358/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Debtors Motion for Entry of an Order Establishing Procedures for Interim Compensation and Reimbursement of Expenses for Professionals, Debtors Motion for Entry of an Order (I) Authorizing the Retention and Compensation of Certain Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)351 Motion to establish procedures for Interim Compensation and Reimbursement of Expenses for Professionals. Debtors' Motion for Entry of an Order Establishing Procedures for Interim Compensation and Reimbursement of Expenses for Professionals, 352 Application to employ Certain Professionals Utilized in the Ordinary Course of Business as Other Professional Debtors' Motion for Entry of an Order (I) Authorizing the Retention and Compensation of Certain Professionals Utilized in the Ordinary). (Mailloux, Kathryn)",
+        "docket_entry_id": 480310299,
+        "docket_id": 73739399,
+        "document_number": 358,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-10-02",
+        "entry_number": 358,
+        "filepath_local": null,
+        "id": 496010520,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-10-02T17:03:01.198729Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:43.879750Z"
+        },
+        "pacer_doc_id": "176052897439",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/357/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Notice of Deadlines for Filing Proofs of Claim filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)337 Notice (generic)). (Mailloux, Kathryn)",
+        "docket_entry_id": 480305320,
+        "docket_id": 73739399,
+        "document_number": 357,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-10-02",
+        "entry_number": 357,
+        "filepath_local": null,
+        "id": 496005477,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-10-02T16:32:06.397891Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:43.867741Z"
+        },
+        "pacer_doc_id": "176052897404",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/353/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Debtors Amended Witness and Exhibit List for September 28, 2026 Hearings, Notice of Approved Interim Budget, Notice of Revised Proposed Order Granting the Debtors DIP Financing Motion filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)316 List (witness/exhibit/generic), 318 Notice (generic), 321 Notice (generic)). (Mailloux, Kathryn)",
+        "docket_entry_id": 479963353,
+        "docket_id": 73739399,
+        "document_number": 353,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-30",
+        "entry_number": 353,
+        "filepath_local": null,
+        "id": 495651065,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-30T18:34:45.272715Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:43.751745Z"
+        },
+        "pacer_doc_id": "176052883498",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/352/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to employ Certain Professionals Utilized in the Ordinary Course of Business as Other Professional Debtors' Motion for Entry of an Order (I) Authorizing the Retention and Compensation of Certain Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief Filed by Debtor Signal National LLC (Brookner, Jason)",
+        "docket_entry_id": 479940548,
+        "docket_id": 73739399,
+        "document_number": 352,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-30",
+        "entry_number": 352,
+        "filepath_local": null,
+        "id": 495627701,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-30T17:00:49.089456Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:43.711280Z"
+        },
+        "pacer_doc_id": "176052882816",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/338/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to employ Kane Russell Coleman Logan PC as Attorney Official Committee of Unsecured Creditors' Application for Entry of an Order Authorizing the Retention and Employment of Kane Russell Coleman Logan PC as Co-Counsel for the Official Committee of Unsecured Creditors, Effective as of August 28, 2026 Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Kane Declaration # 3 Exhibit C - Committee Chair Declaration) (DaBera, JaKayla)",
+        "docket_entry_id": 479693665,
+        "docket_id": 73739399,
+        "document_number": 338,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-28",
+        "entry_number": 338,
+        "filepath_local": null,
+        "id": 495363959,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-28T22:35:27.678564Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:43.143655Z"
+        },
+        "pacer_doc_id": "176052872206",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/339/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to employ Alvarez & Marsal North America, LLC as Financial Advisor Application of the Official Committee of Unsecured Creditors for Entry of an Order Authorizing the Employment and Retention of Alvarez & Marsal North America, LLC as Financial Advisor Effective as of August 28, 2026 Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Newman Declaration) (DaBera, JaKayla)",
+        "docket_entry_id": 479693578,
+        "docket_id": 73739399,
+        "document_number": 339,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-28",
+        "entry_number": 339,
+        "filepath_local": null,
+        "id": 495363867,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-28T22:35:23.002713Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:43.162863Z"
+        },
+        "pacer_doc_id": "176052872274",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/334/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Debtors Witness and Exhibit List for September 28, 2026 Hearings, Declaration of Anna Phillips in Support of Final Approval of DIP Financing by Leadenhall Capital Partners LLP, and Amended Supplemental Declaration of Mark Shapiro in Support of Final Approval of DIP Financing by Leadenhall Capital Partners LLP filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)304 List (witness/exhibit/generic), 309 Declaration, 310 Declaration). (Mailloux, Kathryn)",
+        "docket_entry_id": 479626710,
+        "docket_id": 73739399,
+        "document_number": 334,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-28",
+        "entry_number": 334,
+        "filepath_local": null,
+        "id": 495291516,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-28T17:04:28.224447Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:42.999500Z"
+        },
+        "pacer_doc_id": "176052868976",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/323/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to employ Brown Rudnick LLP as Attorney Application for Order Authorizing the Employment and Retention of Brown Rudnick LLP as Co-Counsel for the Official Committee of Unsecured Creditors of Signal National LLC, et al., Nunc Pro Tunc to August 26, 2026 Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 A Proposed Order # 2 B Silverberg Declaration # 3 C Committee Chair Declaration) (DaBera, JaKayla)",
+        "docket_entry_id": 479508126,
+        "docket_id": 73739399,
+        "document_number": 323,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-25",
+        "entry_number": 323,
+        "filepath_local": null,
+        "id": 495161244,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-26T01:04:31.612794Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:42.733712Z"
+        },
+        "pacer_doc_id": "176052863933",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/282/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Supplemental Notice of Chapter 11 Bankruptcy Case filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)228 Order (jntadmn-LEAD) (granting)). (Mailloux, Kathryn)",
+        "docket_entry_id": 478981820,
+        "docket_id": 73739399,
+        "document_number": 282,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-22",
+        "entry_number": 282,
+        "filepath_local": null,
+        "id": 494619423,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-22T20:05:15.888121Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:41.040869Z"
+        },
+        "pacer_doc_id": "176052845303",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/277/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Debtors Witness and Exhibit List for September 16, 2026 Hearing, Agenda for Hearing on September 16, 2026, at 10:30 a.m. Central Time filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)235 List (witness/exhibit/generic), 236 Agenda for Complex Chapter 11). (Mailloux, Kathryn)",
+        "docket_entry_id": 478962008,
+        "docket_id": 73739399,
+        "document_number": 277,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-22",
+        "entry_number": 277,
+        "filepath_local": null,
+        "id": 494599306,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-22T18:35:08.391371Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:40.862365Z"
+        },
+        "pacer_doc_id": "176052844520",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/279/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Debtors Emergency Motion for Entry of an Order (I) Setting Bar Dates for Filing Proofs of Claim, (II) Approving Notice Procedures for Bar Dates, and (III) Granting Related Relief, Notice of Hearing filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)261 Motion for approval of form notice. Debtors' Emergency Motion for Entry of an Order (I) Setting Bar Dates for Filing Proofs of Claim, (II) Approving Notice Procedures for Bar Dates, and (III) Granting Related Relief, 262 Notice of hearing). (Mailloux, Kathryn)",
+        "docket_entry_id": 478961715,
+        "docket_id": 73739399,
+        "document_number": 279,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-22",
+        "entry_number": 279,
+        "filepath_local": null,
+        "id": 494599014,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-22T18:34:57.732987Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:40.881034Z"
+        },
+        "pacer_doc_id": "176052844641",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/247/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Notice of Selection of DIP Lender filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)229 Notice (generic)). (Mailloux, Kathryn)",
+        "docket_entry_id": 478260786,
+        "docket_id": 73739399,
+        "document_number": 247,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-16",
+        "entry_number": 247,
+        "filepath_local": null,
+        "id": 493881945,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-16T21:01:07.189682Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:39.979324Z"
+        },
+        "pacer_doc_id": "176052814599",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/245/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Final Order (I) Authorizing Rejection of Certain Nonresidential Real Property Leases as of the Petition Date, (II) Abandoning Certain Personal Property, (III) Authorizing Rejection of Certain Executory Contracts, and (IV) Granting Related Relief, Final Order (I) Authorizing the Debtors to Continue to Operate Their Cash Management System and Honor Certain Prepetition Obligations Related Thereto, and (II) Granting Related Relief, Debtors Application for Entry of an Order Authorizing the Employment of Gray Reed as Counsel to the Debtors and Debtors in Possession, Effective as of the Petition Date, Debtors Application for Entry of an Order (I) Authorizing the (A) Retention of GlassRatner Advisory & Capital Group LLC and (B) Designation of Mark Shapiro as Interim Chief Operating Officer, Effective as of the Petition Date, and (II) Granting Related Relief, Debtors Application for Entry of an Order Authorizing the Retention and Employment of Smith, Gambrell & Russell, LLP as Special Counsel to the Debtors, Effective as of the Petition Date, Debtors Application for Entry of an Order Authorizing the Employment of Berger Singerman LLP as Special Florida Counsel and Conflicts Counsel to the Debtors, Effective as of the Petition Date filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)216 Order on motion to assume/reject, 217 Order on first day motion, 218 Application to employ Gray Reed as Attorney Debtors' Application for Entry of an Order Authorizing the Employment of Gray Reed as Counsel to the Debtors and Debtors in Possession, Effective as of the Petition Date, 219 Application to employ GlassRatner Advisory & Capital Group LLC as Other Professional Debtors' Application for Entry of an Order (I) Authorizing the (A) Retention of GlassRatner Advisory & Capital Group LLC and (B) Designation of Mark Shapiro as, 220 Application to employ Smith, Gabmrell & Russell, LLP as Special Counsel Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Smith, Gambrell & Russell, LLP as Special Counsel to the Debtors, Effective as of the, 221 Application to employ Berger Singerman LLP as Special Counsel Debtors' Application for Entry of an Order Authorizing the Employment of Berger Singerman LLP as Special Florida Counsel and Conflicts Counsel to the Debtors, Effective as of the Pet). (Mailloux, Kathryn)",
+        "docket_entry_id": 478205738,
+        "docket_id": 73739399,
+        "document_number": 245,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-16",
+        "entry_number": 245,
+        "filepath_local": null,
+        "id": 493825892,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-16T16:33:18.828558Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:39.926519Z"
+        },
+        "pacer_doc_id": "176052811853",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/233/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Joint Motion, Certain Subsequent Debtors' Motion, Supplement First Day Declaration filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)223 Motion for joint administration of cases 26-90190, 26-90214, 26-90215, 26-90216, 26-90217, 26-90218, and 26-90219 Debtors' Emergency Motion for Entry of an Order (I) Directing Joint Administration of Subsequent Debtors' Chapter 11 Cases w, 224 Motion for leave Debtors' Emergency Motion for Entry of an Order (I) Applying Certain Orders in the Initial Debtors' Chapter 11 Cases to the Subsequent Debtors and (II) Granting Related Relief, 225 Declaration, 226 Notice of hearing). (Mailloux, Kathryn)",
+        "docket_entry_id": 477861173,
+        "docket_id": 73739399,
+        "document_number": 233,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-14",
+        "entry_number": 233,
+        "filepath_local": null,
+        "id": 493471241,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-14T16:30:48.538959Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-08T12:48:39.622081Z"
+        },
+        "pacer_doc_id": "176052799186",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/222/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Debtors' Witness and Exhibit List for September 8, 2026, Second Day Hearings filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)204 List (witness/exhibit/generic)). (Mailloux, Kathryn)",
+        "docket_entry_id": 477429636,
+        "docket_id": 73739399,
+        "document_number": 222,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-09",
+        "entry_number": 222,
+        "filepath_local": null,
+        "id": 493023867,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-09T21:05:15.994941Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-10T19:22:27.910490Z"
+        },
+        "pacer_doc_id": "176052778792",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/218/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to employ Gray Reed as Attorney Debtors' Application for Entry of an Order Authorizing the Employment of Gray Reed as Counsel to the Debtors and Debtors in Possession, Effective as of the Petition Date Filed by Debtor Signal National LLC (Brookner, Jason)",
+        "docket_entry_id": 477294669,
+        "docket_id": 73739399,
+        "document_number": 218,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-08",
+        "entry_number": 218,
+        "filepath_local": null,
+        "id": 492884790,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-09T00:03:24.973294Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-10T19:22:27.790239Z"
+        },
+        "pacer_doc_id": "176052774106",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/219/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to employ GlassRatner Advisory & Capital Group LLC as Other Professional Debtors' Application for Entry of an Order (I) Authorizing the (A) Retention of GlassRatner Advisory & Capital Group LLC and (B) Designation of Mark Shapiro as Interim Chief Operating Officer, Effective as of the Petition Date, and (II) Granting Related Relief Filed by Debtor Signal National LLC (Brookner, Jason)",
+        "docket_entry_id": 477294653,
+        "docket_id": 73739399,
+        "document_number": 219,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-08",
+        "entry_number": 219,
+        "filepath_local": null,
+        "id": 492884774,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-09T00:03:24.321572Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-10T19:22:27.825727Z"
+        },
+        "pacer_doc_id": "176052774120",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/220/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to employ Smith, Gabmrell & Russell, LLP as Special Counsel Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Smith, Gambrell & Russell, LLP as Special Counsel to the Debtors, Effective as of the Petition Date Filed by Debtor Signal National LLC (Brookner, Jason)",
+        "docket_entry_id": 477294620,
+        "docket_id": 73739399,
+        "document_number": 220,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-08",
+        "entry_number": 220,
+        "filepath_local": null,
+        "id": 492884741,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-09T00:03:23.203922Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-10T19:22:27.857666Z"
+        },
+        "pacer_doc_id": "176052774128",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/221/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to employ Berger Singerman LLP as Special Counsel Debtors' Application for Entry of an Order Authorizing the Employment of Berger Singerman LLP as Special Florida Counsel and Conflicts Counsel to the Debtors, Effective as of the Petition Date Filed by Debtor Signal National LLC (Brookner, Jason)",
+        "docket_entry_id": 477294616,
+        "docket_id": 73739399,
+        "document_number": 221,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-08",
+        "entry_number": 221,
+        "filepath_local": null,
+        "id": 492884739,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-09T00:03:23.039650Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-10T19:22:27.908566Z"
+        },
+        "pacer_doc_id": "176052774131",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A73739399&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

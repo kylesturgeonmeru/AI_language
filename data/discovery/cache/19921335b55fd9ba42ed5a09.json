@@ -1,0 +1,504 @@
+{
+  "response": {
+    "count": 39,
+    "next": null,
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00OTIzODg0OTcmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9MQ%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A73739399&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/73739399/203/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Notice of Second Day Hearings, Notice of Reset Hearing filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)184 Notice of hearing, 185 Notice of hearing). (Mailloux, Kathryn)",
+        "docket_entry_id": 476814734,
+        "docket_id": 73739399,
+        "document_number": 203,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-03",
+        "entry_number": 203,
+        "filepath_local": null,
+        "id": 492388497,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-03T16:02:57.602710Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-03T17:27:36.728325Z"
+        },
+        "pacer_doc_id": "176052753482",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/194/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Amended Notice of Commencement filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)161 Order on first day motion, Order on motion to use or prohibit cash collateral, 169 Motion for leave DEBTORS EMERGENCY MOTION FOR ENTRY OF AN ORDER (I) ENFORCING THE AUTOMATIC STAY, (II) DETERMINING THAT THE BANKRUPTCY COURT HAS EXCLUSIVE JURISDICTION OVER PROPERTY OF THE ESTATE DETERMINATIONS, AND (III) GRANTING RELATED RELIEF<). (Mailloux, Kathryn)",
+        "docket_entry_id": 476670154,
+        "docket_id": 73739399,
+        "document_number": 194,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-02",
+        "entry_number": 194,
+        "filepath_local": null,
+        "id": 492239774,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-02T16:32:35.121615Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-03T17:27:35.966747Z"
+        },
+        "pacer_doc_id": "176052745656",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/193/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Complex Service List as of September 1, 2026 filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)29 Order granting complex chapter 11 treatment). (Mailloux, Kathryn)",
+        "docket_entry_id": 476624634,
+        "docket_id": 73739399,
+        "document_number": 193,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-01",
+        "entry_number": 193,
+        "filepath_local": null,
+        "id": 492192862,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-02T03:04:39.027189Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-03T17:27:35.796214Z"
+        },
+        "pacer_doc_id": "176052743911",
+        "page_count": null,
+        "short_description": "Complex Service List",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/178/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)169 Motion for leave DEBTORS EMERGENCY MOTION FOR ENTRY OF AN ORDER (I) ENFORCING THE AUTOMATIC STAY, (II) DETERMINING THAT THE BANKRUPTCY COURT HAS EXCLUSIVE JURISDICTION OVER PROPERTY OF THE ESTATE DETERMINATIONS, AND (III) GRANTING RELATED RELIEF<). (Mailloux, Kathryn)",
+        "docket_entry_id": 475875446,
+        "docket_id": 73739399,
+        "document_number": 178,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-26",
+        "entry_number": 178,
+        "filepath_local": null,
+        "id": 491421832,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-26T18:31:08.423333Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T14:36:37.724921Z"
+        },
+        "pacer_doc_id": "176052706213",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/176/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Notice of Commencement filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)81 Order on first day motion). (Mailloux, Kathryn)",
+        "docket_entry_id": 475850032,
+        "docket_id": 73739399,
+        "document_number": 176,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-26",
+        "entry_number": 176,
+        "filepath_local": null,
+        "id": 491395914,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-26T16:32:48.283849Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T14:36:37.673831Z"
+        },
+        "pacer_doc_id": "176052704830",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/175/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Notice of Commencement Filed by Claims Agent Epiq Corporate Restructuring, LLC (related document(s)81 Order (I) Authorizing the Debtors to Serve a Consolidated List of Creditors and a Consolidated List of the 30 Largest Unsecured Creditors, (II) Authorizing the Debtors to Redact Certain Personal Identification Information, (III) Approving the Form and Manner of Notifying Creditors of the Commencement of the Debtors' Chapter 11 Cases, (IV) Establishing a Master Service List, and (V) Granting Related Relief (related document 4) Entered on 8/12/2026.). (Mailloux, Kathryn)",
+        "docket_entry_id": 475845581,
+        "docket_id": 73739399,
+        "document_number": 175,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-26",
+        "entry_number": 175,
+        "filepath_local": null,
+        "id": 491391318,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-26T16:06:48.962559Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T14:36:37.646379Z"
+        },
+        "pacer_doc_id": "176052704607",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/174/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)161 Order on first day motion, Order on motion to use or prohibit cash collateral). (Mailloux, Kathryn)",
+        "docket_entry_id": 475838492,
+        "docket_id": 73739399,
+        "document_number": 174,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-26",
+        "entry_number": 174,
+        "filepath_local": null,
+        "id": 491384034,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-26T15:35:54.659178Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T14:36:37.603986Z"
+        },
+        "pacer_doc_id": "176052704468",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/157/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)123 List (witness/exhibit/generic)). (Mailloux, Kathryn)",
+        "docket_entry_id": 475349698,
+        "docket_id": 73739399,
+        "document_number": 157,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-21",
+        "entry_number": 157,
+        "filepath_local": null,
+        "id": 490878837,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-21T16:04:44.341799Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-26T13:48:27.316371Z"
+        },
+        "pacer_doc_id": "176052684503",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/148/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Notice of Chapter 11 Bankruptcy Case filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)23 Meeting of creditors Chapter 11). (Mailloux, Kathryn)",
+        "docket_entry_id": 475251659,
+        "docket_id": 73739399,
+        "document_number": 148,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-20",
+        "entry_number": 148,
+        "filepath_local": null,
+        "id": 490777920,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-20T21:02:59.860559Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-26T13:48:26.974335Z"
+        },
+        "pacer_doc_id": "176052679969",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/137/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Complex Service List as August 19, 2026 filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)29 Order granting complex chapter 11 treatment). (Mailloux, Kathryn)",
+        "docket_entry_id": 475120819,
+        "docket_id": 73739399,
+        "document_number": 137,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-19",
+        "entry_number": 137,
+        "filepath_local": null,
+        "id": 490642407,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-20T00:04:34.705930Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-26T13:48:26.651031Z"
+        },
+        "pacer_doc_id": "176052673581",
+        "page_count": null,
+        "short_description": "Complex Service List",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/116/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Notice of Continued Hearing filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)97 Notice of hearing). (Mailloux, Kathryn)",
+        "docket_entry_id": 474781498,
+        "docket_id": 73739399,
+        "document_number": 116,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-17",
+        "entry_number": 116,
+        "filepath_local": null,
+        "id": 490292490,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-17T21:06:16.736931Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-26T13:48:25.748031Z"
+        },
+        "pacer_doc_id": "176052657629",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/115/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: filed by Claims Agent Epiq Corporate Restructuring, LLC (RE: related document(s)2 Motion for joint administration of cases 26-90190; 26-90191; 26-90192; 26-90193; 26-90194; 26-90195; 26-90196; 26-90197; 26-90198; 26-90199; 26-90200; 26-90201; 26-90202; 26-90203; 26-90204; 26-90205; 26-90206; 26-90207; 26-90208; 26-90209; 26-90210;, 3 Notice of designation as complex chapter 11 case, 4 Motion for approval of form notice. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to Serve a Consolidated List of Creditors and a Consolidated List of the 30 Largest Unsecured Creditors, (II) Authorizing the Debtor, 5 Motion regarding pre or post petition contracts Insurance Policies. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Continue Their Insurance Policies and Honor All Obligations in Respect Thereof, (B) Renew, Su, 6 Motion to pay Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Pay Prepetition Wages, Salaries, Other Compensation, and Reimbursable Expenses and (B) Continue Employee Benefits Programs, and (II) Granting Relate, 7 Motion to maintain bank accounts. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Continue to Operate Their Cash Management System and Honor Certain Prepetition Obligations Related Thereto, and (II, 8 Motion to extend time to file schedules or new case deficiencies, excluding matrix, 9 Application to employ Epiq Corporate Restructuring, LLC as Claims Agent Debtors' Emergency Application for Entry of an Order Authorizing the Retention and Employment of Epiq Corporate Restructuring, LLC as Claims, Noticing, and Solicitation Age, 10 Motion to reject executory contract or unexpired lease, 12 Motion to use cash collateral Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain Postpetition Financing and (B) Utilize Cash Collateral, (II) Granting Liens and Superpriority Administrativ, 13 Declaration, 14 Declaration, 15 Notice of hearing, 25 Order (jntadmn-LEAD) (granting)). (Mailloux, Kathryn)",
+        "docket_entry_id": 474710243,
+        "docket_id": 73739399,
+        "document_number": 115,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-17",
+        "entry_number": 115,
+        "filepath_local": null,
+        "id": 490219986,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-17T15:31:52.644123Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-26T13:48:25.723639Z"
+        },
+        "pacer_doc_id": "176052653448",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/73/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Hearing held on 8/11/2026 re: 9 Debtors' Emergency Application for Entry of an Order Authorizing the Retention and Employment of Epiq Corporate Restructuring, LLC as Claims, Noticing, and Solicitation Agent, Effective as of the Petition Date< filed by Debtor Signal National LLC -GRANTED- (Warren, Shelley)",
+        "docket_entry_id": 474308282,
+        "docket_id": 73739399,
+        "document_number": 73,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-11",
+        "entry_number": 73,
+        "filepath_local": null,
+        "id": 489806272,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-13T14:34:30.671952Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-13T14:34:30.744071Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/85/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order granting application to employ Epiq Corporate Restructuring, LLC as Claims Agent (related document # 9) Entered on 8/12/2026. (Chambers, D)",
+        "docket_entry_id": 474166538,
+        "docket_id": 73739399,
+        "document_number": 85,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-12",
+        "entry_number": 85,
+        "filepath_local": null,
+        "id": 489658453,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-12T16:32:10.791219Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-13T14:34:31.026159Z"
+        },
+        "pacer_doc_id": "176052624194",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/35/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: filed by Creditor Epiq Corporate Restructuring, LLC (RE: related document(s)2 Motion for joint administration of cases 26-90190; 26-90191; 26-90192; 26-90193; 26-90194; 26-90195; 26-90196; 26-90197; 26-90198; 26-90199; 26-90200; 26-90201; 26-90202; 26-90203; 26-90204; 26-90205; 26-90206; 26-90207; 26-90208; 26-90209; 26-90210;, 3 Notice of designation as complex chapter 11 case, 4 Motion for approval of form notice. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to Serve a Consolidated List of Creditors and a Consolidated List of the 30 Largest Unsecured Creditors, (II) Authorizing the Debtor, 5 Motion regarding pre or post petition contracts Insurance Policies. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Continue Their Insurance Policies and Honor All Obligations in Respect Thereof, (B) Renew, Su, 6 Motion to pay Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Pay Prepetition Wages, Salaries, Other Compensation, and Reimbursable Expenses and (B) Continue Employee Benefits Programs, and (II) Granting Relate, 7 Motion to maintain bank accounts. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Continue to Operate Their Cash Management System and Honor Certain Prepetition Obligations Related Thereto, and (II, 8 Motion to extend time to file schedules or new case deficiencies, excluding matrix, 9 Application to employ Epiq Corporate Restructuring, LLC as Claims Agent Debtors' Emergency Application for Entry of an Order Authorizing the Retention and Employment of Epiq Corporate Restructuring, LLC as Claims, Noticing, and Solicitation Age, 10 Motion to reject executory contract or unexpired lease, 12 Motion to use cash collateral Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain Postpetition Financing and (B) Utilize Cash Collateral, (II) Granting Liens and Superpriority Administrativ, 13 Declaration, 14 Declaration, 15 Notice of hearing, 20 List (witness/exhibit/generic), 24 Agenda for Complex Chapter 11). (Mailloux, Kathryn)",
+        "docket_entry_id": 473945543,
+        "docket_id": 73739399,
+        "document_number": 35,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-10",
+        "entry_number": 35,
+        "filepath_local": null,
+        "id": 489430456,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-11T00:35:29.017831Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-11T11:35:17.055274Z"
+        },
+        "pacer_doc_id": "176052614084",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/24/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Agenda for Hearing scheduled on 8/11/2026 Agenda for First Day Hearings on August 11, 2026, at 1:30 p.m. Central Time filed by Debtor Signal National LLC (RE: related document(s)2 Motion for joint administration of cases 26-90190; 26-90191; 26-90192; 26-90193; 26-90194; 26-90195; 26-90196; 26-90197; 26-90198; 26-90199; 26-90200; 26-90201; 26-90202; 26-90203; 26-90204; 26-90205; 26-90206; 26-90207; 26-90208; 26-90209; 26-90210; 26-90211; 26-90212 Debtors' Emergency Motion for Entry of an Order (I) Directing Joint Administration of Chapter 11 Cases and (II) Granting Related Relief., 3 Notice of designation as complex chapter 11 case filed by Debtor Signal National LLC., 4 Motion for approval of form notice. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to Serve a Consolidated List of Creditors and a Consolidated List of the 30 Largest Unsecured Creditors, (II) Authorizing the Debtors to Redact Certain Personal Identification Information, (III) Approving the Form and Manner of Notifying Creditors of the Commencement of the Debtors' Chapter 11 Cases, (IV) Establishing a Master Service List, and (V) Granting Related Relief Filed by Debtor Signal National LLC, 5 Motion regarding pre or post petition contracts Insurance Policies. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Continue Their Insurance Policies and Honor All Obligations in Respect Thereof, (B) Renew, Supplement, and Enter into New Insurance Policies, and (C) Pay Premiums Thereunder, and (II) Granting Related Relief Filed by Debtor Signal National LLC, 6 Motion to pay Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Pay Prepetition Wages, Salaries, Other Compensation, and Reimbursable Expenses and (B) Continue Employee Benefits Programs, and (II) Granting Related Relief Filed by Debtor Signal National LLC, 7 Motion to maintain bank accounts. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Continue to Operate Their Cash Management System and Honor Certain Prepetition Obligations Related Thereto, and (II) Granting Related Relief Filed by Debtor Signal National LLC, 8 Motion to extend time to file schedules or new case deficiencies, excluding matrix Filed by Debtor Signal National LLC, 9 Application to employ Epiq Corporate Restructuring, LLC as Claims Agent Debtors' Emergency Application for Entry of an Order Authorizing the Retention and Employment of Epiq Corporate Restructuring, LLC as Claims, Noticing, and Solicitation Agent, Effective as of the Petition Date Filed by Debtor Signal National LLC, 11 Motion to obtain financing. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain Postpetition Financing and (B) Utilize Cash Collateral, (II) Granting Liens and Superpriority Administrative Expense Claims, (III) Granting Adequate Protection, (IV) Modifying the Automatic Stay, (V) Scheduling a Final Hearing, and (VI) Granting Related Relief Filed by Debtor Signal National LLC, 12 Motion to use cash collateral Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain Postpetition Financing and (B) Utilize Cash Collateral, (II) Granting Liens and Superpriority Administrative Expense Claims, (III) Granting Adequate Protection, (IV) Modifying the Automatic Stay, (V) Scheduling a Final Hearing, and (VI) Granting Related Relief Filed by Debtor Signal National LLC). (Brookner, Jason)",
+        "docket_entry_id": 473876873,
+        "docket_id": 73739399,
+        "document_number": 24,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-10",
+        "entry_number": 24,
+        "filepath_local": "recap/gov.uscourts.txnb.545878/gov.uscourts.txnb.545878.24.0.pdf",
+        "id": 489357066,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-08-10T18:06:51.319421Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-11T17:35:13.312142Z"
+        },
+        "pacer_doc_id": "176052610825",
+        "page_count": 7,
+        "short_description": "Agenda for Complex Chapter 11",
+        "snippet": "Case 26-90190-elm11             Doc 24      Filed 08/10/26 Entered 08/10/26 12:41:40                       Desc Main\n                                           Document     Page 1 of 7\n\n\n Jason S. Brookner (TX Bar No. 24033684)\n Amber M. Carson (TX Bar No. 24075610)\n Blake M. Bryan (TX Bar No. 24140152)\n GRAY REED\n 1845 Woodall Rodgers Fwy\n Suite 1300\n Dallas, Texas 75201\n Telephone: (214) 954-4135\n Facsimile: (214) 953-1332\n Email:       jbrookner@grayreed.com\n              acarson@grayreed.com"
+      },
+      {
+        "absolute_url": "/docket/73739399/20/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Witness and Exhibit List for August 11, 2026, First Day Hearings filed by Debtor Signal National LLC (RE: related document(s)2 Motion for joint administration of cases 26-90190; 26-90191; 26-90192; 26-90193; 26-90194; 26-90195; 26-90196; 26-90197; 26-90198; 26-90199; 26-90200; 26-90201; 26-90202; 26-90203; 26-90204; 26-90205; 26-90206; 26-90207; 26-90208; 26-90209; 26-90210;, 3 Notice of designation as complex chapter 11 case, 4 Motion for approval of form notice. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to Serve a Consolidated List of Creditors and a Consolidated List of the 30 Largest Unsecured Creditors, (II) Authorizing the Debtor, 5 Motion regarding pre or post petition contracts Insurance Policies. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Continue Their Insurance Policies and Honor All Obligations in Respect Thereof, (B) Renew, Su, 6 Motion to pay Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Pay Prepetition Wages, Salaries, Other Compensation, and Reimbursable Expenses and (B) Continue Employee Benefits Programs, and (II) Granting Relate, 7 Motion to maintain bank accounts. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Continue to Operate Their Cash Management System and Honor Certain Prepetition Obligations Related Thereto, and (II, 8 Motion to extend time to file schedules or new case deficiencies, excluding matrix, 9 Application to employ Epiq Corporate Restructuring, LLC as Claims Agent Debtors' Emergency Application for Entry of an Order Authorizing the Retention and Employment of Epiq Corporate Restructuring, LLC as Claims, Noticing, and Solicitation Age, 11 Motion to obtain financing. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain Postpetition Financing and (B) Utilize Cash Collateral, (II) Granting Liens and Superpriority Administrative E, 12 Motion to use cash collateral Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain Postpetition Financing and (B) Utilize Cash Collateral, (II) Granting Liens and Superpriority Administrativ). (Attachments: # 1 Exhibit 1 # 2 Exhibit 2 # 3 Exhibit 3 # 4 Exhibit 4 # 5 Exhibit 5 # 6 Exhibit 6 # 7 Exhibit 7 # 8 Exhibit 8 # 9 Exhibit 9 # 10 Exhibit 10 # 11 Exhibit 11) (Brookner, Jason)",
+        "docket_entry_id": 473853969,
+        "docket_id": 73739399,
+        "document_number": 20,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-10",
+        "entry_number": 20,
+        "filepath_local": null,
+        "id": 489333669,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-10T16:08:22.646278Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-10T16:33:14.496560Z"
+        },
+        "pacer_doc_id": "176052609942",
+        "page_count": null,
+        "short_description": "List (witness/exhibit/generic)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/15/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of hearing Notice of First Day Hearings filed by Debtor Signal National LLC (RE: related document(s)2 Motion for joint administration of cases 26-90190; 26-90191; 26-90192; 26-90193; 26-90194; 26-90195; 26-90196; 26-90197; 26-90198; 26-90199; 26-90200; 26-90201; 26-90202; 26-90203; 26-90204; 26-90205; 26-90206; 26-90207; 26-90208; 26-90209; 26-90210; 26-90211; 26-90212 Debtors' Emergency Motion for Entry of an Order (I) Directing Joint Administration of Chapter 11 Cases and (II) Granting Related Relief., 3 Notice of designation as complex chapter 11 case filed by Debtor Signal National LLC., 4 Motion for approval of form notice. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to Serve a Consolidated List of Creditors and a Consolidated List of the 30 Largest Unsecured Creditors, (II) Authorizing the Debtors to Redact Certain Personal Identification Information, (III) Approving the Form and Manner of Notifying Creditors of the Commencement of the Debtors' Chapter 11 Cases, (IV) Establishing a Master Service List, and (V) Granting Related Relief Filed by Debtor Signal National LLC, 5 Motion regarding pre or post petition contracts Insurance Policies. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Continue Their Insurance Policies and Honor All Obligations in Respect Thereof, (B) Renew, Supplement, and Enter into New Insurance Policies, and (C) Pay Premiums Thereunder, and (II) Granting Related Relief Filed by Debtor Signal National LLC, 6 Motion to pay Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Pay Prepetition Wages, Salaries, Other Compensation, and Reimbursable Expenses and (B) Continue Employee Benefits Programs, and (II) Granting Related Relief Filed by Debtor Signal National LLC, 7 Motion to maintain bank accounts. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Continue to Operate Their Cash Management System and Honor Certain Prepetition Obligations Related Thereto, and (II) Granting Related Relief Filed by Debtor Signal National LLC, 8 Motion to extend time to file schedules or new case deficiencies, excluding matrix Filed by Debtor Signal National LLC, 9 Application to employ Epiq Corporate Restructuring, LLC as Claims Agent Debtors' Emergency Application for Entry of an Order Authorizing the Retention and Employment of Epiq Corporate Restructuring, LLC as Claims, Noticing, and Solicitation Agent, Effective as of the Petition Date Filed by Debtor Signal National LLC, 11 Motion to obtain financing. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain Postpetition Financing and (B) Utilize Cash Collateral, (II) Granting Liens and Superpriority Administrative Expense Claims, (III) Granting Adequate Protection, (IV) Modifying the Automatic Stay, (V) Scheduling a Final Hearing, and (VI) Granting Related Relief Filed by Debtor Signal National LLC, 12 Motion to use cash collateral Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain Postpetition Financing and (B) Utilize Cash Collateral, (II) Granting Liens and Superpriority Administrative Expense Claims, (III) Granting Adequate Protection, (IV) Modifying the Automatic Stay, (V) Scheduling a Final Hearing, and (VI) Granting Related Relief Filed by Debtor Signal National LLC). Hearing to be held on 8/11/2026 at 01:30 PM at https://us-courts.webex.com/meet/morris for 3 and for 11 and for 5 and for 4 and for 2 and for 8 and for 12 and for 7 and for 6 and for 9, (Brookner, Jason)",
+        "docket_entry_id": 473801748,
+        "docket_id": 73739399,
+        "document_number": 15,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-10",
+        "entry_number": 15,
+        "filepath_local": null,
+        "id": 489280330,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-10T06:34:33.004607Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-10T16:08:22.601080Z"
+        },
+        "pacer_doc_id": "176052607302",
+        "page_count": null,
+        "short_description": "Notice of hearing",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73739399/9/signal-national-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to employ Epiq Corporate Restructuring, LLC as Claims Agent Debtors' Emergency Application for Entry of an Order Authorizing the Retention and Employment of Epiq Corporate Restructuring, LLC as Claims, Noticing, and Solicitation Agent, Effective as of the Petition Date Filed by Debtor Signal National LLC (Brookner, Jason)",
+        "docket_entry_id": 473784558,
+        "docket_id": 73739399,
+        "document_number": 9,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-09",
+        "entry_number": 9,
+        "filepath_local": null,
+        "id": 489262893,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-09T23:32:53.196585Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-10T16:08:22.511597Z"
+        },
+        "pacer_doc_id": "176052606395",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00OTI4ODQ3MzkmdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A73739399&type=rd"
+}

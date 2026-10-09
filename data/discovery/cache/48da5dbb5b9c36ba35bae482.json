@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 87,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NDc0MTQyODYmdD1yZCZkPTIwMjYtMTAtMDkmcD01&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A70676726&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NDkyNzAwMzUmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9Mw%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A70676726&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/70676726/186/wolfspeed-inc-and-wolfspeed-texas-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Edward S. Finley Jr., PLLC Pursuant to Order Authorizing the Retention and Compensation of Certain Professionals Used in the Ordinary Course of Business (Filed By Wolfspeed, Inc. ).(Related document(s):174 Generic Order) (Davidson, Timothy) (Entered: 08/15/2025)",
+        "docket_entry_id": 434871536,
+        "docket_id": 70676726,
+        "document_number": 186,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-15",
+        "entry_number": 186,
+        "filepath_local": null,
+        "id": 449270035,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-15T20:06:08.012874Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178053023048",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/187/wolfspeed-inc-and-wolfspeed-texas-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Enns & Archer LLP Pursuant to Order Authorizing the Retention and Compensation of Certain Professionals Used in the Ordinary Course of Business (Filed By Wolfspeed, Inc. ).(Related document(s):174 Generic Order) (Davidson, Timothy) (Entered: 08/15/2025)",
+        "docket_entry_id": 434871519,
+        "docket_id": 70676726,
+        "document_number": 187,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-15",
+        "entry_number": 187,
+        "filepath_local": null,
+        "id": 449270018,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-15T20:06:07.307064Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178053023062",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/175/wolfspeed-inc-and-wolfspeed-texas-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Amended Ordinary Course Professional Schedule. (Related document(s):174 Generic Order) Filed by Wolfspeed, Inc. (Attachments: # 1 Exhibit A # 2 Redline) (Davidson, Timothy) (Entered: 08/15/2025)",
+        "docket_entry_id": 434868219,
+        "docket_id": 70676726,
+        "document_number": 175,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-15",
+        "entry_number": 175,
+        "filepath_local": null,
+        "id": 449266654,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-15T19:49:11.770798Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178053022755",
+        "page_count": null,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/176/wolfspeed-inc-and-wolfspeed-texas-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of PricewaterhouseCoopers LLP Pursuant to Order Authorizing the Retention and Compensation of Certain Professionals Used in the Ordinary Course of Business (Filed By Wolfspeed, Inc. ).(Related document(s):174 Generic Order) (Davidson, Timothy) (Entered: 08/15/2025)",
+        "docket_entry_id": 434868168,
+        "docket_id": 70676726,
+        "document_number": 176,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-15",
+        "entry_number": 176,
+        "filepath_local": null,
+        "id": 449266604,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-15T19:49:10.836705Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178053022795",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/174/wolfspeed-inc-and-wolfspeed-texas-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business (Related Doc # 124). Signed on 8/15/2025. (rgs4) (Entered: 08/15/2025)",
+        "docket_entry_id": 434854898,
+        "docket_id": 70676726,
+        "document_number": 174,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-15",
+        "entry_number": 174,
+        "filepath_local": null,
+        "id": 449253131,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-15T18:33:58.663512Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178053022248",
+        "page_count": null,
+        "short_description": "Order on Generic Motion",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/172/wolfspeed-inc-and-wolfspeed-texas-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Debtors' Motion for Authority to Retain and Compensate Professionals Used in the Ordinary Course of Business (Filed By Wolfspeed, Inc. ).(Related document(s):124 Generic Motion) (Attachments: # 1 Proposed Order) (Davidson, Timothy) (Entered: 08/15/2025)",
+        "docket_entry_id": 434798881,
+        "docket_id": 70676726,
+        "document_number": 172,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-15",
+        "entry_number": 172,
+        "filepath_local": null,
+        "id": 449196128,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-15T11:32:45.385363Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178053019920",
+        "page_count": null,
+        "short_description": "Certificate of No Objection (Complex 11 ONLY)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/152/wolfspeed-inc-debtor/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Sealed Document / Exhibit A to Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Katten Muchin Rosenman LLP as Special Counsel to Debtor Wolfspeed, Inc. at the Sole Discretion of the Disinterested Directors Effective as of the Petition Date [Docket No. 144] (Filed By Wolfspeed, Inc. ). (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433691123,
+        "docket_id": 70676726,
+        "document_number": 152,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 152,
+        "filepath_local": null,
+        "id": 448050280,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-04T22:21:48.609936Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/151/wolfspeed-inc-debtor/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Sealed Document / Exhibit 1 to Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Ernst & Young LLP as Their Tax, Accounting, Valuation, and Consulting Services Provider Effective as of the Petition Date [Docket No. 143] (Filed By Wolfspeed, Inc. ). (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433691122,
+        "docket_id": 70676726,
+        "document_number": 151,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 151,
+        "filepath_local": null,
+        "id": 448050279,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-04T22:21:48.578118Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/150/wolfspeed-inc-debtor/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Sealed Document / Exhibit A to Debtors' Application for the Entry of an Order Authorizing the Retention and Employment of KPMG LLP as Accounting Advisory, Tax Compliance, Tax Provision, and Tax Consulting Services Provider to the Debtors Effective as of the Petition Date [Docket No. 142] (Filed By Wolfspeed, Inc. ). (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433691121,
+        "docket_id": 70676726,
+        "document_number": 150,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 150,
+        "filepath_local": null,
+        "id": 448050278,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-04T22:21:48.546403Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/149/wolfspeed-inc-debtor/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Sealed Document / Exhibit A to Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Perella Weinberg Partners LP as Investment Banker to the Debtors and Debtors in Possession, Effective as of June 30, 2025 [Docket No. 141] (Filed By Wolfspeed, Inc. ). (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433691120,
+        "docket_id": 70676726,
+        "document_number": 149,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 149,
+        "filepath_local": null,
+        "id": 448050277,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-04T22:21:48.515581Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/148/wolfspeed-inc-debtor/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Sealed Document / Exhibit A to Application of Debtors for Entry of an Order (I) Authorizing the Debtors to (A) Employ and Retain FTI Consulting, Inc. as Financial Advisor, (B) Designate Carlin Adrianopoli as Chief Restructuring Officer and Danial Hugo as Deputy Chief Restructuring Officer Effective as of the Petition Date, and (C) Provide Additional Personnel for the Debtors Effective as of the Petition Date; and (II) Granting Related Relief [Docket No. 140] (Filed By Wolfspeed, Inc. ). (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433691119,
+        "docket_id": 70676726,
+        "document_number": 148,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 148,
+        "filepath_local": null,
+        "id": 448050276,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-04T22:21:48.483832Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/147/wolfspeed-inc-debtor/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Sealed Document / Exhibit A to Application of Debtors to Employ and Retain Hunton Andrews Kurth LLP as Bankruptcy Co-Counsel for the Debtors and Debtors-In-Possession [Docket No. 139] (Filed By Wolfspeed, Inc. ). (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433691118,
+        "docket_id": 70676726,
+        "document_number": 147,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 147,
+        "filepath_local": null,
+        "id": 448050275,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-04T22:21:48.451854Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/146/wolfspeed-inc-debtor/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Sealed Document / Exhibit A to Debtors' Application for Entry of an Order Authorizing the Employment and Retention of Latham & Watkins LLP as Bankruptcy Co-Counsel Effective as of the Petition Date [Docket No. 138] (Filed By Wolfspeed, Inc. ). (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433691117,
+        "docket_id": 70676726,
+        "document_number": 146,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 146,
+        "filepath_local": null,
+        "id": 448050274,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-04T22:21:48.415493Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/161/wolfspeed-inc-and-wolfspeed-texas-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Mailing of Jasmyn Swangel (Filed By EPIQ CORPORATE RESTRUCTURING ).(Related document(s):138 Application to Employ, 139 Application to Employ, 140 Application to Employ, 141 Application to Employ, 142 Application to Employ, 143 Application to Employ, 144 Application to Employ, 145 Motion to Seal) (Garabato, Sid) (Entered: 08/03/2025)",
+        "docket_entry_id": 433553513,
+        "docket_id": 70676726,
+        "document_number": 161,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-03",
+        "entry_number": 161,
+        "filepath_local": null,
+        "id": 447909862,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-08-04T02:33:07.513680Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178052956231",
+        "page_count": null,
+        "short_description": "Certificate",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/145/wolfspeed-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Motion to Seal / Debtors' Motion to File Certain Exhibits to Retention Applications Under Seal Filed by Debtor Wolfspeed, Inc. (Attachments: # 1 Proposed Order) (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433072577,
+        "docket_id": 70676726,
+        "document_number": 145,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 145,
+        "filepath_local": null,
+        "id": 447415496,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-07-30T04:05:21.657016Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178052934035",
+        "page_count": null,
+        "short_description": "Seal Document Motion or Other Pleading",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/140/wolfspeed-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Employ FTI Consulting, Inc. as Financial Advisor. Objections/Request for Hearing Due in 21 days. Filed by Debtor Wolfspeed, Inc. (Attachments: # 1 Exhibit A # 2 Proposed Order) (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433071475,
+        "docket_id": 70676726,
+        "document_number": 140,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 140,
+        "filepath_local": null,
+        "id": 447414390,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-07-30T03:34:58.964074Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178052933919",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/141/wolfspeed-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Employ Perella Weinberg Partners LP as Investment Banker. Objections/Request for Hearing Due in 21 days. Filed by Debtor Wolfspeed, Inc. (Attachments: # 1 Exhibit A # 2 Proposed Order) (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433071462,
+        "docket_id": 70676726,
+        "document_number": 141,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 141,
+        "filepath_local": null,
+        "id": 447414377,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-07-30T03:34:58.541565Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178052933933",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/142/wolfspeed-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Employ KPMG LLP as Accounting Advisor, Tax Compliance, Tax Provision and Tax Consultant. Objections/Request for Hearing Due in 21 days. Filed by Debtor Wolfspeed, Inc. (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Proposed Order) (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433071425,
+        "docket_id": 70676726,
+        "document_number": 142,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 142,
+        "filepath_local": null,
+        "id": 447414340,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-07-30T03:34:57.448508Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178052933964",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/143/wolfspeed-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Employ Ernst & Young LLP as Tax, Accounting, Valuation, and Consulting Services Provider. Objections/Request for Hearing Due in 21 days. Filed by Debtor Wolfspeed, Inc. (Attachments: # 1 Exhibit 1 # 2 Proposed Order) (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433071389,
+        "docket_id": 70676726,
+        "document_number": 143,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 143,
+        "filepath_local": null,
+        "id": 447414304,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-07-30T03:34:56.782298Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178052933988",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70676726/144/wolfspeed-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Employ Katten Muchin Rosenman LLP as Special Counsel. Objections/Request for Hearing Due in 21 days. Filed by Debtor Wolfspeed, Inc. (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Proposed Order) (Davidson, Timothy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433071371,
+        "docket_id": 70676726,
+        "document_number": 144,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 144,
+        "filepath_local": null,
+        "id": 447414286,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-07-30T03:34:56.454454Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-17T22:11:05.783857Z"
+        },
+        "pacer_doc_id": "178052934002",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NDkyNzAwNDgmdD1yZCZkPTIwMjYtMTAtMDkmcD00&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A70676726&type=rd"
+}

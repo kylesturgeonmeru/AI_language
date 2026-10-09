@@ -1,5 +1,7 @@
 # Discovery summary (Checkpoint 1 input)
 
+**Incomplete:** CourtListener stopped: CourtListener needs a 1162s wait, over max_wait.. Rerun later; cached pages are reused.
+
 Generated 10/09/2026. Counts are discovery candidates, not confirmed AI provisions; role, filing type, and firm are guesses from the docket text.
 
 ## Track B (AI terms in retention filings)

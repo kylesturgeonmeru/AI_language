@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 62,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00Mzc1ODEyMTgmdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69744198&type=rd",
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/69744198/707/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Receipt of filing fee for Transfer/Assignment of Claim - Ch 11 with Claims Agent Assigned( 25-10469-MFW) [claims,trclm11] ( 28.00). Receipt Number A12633949, amount $ 28.00. (U.S. Treasury) (Entered: 04/15/2026)",
+        "docket_entry_id": 480622836,
+        "docket_id": 69744198,
+        "document_number": 707,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-15",
+        "entry_number": 707,
+        "filepath_local": null,
+        "id": 496334126,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-10-06T13:58:15.054132Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-06T13:58:15.139926Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/680/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Withdrawal of Claim #1307 filed with Claims Agent on 03/17/2025. Filed by The County of Brazos, Texas. (Parsons, Julie) (Entered: 03/10/2026)",
+        "docket_entry_id": 456487937,
+        "docket_id": 69744198,
+        "document_number": 680,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-10",
+        "entry_number": 680,
+        "filepath_local": null,
+        "id": 471454552,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-10T17:05:48.211742Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-10-06T13:58:14.352269Z"
+        },
+        "pacer_doc_id": "042022877375",
+        "page_count": null,
+        "short_description": "Withdrawal of Claim-Chapter 11",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/519/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: Notice of Filing of First Quarterly Statement of Amounts Paid to Ordinary Course Professionals for the Period from March 16, 2025 Through and Including May 31, 2025 (related document(s)512) Filed by Kurtzman Carson Consultants, LLC dba Verita Global. (Kass, Albert) (Entered: 07/01/2025)",
+        "docket_entry_id": 430215917,
+        "docket_id": 69744198,
+        "document_number": 519,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-01",
+        "entry_number": 519,
+        "filepath_local": null,
+        "id": 444489195,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-07-02T04:01:42.277393Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-07-25T21:07:52.630243Z"
+        },
+        "pacer_doc_id": "042022391107",
+        "page_count": null,
+        "short_description": "Certificate of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/512/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Statement of Professionals' Compensation - Notice of Filing of First Quarterly Statement of Amounts Paid to Ordinary Course Professionals for the Period from March 16, 2025 Through and Including May 31, 2025 (related document(s)194) Filed by F21 OpCo, LLC. (Attachments: # 1 Exhibit A) (Faris, S. Alexander) (Entered: 06/30/2025)",
+        "docket_entry_id": 429964320,
+        "docket_id": 69744198,
+        "document_number": 512,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-06-30",
+        "entry_number": 512,
+        "filepath_local": null,
+        "id": 444232097,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-06-30T15:05:24.850441Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-07-25T21:07:52.296376Z"
+        },
+        "pacer_doc_id": "042022386051",
+        "page_count": null,
+        "short_description": "Statement of Professionals' Compensation",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/463/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Receipt of filing fee for Transfer/Assignment of Claim - Ch 11 with Claims Agent Assigned( 25-10469-MFW) [claims,trclm11] ( 84.00). Receipt Number A12231240, amount $ 84.00. (U.S. Treasury) (Entered: 06/17/2025)",
+        "docket_entry_id": 429370876,
+        "docket_id": 69744198,
+        "document_number": 463,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-06-17",
+        "entry_number": 463,
+        "filepath_local": null,
+        "id": 443624545,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-06-24T16:56:31.195713Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-06-24T16:56:31.225870Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/406/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Amended Certificate of Service re: Supplemental Declaration of Stephen Coulombe in Connection with the Retention and Employment of Berkeley Research Group, LLC to Provide Co-Chief Restructuring Officers and Additional Personnel for the Debtors (related document(s)382, 400) Filed by Kurtzman Carson Consultants, LLC dba Verita Global. (Kass, Albert) (Entered: 05/30/2025)",
+        "docket_entry_id": 427058909,
+        "docket_id": 69744198,
+        "document_number": 406,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-30",
+        "entry_number": 406,
+        "filepath_local": null,
+        "id": 441246088,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-31T02:32:25.590959Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-06-24T16:56:28.832488Z"
+        },
+        "pacer_doc_id": "042022327289",
+        "page_count": null,
+        "short_description": "Certificate of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/400/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: Supplemental Declaration of Stephen Coulombe in Connection with the Retention and Employment of Berkeley Research Group, LLC to Provide Co-Chief Restructuring Officers and Additional Personnel for the Debtors (related document(s)382) Filed by Kurtzman Carson Consultants, LLC dba Verita Global. (Kass, Albert) (Entered: 05/28/2025)",
+        "docket_entry_id": 426776913,
+        "docket_id": 69744198,
+        "document_number": 400,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-28",
+        "entry_number": 400,
+        "filepath_local": null,
+        "id": 440957347,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-29T03:34:52.473290Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-06-24T16:56:28.601996Z"
+        },
+        "pacer_doc_id": "042022321458",
+        "page_count": null,
+        "short_description": "Certificate of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/385/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: 1) Order (I) Authorizing Rejection of the License Agreement and (II) Granting Related Relief; and 2) Notice of Filing of Declaration of Disinterestedness of Ordinary Course Professional, Neal Cohen Law, LLC (related document(s)362, 365) Filed by Kurtzman Carson Consultants, LLC dba Verita Global. (Kass, Albert) (Entered: 05/23/2025)",
+        "docket_entry_id": 426451080,
+        "docket_id": 69744198,
+        "document_number": 385,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-23",
+        "entry_number": 385,
+        "filepath_local": null,
+        "id": 440620872,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-24T02:32:59.191667Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-27T22:06:47.987828Z"
+        },
+        "pacer_doc_id": "042022315097",
+        "page_count": null,
+        "short_description": "Certificate of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/382/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Supplemental Declaration of Stephen Coulombe in Connection with Retention and Employment of Berkeley Research Group, LLC to Provide Co-Chief Restructuring Officers and Additional Personnel for the Debtors (related document(s)109) Filed by F21 OpCo, LLC. (McElroy, Kristin) (Entered: 05/22/2025)",
+        "docket_entry_id": 426238699,
+        "docket_id": 69744198,
+        "document_number": 382,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-22",
+        "entry_number": 382,
+        "filepath_local": null,
+        "id": 440403529,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-22T17:01:17.693589Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-27T22:06:47.188851Z"
+        },
+        "pacer_doc_id": "042022309852",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/372/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: Notice of Filing of Declaration of Disinterestedness of Ordinary Course Professional, Blank Rome LLP (related document(s)347) Filed by Kurtzman Carson Consultants, LLC dba Verita Global. (Kass, Albert) (Entered: 05/21/2025)",
+        "docket_entry_id": 426032916,
+        "docket_id": 69744198,
+        "document_number": 372,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-21",
+        "entry_number": 372,
+        "filepath_local": null,
+        "id": 440190983,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-21T05:04:11.625020Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-27T22:06:46.699775Z"
+        },
+        "pacer_doc_id": "042022305891",
+        "page_count": null,
+        "short_description": "Certificate of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/365/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration - Notice of Filing of Declaration of Disinterestedness of Ordinary Course Professional, Neal Cohen Law, LLC (related document(s)194) Filed by F21 OpCo, LLC. (Attachments: # 1 Exhibit A) (Lee, Andrew) (Entered: 05/20/2025)",
+        "docket_entry_id": 425981196,
+        "docket_id": 69744198,
+        "document_number": 365,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-20",
+        "entry_number": 365,
+        "filepath_local": null,
+        "id": 440137806,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-20T19:34:48.602314Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-27T22:06:46.351677Z"
+        },
+        "pacer_doc_id": "042022305083",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/347/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration - Notice of Filing of Declaration of Disinterestedness of Ordinary Course Professional, Blank Rome LLP (related document(s)194) Filed by F21 OpCo, LLC. (Attachments: # 1 Exhibit A) (Lee, Andrew) (Entered: 05/14/2025)",
+        "docket_entry_id": 425394849,
+        "docket_id": 69744198,
+        "document_number": 347,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-14",
+        "entry_number": 347,
+        "filepath_local": null,
+        "id": 439530707,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-14T19:01:02.322419Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-20T17:05:51.517517Z"
+        },
+        "pacer_doc_id": "042022292794",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/340/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Official Committee of Unsecured Creditors of F21 OpCo, LLC, et al., to Retain and Employ McDermott Will & Emery LLP as Counsel, Effective March 27, 2025 (Related Doc # 268, 337) Signed on 5/13/2025. (LMC) (Entered: 05/13/2025)",
+        "docket_entry_id": 425216248,
+        "docket_id": 69744198,
+        "document_number": 340,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-13",
+        "entry_number": 340,
+        "filepath_local": null,
+        "id": 439347250,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-13T15:05:35.698478Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-20T17:05:51.250261Z"
+        },
+        "pacer_doc_id": "042022289291",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/341/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Pursuant to 11 U.S.C. \u00a7\u00a7 328(a) and 1103 Authorizing and Approving the Retention and Employment of Cole Schotz P.C. as Delaware Co-Counsel to the Official Committee of Unsecured Creditors Effective as of March 27, 2025 (Related Doc # 269, 338) Signed on 5/13/2025. (LMC) (Entered: 05/13/2025)",
+        "docket_entry_id": 425216238,
+        "docket_id": 69744198,
+        "document_number": 341,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-13",
+        "entry_number": 341,
+        "filepath_local": null,
+        "id": 439347242,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-13T15:05:35.380275Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-20T17:06:04.004471Z"
+        },
+        "pacer_doc_id": "042022289307",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/338/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Application for an Order Pursuant to 11 U.S.C. \u00a7\u00a7 328(a) and 1103 Authorizing and Approving the Retention and Employment of Cole Schotz P.C. as Delaware Co-Counsel to the Official Committee of Unsecured Creditors Effective as of March 27, 2025 (related document(s)269) Filed by Official Committee of Unsecured Creditors. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Alberto, Justin) (Entered: 05/12/2025)",
+        "docket_entry_id": 425165920,
+        "docket_id": 69744198,
+        "document_number": 338,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-12",
+        "entry_number": 338,
+        "filepath_local": null,
+        "id": 439294950,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-12T21:34:48.824237Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-12T21:52:07.157822Z"
+        },
+        "pacer_doc_id": "042022287822",
+        "page_count": null,
+        "short_description": "Certification of Counsel(Aty)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/337/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Application of the Official Committee of Unsecured Creditors of F21 OpCo, LLC, et al., to Retain and Employ McDermott Will & Emery LLP as Counsel Effective as of March 27, 2025 (related document(s)268) Filed by Official Committee of Unsecured Creditors. (Alberto, Justin) (Entered: 05/12/2025)",
+        "docket_entry_id": 425156678,
+        "docket_id": 69744198,
+        "document_number": 337,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-12",
+        "entry_number": 337,
+        "filepath_local": null,
+        "id": 439285416,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-12T21:01:49.118704Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-12T21:52:07.178322Z"
+        },
+        "pacer_doc_id": "042022287763",
+        "page_count": null,
+        "short_description": "Certificate of No Objection",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/324/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: Notice of Filing of Declaration of Disinterestedness of Ordinary Course Professional, K&L Gates LLP (related document(s)303) Filed by Kurtzman Carson Consultants, LLC dba Verita Global. (Kass, Albert) (Entered: 05/10/2025)",
+        "docket_entry_id": 425025223,
+        "docket_id": 69744198,
+        "document_number": 324,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-10",
+        "entry_number": 324,
+        "filepath_local": null,
+        "id": 439149981,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-10T06:32:43.885682Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-12T21:52:06.660109Z"
+        },
+        "pacer_doc_id": "042022284974",
+        "page_count": null,
+        "short_description": "Certificate of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/303/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration - Notice of Filing of Declaration of Disinterestedness of Ordinary Course Professional, K&L Gates LLP (related document(s)194) Filed by F21 OpCo, LLC. (Attachments: # 1 Exhibit A) (Lee, Andrew) (Entered: 05/07/2025)",
+        "docket_entry_id": 424669659,
+        "docket_id": 69744198,
+        "document_number": 303,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-07",
+        "entry_number": 303,
+        "filepath_local": null,
+        "id": 438780751,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-07T17:34:16.901390Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-12T21:52:05.578026Z"
+        },
+        "pacer_doc_id": "042022276080",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/278/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: 1) First Monthly Fee Application of Kurtzman Carson Consultants, LLC dba Verita Global, as Administrative Advisor to the Debtors, for the Period from March 16, 2025 Through and Including March 31, 2025; and 2) Notice of Filing of Supplement to List of Ordinary Course Professionals (related document(s)260, 261) Filed by Kurtzman Carson Consultants, LLC dba Verita Global. (Kass, Albert) (Entered: 04/25/2025)",
+        "docket_entry_id": 423577456,
+        "docket_id": 69744198,
+        "document_number": 278,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-25",
+        "entry_number": 278,
+        "filepath_local": null,
+        "id": 437643786,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-04-26T01:31:25.722674Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-05T14:06:37.037998Z"
+        },
+        "pacer_doc_id": "042022252370",
+        "page_count": null,
+        "short_description": "Certificate of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/268/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain McDermott Will & Emery LLP as Counsel to the Official Committee of Unsecured Creditors, Effective March 27, 2025 Filed by Official Committee of Unsecured Creditors. Hearing scheduled for 5/28/2025 at 03:00 PM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #4, Wilmington, Delaware. Objections due by 5/9/2025. (Attachments: # 1 Notice # 2 Exhibit (s) A - C) (Alberto, Justin) (Entered: 04/25/2025)",
+        "docket_entry_id": 423516384,
+        "docket_id": 69744198,
+        "document_number": 268,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-25",
+        "entry_number": 268,
+        "filepath_local": null,
+        "id": 437581218,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-04-25T17:33:06.898107Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-05-05T14:06:36.672325Z"
+        },
+        "pacer_doc_id": "042022250793",
+        "page_count": null,
+        "short_description": "Employ/Retain - Application/Motion",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A69744198&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

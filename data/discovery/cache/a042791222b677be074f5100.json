@@ -1,0 +1,62 @@
+{
+  "response": {
+    "count": 62,
+    "next": null,
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MzMzNDI2MTQmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9Mw%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69744198&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69744198/4/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Appoint Claims/Noticing Agent KURTZMAN CARSON CONSULTANTS, LLC Filed By F21 OpCo, LLC (Magaziner, Andrew) (Entered: 03/16/2025)",
+        "docket_entry_id": 419420622,
+        "docket_id": 69744198,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-16",
+        "entry_number": 4,
+        "filepath_local": null,
+        "id": 433342614,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-17T04:02:38.672774Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-25T09:13:07.051110Z"
+        },
+        "pacer_doc_id": "042022166440",
+        "page_count": null,
+        "short_description": "Application to Appoint Claims/Noticing Agent (BF)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69744198/6/f21-opco-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Motion to Maintain Bank Accounts - Debtors' Motion for Entry of an Interim and Final Orders (I) Authorizing Continued Use of Cash Management System; (II) Authorizing Use of Prepetition Bank Accounts and Certain Payment Methods; (III) Authorizing Continued Performance of Intercompany Transactions in the Ordinary Course of Business; and (IV) Granting Related Relief Filed by F21 OpCo, LLC. (Magaziner, Andrew) (Entered: 03/16/2025)",
+        "docket_entry_id": 419420617,
+        "docket_id": 69744198,
+        "document_number": 6,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-16",
+        "entry_number": 6,
+        "filepath_local": null,
+        "id": 433342609,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-03-17T04:02:38.400673Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2025-03-25T09:13:07.051110Z"
+        },
+        "pacer_doc_id": "042022166452",
+        "page_count": null,
+        "short_description": "Motion to Maintain Bank Accounts (BF)",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00MzM1MzQ3MDEmdD1yZCZkPTIwMjYtMTAtMDkmcD00&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69744198&type=rd"
+}

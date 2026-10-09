@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 113,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NzU5MDMzNTImdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A72190554&type=rd",
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/72190554/1527/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: Declaration of Disinterestedness of Baker & Hostetler LLP Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business [Docket No. 1516] and Declaration of Disinterestedness of Booz Allen Hamilton Inc. Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business [Docket No. 1517]. (related document(s):1516 Declaration, 1517 Declaration). Filed by Omni Agent Solutions (Omni Agent Solutions) (Entered: 06/24/2026)",
+        "docket_entry_id": 468569367,
+        "docket_id": 72190554,
+        "document_number": 1527,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-24",
+        "entry_number": 1527,
+        "filepath_local": null,
+        "id": 483870048,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-24T17:05:47.895180Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:27:51.018847Z"
+        },
+        "pacer_doc_id": "178054640970",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1519/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: Notice of Additional Ordinary Course Professionals [Docket No. 1503]. (related document(s):1503 Notice). Filed by Omni Agent Solutions (Omni Agent Solutions) (Entered: 06/22/2026)",
+        "docket_entry_id": 468362939,
+        "docket_id": 72190554,
+        "document_number": 1519,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-22",
+        "entry_number": 1519,
+        "filepath_local": null,
+        "id": 483655579,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-23T02:04:53.354027Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:27:51.018847Z"
+        },
+        "pacer_doc_id": "178054630208",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1516/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Baker & Hostetler LLP Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business (Filed By Baker & Hostetler LLP ).(Related document(s):398 Generic Order) (Davidson, Timothy) (Entered: 06/22/2026)",
+        "docket_entry_id": 468353470,
+        "docket_id": 72190554,
+        "document_number": 1516,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-22",
+        "entry_number": 1516,
+        "filepath_local": null,
+        "id": 483644992,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-22T23:32:45.756881Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:27:51.018847Z"
+        },
+        "pacer_doc_id": "178054629930",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1517/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Booz Allen Hamilton Inc. Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business (Filed By Booz Allen Hamilton Inc. ).(Related document(s):398 Generic Order) (Davidson, Timothy) (Entered: 06/22/2026)",
+        "docket_entry_id": 468353459,
+        "docket_id": 72190554,
+        "document_number": 1517,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-22",
+        "entry_number": 1517,
+        "filepath_local": null,
+        "id": 483644981,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-22T23:32:44.926656Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:27:51.018847Z"
+        },
+        "pacer_doc_id": "178054629942",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1503/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Additional Ordinary Course Professionals. (Related document(s):398 Generic Order) Filed by FAT Brands Inc. (Davidson, Timothy) (Entered: 06/17/2026)",
+        "docket_entry_id": 467877263,
+        "docket_id": 72190554,
+        "document_number": 1503,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-17",
+        "entry_number": 1503,
+        "filepath_local": null,
+        "id": 483149437,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-17T17:33:45.180224Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:27:51.018847Z"
+        },
+        "pacer_doc_id": "178054605033",
+        "page_count": null,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1481/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Change in Hourly Rates of Paul Hastings LLP, Counsel to the Official Committee of Unsecured Creditors. (Related document(s):555 Order on Application to Employ) Filed by Paul Hastings LLP (Persons, Charles) (Entered: 06/11/2026)",
+        "docket_entry_id": 467104702,
+        "docket_id": 72190554,
+        "document_number": 1481,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-11",
+        "entry_number": 1481,
+        "filepath_local": null,
+        "id": 482360036,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-11T16:35:23.368495Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:27:51.018847Z"
+        },
+        "pacer_doc_id": "178054574082",
+        "page_count": null,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1100/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: Declaration of Disinterestedness of Goldberg Simpson, LLC Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business [Docket No. 1023]. (related document(s):1023 Declaration). Filed by Omni Agent Solutions (Omni Agent Solutions) (Entered: 04/27/2026)",
+        "docket_entry_id": 462156181,
+        "docket_id": 72190554,
+        "document_number": 1100,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-27",
+        "entry_number": 1100,
+        "filepath_local": null,
+        "id": 477264602,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-28T02:33:41.738075Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178054315043",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1101/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: Declaration of Disinterestedness of Seyfarth Shaw LLP Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business [Docket No. 1054]. (related document(s):1054 Declaration). Filed by Omni Agent Solutions (Omni Agent Solutions) (Entered: 04/27/2026)",
+        "docket_entry_id": 462156168,
+        "docket_id": 72190554,
+        "document_number": 1101,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-27",
+        "entry_number": 1101,
+        "filepath_local": null,
+        "id": 477264589,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-28T02:33:41.105627Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178054315055",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1098/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Steptoe & Johnson PLLC Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business (Filed By FAT Brands Inc. ).(Related document(s):398 Generic Order) (Davidson, Timothy) (Entered: 04/27/2026)",
+        "docket_entry_id": 462149717,
+        "docket_id": 72190554,
+        "document_number": 1098,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-27",
+        "entry_number": 1098,
+        "filepath_local": null,
+        "id": 477257821,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-28T00:05:32.964333Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178054314759",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1097/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Royston, Mueller, McLean & Reid, LLP Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business (Filed By FAT Brands Inc. ).(Related document(s):398 Generic Order) (Davidson, Timothy) (Entered: 04/27/2026)",
+        "docket_entry_id": 462147922,
+        "docket_id": 72190554,
+        "document_number": 1097,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-27",
+        "entry_number": 1097,
+        "filepath_local": null,
+        "id": 477256008,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-27T23:34:32.135529Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178054314753",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1094/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: Second Notice of Additional Ordinary Course Professionals [Docket No. 1015] and Declaration of Disinterestedness of Upton, Connell, and Devlin, LLP Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business [Docket No. 1016]. (related document(s):1015 Notice, 1016 Declaration). Filed by Omni Agent Solutions (Omni Agent Solutions) (Entered: 04/24/2026)",
+        "docket_entry_id": 461961493,
+        "docket_id": 72190554,
+        "document_number": 1094,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-24",
+        "entry_number": 1094,
+        "filepath_local": null,
+        "id": 477065739,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-25T04:03:25.336984Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178054305142",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1070/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Debtors' and BDO USA, P.C.'s Entry into New Statement of Work. (Related document(s):590 Order on Application to Employ) Filed by FAT Brands Inc. (Davidson, Timothy) (Entered: 04/24/2026)",
+        "docket_entry_id": 461884365,
+        "docket_id": 72190554,
+        "document_number": 1070,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-24",
+        "entry_number": 1070,
+        "filepath_local": null,
+        "id": 476986355,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-24T16:33:33.058627Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178054302084",
+        "page_count": null,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1054/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Seyfarth Shaw LLP Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business (Filed By Seyfarth Shaw LLP ).(Related document(s):398 Generic Order) (Davidson, Timothy) (Entered: 04/23/2026)",
+        "docket_entry_id": 461813343,
+        "docket_id": 72190554,
+        "document_number": 1054,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-23",
+        "entry_number": 1054,
+        "filepath_local": null,
+        "id": 476913452,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-23T22:33:49.825357Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178054298169",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1023/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Goldberg Simpson, LLC Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business (Filed By FAT Brands Inc. ).(Related document(s):398 Generic Order) (Davidson, Timothy) (Entered: 04/22/2026)",
+        "docket_entry_id": 461602482,
+        "docket_id": 72190554,
+        "document_number": 1023,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-22",
+        "entry_number": 1023,
+        "filepath_local": null,
+        "id": 476698658,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-22T18:00:38.321443Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178054287343",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1015/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Second Notice of Additional Ordinary Course Professionals. (Related document(s):398 Generic Order, 598 Notice) Filed by FAT Brands Inc. (Davidson, Timothy) (Entered: 04/20/2026)",
+        "docket_entry_id": 461406802,
+        "docket_id": 72190554,
+        "document_number": 1015,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-20",
+        "entry_number": 1015,
+        "filepath_local": null,
+        "id": 476496751,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-21T03:05:47.199168Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:27:51.018847Z"
+        },
+        "pacer_doc_id": "178054276584",
+        "page_count": null,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1016/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Upton, Connell and Devlin, LLP Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business (Filed By FAT Brands Inc. ).(Related document(s):398 Generic Order) (Davidson, Timothy) (Entered: 04/20/2026)",
+        "docket_entry_id": 461406798,
+        "docket_id": 72190554,
+        "document_number": 1016,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-20",
+        "entry_number": 1016,
+        "filepath_local": null,
+        "id": 476496747,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-21T03:05:47.071876Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:27:51.018847Z"
+        },
+        "pacer_doc_id": "178054276587",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1013/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: Declaration of Disinterestedness of Littler Mendelson, P.C. Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business [Docket No. 1001]. (related document(s):1001 Declaration). Filed by Omni Agent Solutions (Omni Agent Solutions) (Entered: 04/20/2026)",
+        "docket_entry_id": 461379471,
+        "docket_id": 72190554,
+        "document_number": 1013,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-20",
+        "entry_number": 1013,
+        "filepath_local": null,
+        "id": 476468796,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-20T21:33:53.955247Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:27:51.018847Z"
+        },
+        "pacer_doc_id": "178054275252",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1002/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: Declaration of Disinterestedness of Bilzin Sumberg Baena Price & Axelrod LLP Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business [Docket No. 976] and Declaration of Disinterestedness of Saltzman Mugan Dushoff, PLLC Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business [Docket No. 977]. (related document(s):976 Declaration, 977 Declaration). Filed by Omni Agent Solutions (Omni Agent Solutions) (Entered: 04/17/2026)",
+        "docket_entry_id": 461186763,
+        "docket_id": 72190554,
+        "document_number": 1002,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-17",
+        "entry_number": 1002,
+        "filepath_local": null,
+        "id": 476271744,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-17T22:05:29.579193Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178054263782",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/1001/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Littler Mendelson, P.C. Pursuant to Order Authorizing Debtors to Retain and Compensate Professionals Used in the Ordinary Course of Business (Filed By FAT Brands Inc. ).(Related document(s):398 Generic Order) (Davidson, Timothy) (Entered: 04/16/2026)",
+        "docket_entry_id": 461058280,
+        "docket_id": 72190554,
+        "document_number": 1001,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-16",
+        "entry_number": 1001,
+        "filepath_local": null,
+        "id": 476140616,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-16T23:34:51.970341Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178054255657",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72190554/981/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: Order (I) Authorizing and Approving Debtors Limited Key Employee Retention Plan for Non-Insider Employees and (II) Granting Related Relief [Docket No. 581], Order Authorizing the Employment and Retention of Pachulski Stang Ziehl & Jones LLP as Conflicts and Mediation Counsel to Fat Brands, Inc. and Twin Hospitality Group Inc., Effective as of February 2, 2026 [Docket No. 588], and Order Granting Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of BDO USA, P.C. as Tax Advisory Services Provider to the Debtors and Debtors In Possession Effective as of February 16, 2026 and (II) Granting Related Relief [Docket No. 590]. (related document(s):581 Order on Emergency Motion, 588 Order on Application to Employ, 590 Order on Application to Employ). Filed by Omni Agent Solutions (Omni Agent Solutions) (Entered: 04/15/2026)",
+        "docket_entry_id": 460828485,
+        "docket_id": 72190554,
+        "document_number": 981,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-15",
+        "entry_number": 981,
+        "filepath_local": null,
+        "id": 475903352,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-15T15:33:34.592714Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-09-11T13:27:51.018847Z"
+        },
+        "pacer_doc_id": "178054243088",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A72190554&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

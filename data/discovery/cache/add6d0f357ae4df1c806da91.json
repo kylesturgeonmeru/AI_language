@@ -1,0 +1,544 @@
+{
+  "response": {
+    "count": 41,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NjgwMzMxMzEmdD1yZCZkPTIwMjYtMTAtMDkmcD0z&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A72247921&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NzMwMTQzMjAmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9MQ%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A72247921&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/72247921/335/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Jasmine L. Anderson, on Behalf of Proposed Ordinary Course Professional Fox Rothschild LLP in support of (related document:231 Order (Generic)) filed by Michael D. Sirota on behalf of Eddie Bauer LLC. (Sirota, Michael) (Entered: 03/20/2026)",
+        "docket_entry_id": 458021268,
+        "docket_id": 72247921,
+        "document_number": 335,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-20",
+        "entry_number": 335,
+        "filepath_local": null,
+        "id": 473014320,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-20T20:33:29.957260Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-21T22:59:23.210270Z"
+        },
+        "pacer_doc_id": "118070518104",
+        "page_count": null,
+        "short_description": "Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/332/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Supplemental Declaration of Matthew C. Fagen in Support of Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of February 9, 2026 in support of (related document:272 Application for Retention filed by Attorney Kirkland & Ellis LLP and Kirkland & Ellis International LLP) filed by Michael D. Sirota on behalf of Kirkland & Ellis LLP and Kirkland & Ellis International LLP. (Sirota, Michael) (Entered: 03/20/2026)",
+        "docket_entry_id": 457987389,
+        "docket_id": 72247921,
+        "document_number": 332,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-20",
+        "entry_number": 332,
+        "filepath_local": null,
+        "id": 472980043,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-20T18:03:55.007175Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-20T18:10:31.138699Z"
+        },
+        "pacer_doc_id": "118070516557",
+        "page_count": null,
+        "short_description": "Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Minute of Hearing Held, OUTCOME:Order to be Signed and Entered (related document:130 Motion re: Debtors' Motion for Entry of an Administrative Fee Order Establishing Procedures for the Allowance and Payment of Interim Compensation and Reimbursement of Expenses of Professionals Retained by Order of This Court Filed by Michael D. Sirota on behalf of Eddie Bauer LLC. Hearing scheduled for 3/16/2026 at 10:00 AM, SLM - Courtroom 3A, Newark.. Filed by Debtor Eddie Bauer LLC) (ntp)",
+        "docket_entry_id": 457389081,
+        "docket_id": 72247921,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-16",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 472372509,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-17T10:32:40.965258Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-17T10:32:41.014479Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/305/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ADMINISTRATIVE FEE ORDER ESTABLISHING PROCEDURES FOR THE ALLOWANCE AND PAYMENTOF INTERIM COMPENSATION AND REIMBURSEMENT OF EXPENSES OF PROFESSIONALS RETAINED BY ORDER OF THIS COURT (Related Doc # 130). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 3/16/2026. (ntp) (Entered: 03/16/2026)",
+        "docket_entry_id": 457274508,
+        "docket_id": 72247921,
+        "document_number": 305,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-16",
+        "entry_number": 305,
+        "filepath_local": null,
+        "id": 472254914,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-16T15:33:05.459708Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-17T10:32:41.055388Z"
+        },
+        "pacer_doc_id": "118070483823",
+        "page_count": null,
+        "short_description": "Motion (Generic)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/280/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application For Retention of Professional RCS Real Estate Advisors as Real Estate Advisors to the Debtors and Debtors In Possession, Effective as of the Petition Date; (II) Waiving Certain Timekeeping Requirements; and (III) Granting Related Relief Filed by Michael D. Sirota on behalf of RCS Real Estate Advisors. Objection deadline is 3/19/2026. (Sirota, Michael) (Entered: 03/12/2026)",
+        "docket_entry_id": 457013033,
+        "docket_id": 72247921,
+        "document_number": 280,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-12",
+        "entry_number": 280,
+        "filepath_local": null,
+        "id": 471987520,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-13T01:04:08.766866Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-13T16:23:58.030827Z"
+        },
+        "pacer_doc_id": "118070463380",
+        "page_count": null,
+        "short_description": "Retention (Do Not Use to Employ/Appoint an Examiner)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/272/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application For Retention of Professional Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of February 9, 2026 Filed by Michael D. Sirota on behalf of Kirkland & Ellis LLP and Kirkland & Ellis International LLP. Objection deadline is 3/18/2026. (Sirota, Michael) (Entered: 03/11/2026)",
+        "docket_entry_id": 456832630,
+        "docket_id": 72247921,
+        "document_number": 272,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-11",
+        "entry_number": 272,
+        "filepath_local": null,
+        "id": 471804123,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-12T03:33:04.051911Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-13T16:23:57.505590Z"
+        },
+        "pacer_doc_id": "118070455866",
+        "page_count": null,
+        "short_description": "Retention (Do Not Use to Employ/Appoint an Examiner)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/273/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application For Retention of Professional Stretto, Inc. as Administrative Advisor Effective as of the Petition Date Filed by Michael D. Sirota on behalf of Stretto, Inc.. Objection deadline is 3/18/2026. (Sirota, Michael) (Entered: 03/11/2026)",
+        "docket_entry_id": 456832628,
+        "docket_id": 72247921,
+        "document_number": 273,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-11",
+        "entry_number": 273,
+        "filepath_local": null,
+        "id": 471804120,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-12T03:33:03.903742Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-13T16:23:57.553328Z"
+        },
+        "pacer_doc_id": "118070455872",
+        "page_count": null,
+        "short_description": "Retention (Do Not Use to Employ/Appoint an Examiner)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/274/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application For Retention of Professional Cole Schotz P.C. as Bankruptcy Co- Counsel to the Debtors Nunc Pro Tunc to the Petition Date Filed by Michael D. Sirota on behalf of Cole Schotz, P.C.. Objection deadline is 3/18/2026. (Sirota, Michael) (Entered: 03/11/2026)",
+        "docket_entry_id": 456832623,
+        "docket_id": 72247921,
+        "document_number": 274,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-11",
+        "entry_number": 274,
+        "filepath_local": null,
+        "id": 471804115,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-12T03:33:03.803521Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-13T16:23:57.617707Z"
+        },
+        "pacer_doc_id": "118070455875",
+        "page_count": null,
+        "short_description": "Retention (Do Not Use to Employ/Appoint an Examiner)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/275/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application For Retention of Professional GBH SOLIC Holdco, LLC as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date; (II) Waiving Certain Timekeeping Requirements; and (III) Granting Related Relief Filed by Michael D. Sirota on behalf of GBH SOLIC Holdco, LLC. Objection deadline is 3/18/2026. (Sirota, Michael) (Entered: 03/11/2026)",
+        "docket_entry_id": 456832620,
+        "docket_id": 72247921,
+        "document_number": 275,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-11",
+        "entry_number": 275,
+        "filepath_local": null,
+        "id": 471804112,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-12T03:33:03.682020Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-13T16:23:57.678922Z"
+        },
+        "pacer_doc_id": "118070455878",
+        "page_count": null,
+        "short_description": "Retention (Do Not Use to Employ/Appoint an Examiner)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/260/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Withdrawal of Document (related document:259 Application for Retention filed by Other Prof. Berkeley Research Group, LLC) filed by Michael D. Sirota on behalf of Eddie Bauer LLC. (Sirota, Michael) (Entered: 03/09/2026)",
+        "docket_entry_id": 456413845,
+        "docket_id": 72247921,
+        "document_number": 260,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-09",
+        "entry_number": 260,
+        "filepath_local": "recap/gov.uscourts.njb.1137835/gov.uscourts.njb.1137835.260.0.pdf",
+        "id": 471378694,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-03-10T03:06:28.745614Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-12T00:06:34.970164Z"
+        },
+        "pacer_doc_id": "118070443041",
+        "page_count": 2,
+        "short_description": "Withdrawal of Document",
+        "snippet": "Case 26-11422-SLM              Doc 260      Filed 03/09/26 Entered 03/09/26 22:43:25                      Desc Main\n                                           Document      Page 1 of 2\n\n\n     KIRKLAND & ELLIS LLP                                         COLE SCHOTZ P.C.\n     KIRKLAND & ELLIS INTERNATIONAL LLP                           Michael D. Sirota, Esq.\n     Joshua A. Sussberg, P.C. (admitted pro hac vice)             Warren A. Usatine, Esq.\n     Matthew C. Fagen, P.C. (admitted pro hac vice"
+      },
+      {
+        "absolute_url": "/docket/72247921/261/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [
+          112433,
+          1844146,
+          1872425,
+          1945900,
+          1983380,
+          9495663
+        ],
+        "description": "Motion re: /Debtors' Motion for Entry of an Order (I) Authorizing the Retention and Employment of Berkeley Research Group, LLC to Provide Co-Chief Restructuring Officers and Additional Personnel for the Debtors Effective as of the Petition Date; and (II) Granting Related Relief Filed by Michael D. Sirota on behalf of Berkeley Research Group, LLC. Hearing scheduled for 3/30/2026 at 11:00 AM, SLM - Courtroom 3A, Newark.. (Sirota, Michael) (Entered: 03/09/2026)",
+        "docket_entry_id": 456413839,
+        "docket_id": 72247921,
+        "document_number": 261,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-09",
+        "entry_number": 261,
+        "filepath_local": "recap/gov.uscourts.njb.1137835/gov.uscourts.njb.1137835.261.0.pdf",
+        "id": 471378688,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-03-10T03:06:28.626035Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-12T00:09:03.827009Z"
+        },
+        "pacer_doc_id": "118070443044",
+        "page_count": 85,
+        "short_description": "Motion (Generic) - Only use if no other event is applicable",
+        "snippet": "Case 26-11422-SLM              Doc 261     Filed 03/09/26 Entered 03/09/26 22:47:47                       Desc Main\n                                          Document     Page 1 of 85\n\n\n\n     KIRKLAND & ELLIS LLP                                         COLE SCHOTZ P.C.\n     KIRKLAND & ELLIS INTERNATIONAL LLP                           Michael D. Sirota, Esq.\n     Joshua A. Sussberg, P.C. (admitted pro hac vice)             Warren A. Usatine, Esq.\n     Matthew C. Fagen, P.C. (admitted pro hac vice"
+      },
+      {
+        "absolute_url": "/docket/72247921/259/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [
+          112433,
+          1844146,
+          1872425,
+          1945900,
+          1983380,
+          9495663
+        ],
+        "description": "WITHDRAWN - Application For Retention of Professional Berkeley Research Group, LLC as Co-Chief Restructuring Officers and Additional Personnel for the Debtors Effective as of the Petition Date; and (II) Granting Related Relief Filed by Michael D. Sirota on behalf of Berkeley Research Group, LLC. Objection deadline is 3/16/2026. (Sirota, Michael) Modified to Reflect Withdrawn, Refer to Docket Entry 260, on 3/10/2026 (rah). (Entered: 03/09/2026)",
+        "docket_entry_id": 456413266,
+        "docket_id": 72247921,
+        "document_number": 259,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-09",
+        "entry_number": 259,
+        "filepath_local": "recap/gov.uscourts.njb.1137835/gov.uscourts.njb.1137835.259.0.pdf",
+        "id": 471378042,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-03-10T02:32:48.338604Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-12T00:09:01.849729Z"
+        },
+        "pacer_doc_id": "118070443011",
+        "page_count": 85,
+        "short_description": "Retention (Do Not Use to Employ/Appoint an Examiner)",
+        "snippet": "Case 26-11422-SLM              Doc 259     Filed 03/09/26 Entered 03/09/26 22:19:26                       Desc Main\n                                          Document     Page 1 of 85\n\n\n\n     KIRKLAND & ELLIS LLP                                         COLE SCHOTZ P.C.\n     KIRKLAND & ELLIS INTERNATIONAL LLP                           Michael D. Sirota, Esq.\n     Joshua A. Sussberg, P.C. (admitted pro hac vice)             Warren A. Usatine, Esq.\n     Matthew C. Fagen, P.C. (admitted pro hac vice"
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Minute of Hearing Held, OUTCOME: Granted, Order to be Entered (related document:87 Motion re: / Debtors' Motion for Entry of an Order Authorizing Employment and Payment of Professionals Utilized in the Ordinary Course of Business Filed by Michael D. Sirota on behalf of Eddie Bauer LLC. Hearing scheduled for 3/3/2026 at 01:00 PM, SLM - Courtroom 3A, Newark.. Filed by Debtor Eddie Bauer LLC) (ntp)",
+        "docket_entry_id": 455837154,
+        "docket_id": 72247921,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-03",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 470790722,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-04T21:14:31.677256Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-04T21:14:31.929825Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/231/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER AUTHORIZING EMPLOYMENT AND PAYMENT OF PROFESSIONALS UTILIZED IN THE ORDINARY COURSE OF BUSINESS (Related Doc # 87). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 3/3/2026. (ntp) (Entered: 03/03/2026)",
+        "docket_entry_id": 455702942,
+        "docket_id": 72247921,
+        "document_number": 231,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-03",
+        "entry_number": 231,
+        "filepath_local": "recap/gov.uscourts.njb.1137835/gov.uscourts.njb.1137835.231.0.pdf",
+        "id": 470652829,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-03-03T21:36:35.873542Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-12T00:07:59.626188Z"
+        },
+        "pacer_doc_id": "118070406398",
+        "page_count": 21,
+        "short_description": "Motion (Generic)",
+        "snippet": "Case 26-11422-SLM               Doc 231     Filed 03/03/26 Entered 03/03/26 16:09:34                      Desc Main\n                                           Document     Page 1 of 21\n\n\n\n     UNITED STATES BANKRUPTCY COURT\n     DISTRICT OF NEW JERSEY\n\n     Caption in Compliance with D.N.J. LBR 9004-1(b)                             Order Filed on March 3, 2026\n                                                                                 by Clerk,\n     KIRKLAND & ELLIS LLP                     "
+      },
+      {
+        "absolute_url": "/docket/72247921/130/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Motion re: Debtors' Motion for Entry of an Administrative Fee Order Establishing Procedures for the Allowance and Payment of Interim Compensation and Reimbursement of Expenses of Professionals Retained by Order of This Court Filed by Michael D. Sirota on behalf of Eddie Bauer LLC. Hearing scheduled for 3/16/2026 at 10:00 AM, SLM - Courtroom 3A, Newark.. (Sirota, Michael) (Entered: 02/19/2026)",
+        "docket_entry_id": 454454718,
+        "docket_id": 72247921,
+        "document_number": 130,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-19",
+        "entry_number": 130,
+        "filepath_local": null,
+        "id": 469372202,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-20T02:30:56.266045Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-03-02T19:57:35.111513Z"
+        },
+        "pacer_doc_id": "118070332737",
+        "page_count": null,
+        "short_description": "Motion (Generic) - Only use if no other event is applicable",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/98/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Transcript regarding Hearing Held 02/10/26 (related document:3 Motion for Joint Administration - Multi-Case, 5 Motion to Retain Claims and Noticing Agent filed by Debtor Eddie Bauer LLC, 6 Motion (Generic) filed by Debtor Eddie Bauer LLC, 7 Motion (Generic) filed by Debtor Eddie Bauer LLC, 9 Motion (Generic) filed by Debtor Eddie Bauer LLC, 10 Motion (Generic) filed by Debtor Eddie Bauer LLC, 12 Motion (Generic) filed by Debtor Eddie Bauer LLC, 13 Motion (Generic) filed by Debtor Eddie Bauer LLC, 14 Motion (Generic) filed by Debtor Eddie Bauer LLC, 15 Motion (Generic) filed by Debtor Eddie Bauer LLC, 16 Motion (Generic) filed by Debtor Eddie Bauer LLC, 17 Motion (Generic) filed by Debtor Eddie Bauer LLC, 18 Motion (Generic) filed by Debtor Eddie Bauer LLC, 19 Motion (Generic) filed by Debtor Eddie Bauer LLC, 20 Motion (Generic) filed by Debtor Eddie Bauer LLC, 21 Motion to Extend Time filed by Debtor Eddie Bauer LLC, 22 Motion (Generic) filed by Debtor Eddie Bauer LLC). The transcript may be viewed at the Bankruptcy Court Clerk's Office. For information about how to contact the transcriber, call the Clerk's Office. Notice of Intent to Request Redaction Deadline Due By 2/20/2026. List of Items to be Redacted Due By 03/6/2026. Redacted Transcript Submission Due By 03/16/2026. Remote electronic access to the transcript will be restricted through 05/14/2026. (J&J Court Transcribers) (Entered: 02/13/2026)",
+        "docket_entry_id": 454067412,
+        "docket_id": 72247921,
+        "document_number": 98,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-13",
+        "entry_number": 98,
+        "filepath_local": null,
+        "id": 468974834,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-17T18:01:28.305836Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-07-20T21:04:32.095910Z"
+        },
+        "pacer_doc_id": "118070298826",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/87/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Motion re: / Debtors' Motion for Entry of an Order Authorizing Employment and Payment of Professionals Utilized in the Ordinary Course of Business Filed by Michael D. Sirota on behalf of Eddie Bauer LLC. Hearing scheduled for 3/3/2026 at 01:00 PM, SLM - Courtroom 3A, Newark.. (Sirota, Michael) (Entered: 02/11/2026)",
+        "docket_entry_id": 453600588,
+        "docket_id": 72247921,
+        "document_number": 87,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-11",
+        "entry_number": 87,
+        "filepath_local": null,
+        "id": 468495911,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-12T02:01:38.697569Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-12T18:37:54.482883Z"
+        },
+        "pacer_doc_id": "118070289440",
+        "page_count": null,
+        "short_description": "Motion (Generic) - Only use if no other event is applicable",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Minute of Hearing Held, OUTCOME: Order to be Signed and Entered (related document:5 Motion for an Order Authorizing Debtor to Retain a Claims and Noticing Agent Filed by Michael D. Sirota on behalf of Debtor Eddie Bauer LLC) (rah)",
+        "docket_entry_id": 453593875,
+        "docket_id": 72247921,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-10",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 468489038,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-12T00:08:11.667075Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-12T00:08:11.725523Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/58/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Granting Motion for An Order Authorizing Debtor to Retain a Claims and Noticing Agent (Related Doc # 5). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 2/10/2026. (rah) (Entered: 02/10/2026)",
+        "docket_entry_id": 453408890,
+        "docket_id": 72247921,
+        "document_number": 58,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-10",
+        "entry_number": 58,
+        "filepath_local": null,
+        "id": 468300524,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-10T21:04:37.092004Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-12T00:08:11.896817Z"
+        },
+        "pacer_doc_id": "118070279149",
+        "page_count": null,
+        "short_description": "Retain Claims and Noticing Agent",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72247921/23/eddie-bauer-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application for Expedited Consideration of First Day Matters (related document:3 Motion for Joint Administration - Multi-Case, 4 Application for Designation as a Chapter 11 Complex Case filed by Debtor Eddie Bauer LLC, 5 Motion to Retain Claims and Noticing Agent filed by Debtor Eddie Bauer LLC, 6 Motion (Generic) filed by Debtor Eddie Bauer LLC, Credit Card/Debit Card Payment, 7 Motion (Generic) filed by Debtor Eddie Bauer LLC, 9 Motion (Generic) filed by Debtor Eddie Bauer LLC, 10 Motion (Generic) filed by Debtor Eddie Bauer LLC, 12 Motion (Generic) filed by Debtor Eddie Bauer LLC, 13 Motion (Generic) filed by Debtor Eddie Bauer LLC, 14 Motion (Generic) filed by Debtor Eddie Bauer LLC, 15 Motion (Generic) filed by Debtor Eddie Bauer LLC, 16 Motion (Generic) filed by Debtor Eddie Bauer LLC, 17 Motion (Generic) filed by Debtor Eddie Bauer LLC, 18 Motion (Generic) filed by Debtor Eddie Bauer LLC, 19 Motion (Generic) filed by Debtor Eddie Bauer LLC, 20 Motion (Generic) filed by Debtor Eddie Bauer LLC, 21 Motion to Extend Time filed by Debtor Eddie Bauer LLC) Filed by Michael D. Sirota on behalf of Eddie Bauer LLC. (Sirota, Michael) (Entered: 02/09/2026)",
+        "docket_entry_id": 453148058,
+        "docket_id": 72247921,
+        "document_number": 23,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-09",
+        "entry_number": 23,
+        "filepath_local": null,
+        "id": 468033131,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-09T13:35:04.439665Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-02-09T14:01:29.299259Z"
+        },
+        "pacer_doc_id": "118070257276",
+        "page_count": null,
+        "short_description": "Expedited Consideration of First Day Matters (For Ch. 11 Cases Only)",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NzMzMzQ2MDUmdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A72247921&type=rd"
+}

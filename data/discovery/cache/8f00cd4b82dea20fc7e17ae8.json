@@ -1,0 +1,1097 @@
+{
+  "response": {
+    "_shards": {
+      "failed": 0,
+      "skipped": 0,
+      "successful": 50,
+      "total": 50
+    },
+    "aggregations": {
+      "biz_states_filter": {
+        "buckets": [
+          {
+            "doc_count": 100,
+            "key": "NY"
+          },
+          {
+            "doc_count": 66,
+            "key": "CA"
+          },
+          {
+            "doc_count": 60,
+            "key": "MA"
+          },
+          {
+            "doc_count": 39,
+            "key": "FL"
+          },
+          {
+            "doc_count": 33,
+            "key": "K3"
+          },
+          {
+            "doc_count": 28,
+            "key": "TX"
+          },
+          {
+            "doc_count": 27,
+            "key": "X0"
+          },
+          {
+            "doc_count": 26,
+            "key": "PA"
+          },
+          {
+            "doc_count": 24,
+            "key": "NJ"
+          },
+          {
+            "doc_count": 19,
+            "key": "IL"
+          },
+          {
+            "doc_count": 16,
+            "key": "CT"
+          },
+          {
+            "doc_count": 14,
+            "key": "CO"
+          },
+          {
+            "doc_count": 14,
+            "key": "U0"
+          },
+          {
+            "doc_count": 12,
+            "key": "F4"
+          },
+          {
+            "doc_count": 12,
+            "key": "NV"
+          },
+          {
+            "doc_count": 10,
+            "key": "VA"
+          },
+          {
+            "doc_count": 9,
+            "key": "A1"
+          },
+          {
+            "doc_count": 9,
+            "key": "AZ"
+          },
+          {
+            "doc_count": 9,
+            "key": "NM"
+          },
+          {
+            "doc_count": 8,
+            "key": "DE"
+          },
+          {
+            "doc_count": 8,
+            "key": "MD"
+          },
+          {
+            "doc_count": 7,
+            "key": "C0"
+          },
+          {
+            "doc_count": 7,
+            "key": "KS"
+          },
+          {
+            "doc_count": 7,
+            "key": "WA"
+          },
+          {
+            "doc_count": 6,
+            "key": "1H"
+          },
+          {
+            "doc_count": 6,
+            "key": "ID"
+          },
+          {
+            "doc_count": 6,
+            "key": "MN"
+          },
+          {
+            "doc_count": 6,
+            "key": "NC"
+          },
+          {
+            "doc_count": 6,
+            "key": "OR"
+          },
+          {
+            "doc_count": 5,
+            "key": "E9"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 56
+      },
+      "entity_filter": {
+        "buckets": [
+          {
+            "doc_count": 13,
+            "key": "Black Hawk Acquisition Corp  (BKHA, BKHAR, BKHAU)  (CIK 0002000775)"
+          },
+          {
+            "doc_count": 12,
+            "key": "Vesicor Therapeutics, Inc.  (CIK 0001993074)"
+          },
+          {
+            "doc_count": 8,
+            "key": "Xdata Group  (CIK 0002038688)"
+          },
+          {
+            "doc_count": 7,
+            "key": "AIAI Holdings Corp  (AIAI)  (CIK 0002096362)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Churchill Capital Corp IX/Cayman  (CCIX, CCIXU, CCIXW)  (CIK 0002006291)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Churchill Capital Corp X/Cayman  (CCCX, CCCXU, CCCXW)  (CIK 0002007825)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Ikena Oncology, Inc.  (IKNA)  (CIK 0001835579)"
+          },
+          {
+            "doc_count": 7,
+            "key": "InMed Pharmaceuticals Inc.  (INM)  (CIK 0001728328)"
+          },
+          {
+            "doc_count": 7,
+            "key": "MEDIAON GROUP INC.  (CIK 0002059702)"
+          },
+          {
+            "doc_count": 7,
+            "key": "VEON Holdings B.V.  (CIK 0002063940)"
+          },
+          {
+            "doc_count": 6,
+            "key": "ALUMIS INC.  (ALMS)  (CIK 0001847367)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Acco Group Holdings Ltd  (CIK 0002038378)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Bleichroeder Acquisition Corp. II  (CIK 0002088295)"
+          },
+          {
+            "doc_count": 6,
+            "key": "CADV Ventures S.A.  (CIK 0002133525)"
+          },
+          {
+            "doc_count": 6,
+            "key": "ChowChow Cloud International Holdings Ltd  (CIK 0002041829)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Churchill Capital Corp XI  (CCXI, CCXIU, CCXIW)  (CIK 0002074973)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Hacker Interstellar Inc.  (CIK 0002070237)"
+          },
+          {
+            "doc_count": 6,
+            "key": "IGTA Merger Sub Ltd  (PRGY)  (CIK 0001997698)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Miluna Acquisition Corp  (MMTX, MMTXU, MMTXW)  (CIK 0002077033)"
+          },
+          {
+            "doc_count": 6,
+            "key": "OU XDATA GROUP  (CIK 0002045727)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Pasqal Holding SAS  (CIK 0002122325)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Plus Automation, Inc.  (CIK 0002086744)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Rallybio Corp  (RLYB)  (CIK 0001739410)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Securitize, Inc.  (CIK 0001762096)"
+          },
+          {
+            "doc_count": 5,
+            "key": "180 DEGREE CAPITAL CORP. /NY/  (TURN)  (CIK 0000893739)"
+          },
+          {
+            "doc_count": 5,
+            "key": "AIR Ltd  (CIK 0002109429)"
+          },
+          {
+            "doc_count": 5,
+            "key": "AIRO Group Holdings, Inc.  (AIRO)  (CIK 0001927958)"
+          },
+          {
+            "doc_count": 5,
+            "key": "APx Acquisition Corp. I  (CIK 0001868573)"
+          },
+          {
+            "doc_count": 5,
+            "key": "Blockfusion USA, Inc.  (CIK 0001910992)"
+          },
+          {
+            "doc_count": 5,
+            "key": "ColdQuanta, Inc.  (CIK 0001746727)"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 637
+      },
+      "form_filter": {
+        "buckets": [
+          {
+            "doc_count": 141,
+            "key": "S-4"
+          },
+          {
+            "doc_count": 93,
+            "key": "DRS"
+          },
+          {
+            "doc_count": 52,
+            "key": "424B3"
+          },
+          {
+            "doc_count": 49,
+            "key": "F-1"
+          },
+          {
+            "doc_count": 49,
+            "key": "S-1"
+          },
+          {
+            "doc_count": 38,
+            "key": "20-F"
+          },
+          {
+            "doc_count": 37,
+            "key": "DEFM14A"
+          },
+          {
+            "doc_count": 35,
+            "key": "F-4"
+          },
+          {
+            "doc_count": 28,
+            "key": "8-K"
+          },
+          {
+            "doc_count": 22,
+            "key": "10-K"
+          },
+          {
+            "doc_count": 22,
+            "key": "DEF 14A"
+          },
+          {
+            "doc_count": 19,
+            "key": "6-K"
+          },
+          {
+            "doc_count": 15,
+            "key": "424B4"
+          },
+          {
+            "doc_count": 14,
+            "key": "PREM14A"
+          },
+          {
+            "doc_count": 13,
+            "key": "ARS"
+          },
+          {
+            "doc_count": 12,
+            "key": "425"
+          },
+          {
+            "doc_count": 9,
+            "key": "40-F"
+          },
+          {
+            "doc_count": 8,
+            "key": "PRER14A"
+          },
+          {
+            "doc_count": 7,
+            "key": "N-CSR"
+          },
+          {
+            "doc_count": 7,
+            "key": "PRE 14A"
+          },
+          {
+            "doc_count": 6,
+            "key": "DEFA14A"
+          },
+          {
+            "doc_count": 6,
+            "key": "POS AM"
+          },
+          {
+            "doc_count": 6,
+            "key": "SC 13E3"
+          },
+          {
+            "doc_count": 5,
+            "key": "10-Q"
+          },
+          {
+            "doc_count": 5,
+            "key": "N-PX"
+          },
+          {
+            "doc_count": 4,
+            "key": "DEFM14C"
+          },
+          {
+            "doc_count": 2,
+            "key": "DEFR14A"
+          },
+          {
+            "doc_count": 2,
+            "key": "PREM14C"
+          },
+          {
+            "doc_count": 1,
+            "key": "424B5"
+          },
+          {
+            "doc_count": 1,
+            "key": "486BPOS"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 3
+      },
+      "sic_filter": {
+        "buckets": [
+          {
+            "doc_count": 81,
+            "key": "7372"
+          },
+          {
+            "doc_count": 76,
+            "key": "2834"
+          },
+          {
+            "doc_count": 67,
+            "key": "6770"
+          },
+          {
+            "doc_count": 60,
+            "key": "7374"
+          },
+          {
+            "doc_count": 41,
+            "key": "7370"
+          },
+          {
+            "doc_count": 35,
+            "key": "2836"
+          },
+          {
+            "doc_count": 25,
+            "key": "6199"
+          },
+          {
+            "doc_count": 21,
+            "key": "7373"
+          },
+          {
+            "doc_count": 20,
+            "key": "7389"
+          },
+          {
+            "doc_count": 18,
+            "key": "6282"
+          },
+          {
+            "doc_count": 18,
+            "key": "7371"
+          },
+          {
+            "doc_count": 17,
+            "key": "8742"
+          },
+          {
+            "doc_count": 11,
+            "key": "3721"
+          },
+          {
+            "doc_count": 11,
+            "key": "4812"
+          },
+          {
+            "doc_count": 9,
+            "key": "1311"
+          },
+          {
+            "doc_count": 9,
+            "key": "6022"
+          },
+          {
+            "doc_count": 8,
+            "key": "3841"
+          },
+          {
+            "doc_count": 7,
+            "key": "3663"
+          },
+          {
+            "doc_count": 7,
+            "key": "6311"
+          },
+          {
+            "doc_count": 7,
+            "key": "7311"
+          },
+          {
+            "doc_count": 6,
+            "key": "2100"
+          },
+          {
+            "doc_count": 6,
+            "key": "4833"
+          },
+          {
+            "doc_count": 6,
+            "key": "6211"
+          },
+          {
+            "doc_count": 6,
+            "key": "8731"
+          },
+          {
+            "doc_count": 5,
+            "key": "2300"
+          },
+          {
+            "doc_count": 5,
+            "key": "2800"
+          },
+          {
+            "doc_count": 5,
+            "key": "3760"
+          },
+          {
+            "doc_count": 5,
+            "key": "4899"
+          },
+          {
+            "doc_count": 5,
+            "key": "6531"
+          },
+          {
+            "doc_count": 5,
+            "key": "7310"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 112
+      }
+    },
+    "hits": {
+      "hits": [
+        {
+          "_id": "0001104659-26-089274:tm2621296-1_s4.htm",
+          "_index": "edgar_file",
+          "_score": 1.6340485,
+          "_source": {
+            "adsh": "0001104659-26-089274",
+            "biz_locations": [
+              "Tysons Corner, VA"
+            ],
+            "biz_states": [
+              "VA"
+            ],
+            "ciks": [
+              "0001947463"
+            ],
+            "display_names": [
+              "ODNB Financial Corp  (CIK 0001947463)"
+            ],
+            "file_date": "2026-07-31",
+            "file_description": "S-4",
+            "file_num": [
+              "333-297905"
+            ],
+            "file_type": "S-4",
+            "film_num": [
+              "261229319"
+            ],
+            "form": "S-4",
+            "inc_states": [
+              "VA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-114072:tm2621296-6_s4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.6263599,
+          "_source": {
+            "adsh": "0001104659-26-114072",
+            "biz_locations": [
+              "Tysons Corner, VA"
+            ],
+            "biz_states": [
+              "VA"
+            ],
+            "ciks": [
+              "0001947463"
+            ],
+            "display_names": [
+              "ODNB Financial Corp  (NACB)  (CIK 0001947463)"
+            ],
+            "file_date": "2026-10-06",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-297905"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "261444388"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "VA"
+            ],
+            "items": [],
+            "ma_i_individual": null,
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6022"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-050502:vyne-20251231xs4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.6199408,
+          "_source": {
+            "adsh": "0001104659-26-050502",
+            "biz_locations": [
+              "Bridgewater, NJ"
+            ],
+            "biz_states": [
+              "NJ"
+            ],
+            "ciks": [
+              "0001566044"
+            ],
+            "display_names": [
+              "VYNE Therapeutics Inc.  (VYNE)  (CIK 0001566044)"
+            ],
+            "file_date": "2026-04-28",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-294804"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "26909466"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "2834"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-034996:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 1.6032467,
+          "_source": {
+            "adsh": "0001493152-26-034996",
+            "biz_locations": [
+              "New York, NY",
+              "Warsaw"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0002077033",
+              "0002133525"
+            ],
+            "display_names": [
+              "Miluna Acquisition Corp  (MMTX, MMTXU, MMTXW)  (CIK 0002077033)",
+              "CADV Ventures S.A.  (CIK 0002133525)"
+            ],
+            "file_date": "2026-07-28",
+            "file_description": null,
+            "file_num": [
+              "377-09369",
+              "377-09369-01"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "261211695",
+              "261211696"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "E9",
+              "R9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7371",
+              "4899"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-037279:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 1.5961895,
+          "_source": {
+            "adsh": "0001493152-26-037279",
+            "biz_locations": [
+              "New York, NY",
+              "Warsaw"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0002077033",
+              "0002133525"
+            ],
+            "display_names": [
+              "Miluna Acquisition Corp  (MMTX, MMTXU, MMTXW)  (CIK 0002077033)",
+              "CADV Ventures S.A.  (CIK 0002133525)"
+            ],
+            "file_date": "2026-08-12",
+            "file_description": null,
+            "file_num": [
+              "377-09369",
+              "377-09369-01"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "261266387",
+              "261266388"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "E9",
+              "R9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7371",
+              "4899"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-040431:forms-4.htm",
+          "_index": "edgar_file",
+          "_score": 1.4797812,
+          "_source": {
+            "adsh": "0001493152-26-040431",
+            "biz_locations": [
+              "New York, NY",
+              "Warsaw"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0002077033",
+              "0002133525"
+            ],
+            "display_names": [
+              "Miluna Acquisition Corp  (MMTX, MMTXU, MMTXW)  (CIK 0002077033)",
+              "CADV Ventures S.A.  (CIK 0002133525)"
+            ],
+            "file_date": "2026-08-27",
+            "file_description": "S-4",
+            "file_num": [
+              "333-298601",
+              "333-298601-01"
+            ],
+            "file_type": "S-4",
+            "film_num": [
+              "261331757",
+              "261331758"
+            ],
+            "form": "S-4",
+            "inc_states": [
+              "E9",
+              "R9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7371",
+              "4899"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-032200:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 1.46593,
+          "_source": {
+            "adsh": "0001493152-26-032200",
+            "biz_locations": [
+              "New York, NY",
+              "Warsaw"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0002077033",
+              "0002133525"
+            ],
+            "display_names": [
+              "Miluna Acquisition Corp  (MMTX, MMTXU, MMTXW)  (CIK 0002077033)",
+              "CADV Ventures S.A.  (CIK 0002133525)"
+            ],
+            "file_date": "2026-07-06",
+            "file_description": null,
+            "file_num": [
+              "377-09369",
+              "377-09369-01"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "261156966",
+              "261156967"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "E9",
+              "R9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7371",
+              "4899"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-043206:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.4383883,
+          "_source": {
+            "adsh": "0001493152-26-043206",
+            "biz_locations": [
+              "New York, NY",
+              "Warsaw"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0002077033",
+              "0002133525"
+            ],
+            "display_names": [
+              "Miluna Acquisition Corp  (MMTX, MMTXU, MMTXW)  (CIK 0002077033)",
+              "CADV Ventures S.A.  (CIK 0002133525)"
+            ],
+            "file_date": "2026-09-18",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-298601",
+              "333-298601-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "261388318",
+              "261388319"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "R9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7371",
+              "4899"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0000719451-25-000060:ProxyVotingTable.xml",
+          "_index": "edgar_file",
+          "_score": 0.6441827,
+          "_source": {
+            "adsh": "0000719451-25-000060",
+            "biz_locations": [
+              "Boston, MA"
+            ],
+            "biz_states": [
+              "MA"
+            ],
+            "ciks": [
+              "0000819118"
+            ],
+            "display_names": [
+              "FIDELITY CONCORD STREET TRUST  (CIK 0000819118)"
+            ],
+            "file_date": "2025-08-28",
+            "file_description": null,
+            "file_num": [
+              "811-05251"
+            ],
+            "file_type": "PROXY VOTING RECORD",
+            "film_num": [
+              "251268363"
+            ],
+            "form": "N-PX",
+            "inc_states": [
+              "MA"
+            ],
+            "items": [],
+            "period_ending": "2025-06-30",
+            "root_forms": [
+              "N-PX"
+            ],
+            "sequence": "2",
+            "sics": [],
+            "xsl": "xslNPX-INFO-TABLE_X01"
+          }
+        },
+        {
+          "_id": "0001193125-26-372372:ProxyVotingTable.xml",
+          "_index": "edgar_file",
+          "_score": 0.63146925,
+          "_source": {
+            "adsh": "0001193125-26-372372",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001027263"
+            ],
+            "display_names": [
+              "EQ ADVISORS TRUST  (CIK 0001027263)"
+            ],
+            "file_date": "2026-08-28",
+            "file_description": null,
+            "file_num": [
+              "811-07953"
+            ],
+            "file_type": "PROXY VOTING RECORD",
+            "film_num": [
+              "261333088"
+            ],
+            "form": "N-PX",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2026-06-30",
+            "root_forms": [
+              "N-PX"
+            ],
+            "sequence": "2",
+            "sics": [],
+            "xsl": "xslNPX-INFO-TABLE_X01"
+          }
+        },
+        {
+          "_id": "0000880195-25-000587:ProxyVotingTable.xml",
+          "_index": "edgar_file",
+          "_score": 0.4299054,
+          "_source": {
+            "adsh": "0000880195-25-000587",
+            "biz_locations": [
+              "Boston, MA"
+            ],
+            "biz_states": [
+              "MA"
+            ],
+            "ciks": [
+              "0000819118"
+            ],
+            "display_names": [
+              "FIDELITY CONCORD STREET TRUST  (CIK 0000819118)"
+            ],
+            "file_date": "2025-08-28",
+            "file_description": null,
+            "file_num": [
+              "811-05251"
+            ],
+            "file_type": "PROXY VOTING RECORD",
+            "film_num": [
+              "251268532"
+            ],
+            "form": "N-PX",
+            "inc_states": [
+              "MA"
+            ],
+            "items": [],
+            "period_ending": "2025-06-30",
+            "root_forms": [
+              "N-PX"
+            ],
+            "sequence": "2",
+            "sics": [],
+            "xsl": "xslNPX-INFO-TABLE_X01"
+          }
+        }
+      ],
+      "max_score": 25.019878,
+      "total": {
+        "relation": "eq",
+        "value": 711
+      }
+    },
+    "query": {
+      "_source": {
+        "exclude": [
+          "doc_text"
+        ]
+      },
+      "aggregations": {
+        "biz_states_filter": {
+          "terms": {
+            "field": "biz_states",
+            "size": 30
+          }
+        },
+        "entity_filter": {
+          "terms": {
+            "field": "display_names.raw",
+            "size": 30
+          }
+        },
+        "form_filter": {
+          "terms": {
+            "field": "root_forms",
+            "size": 30
+          }
+        },
+        "sic_filter": {
+          "terms": {
+            "field": "sics",
+            "size": 30
+          }
+        }
+      },
+      "from": 700,
+      "query": {
+        "bool": {
+          "filter": [
+            {
+              "range": {
+                "file_date": {
+                  "gte": "2025-01-01",
+                  "lte": "2026-10-09"
+                }
+              }
+            }
+          ],
+          "must": [
+            {
+              "match_phrase": {
+                "doc_text": "generative AI"
+              }
+            },
+            {
+              "match_phrase": {
+                "doc_text": "engagement letter"
+              }
+            },
+            {
+              "match_phrase": {
+                "doc_text": "restructuring"
+              }
+            }
+          ],
+          "must_not": [],
+          "should": []
+        }
+      },
+      "size": 100
+    },
+    "timed_out": false,
+    "took": 632
+  },
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22generative+AI%22+%22engagement+letter%22+%22restructuring%22&dateRange=custom&startdt=2025-01-01&enddt=2026-10-09&from=700"
+}

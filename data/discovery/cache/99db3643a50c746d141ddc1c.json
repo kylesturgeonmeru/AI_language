@@ -1,0 +1,2916 @@
+{
+  "response": {
+    "count": 166,
+    "document_count": 4123,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xMS4zNTYyMTUmcz03MDU2NTMyNiZ0PXImZD0yMDI2LTEwLTA5JnA9Ng%3D%3D&description=%22claims+and+noticing+agent%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22156%28c%29%22&filed_after=01%2F01%2F2025&highlight=on&q=chapter%3A11&type=r",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xMS41NjcwOTUmcz03MzY1NzY4OSZyPTEmdD1yJmQ9MjAyNi0xMC0wOSZwPTQ%3D&description=%22claims+and+noticing+agent%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22156%28c%29%22&filed_after=01%2F01%2F2025&highlight=on&q=chapter%3A11&type=r",
+    "results": [
+      {
+        "assignedTo": "Eamonn James O'Hagan",
+        "assigned_to_id": null,
+        "attorney": [
+          "Natasha M. Songonuga",
+          "Douglas G. Leney",
+          "Rachel Wolf",
+          "Jeffrey M. Sponder",
+          "Bradford J. Sandler",
+          "Stephen M. Packman",
+          "Pachulski Stang Ziehl & Jones LLP"
+        ],
+        "attorney_id": [
+          13862401,
+          13862402,
+          13862403,
+          15945217,
+          15945218,
+          15967332,
+          15986899
+        ],
+        "caseName": "Poolin Technology PTE. LTD",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. New Jersey",
+        "court_citation_string": "Bankr. D.N.J.",
+        "court_id": "njb",
+        "dateArgued": null,
+        "dateFiled": "2026-07-22",
+        "dateTerminated": null,
+        "docketNumber": "26-18325",
+        "docket_absolute_url": "/docket/73657689/poolin-technology-pte-ltd/",
+        "docket_id": 73657689,
+        "firm": [
+          "Archer and Greiner",
+          "Pachulski Stang Ziehl & Jones LLP",
+          "Archer & Greiner, P.C.",
+          "Archer & Greiner, Pc"
+        ],
+        "firm_id": [
+          63744,
+          1281162,
+          735498,
+          735499,
+          1048719
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2026-07-22T23:16:57.189846Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.567095
+          },
+          "timestamp": "2026-10-08T12:01:52.670613Z"
+        },
+        "pacer_case_id": "1145057",
+        "party": [
+          "Poolin Technology PTE. LTD",
+          "The Official Committee of Unsecured Creditors",
+          "U.S. Trustee"
+        ],
+        "party_id": [
+          20245824,
+          23548156,
+          20245823
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/73657689/31/poolin-technology-pte-ltd/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order Regarding Application For Expedited Consideration Of First Day Matters (related document:3 Motion for Joint Administration for the following cases: 26-18325, 26-18326 and 26-18327 filed by Debtor Poolin Technology PTE. LTD, 5 Motion re: Debtors Motion for Entry of an Order (I) Designating Complex Chapter 11 Cases; (II) Establishing Certain Notice, Case Management, and Administrative Procedures; (III) Authorizing Service to Certain Parties by Email and SMS/Text Message; (IV) filed by Debtor Poolin Technology PTE. LTD, 6 Motion re: Debtors Motion for Entry of an Order (I) Authorizing Redaction of Certain Personally Identifiable Information of Natural Persons; and (II) Granting Related Relief filed by Debtor Poolin Technology PTE. LTD, 7 Motion re: Debtors Motion for Entry of Interim and Final Orders Authorizing (I) the Continued Use of Existing Cash Management System, on a Limited Basis; (II) the Continued Interim Use of a PNC Operating Bank Account, Cryptocurrency Exchange Accounts, R filed by Debtor Poolin Technology PTE. LTD, 8 Motion re: Motion of the Debtors for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Pay Pre-Petition Employee Obligations and (B) Continue Employee Benefits Programs; and (II) Granting Related Relief filed by Debtor Poolin Technology PTE. LTD, 9 Motion re: Debtors Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Continue, Renew, or Supplement Insurance Policies, (II) Authorizing the Debtors to Pay Insurance Premiums and Related Obligations Thereon, (III) Authorizing t filed by Debtor Poolin Technology PTE. LTD, 10 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Authorizing Debtors to Pay Certain Taxes and Fees, (II) Authorizing Financial Institutions to Honor and Process Related Checks and Transfers, and (III) Granting Related Relief filed by Debtor Poolin Technology PTE. LTD, 11 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Prohibiting the Debtors' Utility Providers from Altering, Refusing, or Discontinuing Services, (II) Permitting Debtors to Pay Current Utility Charges Including Pre-Petition A filed by Debtor Poolin Technology PTE. LTD, 14 Application For Retention of Professional Archer & Greiner, P.C. as Bankruptcy Counsel filed by Debtor Poolin Technology PTE. LTD, 15 Application For Retention of Professional DuFrayne LLC as Chief Restructuring Officer filed by Debtor Poolin Technology PTE. LTD, 16 Application For Retention of Professional DuFrayne LLC as Investment Banker filed by Debtor Poolin Technology PTE. LTD, 17 Application For Retention of Professional Oon & Bazul LLC as Singapore Insolvency Counsel filed by Debtor Poolin Technology PTE. LTD, 18 Application For Retention of Professional Kurtzman Carson Consultants, LLC dba Verita Global as <mark>Claims and Noticing Agent</mark> filed by Debtor Poolin Technology PTE. LTD, 19 Application For Retention of Professional Kurtzman Carson Consultant, LLC dba Verita Global as Administrative Advisor filed by Debtor Poolin Technology PTE. LTD, 24 Application For Retention of Professional McCarn, Weir & Sherwood P.C. as Oil, Gas, and Mineral Counsel filed by Debtor Poolin Technology PTE. LTD) Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 7/23/2026. Hearing scheduled for 7/27/2026 at 11:00 AM, EJO - Courtroom 2, Trenton.. (dmi) (Entered: 07/23/2026)",
+            "docket_entry_id": 471899861,
+            "document_number": 31,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-07-23",
+            "entry_number": 31,
+            "filepath_local": "recap/gov.uscourts.njb.1145057/gov.uscourts.njb.1145057.31.0.pdf",
+            "id": 487316316,
+            "is_available": true,
+            "meta": {
+              "date_created": "2026-07-23T17:32:28.019370Z",
+              "timestamp": "2026-10-08T12:01:52.623305Z"
+            },
+            "pacer_doc_id": "118071203431",
+            "page_count": 4,
+            "short_description": "Shorten Time",
+            "snippet": "Case 26-18325-EJO Doc31 Filed 07/23/26 Entered 07/23/26 13:13:05 Desc Main\n\nOF Ly,\n\nDocument\n\n_ Court f\n\nPage 1 of 4\n\nUNITED STATES BANKRUPTCY COURT\nDISTRICT OF NEW JERSEY\n\nCaption in Compliance with D.N.J. LBR 9004-1(b)\n\nStephen M. Packman, Esq.\n\nDouglas G. Leney, Esq.\n\nNatasha M. Songonuga, Esq.\n\nAlexander J. Andrews, Esq.\n\n(Pro Hac Vice Admission Pending)\n\nARCHER &amp; GREINER, P.C.\n\n1025 Laurel Oak Road\n\nVoorhees, NJ 08043\n\nTelephone: (856) 795-2121\n\nFacsimile: (856) 795-0574\n\nEmail: spackman@archerlaw"
+          },
+          {
+            "absolute_url": "/docket/73657689/53/poolin-technology-pte-ltd/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order Authorizing the Employment and Retention of Kurtzman Carson Consultants,LLC DBA Verita Global as <mark>Claims and Noticing Agent</mark> Effective as of the PetitionDate (Related Doc # 18). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 7/28/2026. (mjb) (Entered: 07/28/2026)",
+            "docket_entry_id": 472355600,
+            "document_number": 53,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-07-28",
+            "entry_number": 53,
+            "filepath_local": null,
+            "id": 487787026,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-07-28T14:33:04.503440Z",
+              "timestamp": "2026-10-08T12:01:52.623305Z"
+            },
+            "pacer_doc_id": "118071223056",
+            "page_count": null,
+            "short_description": "Order on Application For Retention",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/73657689/18/poolin-technology-pte-ltd/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application For Retention of Professional Kurtzman Carson Consultants, LLC dba Verita Global as <mark>Claims and Noticing Agent</mark> Filed by Stephen M. Packman on behalf of Poolin Technology PTE. LTD. Objections due by 8/12/2026. (Attachments: # 1 Exhibit A - Services Agreement # 2 Exhibit B - Gershbein Declaration # 3 Exhibit C - Proposed Order) (Packman, Stephen) (Entered: 07/22/2026)",
+            "docket_entry_id": 471822320,
+            "document_number": 18,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-07-22",
+            "entry_number": 18,
+            "filepath_local": null,
+            "id": 487237056,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-07-23T04:05:43.298767Z",
+              "timestamp": "2026-10-08T12:01:52.623305Z"
+            },
+            "pacer_doc_id": "118071199243",
+            "page_count": null,
+            "short_description": "Application for Retention",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Mark X. Mullin",
+        "assigned_to_id": 8972,
+        "attorney": [
+          "David B Kurzweil",
+          "Tristan G. Axelrod",
+          "JaKayla DaBera",
+          "Carmen Dingman",
+          "Brent Ryan McIlwain",
+          "Jared Mezzatesta",
+          "Samuel W Hilliard",
+          "Landon Foody",
+          "Susan B. Hersh",
+          "Landon W. Foody",
+          "Tyler Nathaniel Layne",
+          "Jeff P. Prostok",
+          "Kathryn Mailloux",
+          "James Tillman Grogan",
+          "Debbie E. Green",
+          "David Bruce Kurzweil",
+          "Mary Taylor Stanberry",
+          "Jerry L Hall",
+          "Marcus Alan Helt",
+          "Nathaniel John Palmer",
+          "William Thomas Reid, IV",
+          "Julia D Byrne",
+          "Richard H Howell",
+          "Suzanne K. Rosen",
+          "David R. Eastlake",
+          "Jack Gabriel Haake",
+          "Daniel M Simon",
+          "Matthew A Sawyer",
+          "Matthew A Petrie",
+          "Joseph M. Coleman",
+          "Joshua M Berland",
+          "Anthony W Clark",
+          "Brandon V. Lewis",
+          "Steven J. Levitt",
+          "Eric D. Madden",
+          "Megan F. Clontz",
+          "Mian R Wang",
+          "Shari L. Heyen"
+        ],
+        "attorney_id": [
+          13672087,
+          13672088,
+          13672089,
+          13672090,
+          13672091,
+          13672092,
+          13672093,
+          13442101,
+          13442102,
+          13442103,
+          13442104,
+          13442105,
+          13442106,
+          13442107,
+          13442108,
+          13442109,
+          13773877,
+          11237695,
+          16137161,
+          11262538,
+          11615697,
+          11359707,
+          11359708,
+          16123485,
+          11253342,
+          11253343,
+          11253344,
+          11253345,
+          13500254,
+          13500255,
+          13500256,
+          13500257,
+          13500258,
+          15996527,
+          11341431,
+          11341432,
+          11341433,
+          13579519
+        ],
+        "caseName": "Inspired Healthcare Capital Holdings, LLC",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, N.D. Texas",
+        "court_citation_string": "Bankr. N.D. Tex.",
+        "court_id": "txnb",
+        "dateArgued": null,
+        "dateFiled": "2026-02-02",
+        "dateTerminated": null,
+        "docketNumber": "26-90004",
+        "docket_absolute_url": "/docket/72222161/inspired-healthcare-capital-holdings-llc/",
+        "docket_id": 72222161,
+        "firm": [
+          "Dechert, LLP",
+          "Greenberg Traurig LLP",
+          "Jared Mezzatesta",
+          "McDermott Will & Emery",
+          "McDermott Will & Emery LLP",
+          "Holland & Knight",
+          "Kane Russell Coleman Logan PC",
+          "Greenberg Traurig, LLP, Terminus 200",
+          "Shipman & Goodwin LLP",
+          "Ferguson, Braswell, Fraser, Kubasta PC",
+          "Epiq Corporate Restructuring, LLC",
+          "Dykema Gossett PLLC",
+          "Reid Collins and Tsai LLP",
+          "Joshua M Berland",
+          "Holland & Knight LLP",
+          "Greenberg Traurig, P.A",
+          "McDermott Will & Schulte LLP",
+          "Greenberg Traurig, LLP",
+          "Mian R Wang",
+          "Reid Collins & Tsai LLP",
+          "Vartabedian Katz Hester & Haynes LLP"
+        ],
+        "firm_id": [
+          749441,
+          583939,
+          4487,
+          28936,
+          1319823,
+          1319824,
+          1319825,
+          772370,
+          254739,
+          1087647,
+          1085856,
+          3233,
+          32548,
+          822566,
+          1160486,
+          1160487,
+          1373739,
+          793663,
+          1297472,
+          1088582,
+          691271,
+          1342155,
+          704846,
+          588000,
+          705634,
+          1053797,
+          1161710,
+          1169776,
+          1381107,
+          1381108
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2026-02-02T23:37:05.782330Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.567095
+          },
+          "timestamp": "2026-02-03T00:39:20.084820Z"
+        },
+        "pacer_case_id": "538400",
+        "party": [
+          "Ad Hoc Committee of DST Investors",
+          "Official Committee of Unsecured Creditors,  Counsel to the Official Committee of Unsecured Creditors",
+          "Inspired Healthcare Capital Holdings, LLC",
+          "Official Committee of Delaware Statutory Trust (DST) Investors",
+          "United States Trustee"
+        ],
+        "party_id": [
+          17412306,
+          17412307,
+          19918012,
+          17255486,
+          17255487
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/72222161/807/inspired-healthcare-capital-holdings-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Certificate of service re: filed by <mark>Claims Agent</mark> Epiq Corporate Restructuring, LLC (RE: related document(s)773 Objection). (Mailloux, Kathryn)",
+            "docket_entry_id": 466896069,
+            "document_number": 807,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-06-09",
+            "entry_number": 807,
+            "filepath_local": null,
+            "id": 482145987,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-06-10T02:36:09.507720Z",
+              "timestamp": "2026-06-25T23:30:53.727265Z"
+            },
+            "pacer_doc_id": "176052283531",
+            "page_count": null,
+            "short_description": "Certificate of service",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/72222161/808/inspired-healthcare-capital-holdings-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Certificate of service re: filed by <mark>Claims Agent</mark> Epiq Corporate Restructuring, LLC (RE: related document(s)779 Notice (generic)). (Mailloux, Kathryn)",
+            "docket_entry_id": 466896068,
+            "document_number": 808,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-06-09",
+            "entry_number": 808,
+            "filepath_local": null,
+            "id": 482145986,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-06-10T02:36:09.382361Z",
+              "timestamp": "2026-06-25T23:30:53.805992Z"
+            },
+            "pacer_doc_id": "176052283534",
+            "page_count": null,
+            "short_description": "Certificate of service",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/72222161/813/inspired-healthcare-capital-holdings-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Certificate of service re: 2nd Monthly Fee Statement Hallie Dreiman Filed by <mark>Claims Agent</mark> Epiq Corporate Restructuring, LLC (related document(s)792 Notice // Second Monthly Fee Statement of Raymond James & Associates, Inc. as Investment Banker to the Debtors, for Compensation for Services Rendered and Reimbursement of Expenses Incurred for the Period June 2026 filed by Debtor Inspired Healthcare Capital Holdings, LLC. filed by Debtor Inspired Healthcare Capital Holdings, LLC). (Mailloux, Kathryn)",
+            "docket_entry_id": 467026244,
+            "document_number": 813,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-06-10",
+            "entry_number": 813,
+            "filepath_local": null,
+            "id": 482279295,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-06-10T22:34:52.156963Z",
+              "timestamp": "2026-06-25T23:30:54.267036Z"
+            },
+            "pacer_doc_id": "176052288910",
+            "page_count": null,
+            "short_description": "Certificate of service",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Michael B. Kaplan",
+        "assigned_to_id": 8881,
+        "attorney": [
+          "Michael D. Sirota"
+        ],
+        "attorney_id": [
+          11069689
+        ],
+        "caseName": "United Site Services of Texas, Inc.",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. New Jersey",
+        "court_citation_string": "Bankr. D.N.J.",
+        "court_id": "njb",
+        "dateArgued": null,
+        "dateFiled": "2025-12-29",
+        "dateTerminated": "2026-04-20",
+        "docketNumber": "25-23647",
+        "docket_absolute_url": "/docket/72082023/united-site-services-of-texas-inc/",
+        "docket_id": 72082023,
+        "firm": [
+          "Cole Schotz P.C."
+        ],
+        "firm_id": [
+          137582
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-12-29T07:30:17.549581Z",
+          "more_docs": false,
+          "score": {
+            "bm25": 11.567095
+          },
+          "timestamp": "2026-05-01T21:31:50.673152Z"
+        },
+        "pacer_case_id": "1136198",
+        "party": [
+          "U.S. Trustee",
+          "United Site Services of Texas, Inc."
+        ],
+        "party_id": [
+          17001379,
+          17001380
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Bankruptcy Case Closed. The <mark>claims agent</mark> follow up deadline is 5/20/2026. (pbf)",
+            "docket_entry_id": 462731067,
+            "document_number": null,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-04-20",
+            "entry_number": null,
+            "filepath_local": null,
+            "id": 477852305,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-05-01T21:32:02.605586Z",
+              "timestamp": "2026-05-01T21:32:03.218304Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Thomas M. Horan",
+        "assigned_to_id": null,
+        "attorney": [
+          "Luke Brzozowski",
+          "Suzanne Span",
+          "C Lee Wilson",
+          "Nicholas Whetstone",
+          "Keith R. Martorana",
+          "Michael M. Farhang",
+          "Jonathan Michael Weyand",
+          "Alexis Sullivan",
+          "Scott Jones",
+          "Robert J. Dehney",
+          "Jeffrey R. Waxman",
+          "Malcolm M Bates",
+          "Daniel B. Butz",
+          "Echo Yi Qian"
+        ],
+        "attorney_id": [
+          10657504,
+          16001092,
+          10704008,
+          10704009,
+          10870026,
+          10870027,
+          10870028,
+          10870029,
+          10870030,
+          10657497,
+          10657498,
+          10657499,
+          10657500,
+          10657502
+        ],
+        "caseName": "WEH Liquidating, LLC",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation_string": "Bankr. D. Del.",
+        "court_id": "deb",
+        "dateArgued": null,
+        "dateFiled": "2025-08-28",
+        "dateTerminated": null,
+        "docketNumber": "25-11602",
+        "docket_absolute_url": "/docket/71224339/weh-liquidating-llc/",
+        "docket_id": 71224339,
+        "firm": [
+          "Morris Nichols Arsht and Tunnell LLP",
+          "Morris Nichols Arsht and Tunnell",
+          "Morris, Nichols, Arsht & Tunnell",
+          "Office of the United States Trustee",
+          "Gibson, Dunn & Crutcher, LLP",
+          "Morris James LLP",
+          "Morris, Nichols, Arsht & Tunnell LLP",
+          "Gibson Dunn & Crutcher LLP",
+          "Gibson Dunn Crutcher LLP"
+        ],
+        "firm_id": [
+          64580,
+          1099076,
+          5447,
+          26574,
+          190991,
+          841682,
+          630458,
+          20858,
+          1027866,
+          290783
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-08-28T22:36:05.011055Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.567095
+          },
+          "timestamp": "2025-11-13T21:03:13.441117Z"
+        },
+        "pacer_case_id": "199090",
+        "party": [
+          "U.S. Trustee",
+          "Epiq Corporate Restructuring, LLC",
+          "Official Committee of Unsecured Creditors",
+          "WEH Liquidating, LLC",
+          "WEFC Liquidating Trust",
+          "Committee of Unsecured Creditors",
+          "Reliable",
+          "WEH  Liquidating, LLC"
+        ],
+        "party_id": [
+          16342661,
+          16342662,
+          16176729,
+          16211290,
+          16211291,
+          17252476,
+          17252477,
+          17252478
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/71224339/38/walker-edison-holdco-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order (I) Authorizing and Approving the Appointment of Epiq Corporate Restructuring, LLC as <mark>Claims and Noticing Agent</mark> and (II) Granting Related Relief (related document(s)5) Order Signed on 8/29/2025. (AMH) (Entered: 08/29/2025)",
+            "docket_entry_id": 436346182,
+            "document_number": 38,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-08-29",
+            "entry_number": 38,
+            "filepath_local": null,
+            "id": 450789518,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-08-29T21:01:11.185774Z",
+              "timestamp": "2025-11-13T21:03:13.422452Z"
+            },
+            "pacer_doc_id": "042022524686",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/71224339/5/walker-edison-holdco-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application to Appoint Claims/<mark>Noticing Agent</mark> EPIQ CORPORATE RESTRUCTURING, LLC Filed By Walker Edison Holdco LLC (Attachments: # 1 Exhibit A: Proposed Order # 2 Exhibit B: Tran Declaration # 3 Exhibit C: Engagement Agreement)(Qian, Echo Yi) (Entered: 08/28/2025)",
+            "docket_entry_id": 436215506,
+            "document_number": 5,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-08-28",
+            "entry_number": 5,
+            "filepath_local": null,
+            "id": 450656228,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-08-28T23:07:32.991479Z",
+              "timestamp": "2025-11-13T21:03:13.422452Z"
+            },
+            "pacer_doc_id": "042022521306",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/71224339/432/weh-liquidating-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Receipt of filing fee for Transfer/Assignment of Claim - Ch 11 with <mark>Claims Agent</mark> Assigned( 25-11602-TMH) [claims,trclm11] ( 28.00). Receipt Number A12510812, amount $ 28.00. (U.S. Treasury) (Entered: 12/31/2025)",
+            "docket_entry_id": 452389110,
+            "document_number": 432,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-12-31",
+            "entry_number": 432,
+            "filepath_local": null,
+            "id": 467255925,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-02-02T18:18:21.001324Z",
+              "timestamp": "2026-02-02T18:18:21.073421Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Sean H. Lane",
+        "assigned_to_id": 8906,
+        "attorney": [
+          "J. Ted Donovan",
+          "Kevin J. Nash"
+        ],
+        "attorney_id": [
+          10459048,
+          10161955
+        ],
+        "caseName": "Levy Ventures LLC",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, S.D. New York",
+        "court_citation_string": "Bankr. S.D.N.Y.",
+        "court_id": "nysb",
+        "dateArgued": null,
+        "dateFiled": "2025-03-05",
+        "dateTerminated": "2026-03-12",
+        "docketNumber": "25-22182",
+        "docket_absolute_url": "/docket/69708999/levy-ventures-llc/",
+        "docket_id": 69708999,
+        "firm": [
+          "Goldberg Weprin Finkel Goldstein LLP",
+          "Goldberg Weprin Finkel Goldstein LLP, Goldberg Weprin Finkel Goldstein LLC"
+        ],
+        "firm_id": [
+          796019,
+          796693
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-03-05T23:04:26.525404Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.567095
+          },
+          "timestamp": "2026-03-24T15:57:30.103962Z"
+        },
+        "pacer_case_id": "328092",
+        "party": [
+          "Levy Ventures LLC",
+          "United States Trustee"
+        ],
+        "party_id": [
+          15145913,
+          15145914
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Receipt of Transfer Agreement FRBP 3001(e) (NON <mark>CLAIMS AGENT</mark> CASES)( 25-22182-shl) [claims,740] ( 28.00) Filing Fee. Receipt number A17100123. Fee amount 28.00. (Re: Doc # 99) (U.S. Treasury)",
+            "docket_entry_id": 430108773,
+            "document_number": null,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-06-05",
+            "entry_number": null,
+            "filepath_local": null,
+            "id": 444380354,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-07-01T14:56:12.293905Z",
+              "timestamp": "2026-03-24T15:57:30.039440Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Receipt of Transfer Agreement FRBP 3001(e) (NON <mark>CLAIMS AGENT</mark> CASES)( 25-22182-shl) [claims,740] ( 28.00) Filing Fee. Receipt number A17100104. Fee amount 28.00. (Re: Doc # 97) (U.S. Treasury)",
+            "docket_entry_id": 430108771,
+            "document_number": null,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-06-05",
+            "entry_number": null,
+            "filepath_local": null,
+            "id": 444380352,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-07-01T14:56:12.158640Z",
+              "timestamp": "2026-03-24T15:57:30.039440Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Receipt of Transfer Agreement FRBP 3001(e) (NON <mark>CLAIMS AGENT</mark> CASES)( 25-22182-shl) [claims,740] ( 28.00) Filing Fee. Receipt number A17100116. Fee amount 28.00. (Re: Doc # 98) (U.S. Treasury)",
+            "docket_entry_id": 430108772,
+            "document_number": null,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-06-05",
+            "entry_number": null,
+            "filepath_local": null,
+            "id": 444380353,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-07-01T14:56:12.204704Z",
+              "timestamp": "2026-03-24T15:57:30.039440Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Thomas M. Horan",
+        "assigned_to_id": null,
+        "attorney": [
+          "Lauren Reichardt",
+          "Daniel S Shamah",
+          "Matthew P. Milana",
+          "Olya Antle",
+          "Miriam Medrano",
+          "Jane M. Leamy",
+          "Daniel J. DeFranceschi",
+          "Alexander R. Steiger",
+          "Amanda Lindner",
+          "Michael Joseph Merchant",
+          "David T Queroli"
+        ],
+        "attorney_id": [
+          11210021,
+          11210022,
+          11210023,
+          10902952,
+          10902953,
+          11210024,
+          10902955,
+          10902956,
+          11210025,
+          11210026,
+          11268342
+        ],
+        "caseName": "Clearside Biomedical, Inc.",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation_string": "Bankr. D. Del.",
+        "court_id": "deb",
+        "dateArgued": null,
+        "dateFiled": "2025-11-23",
+        "dateTerminated": null,
+        "docketNumber": "25-12109",
+        "docket_absolute_url": "/docket/71951025/clearside-biomedical-inc/",
+        "docket_id": 71951025,
+        "firm": [
+          "Richards, Layton & Finger, P.A.",
+          "Cooley LLP",
+          "Richards Layton & Finger, PA",
+          "Office of the U.S. Trustee",
+          "Richards, Layton & Finger"
+        ],
+        "firm_id": [
+          63810,
+          63812,
+          63822,
+          462865,
+          575869,
+          38174
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-11-24T03:00:59.663407Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.521763
+          },
+          "timestamp": "2026-01-25T08:42:31.933437Z"
+        },
+        "pacer_case_id": "199880",
+        "party": [
+          "Clearside Biomedical, Inc.",
+          "Epiq Corporate Restructuring, LLC",
+          "Reliable Companies",
+          "U.S. Trustee"
+        ],
+        "party_id": [
+          17193185,
+          16730226,
+          16730229,
+          16730223
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/71951025/189/clearside-biomedical-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Certificate of Mailing of <mark>Claims Agent</mark> re Notice of Adjournment of Auction; Notice of Agenda of Matters Scheduled for Hearing Filed by Clearside Biomedical, Inc.. Hearing scheduled for 1/26/2026 at 10:00 AM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware; Amended Notice of Agenda of Matters Scheduled for Hearing Filed by Clearside Biomedical, Inc.. Hearing scheduled for 1/26/2026 at 10:00 AM at Virtual Hearing. Filed by Epiq Corporate Restructuring, LLC. (related document(s)182, 183, 184) (Mailloux, Kathryn) (Entered: 01/26/2026)",
+            "docket_entry_id": 451561939,
+            "document_number": 189,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-01-26",
+            "entry_number": 189,
+            "filepath_local": null,
+            "id": 466406459,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-01-26T17:03:39.416577Z",
+              "timestamp": "2026-02-11T21:57:12.199427Z"
+            },
+            "pacer_doc_id": "042022800527",
+            "page_count": null,
+            "short_description": "Certificate of Mailing",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/71951025/196/clearside-biomedical-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Certificate of Mailing of <mark>Claims Agent</mark> re Notice of Agenda of Matters not going forward. The following hearing has been cancelled. Filed by Clearside Biomedical, Inc.. Hearing scheduled for 1/26/2026 at 10:00 AM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Filed by Epiq Corporate Restructuring, LLC. (related document(s)188) (Mailloux, Kathryn) (Entered: 01/29/2026)",
+            "docket_entry_id": 451986472,
+            "document_number": 196,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-01-29",
+            "entry_number": 196,
+            "filepath_local": null,
+            "id": 466843868,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-01-29T15:34:32.186866Z",
+              "timestamp": "2026-02-11T21:57:12.345150Z"
+            },
+            "pacer_doc_id": "042022807175",
+            "page_count": null,
+            "short_description": "Certificate of Mailing",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/71951025/199/clearside-biomedical-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Certificate of Mailing of <mark>Claims Agent</mark> re Notice of Agenda of Matters Scheduled for Hearing Filed by Clearside Biomedical, Inc.. Hearing scheduled for 1/30/2026 at 11:00 AM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware; Amended Notice of Agenda of Matters Scheduled for Hearing Filed by Clearside Biomedical, Inc.. Hearing scheduled for 1/30/2026 at 11:00 AM at Virtual Hearing: Refer to Notice of Zoom Hearing. Filed by Epiq Corporate Restructuring, LLC. (related document(s)191, 192) (Mailloux, Kathryn) (Entered: 01/30/2026)",
+            "docket_entry_id": 452191116,
+            "document_number": 199,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-01-30",
+            "entry_number": 199,
+            "filepath_local": null,
+            "id": 467052710,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-01-30T19:33:30.242736Z",
+              "timestamp": "2026-02-11T21:57:12.547149Z"
+            },
+            "pacer_doc_id": "042022810681",
+            "page_count": null,
+            "short_description": "Certificate of Mailing",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Stacey G.C. Jernigan",
+        "assigned_to_id": 8969,
+        "attorney": [
+          "Jason L. Hufendick",
+          "Lisa Ann Gerson",
+          "Jason R. Adams",
+          "Sidley Austin LLP",
+          "Corbin Houston",
+          "Darren T Azman",
+          "McDermott, Will, & Emery LLP",
+          "Daniela Rakowski",
+          "Jonathan W. Muenz",
+          "Francesca E. Brody",
+          "Jerry Hall",
+          "Stephen E. Hessler",
+          "Steven Z. Szanzer",
+          "Chelsea McManus",
+          "Anthony R. Grossi",
+          "James S. Carr",
+          "Meredyth Kippes",
+          "Norman M. Hobbie",
+          "Rakhee V. Patel",
+          "Marcus Alan Helt",
+          "Elizabeth Ziegler Young",
+          "Ryan Fink",
+          "Andrew J. Matott",
+          "Robert Ethan Dover",
+          "Thomas Robert Califano",
+          "Michael Davis Wombacher",
+          "Andrew S. Hicks"
+        ],
+        "attorney_id": [
+          13692288,
+          13692289,
+          13692290,
+          13692292,
+          13692293,
+          10328331,
+          10328332,
+          10378511,
+          10378512,
+          10441111,
+          10441112,
+          10441113,
+          10441114,
+          10351130,
+          10351131,
+          13914269,
+          13914270,
+          13914271,
+          13914272,
+          10315055,
+          10619700,
+          10619701,
+          10619702,
+          10333678,
+          10333679,
+          10333680,
+          10333681
+        ],
+        "caseName": "Harvest Sherwood Food Distributors, Inc.",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, N.D. Texas",
+        "court_citation_string": "Bankr. N.D. Tex.",
+        "court_id": "txnb",
+        "dateArgued": null,
+        "dateFiled": "2025-05-05",
+        "dateTerminated": null,
+        "docketNumber": "25-80109",
+        "docket_absolute_url": "/docket/70143231/harvest-sherwood-food-distributors-inc/",
+        "docket_id": 70143231,
+        "firm": [
+          "Hicks Johnson PLLC",
+          "McDermott Will & Emery",
+          "Dane McKaughan",
+          "McDermott Will & Emery LLP",
+          "Office of the United States Trustee",
+          "Troutman Pepper Locke LLP",
+          "Sidley Austin LLP",
+          "McDermott Will & Schulte LLP",
+          "Dechert, LLP",
+          "Kelley Drye & Warren LLP",
+          "Schiffer Hicks Johnson PLLC",
+          "U.S. Trustee Office"
+        ],
+        "firm_id": [
+          1087875,
+          679300,
+          1330947,
+          1319823,
+          1087647,
+          1055029,
+          76214,
+          64829,
+          3023,
+          1070291,
+          1070292,
+          1070293,
+          195542,
+          1356629,
+          728154,
+          1053797,
+          29416,
+          726508,
+          1017584,
+          571125
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-05-05T22:51:56.629441Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.521763
+          },
+          "timestamp": "2025-11-20T17:05:52.611214Z"
+        },
+        "pacer_case_id": "527729",
+        "party": [
+          "Harvest Sherwood Food Distributors, Inc.",
+          "The Official Committee of Unsecured Creditors",
+          "United States Trustee"
+        ],
+        "party_id": [
+          15437968,
+          15437969,
+          15558139
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/70143231/3/harvest-sherwood-food-distributors-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application to employ Epiq Corporate Restructuring, LLC as <mark>Claims Agent</mark> Debtors' Emergency Application for Entry of an Order Authorizing the Employment and Retention of Epiq Corporate Restructuring, LLC as Claims, Noticing, and Solicitation Agent Effective as of the Petition Date Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A # 2 Exhibit B) (Califano, Thomas)",
+            "docket_entry_id": 424482225,
+            "document_number": 3,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-05-05",
+            "entry_number": 3,
+            "filepath_local": null,
+            "id": 438588130,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-05-06T00:55:45.892032Z",
+              "timestamp": "2025-11-20T17:05:52.591213Z"
+            },
+            "pacer_doc_id": "176050446026",
+            "page_count": null,
+            "short_description": "Employ",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/70143231/24/harvest-sherwood-food-distributors-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Notice of hearing for May 9, 2025 Setting filed by Debtor Harvest Sherwood Food Distributors, Inc. (RE: related document(s)2 Motion for joint administration of cases 25-80109 (SGJ), 25-80108 (SGJ), 25-80111 (SGJ), 25-80112 (SGJ), 25-80113 (SGJ), 25-80114 (SGJ), 25-80115 (SGJ), 25-80116 (SGJ), 25-80117 (SGJ), 25-80118 (SGJ), 25-80110 (SGJ), 25-80119 (SGJ), 25-80120 (SGJ) Debtors' Emergency Motion for Entry of An Order Directing Joint Administration of Related Chapter 11 Cases Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A), 3 Application to employ Epiq Corporate Restructuring, LLC as <mark>Claims Agent</mark> Debtors' Emergency Application for Entry of an Order Authorizing the Employment and Retention of Epiq Corporate Restructuring, LLC as Claims, Noticing, and Solicitation Agent Effective as of the Petition Date Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A # 2 Exhibit B), 4 Notice of designation as complex chapter 11 case filed by Debtor Harvest Sherwood Food Distributors, Inc.. (Attachments: # 1 Exhibit A), 5 Motion for approval of form notice. Debtors' Emergency Motion for Entry of an Order (I) Authorizing the Debtors to File a Consolidated (A) Creditor Matrix and (B) List of 30 Largest Unsecured Creditors; (II) Authorizing the Debtors to Redact Certain Personally Identifiable Information; (III) Establishing a Complex Service List; (IV) Approving the Form and Manner of the Notice of Commencement; and (V) granting Related Relief Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A), 6 Motion to extend time to file schedules or new case deficiencies, excluding matrix Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A), 7 Motion to maintain bank accounts. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing Debtors to Continue to Operate their Existing Cash Management System; and (II) granting Related Relief Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Exhibit C # 4 Exhibit D # 5 Exhibit E # 6 Exhibit F), 8 Motion regarding pre-petition claims of Critical Vendors. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing Debtors to Pay Certain Prepetition Claims of Critical Vendors; and (II) Granting Related Relief Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Exhibit C # 4 Exhibit D # 5 Exhibit E # 6 Exhibit F), 9 Motion regarding pre-petition claims Contractor Obligations. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing Debtors to Satisfy Certain Prepetition Contractor Obligations; and (II) Granting Related Relief Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Exhibit C # 4 Exhibit D # 5 Exhibit E # 6 Exhibit F), 10 Motion regarding pre-petition claims. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing Debtors to Pay Certain Prepetition Taxes and Fees; and (II) Granting Related Relief Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Exhibit C # 4 Exhibit D # 5 Exhibit E # 6 Exhibit F), 11 Motion regarding utilities. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing Debtors to Continue Use of LC Facility; and (II) Granting Related Relief Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Exhibit C # 4 Exhibit D # 5 Exhibit E # 6 Exhibit F), 12 Motion for DIP financing. Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing Debtors to (A) Obtain Post-petition Financing, (B) Use Cash Collateral, (C) Grant Senior Secured Liens and provide Claims with Superpriority Administrative Expense Status, and (D) Grant Adequate Protection to the Prepetition Secured Parties; (II) Modifying the Automatic Stay; (III) Scheduling a Final Hearing, and (IV) Granting Related Relief Filed by Debtor Harvest Sherwood Food Distributors, Inc. (Attachments: # 1 Exhibit A)). Hearing to be held on 5/9/2025 at 09:30 AM at https://us-courts.webex.com/meet/jerniga for 12 and for 9 and for 11 and for 8 and for 7 and for 5 and for 10 and for 6 and for 3 and for 2 and for 4, (Califano, Thomas)",
+            "docket_entry_id": 424546037,
+            "document_number": 24,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-05-06",
+            "entry_number": 24,
+            "filepath_local": null,
+            "id": 438654047,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-05-06T17:33:09.599295Z",
+              "timestamp": "2025-11-20T17:05:52.591213Z"
+            },
+            "pacer_doc_id": "176050449521",
+            "page_count": null,
+            "short_description": "Notice of hearing",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/70143231/448/harvest-sherwood-food-distributors-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Certificate of service re: Declaration, Motion by Sharna Wilson filed by <mark>Claims Agent</mark> Epiq Corporate Restructuring, LLC (RE: related document(s)442 Declaration, 444 Motion to compromise controversy with Debtors Motion Seeking Entry of an Order (A) Approving A Settlement Agreement with Pilgrims Pride Corporation Pursuant to Federal Rule of Bankruptcy Procedure 9019 and (B) Granting Related Relief., 445 Declaration). (Garabato, Sid)",
+            "docket_entry_id": 435165127,
+            "document_number": 448,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-08-19",
+            "entry_number": 448,
+            "filepath_local": null,
+            "id": 449572566,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-08-19T18:40:48.752983Z",
+              "timestamp": "2025-11-20T17:05:52.591213Z"
+            },
+            "pacer_doc_id": "176050908006",
+            "page_count": null,
+            "short_description": "Certificate of service",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Brendan L. Shannon",
+        "assigned_to_id": 8738,
+        "attorney": [
+          "Luke Brzozowski",
+          "Jane M. Leamy",
+          "Andrew R. Remming",
+          "Eric D. Schwartz",
+          "Albert Kass",
+          "Jake A. Rauchberg",
+          "Jeffrey D. Prol",
+          "Austin Park"
+        ],
+        "attorney_id": [
+          10323018,
+          10323019,
+          10323020,
+          10323021,
+          10323022,
+          10323023,
+          13628340,
+          10275994
+        ],
+        "caseName": "Molecular Templates, Inc.",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation_string": "Bankr. D. Del.",
+        "court_id": "deb",
+        "dateArgued": null,
+        "dateFiled": "2025-04-20",
+        "dateTerminated": null,
+        "docketNumber": "25-10739",
+        "docket_absolute_url": "/docket/69917957/molecular-templates-inc/",
+        "docket_id": 69917957,
+        "firm": [
+          "Morris Nichols Arsht and Tunnell LLP",
+          "Morris Nichols Arsht and Tunnell",
+          "Morris Nichols Arsht & Tunnell",
+          "Morris, Nichols, Arsht & Tunnell LLP",
+          "Kcc LLC Dba Verita Global",
+          "Office of the U.S. Trustee",
+          "Lowenstein Sandler LLP",
+          "Lowenstein Sandler"
+        ],
+        "firm_id": [
+          63812,
+          24500,
+          230132,
+          964501,
+          138263,
+          285816,
+          292602,
+          1027866,
+          908700
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-04-20T23:32:26.250754Z",
+          "more_docs": false,
+          "score": {
+            "bm25": 11.521763
+          },
+          "timestamp": "2025-04-21T04:08:35.481456Z"
+        },
+        "pacer_case_id": "196538",
+        "party": [
+          "Kurtzman Carson Consultants, LLC dba Verita Global",
+          "U.S. Trustee",
+          "Liquidating Trust",
+          "Reliable Companies",
+          "Molecular Templates, Inc."
+        ],
+        "party_id": [
+          19850019,
+          15356498,
+          15356499,
+          15450907,
+          15450908
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/69917957/17/molecular-templates-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application to Appoint Claims/<mark>Noticing Agent</mark> KURTZMAN CARSON CONSULTANTS, LLC Filed By Molecular Templates, Inc. (Attachments: # 1 Exhibit A: Proposed Order # 2 Exhibit B: Gershbein Declaration)(Schwartz, Eric) (Entered: 04/21/2025)",
+            "docket_entry_id": 422972640,
+            "document_number": 17,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-04-21",
+            "entry_number": 17,
+            "filepath_local": null,
+            "id": 437020282,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-04-21T17:33:31.580299Z",
+              "timestamp": "2025-05-07T22:45:37.426574Z"
+            },
+            "pacer_doc_id": "042022238269",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/69917957/41/molecular-templates-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order Approving Application Appointing KURTZMAN CARSON CONSULTANTS, LLC as <mark>Claims and Noticing Agent</mark> for the Debtors Pursuant to 28 U.S.C. <mark>156(c</mark>) (Related Doc # 17) Order Signed on 4/22/2025. (Attachments: # 1 Exhibit 1) (JMW) (Entered: 04/22/2025)",
+            "docket_entry_id": 423105209,
+            "document_number": 41,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-04-22",
+            "entry_number": 41,
+            "filepath_local": null,
+            "id": 437157502,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-04-22T18:05:11.686262Z",
+              "timestamp": "2025-05-07T22:45:38.105986Z"
+            },
+            "pacer_doc_id": "042022242595",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Karen Owens",
+        "assigned_to_id": 8737,
+        "attorney": [
+          "Amy M. Oden",
+          "J John Kim",
+          "Hannah J McCollum",
+          "Joseph C. Barsalona II",
+          "Richard W. Riley",
+          "Henry Jon Jaffe"
+        ],
+        "attorney_id": [
+          10258400,
+          10706793,
+          10340266,
+          10706794,
+          10238256,
+          10238257
+        ],
+        "caseName": "House Spirits Distillery LLC",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation_string": "Bankr. D. Del.",
+        "court_id": "deb",
+        "dateArgued": null,
+        "dateFiled": "2025-04-06",
+        "dateTerminated": null,
+        "docketNumber": "25-10660",
+        "docket_absolute_url": "/docket/69850516/house-spirits-distillery-llc/",
+        "docket_id": 69850516,
+        "firm": [
+          "Pashman Stein Walder Hayden, PC",
+          "Pashmanstein Walder Hayden PC",
+          "Pashman Stein Walder Hayden, P.C."
+        ],
+        "firm_id": [
+          964818,
+          309986,
+          964428,
+          984820
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-04-06T19:33:48.097628Z",
+          "more_docs": false,
+          "score": {
+            "bm25": 11.521763
+          },
+          "timestamp": "2025-04-09T13:33:13.263470Z"
+        },
+        "pacer_case_id": "196423",
+        "party": [
+          "Epiq Corporate Restructuring, LLC",
+          "Natasha M. Songonuga",
+          "U.S. Trustee",
+          "House Spirits Distillery LLC"
+        ],
+        "party_id": [
+          15318420,
+          15318419,
+          15282956,
+          15282957
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/69850516/3/house-spirits-distillery-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application/Motion to Employ/Retain Epiq Corporate Restructuring, LLC as <mark>Claims and Noticing Agent</mark> to the Debtor Filed by House Spirits Distillery LLC. (Riley, Richard) (Entered: 04/06/2025)",
+            "docket_entry_id": 421531589,
+            "document_number": 3,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-04-06",
+            "entry_number": 3,
+            "filepath_local": null,
+            "id": 435534657,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-04-06T23:01:16.066784Z",
+              "timestamp": "2025-04-09T13:33:13.275626Z"
+            },
+            "pacer_doc_id": "042022210306",
+            "page_count": null,
+            "short_description": "Employ/Retain - Application/Motion",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/69850516/23/house-spirits-distillery-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order (I) Approving the Retention of Epiq Corporate Restructuring, LLC as the <mark>Claims and Noticing Agent</mark> to the Debtor, Effective as of the Petition Date, and (II) Granting Related Relief (Related Doc # 3) Order Signed on 4/9/2025. (Mml) (Entered: 04/09/2025)",
+            "docket_entry_id": 421818527,
+            "document_number": 23,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-04-09",
+            "entry_number": 23,
+            "filepath_local": null,
+            "id": 435830452,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-04-09T15:04:10.025259Z",
+              "timestamp": "2025-04-14T19:36:40.922609Z"
+            },
+            "pacer_doc_id": "042022215659",
+            "page_count": null,
+            "short_description": "Employ (Application)",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": "Songonuga, Natasha M."
+      },
+      {
+        "assignedTo": "Mark X. Mullin",
+        "assigned_to_id": 8972,
+        "attorney": [
+          "Alex Anderson",
+          "Camber Jones",
+          "Susan B. Hersh",
+          "Erin Marie Schmidt",
+          "Jason Patrick Kathman",
+          "Megan F. Clontz"
+        ],
+        "attorney_id": [
+          10179362,
+          10131076,
+          10131077,
+          10256268,
+          13713658,
+          13713659
+        ],
+        "caseName": "Vision2Systems LLC",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, N.D. Texas",
+        "court_citation_string": "Bankr. N.D. Tex.",
+        "court_id": "txnb",
+        "dateArgued": null,
+        "dateFiled": "2025-02-19",
+        "dateTerminated": null,
+        "docketNumber": "25-40583",
+        "docket_absolute_url": "/docket/69653630/vision2systems-llc/",
+        "docket_id": 69653630,
+        "firm": [
+          "Spencer Fane LLP",
+          "United States Trustee",
+          "Ferguson, Braswell, Fraser, Kubasta PC",
+          "Shipman & Goodwin LLP",
+          "Reed Smith LLP"
+        ],
+        "firm_id": [
+          632322,
+          1373739,
+          195437,
+          1043664,
+          254739,
+          666868,
+          456403
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-02-19T21:04:02.273791Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.521763
+          },
+          "timestamp": "2025-04-05T20:11:46.285892Z"
+        },
+        "pacer_case_id": "525118",
+        "party": [
+          "United States Trustee",
+          "Vision2Systems LLC"
+        ],
+        "party_id": [
+          15098022,
+          15098023
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/69653630/27/vision2systems-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application to employ Stretto, Inc. as <mark>Claims Agent</mark> Filed by Debtor Vision2Systems LLC (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Proposed Order # 4 Service List) (Clontz, Megan)",
+            "docket_entry_id": 417647893,
+            "document_number": 27,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-02-26",
+            "entry_number": 27,
+            "filepath_local": null,
+            "id": 431417311,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-02-26T21:05:03.493632Z",
+              "timestamp": "2025-04-05T20:11:46.285570Z"
+            },
+            "pacer_doc_id": "176050155988",
+            "page_count": null,
+            "short_description": "Employ",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/69653630/27/1/vision2systems-llc/",
+            "attachment_number": 1,
+            "cites": [],
+            "description": "Application to employ Stretto, Inc. as <mark>Claims Agent</mark> Filed by Debtor Vision2Systems LLC (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Proposed Order # 4 Service List) (Clontz, Megan)",
+            "docket_entry_id": 417647893,
+            "document_number": 27,
+            "document_type": "Attachment",
+            "entry_date_filed": "2025-02-26",
+            "entry_number": 27,
+            "filepath_local": null,
+            "id": 431878351,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-03-03T19:26:45.660054Z",
+              "timestamp": "2025-04-05T20:11:46.285570Z"
+            },
+            "pacer_doc_id": "176050155989",
+            "page_count": 15,
+            "short_description": "Exhibit A",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/69653630/27/2/vision2systems-llc/",
+            "attachment_number": 2,
+            "cites": [],
+            "description": "Application to employ Stretto, Inc. as <mark>Claims Agent</mark> Filed by Debtor Vision2Systems LLC (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Proposed Order # 4 Service List) (Clontz, Megan)",
+            "docket_entry_id": 417647893,
+            "document_number": 27,
+            "document_type": "Attachment",
+            "entry_date_filed": "2025-02-26",
+            "entry_number": 27,
+            "filepath_local": null,
+            "id": 431878352,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-03-03T19:26:45.747759Z",
+              "timestamp": "2025-04-05T20:11:46.285570Z"
+            },
+            "pacer_doc_id": "176050155990",
+            "page_count": 11,
+            "short_description": "Exhibit B",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Thomas M. Horan",
+        "assigned_to_id": null,
+        "attorney": [
+          "Joshua D Morse",
+          "Brigette G. McGrath",
+          "Ari M Berman",
+          "Joseph C. Barsalona II",
+          "M. Blake Cleary",
+          "Rebecca Stark",
+          "Marianna Udem",
+          "Sarah R Gladieux",
+          "Theresa A. Foudy",
+          "Nicholas C. Brown",
+          "Benjamin Wiley Butterfield",
+          "Jason DiBattista",
+          "Shannon Forshay",
+          "Jonathan Doolittle",
+          "Lorenzo Marinuzzi",
+          "Jason B. Gott",
+          "Megan Seliber",
+          "Brya Michele Keilson",
+          "Timothy Jay Fox, Jr.",
+          "Siena Cerra",
+          "Andrew V. Alfano",
+          "Maria Kotsiras",
+          "Chazz C. Coleman",
+          "Raff Ferraioli",
+          "Rahman Connelly",
+          "Caroline Tart",
+          "Alana A. Lyman",
+          "Doug Mannal",
+          "Eric J. Monzo",
+          "Andrew Kissner",
+          "Bryan Kotliar",
+          "Brett Michael Haywood"
+        ],
+        "attorney_id": [
+          10496140,
+          10160030,
+          10160031,
+          10128800,
+          10128801,
+          10128802,
+          10160032,
+          10160033,
+          10160034,
+          10160035,
+          10160036,
+          10128799,
+          10160037,
+          10732833,
+          10732834,
+          10732835,
+          10128574,
+          10131037,
+          10131038,
+          10131039,
+          10131040,
+          10131041,
+          10131042,
+          10131043,
+          11302392,
+          11302393,
+          11302394,
+          11302395,
+          11302396,
+          11302397,
+          11302398,
+          11302399
+        ],
+        "caseName": "Nikola Corporation and Lead Class",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation_string": "Bankr. D. Del.",
+        "court_id": "deb",
+        "dateArgued": null,
+        "dateFiled": "2025-02-19",
+        "dateTerminated": null,
+        "docketNumber": "25-10258",
+        "docket_absolute_url": "/docket/69651079/nikola-corporation-and-lead-class/",
+        "docket_id": 69651079,
+        "firm": [
+          "Pillsbury Winthrop Shaw Pittman LLP",
+          "Morrison &Foerster LLP",
+          "Latham and Watkins",
+          "Ask LLP",
+          "Morris James LLP",
+          "Pashman Stein Walder Hayden, P.C.",
+          "Potter Anderson & Corroon LLP",
+          "Morrison & Foerster LLP"
+        ],
+        "firm_id": [
+          105344,
+          788544,
+          1891,
+          467267,
+          1099076,
+          13191,
+          729192,
+          964428,
+          466287,
+          292592,
+          151505,
+          4562,
+          970035,
+          701109,
+          64058,
+          1166109
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-02-19T12:32:36.968286Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.521763
+          },
+          "timestamp": "2026-02-27T19:01:54.941697Z"
+        },
+        "pacer_case_id": "195826",
+        "party": [
+          "Epiq Corporate Restructuring, LLC",
+          "Reliable Companies",
+          "U.S. Trustee",
+          "Nikola Corporation",
+          "Committee of Unsecured Creditors",
+          "Official Committee of Unsecured Creditors",
+          "Thomas A. Pitta,  as Liquidating Trustee of the Liquidating Trust of Nikola Corporation",
+          "Lead Class Plaintiff"
+        ],
+        "party_id": [
+          15097984,
+          15142311,
+          15094959,
+          15094960,
+          15125813,
+          17355065,
+          15097982,
+          15097983
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/69651079/1054/nikola-corporation/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Receipt of filing fee for Transfer/Assignment of Claim - Ch 11 with <mark>Claims Agent</mark> Assigned( 25-10258-TMH) [claims,trclm11] ( 28.00). Receipt Number A12373631, amount $ 28.00. (U.S. Treasury) (Entered: 09/16/2025)",
+            "docket_entry_id": 438944786,
+            "document_number": 1054,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-09-16",
+            "entry_number": 1054,
+            "filepath_local": null,
+            "id": 453460571,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-09-25T16:44:31.614039Z",
+              "timestamp": "2026-02-27T19:01:54.935473Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/69651079/1216/nikola-corporation/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Receipt of filing fee for Transfer/Assignment of Claim - Ch 11 with <mark>Claims Agent</mark> Assigned( 25-10258-TMH) [claims,trclm11] ( 28.00). Receipt Number A12422104, amount $ 28.00. (U.S. Treasury) (Entered: 10/23/2025)",
+            "docket_entry_id": 454333529,
+            "document_number": 1216,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-10-23",
+            "entry_number": 1216,
+            "filepath_local": null,
+            "id": 469248681,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-02-19T13:49:30.053526Z",
+              "timestamp": "2026-02-27T19:01:54.935473Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/69651079/1228/nikola-corporation/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Receipt of filing fee for Transfer/Assignment of Claim - Ch 11 with <mark>Claims Agent</mark> Assigned( 25-10258-TMH) [claims,trclm11] ( 28.00). Receipt Number A12426164, amount $ 28.00. (U.S. Treasury) (Entered: 10/28/2025)",
+            "docket_entry_id": 454333533,
+            "document_number": 1228,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-10-28",
+            "entry_number": 1228,
+            "filepath_local": null,
+            "id": 469248685,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-02-19T13:49:30.884805Z",
+              "timestamp": "2026-02-27T19:01:54.935473Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Thomas M. Horan",
+        "assigned_to_id": null,
+        "attorney": [
+          "Sean Matthew Beach",
+          "Jeremiah P. Ledwidge",
+          "Jared W Kochenash",
+          "Eric E. Walker",
+          "Benjamin J. Thomson",
+          "Benjamin A. Hackman",
+          "Michael S. Neumeister"
+        ],
+        "attorney_id": [
+          16016079,
+          16016080,
+          16016081,
+          16016082,
+          16016083,
+          15998717,
+          15997791
+        ],
+        "caseName": "BioXcel Therapeutics, Inc.",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation_string": "Bankr. D. Del.",
+        "court_id": "deb",
+        "dateArgued": null,
+        "dateFiled": "2026-08-27",
+        "dateTerminated": null,
+        "docketNumber": "26-11360",
+        "docket_absolute_url": "/docket/74713914/bioxcel-therapeutics-inc/",
+        "docket_id": 74713914,
+        "firm": [
+          "Office of the United States Trustee",
+          "Young, Conaway, Stargatt & Taylor",
+          "Young, Conaway, Stargatt & Taylor LLP",
+          "Jared W Kochenash",
+          "Cooley LLP"
+        ],
+        "firm_id": [
+          744642,
+          792611,
+          64580,
+          44870,
+          1369517,
+          462865,
+          63764,
+          460319
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2026-08-28T01:31:28.603853Z",
+          "more_docs": false,
+          "score": {
+            "bm25": 11.516384
+          },
+          "timestamp": "2026-08-28T12:48:57.377021Z"
+        },
+        "pacer_case_id": "202431",
+        "party": [
+          "Stretto",
+          "U.S. Trustee",
+          "Reliable Companies",
+          "BioXcel Therapeutics, Inc."
+        ],
+        "party_id": [
+          23613624,
+          23608534,
+          23607165,
+          23607166
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/74713914/53/bioxcel-therapeutics-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order Appointing Stretto, Inc. as <mark>Claims and Noticing Agent</mark>, Effective as of the Petition Date (related document(s)4) Order Signed on 8/31/2026. (Attachments: # 1 Exhibit) (AMH) (Entered: 08/31/2026)",
+            "docket_entry_id": 476349415,
+            "document_number": 53,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-08-31",
+            "entry_number": 53,
+            "filepath_local": null,
+            "id": 491909821,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-08-31T15:01:10.408374Z",
+              "timestamp": "2026-08-31T21:58:45.005016Z"
+            },
+            "pacer_doc_id": "042023167562",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/74713914/4/bioxcel-therapeutics-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application to Appoint Claims/<mark>Noticing Agent</mark> STRETTO Filed By BioXcel Therapeutics, Inc. (Kochenash, Jared) (Entered: 08/27/2026)",
+            "docket_entry_id": 476106241,
+            "document_number": 4,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-08-27",
+            "entry_number": 4,
+            "filepath_local": null,
+            "id": 491659288,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-08-28T02:32:47.062088Z",
+              "timestamp": "2026-08-28T12:48:57.363799Z"
+            },
+            "pacer_doc_id": "042023162017",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/74713914/119/bioxcel-therapeutics-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Affidavit/Declaration of Service re: Declaration of Samir Saleem in Support of the Chapter 11 Petitions and First Day Motions (Docket No. 2), Debtors Motion for Order Authorizing Joint Administration of the Debtors Chapter 11 Cases (Docket No. 3), Debtors Application for Entry of an Order Appointing Stretto, Inc. as <mark>Claims and Noticing Agent</mark>, Effective as of the Petition Date (Docket No. 4), Debtors Motion for Interim and Final Orders (I) Authorizing Payment of Prepetition Obligations Incurred in the Ordinary Course of Business in Connection with the Debtors Insurance Program; (II) Authorizing the Debtors to Continue Their Insurance Premium Financing Program; (III) Authorizing Banks to Honor and Process Check and Electronic Transfer Requests Related Thereto and (IV) Granting Related Relief (Docket No. 5), Debtors Motion for Interim and Final Orders (I) Prohibiting Utility Companies from Altering, Refusing, or Discontinuing Utility Services; (II) Deeming Utility Companies Adequately Assured of Future Payment; (III) Establishing Procedures for Resolving Objections by Utility Companies and Determining Additional Adequate Assurance of Payment; and (IV) Granting Related Relief (Docket No. 6), Debtors Motion for Entry of Interim and Final Orders (I) Authorizing Debtors to (A) Pay Certain Prepetition Employment Obligations and Compensation Obligations and (B) Maintain Employee Benefits Programs and Compensation Obligations; and (II) Granting Related Relief (Docket No. 7), Debtors Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Maintain and Administer Their Existing Customer Programs and Honor Certain Prepetition Obligations Related Thereto; (II) Authorizing the Banks to Honor and Process Check and Electronic Transfer Requests Related Thereto; and (III) Granting Related Relief (Docket No. 8), Debtors Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Redact Certain Personally Identifiable Information of Individuals; (II) Modifying the Requirement to File A List of All Equity Security Holders and Modifying Notice Thereto; and (III) Granting Related Relief (Docket No. 9), Debtors Motion for Interim and Final Orders (I) Authorizing Debtors to Pay Certain Prepetition Taxes and Fees and Related Obligations; (II) Authorizing the Banks to Honor and Process Check and Electronic Transfer Requests Related Thereto; and (III) Granting Related Relief (Docket No. 10), Debtors Motion for Interim and Final Orders (I) Authorizing the Debtors to (A) Continue to Maintain Their Cash Management System, and (B) Honor Certain Prepetition Obligations Related Thereto; (II) Waiving Certain Operating Guidelines; (III) Suspending Time to Comply with Section 345(b) of the Bankruptcy Code; and (IV) Granting Related Relief (Docket No. 11), Motion of the Debtors for Entry of Interim and Final Orders (I) Establishing Notice and Objection Procedures for Transfers of and Declarations of Worthlessness with Respect to the Equity Securities; (II) Establishing A Record Date for Notice and Sell-Down Procedures for Trading in Claims Against the Debtors Estates; and (III) Granting Related Relief (Docket No. 12), Motion of the Debtors for an Order (I) Approving Bidding Procedures for the Sale of the Debtors Assets, (II) Approving the Debtors Entry into the Stalking Horse APA and Granting Bid Protections, (III) Approving Assumption and Assignment Procedures, (IV) Scheduling an Auction and Sale Hearing and Approving Forms and Manner of Notice Thereof, and (V) Granting Certain Related Relief (Docket No. 13), Declaration of Daun Chung in Support of the Debtors Motion for an Order (I) Approving Bidding Procedures for the Sale of the Debtors Assets, (II) Approving the Debtors Entry Into the Stalking Horse APA and Granting Bid Protections, (III) Approving Assumption and Assignment Procedures, (IV) Scheduling an Auction and Sale Hearing and Approving Forms and Manner of Notice Thereof, and (V) Granting Certain Related Relief (Docket No. 14), Debtors Motion for Interim and Final Orders (I) Authorizing the Debtors to Obtain Postpetition Financing, Granting Senior Postpetition Security Interests and According Superpriority Administrative Expense Status Pursuant to Sections 364(c) and 364(d) of the Bankruptcy Code, (II) Authorizing the Use of Cash Collateral, (III) Granting Adequate Protection, (IV) Modifying the Automatic Stay, and (V) Granting Related Relief (Docket No. 24), Declaration of Daun Chung in Support of Debtors Motion for Interim and Final Orders (I) Authorizing the Debtors to Obtain Postpetition Financing, Granting Senior Postpetition Security Interests and According Superpriority Administrative Expense Status Pursuant to Sections 364(c) and 364(d) of the Bankruptcy Code, (II) Authorizing the Use of Cash Collateral, (III) Granting Adequate Protection, (IV) Modifying the Automatic Stay, and (V) Granting Related Relief (Docket No. 25), Debtors Motion for Entry of an Order (I) Authorizing the Implementation of A Key Employee Retention Program; (II) Authorizing the Implementation of A Key Employee Incentive Program; (III) Approving the Terms of the Debtors Employee Programs; and (IV) Granting Related Relief (Docket No. 37), Declaration of Samir Saleem in Support of the Debtors Motion for Entry of an Order (I) Authorizing the Implementation of A Key Employee Retention Program; (II) Authorizing the Implementation of A Key Employee Incentive Program; (III) Approving the Terms of the Debtors Employee Programs; and (IV) Granting Related Relief (Docket No. 38), Motion for Entry of an Order Authorizing the Debtors to Redact and Seal the Confidential Information in (A) the Debtors Motion for Entry of an Order (I) Authorizing the Implementation of A Key Employee Retention Program; (II) Authorizing the Implementation of A Key Employee Incentive Program, (III) Approving the Terms of the Debtors Employee Programs; and (IV) Granting Related Relief (Docket No. 39), Notice of Filing of Revised Proposed Interim Order (I) Authorizing the Debtors to Obtain Postpetition Financing, Granting Senior Postpetition Security Interests and According Superpriority Administrative Expense Status Pursuant to Sections 364(c) and 364(d) of the Bankruptcy Code, (II) Authorizing the Use of Cash Collateral, (III) Granting Adequate Protection, (IV) Modifying the Automatic Stay, and (V) Granting Related Relief (Docket No. 44), Order Authorizing Joint Administration of the Debtors Chapter 11 Cases (Docket No. 52), Order Appointing Stretto, Inc. as <mark>Claims and Noticing Agent</mark>, Effective as of the Petition Date (Docket No. 53), Interim Order (I) Authorizing Payment of Prepetition Obligations Incurred in the Ordinary Course of Business in Connection with the Debtors Insurance Program; (II) Authorizing the Debtors to Continue Their Insurance Premium Financing Program; (III) Authorizing Banks to Honor and Process Check and Electronic Transfer Requests Related Thereto; and (IV) Granting Related Relief (Docket No. 56), Interim Order (I) Prohibiting Utility Companies from Altering, Refusing, or Discontinuing Utility Services; (II) Deeming Utility Companies Adequately Assured of Future Payment; (III) Establishing Procedures for Resolving Objections by Utility Companies and Determining Additional Adequate Assurance of Payment; and (IV) Granting Related Relief (Docket No. 57), Interim Order (I) Authorizing Debtors to (A) Pay Certain Prepetition Employment Obligations and Compensation Obligations (B) Maintain the Compensation Obligations the Employee Benefits Programs; and (II) Granting Related Relief (Docket No. 58), Interim Order (I) Authorizing the Debtors to Maintain and Administer Their Existing Customer Programs and Honor Certain Prepetition Obligations Related Thereto; (II) Authorizing the Banks to Honor and Process Check and Electronic Transfer Requests Related Thereto; and (III) Granting Related Relief (Docket No. 59), Interim Order (I) Authorizing the Debtors to Redact Certain Personally Identifiable Information of Individuals; (II) Modifying the Requirement to File A List of All Equity Security Holders and Modifying Notice Thereo; and (III) Granting Related Relief (Docket No. 60), Interim Order (I) Authorizing Debtors to Pay Certain Prepetition Taxes and Fees and Related Obligations; (II) Authorizing the Banks to Honor and Process Check and Electronic Transfer Requests Related Thereto; and (III) Granting Related Relief (Docket No. 61), Interim Order (I) Authorizing the Debtors to (A) Continue to Maintain Their Cash Management System, and (B) Honor Certain Prepetition Obligations Related Thereto; (II) Waiving Certain Operating Guidelines; (III) Suspending Time to Comply with Section 345(b) of the Bankruptcy Code; and (IV) Granting Related Relief (Docket No. 62), Interim Order (I) Establishing Notice and Objection Procedures for Transfers of and Declarations of Worthlessness with Respect to Equity Securities; (II) Establishing A Record Date for Notice and Sell-Down Procedures for Trading in Claims Against the Debtors Estates; and (III) Granting Related Relief (Docket No. 63), Interim Order (I) Authorizing the Debtors to Obtain Postpetition Financing, Granting Senior Postpetition Security Interests and According Superpriority Administrative Expense Status Pursuant to Sections 364(c) and 364(d) of the Bankruptcy Code, (II) Authorizing the Use of Cash Collateral, (III) Granting Adequate Protection; (IV) Modifying the Automatic Stay, and (V) Granting Related Relief (Docket No. 64), Omnibus Notice of First Day Motions, and Final Hearing Thereon (Docket No. 65), Notice of Motion (Docket No. 66), Notice of Motion (Docket No. 67), Notice of Motion (Docket No. 68), Notice of Filing of List of Equity Security Holders (Docket No. 70). Filed by Stretto. (related document(s)2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 24, 25, 37, 38, 39, 44, 52, 53, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 70) (Betance, Sheryl) (Entered: 09/17/2026)",
+            "docket_entry_id": 478440985,
+            "document_number": 119,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-09-17",
+            "entry_number": 119,
+            "filepath_local": null,
+            "id": 494066654,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-09-17T22:33:49.613678Z",
+              "timestamp": "2026-09-21T23:38:54.397291Z"
+            },
+            "pacer_doc_id": "042023196020",
+            "page_count": null,
+            "short_description": "Affidavit/Declaration of Service",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Christine M. Gravelle",
+        "assigned_to_id": 8880,
+        "attorney": [
+          "Michael D. Sirota",
+          "Kirkland & Ellis LLP Kirkland & Ellis International LLP",
+          "Jeffrey M. Sponder"
+        ],
+        "attorney_id": [
+          11226384,
+          13666523,
+          11226383
+        ],
+        "caseName": "Pretium Packaging, L.L.C.",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. New Jersey",
+        "court_citation_string": "Bankr. D.N.J.",
+        "court_id": "njb",
+        "dateArgued": null,
+        "dateFiled": "2026-01-28",
+        "dateTerminated": null,
+        "docketNumber": "26-10896",
+        "docket_absolute_url": "/docket/72201990/pretium-packaging-llc/",
+        "docket_id": 72201990,
+        "firm": [
+          "Kirkland & Ellis LLP and Kirkland & Ellis International LLP",
+          "Law Offices of Sklar Smith-Sklar",
+          "Cole Schotz P.C.",
+          "Cabanillas & Associates PC"
+        ],
+        "firm_id": [
+          265262,
+          855215,
+          137582,
+          239535
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2026-01-29T01:45:26.819558Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.516384
+          },
+          "timestamp": "2026-01-29T17:39:45.626746Z"
+        },
+        "pacer_case_id": "1137296",
+        "party": [
+          "Pretium Packaging, L.L.C.",
+          "U.S. Trustee"
+        ],
+        "party_id": [
+          17222136,
+          17218459
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/72201990/20/1/pretium-packaging-llc/",
+            "attachment_number": 1,
+            "cites": [],
+            "description": "Application for Expedited Consideration of First Day Matters (related document:3 Motion for Joint Administration - Multi-Case, 4 Application for Designation as a Chapter 11 Complex Case filed by Debtor Pretium Packaging, L.L.C., 7 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 8 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 9 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 10 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 11 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 13 Motion to Retain <mark>Claims and Noticing Agent</mark> filed by Debtor Pretium Packaging, L.L.C., 14 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 15 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 16 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 17 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 19 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C.) Filed by Michael D. Sirota on behalf of Pretium Packaging, L.L.C.. (Attachments: # 1 Exhibit A - Proposed Order Regarding Debtors' Application for Expedited Consideration of First Day Matters) (Sirota, Michael) (Entered: 01/29/2026)",
+            "docket_entry_id": 451967221,
+            "document_number": 20,
+            "document_type": "Attachment",
+            "entry_date_filed": "2026-01-29",
+            "entry_number": 20,
+            "filepath_local": "recap/gov.uscourts.njb.1137296/gov.uscourts.njb.1137296.20.1.pdf",
+            "id": 466843138,
+            "is_available": true,
+            "meta": {
+              "date_created": "2026-01-29T15:25:04.446274Z",
+              "timestamp": "2026-01-29T17:39:39.773341Z"
+            },
+            "pacer_doc_id": "118070195359",
+            "page_count": 6,
+            "short_description": "Exhibit A - Proposed Order Regarding Debtors' Application for Expedited Con",
+            "snippet": "  Case 26-10896-CMG Doc 20-1 Filed 01/29/26 Entered 01/29/26 04:18:03 Desc\nExhibit A - Proposed Order Regarding Debtors Application for Expedited Con Page 1 of 6\n\n\n\n                                      Exhibit A\n\n                                   Proposed Order\n  Case 26-10896-CMG Doc 20-1 Filed 01/29/26 Entered 01/29/26 04:18:03 Desc\nExhibit A - Proposed Order Regarding Debtors Application for Expedited Con Page 2 of 6\n\n\n\n     UNITED STATES BANKRUPTCY COURT\n     DISTRICT OF NEW JERSEY\n\n     In"
+          },
+          {
+            "absolute_url": "/docket/72201990/22/pretium-packaging-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order Regarding Application for Expedited Consideration of First Day Matters (related document:3 Motion for Joint Administration for the following cases: 26-10896, 26-10897, 26-10898, 26-10899, 26-10900, 26-10901, 26-10902, 26-10903, 26-10904, 26-10905, 4 Application for Designation as a Chapter 11 Complex Case filed by Debtor Pretium Packaging, L.L.C., 7 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Continue Using the Cash Management System, (B) Honor Certain Prepetition Obligations Related Thereto, (C) Maintain Existing Debtor Bank Accounts, Bu filed by Debtor Pretium Packaging, L.L.C., 8 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Authorizing Payment of All Trade Claims in the Ordinary Course of Business, (II) Granting Administrative Expense Priority to Undisputed Obligations on Account of Outstanding Orde filed by Debtor Pretium Packaging, L.L.C., 9 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Authorizing the Payment of Certain Taxes and Fees and (II) Granting Related Relief filed by Debtor Pretium Packaging, L.L.C., 10 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Maintain Insurance Coverage and Letters of Credit Entered into Prepetition and Pay Related Prepetition Obligations, (B) Renew, Supplement, Modify, or P filed by Debtor Pretium Packaging, L.L.C., 11 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Maintain and Administer Their Customer Programs and (B) Honor Certain Prepetition Obligations Related Thereto and (II) Granting Related Relief filed by Debtor Pretium Packaging, L.L.C., 12 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Approving the Debtors' Proposed Adequate Assurance of Payment for Future Utility Services, (II) Prohibiting Utility Providers from Altering, Refusing, or Discontinuing Servi filed by Debtor Pretium Packaging, L.L.C., 13 Motion for an Order Authorizing Debtor to Retain a <mark>Claims and Noticing Agent</mark> filed by Debtor Pretium Packaging, L.L.C., 14 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Approving Notifications and Hearing Procedures for Certain Transfers of and Declarations of Worthlessness with Respect to Common Stock and Preferred Stock and (II) Granting Relat filed by Debtor Pretium Packaging, L.L.C., 15 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) File a Consolidated List of the Debtors' Thirty Largest Unsecured Creditors, (B) File a Consolidated List of Creditors in Lieu of Submitting a filed by Debtor Pretium Packaging, L.L.C., 16 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Pay Prepetition Wages, Salaries, Other Compensation, and Reimbursable Expenses to Employees and Temporary Staff and (B) Continue Employee Benefits filed by Debtor Pretium Packaging, L.L.C., 17 Motion re: Debtors' Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain PostPetition Financing, (B) Use Cash Collateral, and (C) Grant Liens and Superpriority Administrative Expense Claims, (II) Granting Adequate filed by Debtor Pretium Packaging, L.L.C., 19 Motion re: Debtors' Motion for Entry of an Order (I) Scheduling a Combined Disclosure Statement Approval and Plan Confirmation Hearing, (II) Approving Related Dates, Deadlines, Notices, and Procedures, (III) Approving the Solicitation Procedures an filed by Debtor Pretium Packaging, L.L.C.) Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 1/29/2026. Hearing scheduled for 1/30/2026 at 10:00 AM, Zoom-Judge Gravelle: join.zoom.us Meeting ID 161 864 0151, Passcode 069541, or call 1-646-828-7666. (rms) (Entered: 01/29/2026)",
+            "docket_entry_id": 451978224,
+            "document_number": 22,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-01-29",
+            "entry_number": 22,
+            "filepath_local": "recap/gov.uscourts.njb.1137296/gov.uscourts.njb.1137296.22.0.pdf",
+            "id": 466835429,
+            "is_available": true,
+            "meta": {
+              "date_created": "2026-01-29T14:34:09.513602Z",
+              "timestamp": "2026-01-29T17:39:39.773341Z"
+            },
+            "pacer_doc_id": "118070195974",
+            "page_count": 3,
+            "short_description": "Shorten Time",
+            "snippet": " UNITED STATES BANKRUPTCY COURT\n DISTRICT OF NEW JERSEY\n\n Caption in Compliance with D.N.J. LBR 9004-1(b)                           Order Filed on January 29, 2026\n                                                                           by Clerk\n                                                                           U.S. Bankruptcy Court\n                                                                           District of New Jersey\n\n\n\n\n                                                     "
+          },
+          {
+            "absolute_url": "/docket/72201990/20/pretium-packaging-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application for Expedited Consideration of First Day Matters (related document:3 Motion for Joint Administration - Multi-Case, 4 Application for Designation as a Chapter 11 Complex Case filed by Debtor Pretium Packaging, L.L.C., 7 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 8 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 9 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 10 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 11 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 13 Motion to Retain <mark>Claims and Noticing Agent</mark> filed by Debtor Pretium Packaging, L.L.C., 14 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 15 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 16 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 17 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C., 19 Motion (Generic) filed by Debtor Pretium Packaging, L.L.C.) Filed by Michael D. Sirota on behalf of Pretium Packaging, L.L.C.. (Attachments: # 1 Exhibit A - Proposed Order Regarding Debtors' Application for Expedited Consideration of First Day Matters) (Sirota, Michael) (Entered: 01/29/2026)",
+            "docket_entry_id": 451967221,
+            "document_number": 20,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-01-29",
+            "entry_number": 20,
+            "filepath_local": null,
+            "id": 466824211,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-01-29T09:31:24.379674Z",
+              "timestamp": "2026-01-29T17:39:39.773341Z"
+            },
+            "pacer_doc_id": "118070195358",
+            "page_count": null,
+            "short_description": "Expedited Consideration of First Day Matters (For Ch. 11 Cases Only)",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Mark X. Mullin",
+        "assigned_to_id": 8972,
+        "attorney": [
+          "Lindsay Doman",
+          "Jason Patrick Kathman",
+          "Mary Taylor Stanberry",
+          "Laurie Patton",
+          "Martin A. Sosland",
+          "Suzanne K. Rosen",
+          "Jeffrey D Pawlitz",
+          "Zachary Fairlie",
+          "Candice Marie Carson",
+          "Jennifer Hardy",
+          "Jeff P. Prostok",
+          "Susan B. Hersh"
+        ],
+        "attorney_id": [
+          11347490,
+          10817155,
+          10817156,
+          10871981,
+          10871982,
+          10871983,
+          10871984,
+          10871985,
+          10871986,
+          10871987,
+          10934927,
+          10805438
+        ],
+        "caseName": "PrimaLend Capital Partners, LP",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, N.D. Texas",
+        "court_citation_string": "Bankr. N.D. Tex.",
+        "court_id": "txnb",
+        "dateArgued": null,
+        "dateFiled": "2025-10-22",
+        "dateTerminated": null,
+        "docketNumber": "25-90013",
+        "docket_absolute_url": "/docket/71717482/primalend-capital-partners-lp/",
+        "docket_id": 71717482,
+        "firm": [
+          "Spencer Fane LLP",
+          "Willkie Farr & Gallagher, LLP",
+          "Vartabedian Hester & Haynes LLP",
+          "Vartabedian Katz Hester & Haynes LLP",
+          "Willkie Farr & Gallagher LLP"
+        ],
+        "firm_id": [
+          105601,
+          613985,
+          1091387,
+          1170338,
+          362,
+          1169776,
+          1364721,
+          456403,
+          1006584,
+          820635
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-10-22T05:23:00.954024Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.516384
+          },
+          "timestamp": "2026-05-29T19:06:48.780246Z"
+        },
+        "pacer_case_id": "533992",
+        "party": [
+          "United States Trustee",
+          "Official Committee of Unsecured Creditors",
+          "PrimaLend Capital Partners, LP",
+          "Tripp Lane"
+        ],
+        "party_id": [
+          16540402,
+          16540403,
+          19991308,
+          16676730
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/71717482/510/primalend-capital-partners-lp/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Certificate of service re: Motion Motion for Entry of an Order Extending the Claim Objection Deadline (Docket No. 503) Filed by <mark>Claims Agent</mark> Stretto (related document(s)503 Motion to extend time to object to claims Filed by Trustee Tripp Lane Objections due by 6/22/2026. (Attachments: # 1 Exhibit A) filed by Trustee Tripp Lane). (Betance, Sheryl)",
+            "docket_entry_id": 466732082,
+            "document_number": 510,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-06-08",
+            "entry_number": 510,
+            "filepath_local": null,
+            "id": 481977807,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-06-08T22:32:28.818809Z",
+              "timestamp": "2026-06-12T13:54:04.705631Z"
+            },
+            "pacer_doc_id": "176052277139",
+            "page_count": null,
+            "short_description": "Certificate of service",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/71717482/29/primalend-capital-partners-lp/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Declaration re: Debtors' Chapter 11 Petitions and Requests for First Day Relief filed by Debtor PrimaLend Capital Partners, LP (RE: related document(s)4 Motion for joint administration of cases 25-90013, 25-90014 and 25-90015, 5 Notice of designation as complex chapter 11 case, 6 Application to employ Stretto, Inc. as <mark>Claims Agent</mark>, 9 Motion to establish procedures - Emergency Motion for Entry of an Order (I) Authorizing the Debtors to File (A) a Consolidated Creditor Matrix, (B) a Consolidated List of Top 30 Unsecured Creditors; (II) Authorizing the Debtors to Redact Certain PII fr, 10 Motion to pay pre-petition debt- Debtors' Emergency Motion for Entry of Order (I) Authorizing the Debtors to Pay Prepetition Wages, Compensation, and Employee Benefits, and (II) Granting Related Relief, 11 Motion to pay tax debts- Debtors' Emergency Motion for an Order (I) Authorizing the Debtors to Pay Certain Taxes and Fees and (II) Granting Related Relief, 12 Motion regarding utilities. - Debtors' Emergency Motion for an Order (I) Prohibiting Utilities from Altering, Refusing, or Discontinuing Service; (II) Deeming Utilities Adequately Assured of Future Performance; (III) Establishing Procedures for, 14 Motion regarding pre or post petition contracts. - Debtors' Emergency Motion for an Order (I) Authorizing the Debtors to (A) Continue Prepetition Insurance Coverage and Satisfy Prepetition Obligations Related Thereto, and (B) Renew, Amend, Supp, 17 Motion to extend time to file schedules or new case deficiencies, excluding matrix (RE: related document(s)2 Notice of deficiency), 20 Motion to maintain bank accounts. - Debtors' Emergency Motion (I) Authorizing the Debtors to (A) Continue to Operate Their Existing Cash Management System and Maintain Existing Bank Accounts, (B) Continue Using Existing Checks and Business Form, 26 Motion to establish procedures. - Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Continue Their Servicing Obligations, (II) Approving Loss Mitigation and Settlement Procedures, and (III) Granting). (Kathman, Jason)",
+            "docket_entry_id": 441748746,
+            "document_number": 29,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-10-22",
+            "entry_number": 29,
+            "filepath_local": "recap/gov.uscourts.txnb.533992/gov.uscourts.txnb.533992.29.0.pdf",
+            "id": 456337809,
+            "is_available": true,
+            "meta": {
+              "date_created": "2025-10-22T21:05:25.339789Z",
+              "timestamp": "2026-05-29T19:06:48.969722Z"
+            },
+            "pacer_doc_id": "176051210528",
+            "page_count": 35,
+            "short_description": "Declaration",
+            "snippet": "Case 25-90013-mxm11              Doc 29 Filed 10/22/25 Entered 10/22/25 15:56:40                           Desc Main\n                                       Document    Page 1 of 35\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                           FOR THE NORTHERN DISTRICT OF TEXAS\n                                   FORT WORTH DIVISION\n\n In re:                                  \u00a7                               Chapter 11\n                                         \u00a7\n PRIMALEND"
+          },
+          {
+            "absolute_url": "/docket/71717482/31/primalend-capital-partners-lp/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Notice of hearing on First Day Matters filed by Debtor PrimaLend Capital Partners, LP (RE: related document(s)4 Motion for joint administration of cases 25-90013, 25-90014 and 25-90015 Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Proposed Order), 5 Notice of designation as complex chapter 11 case filed by Debtor PrimaLend Capital Partners, LP. (Attachments: # 1 Proposed Order), 6 Application to employ Stretto, Inc. as <mark>Claims Agent</mark> Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Services Agreement # 3 Exhibit C - Declaration of Sheryl Betance in Support of Application), 9 Motion to establish procedures - Emergency Motion for Entry of an Order (I) Authorizing the Debtors to File (A) a Consolidated Creditor Matrix, (B) a Consolidated List of Top 30 Unsecured Creditors; (II) Authorizing the Debtors to Redact Certain PII from the Consolidated Creditor Matrix, Top 30 List, and List of Equity Holders; (III) Establishing a Complex Service List; (IV) Authorizing the Form and Manner of Notice of Commencement; and (IV) Granting Related Relief. Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Exhibit A - Proposed Order), 10 Motion to pay pre-petition debt- Debtors' Emergency Motion for Entry of Order (I) Authorizing the Debtors to Pay Prepetition Wages, Compensation, and Employee Benefits, and (II) Granting Related Relief Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Exhibit A - Proposed Order), 11 Motion to pay tax debts- Debtors' Emergency Motion for an Order (I) Authorizing the Debtors to Pay Certain Taxes and Fees and (II) Granting Related Relief Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - List of Taxing Authorities), 12 Motion regarding utilities. - Debtors' Emergency Motion for an Order (I) Prohibiting Utilities from Altering, Refusing, or Discontinuing Service; (II) Deeming Utilities Adequately Assured of Future Performance; (III) Establishing Procedures for Determining Adequate Assurance of Payment; and (IV) Granting Related Relief Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Utility Service List), 14 Motion regarding pre or post petition contracts. - Debtors' Emergency Motion for an Order (I) Authorizing the Debtors to (A) Continue Prepetition Insurance Coverage and Satisfy Prepetition Obligations Related Thereto, and (B) Renew, Amend, Supplement, Extend, or Purchase Insurance Coverage on a Postpetition Basis in the Ordinary Course; (II) Modifying the Automatic Stay Solely with Respect to Workers' Compensation Claims; and (III) Granting Related Relief Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Schedule of Insurance Policies), 17 Motion to extend time to file schedules or new case deficiencies, excluding matrix (RE: related document(s)2 Notice of deficiency) Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Exhibit A - Proposed Order), 20 Motion to maintain bank accounts. - Debtors' Emergency Motion (I) Authorizing the Debtors to (A) Continue to Operate Their Existing Cash Management System and Maintain Existing Bank Accounts, (B) Continue Using Existing Checks and Business Forms, (C) Maintain Their Corporate Card Program, and (D) Continue Intercompany Transactions; (II) Waiving Certain UST Guidelines; and (III) Granting Related Relief Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Cash Management System # 3 Exhibit C - Cash Management System), 26 Motion to establish procedures. - Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Continue Their Servicing Obligations, (II) Approving Loss Mitigation and Settlement Procedures, and (III) Granting Related Relief Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Exhibit A - Proposed Interim Order # 2 Exhibit B - Proposed Final Order), 30 Motion for DIP financing. - Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing (A) Postpetition Financing and (B) the Use of Cash Collateral, (II) Granting Liens and Providing Superpriority Administrative Expense Claims; (III) Granting Adequate Protection to Prepetition Lenders, (IV) Modifying the Automatic Stay, (V) Scheduling a Final Hearing, and (VI) Granting Related Relief Filed by Debtor PrimaLend Capital Partners, LP (Attachments: # 1 Exhibit A - Declaration of J. Lewis in Support of the DIP Motion # 2 Exhibit B - Proposed Interim Order)). Hearing to be held on 10/24/2025 at 09:00 AM Ft. Worth, Judge Mullin's Ctrm. for 5 and for 12 and for 11 and for 30 and for 14 and for 9 and for 4 and for 26 and for 6 and for 17 and for 10 and for 20, (Kathman, Jason)",
+            "docket_entry_id": 441771975,
+            "document_number": 31,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-10-22",
+            "entry_number": 31,
+            "filepath_local": null,
+            "id": 456361425,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-10-23T00:03:51.944157Z",
+              "timestamp": "2026-05-29T19:06:48.969722Z"
+            },
+            "pacer_doc_id": "176051211245",
+            "page_count": null,
+            "short_description": "Notice of hearing",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": "Tripp, Lane"
+      },
+      {
+        "assignedTo": "Thomas M. Horan",
+        "assigned_to_id": null,
+        "attorney": [
+          "Jonathan Lipshie",
+          "Kevin H Morse",
+          "Travis J. Eliason",
+          "Karen M. Grivner"
+        ],
+        "attorney_id": [
+          10440064,
+          10440061,
+          10440062,
+          10440063
+        ],
+        "caseName": "T&S Food Services II, LLC",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation_string": "Bankr. D. Del.",
+        "court_id": "deb",
+        "dateArgued": null,
+        "dateFiled": "2025-06-19",
+        "dateTerminated": null,
+        "docketNumber": "25-11178",
+        "docket_absolute_url": "/docket/70586279/ts-food-services-ii-llc/",
+        "docket_id": 70586279,
+        "firm": [
+          "DOJ-Ust",
+          "Clark Hill PLC",
+          "Karen M. Grivner"
+        ],
+        "firm_id": [
+          266272,
+          1053919,
+          995127
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-06-19T21:49:21.817174Z",
+          "more_docs": false,
+          "score": {
+            "bm25": 11.516384
+          },
+          "timestamp": "2025-06-24T18:40:41.643484Z"
+        },
+        "pacer_case_id": "197484",
+        "party": [
+          "T&S Food Services II, LLC",
+          "Reliable Companies",
+          "U.S. Trustee"
+        ],
+        "party_id": [
+          15684544,
+          15684545,
+          15690933
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/70586279/4/ts-food-services-ii-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application to Appoint Claims/<mark>Noticing Agent</mark> Reliable Filed By T&S Food Services II, LLC (Grivner, Karen) (Entered: 06/19/2025)",
+            "docket_entry_id": 429008013,
+            "document_number": 4,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-06-19",
+            "entry_number": 4,
+            "filepath_local": null,
+            "id": 443250504,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-06-20T00:00:33.405614Z",
+              "timestamp": "2025-06-24T18:40:41.728273Z"
+            },
+            "pacer_doc_id": "042022364445",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/70586279/28/ts-food-services-ii-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order Granting Application of the Debtor for Entry of an Order Pursuant to 28 U.S.C. \u00a7 <mark>156(c</mark>), Bankruptcy Code Section 105(a) and Local Rule 2002-1(e),Authorizing Appointment of Reliable Companies d/b/a Reliable as Claimsand <mark>Noticing Agent</mark>, Effective as of the Petition Date (Related Doc # 4) Order Signed on 6/24/2025. (LJH) (Entered: 06/24/2025)",
+            "docket_entry_id": 429396464,
+            "document_number": 28,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-06-24",
+            "entry_number": 28,
+            "filepath_local": null,
+            "id": 443650791,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-06-24T19:05:28.586344Z",
+              "timestamp": "2025-06-25T13:47:17.451613Z"
+            },
+            "pacer_doc_id": "042022373589",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Craig T. Goldblatt",
+        "assigned_to_id": null,
+        "attorney": [
+          "Linda J. Casey",
+          "Zev Shechtman",
+          "Paige Noelle Topper",
+          "Nicholas Smargiassi"
+        ],
+        "attorney_id": [
+          11215768,
+          11262935,
+          11215770,
+          11215767
+        ],
+        "caseName": "FLOAT Alaska LLC",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation_string": "Bankr. D. Del.",
+        "court_id": "deb",
+        "dateArgued": null,
+        "dateFiled": "2026-01-26",
+        "dateTerminated": null,
+        "docketNumber": "26-10075",
+        "docket_absolute_url": "/docket/72187012/float-alaska-llc/",
+        "docket_id": 72187012,
+        "firm": [
+          "Saul Ewing LLP",
+          "Office of United States Trustee"
+        ],
+        "firm_id": [
+          875800,
+          64681,
+          867147
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2026-01-26T15:39:38.487799Z",
+          "more_docs": false,
+          "score": {
+            "bm25": 11.356215
+          },
+          "timestamp": "2026-01-27T11:30:57.372701Z"
+        },
+        "pacer_case_id": "200243",
+        "party": [
+          "U.S. Trustee",
+          "Stretto",
+          "FLOAT Alaska LLC",
+          "Reliable Companies"
+        ],
+        "party_id": [
+          17205033,
+          17205034,
+          17298828,
+          17298829
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/72187012/4/float-alaska-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application to Appoint Claims/<mark>Noticing Agent</mark> STRETTO Filed By FLOAT Alaska LLC (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Betance Declaration # 3 Exhibit C - Engagement Agreement)(Topper, Paige) (Entered: 01/26/2026)",
+            "docket_entry_id": 451587255,
+            "document_number": 4,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-01-26",
+            "entry_number": 4,
+            "filepath_local": null,
+            "id": 466432458,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-01-26T19:03:35.417465Z",
+              "timestamp": "2026-01-27T11:30:58.600219Z"
+            },
+            "pacer_doc_id": "042022800812",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/72187012/31/float-alaska-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order Authorizing Debtors Application to Appoint Stretto, Inc. as <mark>Claims and Noticing Agent</mark> (related document(s)4) Signed on 1/28/2026. (NAB) (Entered: 01/28/2026)",
+            "docket_entry_id": 451877071,
+            "document_number": 31,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-01-28",
+            "entry_number": 31,
+            "filepath_local": null,
+            "id": 466730965,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-01-28T19:32:25.497433Z",
+              "timestamp": "2026-02-10T17:11:53.817946Z"
+            },
+            "pacer_doc_id": "042022805817",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/72187012/37/float-alaska-llc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Affidavit/Declaration of Service re: Debtors Motion for Entry of an Order Directing Joint Administration of Chapter 11 Cases for Procedural Purposes Only Granting and Related Relief (Docket No. 2), Debtors Motion for Entry of an Order Authorizing the Debtors to (I) File (A) a Consolidated Creditor Matrix and (B) a Consolidated List of the Debtors Top Thirty Creditors; and (II) Redact Certain Personally Identifiable Information for Individuals (Docket No. 3), Debtors Application to Appoint Stretto, Inc. as <mark>Claims and Noticing Agent</mark> (Docket No. 4), Debtors Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Continue Insurance Policies and Related Agreements, (B) Honor Certain Prepetition Obligations in Respect Thereof, and (C) Renew, Revise, or Enter Into New Insurance Coverage and Insurance Premium Financing as Needed in Their Business Judgment, and (II) Granting Related Relief (Docket No. 5), Debtors Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Pay Prepetition Employee Wages, Benefits, and Other Compensation Obligations and (B) Maintain Their Compensation and Benefits Programs, and (II) Granting Related Relief (Docket No. 6), Debtors Motion for Entry of Interim and Final Orders (I) Authorizing Continued Use of Existing Cash Management System, Bank Accounts, and Business Forms and Payment of Related Prepetition Obligations, (II) Authorizing Continuation of Intercompany Transactions, (III) Extending Time to Comply with 11 U.S.C. \u00a7 345(b), and (IV) Granting Related Relief (Docket No. 7), Debtors Motion for Interim and Final Orders (I) Authorizing the Debtors to Obtain Postpetition Financing, (II) Authorizing the Debtors to Use Cash Collateral, (III) Granting Liens and Providing Superpriority Administrative Expense Claims, (IV) Granting Adequate Protection, (V) Modifying the Automatic Stay, (Vi) Scheduling a Final Hearing, and (VII) Granting Related Relief (Docket No. 8), Declaration of Jarod Wada in Support of Debtors Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Obtain Postpetition Financing, (II) Authorizing the Debtors to Use Cash Collateral, (III) Granting Liens and Providing Superpriority Administrative Expense Claims, (IV) Granting Adequate Protection, (V) Modifying the Automatic Stay, (VI) Scheduling a Final Hearing, and (VII) Granting Related Relief (Docket No. 10), Order Directing Joint Administration of the Debtors Chapter 11 Cases for Procedural Purposes Only and Granting Related Relief (Docket No. 26), Order Granting Debtors Motion for Entry of an Order Authorizing the Debtors to (I) File (A) a Consolidated Creditor Matrix and (B) a Consolidated List of the Debtors Top Thirty Creditors; and (II) Redact Certain Personally Identifiable Information for Individuals (Docket No. 27), Interim Order (I) Authorizing the Debtors to (A) Continue Insurance Policies and Related Agreements, (B) Honor Certain Prepetition Obligations in Respect Thereof, and (C) Renew, Revise, or Enter into New Insurance Coverage and Insurance Premium Financing as Needed in Their Business Judgment, and (II) Granting Related Relief (Docket No. 28), Interim Order (I) Authorizing Debtors Continued Use of Existing Cash Management System, Bank Accounts, and Business Forms and Payment of Related Prepetition Obligations, (II) Authorizing Continuation of Intercompany Transactions, (III) Extending Time to Comply with the Requirements of 11 U.S.C. \u00a7 345(b), and (IV) Granting Related Relief (Docket No. 29), Interim Order (I) Authorizing the Debtors to Obtain Postpetition Financing, (II) Authorizing the Debtors to Use Cash Collateral, (III) Granting Liens and Providing Superpriority Administrative Expense Claims, (IV) Granting Adequate Protection, (V) Modifying the Automatic Stay, (VI) Scheduling a Final Hearing, and (VII) Granting Related Relief (Docket No. 30), Order Authorizing Debtors Application to Appoint Stretto, Inc. as <mark>Claims and Noticing Agent</mark> (Docket No. 31), Order (I) Authorizing the Debtors to (A) Pay Prepetition Employee Wages, Benefits, and Other Compensation Obligations and (B) Maintain the Compensation and Benefits Programs, and (II) Granting Related Relief (Docket No. 32), Omnibus Notice of Entry of First Day Orders and Final Hearing Thereon (Docket No. 33). Filed by Stretto. (related document(s)2, 3, 4, 5, 6, 7, 8, 10, 26, 27, 28, 29, 30, 31, 32, 33) (Betance, Sheryl) (Entered: 01/30/2026)",
+            "docket_entry_id": 452244188,
+            "document_number": 37,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2026-01-30",
+            "entry_number": 37,
+            "filepath_local": null,
+            "id": 467106340,
+            "is_available": false,
+            "meta": {
+              "date_created": "2026-01-30T23:32:59.642782Z",
+              "timestamp": "2026-02-10T17:11:54.160884Z"
+            },
+            "pacer_doc_id": "042022812145",
+            "page_count": null,
+            "short_description": "Affidavit/Declaration of Service",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Sage M. Sigler",
+        "assigned_to_id": 8773,
+        "attorney": [
+          "Theodore S. Heckel",
+          "Anna Mari Humnicky",
+          "Quan Andy Thanh Nguyen",
+          "Shirley S. Cho",
+          "John D. Elrod",
+          "David S. Weidenbaum",
+          "Maxim B. Litvak",
+          "Lindsay P. S. Kolba",
+          "Bradford J. Sandler",
+          "Gus H. Small",
+          "Cia H. Mackle",
+          "Benjamin S. Klehr",
+          "Allison Jane McGregor"
+        ],
+        "attorney_id": [
+          10634720,
+          10582657,
+          10634722,
+          10651981,
+          10651982,
+          10651983,
+          10651984,
+          10616689,
+          10616690,
+          10651985,
+          13928596,
+          10629531,
+          10750943
+        ],
+        "caseName": "Wellmade Floor Coverings International, Inc.",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation_string": "Bankr. N.D. Ga.",
+        "court_id": "ganb",
+        "dateArgued": null,
+        "dateFiled": "2025-08-04",
+        "dateTerminated": null,
+        "docketNumber": "25-58764",
+        "docket_absolute_url": "/docket/71019106/wellmade-floor-coverings-international-inc/",
+        "docket_id": 71019106,
+        "firm": [
+          "Pachulski Stang Ziehl & Jones LLP",
+          "Office of the U.S. Trustee",
+          "Greenberg Traurig, LLP, Terminus",
+          "Small Herrin, LLP"
+        ],
+        "firm_id": [
+          10241,
+          1093921,
+          1703,
+          903565,
+          756175,
+          1048719,
+          83287
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-08-04T19:04:28.770086Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.356215
+          },
+          "timestamp": "2025-08-15T18:07:12.315047Z"
+        },
+        "pacer_case_id": "1278983",
+        "party": [
+          "Committee of Creditors Holding Unsecured Claims",
+          "KCC, LLC dba Verita Global",
+          "Wellmade Floor Coverings International, Inc.",
+          "United States Trustee",
+          "Wellmade Industries MFR. N.A LLC"
+        ],
+        "party_id": [
+          15918820,
+          15918821,
+          16080469,
+          16027258,
+          16027259
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/71019106/95/wellmade-floor-coverings-international-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Second Interim Order Granting Emergency Motion For (A) (1) Authority To Incur Post-Petition Secured Indebtedness, (2) Authority To Grant Superpriority Status Pursuant To 11 U.S.C. \u00a7 364(c), (3) Authority To Grant Priming Liens Pursuant To 11 U.S.C. \u00a7 364(d), (B) Authorizing Postpetition Use Of Cash Collateral And Granting Adequate Protection, (C) Modifying The Automatic Stay, (D) Scheduling A Final Hearing, And (E) Granting Related Relief. Final Hearing to be held on 8/29/2025 at 12:00 PM in Courtroom 1201, Atlanta. [Review order for virtual hearing information.] To be served by <mark>Noticing Agent</mark> and BNC. Entered on 8/25/2025. (related document(s) 15) (mrw)Modified on 9/2/2025 (ngs).",
+            "docket_entry_id": 435707526,
+            "document_number": 95,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-08-25",
+            "entry_number": 95,
+            "filepath_local": null,
+            "id": 450129981,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-08-25T12:30:23.138669Z",
+              "timestamp": "2025-09-04T17:01:06.307892Z"
+            },
+            "pacer_doc_id": "054087929701",
+            "page_count": null,
+            "short_description": "01-Order",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/71019106/96/wellmade-floor-coverings-international-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Second Interim Order Granting Emergency Motion For (A) (1) Authority To Incur Post-Petition Secured Indebtedness, (2) Authority To Grant Superpriority Status Pursuant To 11 U.S.C. \u00a7 364(c), (3) Authority To Grant Priming Liens Pursuant To 11 U.S.C. \u00a7 364(d), (B) Authorizing Postpetition Use Of Cash Collateral And Granting Adequate Protection, (C) Modifying The Automatic Stay, (D) Scheduling A Final Hearing, And (E) Granting Related Relief. Final Hearing to be held on 8/29/2025 at 12:00 PM in Courtroom 1201, Atlanta. (related document(s) 15) [Review order for virtual hearing information.] To be served by <mark>Noticing Agent</mark> and BNC. Entered on 8/25/2025. (mrw)Modified on 9/2/2025 (ngs).",
+            "docket_entry_id": 435707495,
+            "document_number": 96,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-08-25",
+            "entry_number": 96,
+            "filepath_local": null,
+            "id": 450129950,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-08-25T12:30:19.211788Z",
+              "timestamp": "2025-09-04T17:01:06.364781Z"
+            },
+            "pacer_doc_id": "054087929783",
+            "page_count": null,
+            "short_description": "01-Order",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/71019106/99/wellmade-floor-coverings-international-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order (A) Establishing Bidding Procedures Relating To The Sale Of The Debtors Assets, (B) Approving The Debtors Entry Into The Stalking Horse Purchase Agreement And related Bid Protections, (C) Establishing Procedures Relating To The Assumption And Assignment Of Certain Executory Contracts And Unexpired Leases, (D) Approving Form And Manner Of Notices Relating Thereto, (E) Scheduling A Hearing To Consider The Proposed Sale, And (F) Granting Related Relief. To be served by <mark>Noticing Agent</mark>. Entered on 8/25/2025. (related document(s) 38) (mrw)Modified on 9/2/2025 (ngs).",
+            "docket_entry_id": 435755072,
+            "document_number": 99,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-08-25",
+            "entry_number": 99,
+            "filepath_local": null,
+            "id": 450178750,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-08-25T18:03:24.758822Z",
+              "timestamp": "2025-09-04T17:01:06.514565Z"
+            },
+            "pacer_doc_id": "054087933362",
+            "page_count": null,
+            "short_description": "01-Order",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Thomas M. Horan",
+        "assigned_to_id": null,
+        "attorney": [
+          "Michael R. Nestor",
+          "Jane M. Leamy",
+          "Kristin L Cardoza",
+          "Sarah Gawrysiak",
+          "Shella Borovinskaya",
+          "Kara Hammond Coyle",
+          "Brynna Gaffney"
+        ],
+        "attorney_id": [
+          11168846,
+          10514577,
+          10514578,
+          10514580,
+          10514581,
+          10514583,
+          10672411
+        ],
+        "caseName": "Wag! Group Co.",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation_string": "Bankr. D. Del.",
+        "court_id": "deb",
+        "dateArgued": null,
+        "dateFiled": "2025-07-21",
+        "dateTerminated": "2025-10-28",
+        "docketNumber": "25-11358",
+        "docket_absolute_url": "/docket/70864606/wag-group-co/",
+        "docket_id": 70864606,
+        "firm": [
+          "Young, Conaway, Stargatt & Taylor",
+          "Office of the U.S. Trustee",
+          "Sarah Gawrysiak",
+          "Young, Conaway, Stargatt & Taylor LLP"
+        ],
+        "firm_id": [
+          138041,
+          1039738,
+          63812,
+          44870
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-07-21T10:05:07.699228Z",
+          "more_docs": false,
+          "score": {
+            "bm25": 11.356215
+          },
+          "timestamp": "2026-01-12T19:04:39.905638Z"
+        },
+        "pacer_case_id": "197830",
+        "party": [
+          "U.S. Trustee",
+          "Reliable Companies",
+          "Epiq Corporate Restructuring, LLC",
+          "Wag! Group Co."
+        ],
+        "party_id": [
+          15821040,
+          15821043,
+          15821044,
+          15821045
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "/docket/70864606/4/wag-group-co/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Application to Appoint Claims/<mark>Noticing Agent</mark> EPIQ CORPORATE RESTRUCTURING, LLC Filed By Wag! Group Co. (Borovinskaya, Shella) (Entered: 07/21/2025)",
+            "docket_entry_id": 432000480,
+            "document_number": 4,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-07-21",
+            "entry_number": 4,
+            "filepath_local": null,
+            "id": 446319121,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-07-21T11:06:22.899807Z",
+              "timestamp": "2026-01-12T19:04:39.889075Z"
+            },
+            "pacer_doc_id": "042022430048",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/70864606/28/wag-group-co/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Order Approving Application Appointing EPIQ CORPORATE RESTRUCTURING, LLC as <mark>Claims and Noticing Agent</mark> for the Debtors Pursuant to 28 U.S.C. <mark>156(c</mark>) (Related Doc # 4)(related document(s)4) Order Signed on 7/22/2025. (DRG) (Entered: 07/22/2025)",
+            "docket_entry_id": 432205394,
+            "document_number": 28,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-07-22",
+            "entry_number": 28,
+            "filepath_local": null,
+            "id": 446530353,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-07-23T01:19:46.866226Z",
+              "timestamp": "2026-01-12T19:04:39.889075Z"
+            },
+            "pacer_doc_id": "042022434787",
+            "page_count": null,
+            "short_description": "Application to Appoint Claims/Noticing Agent",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Michael B. Kaplan",
+        "assigned_to_id": 8881,
+        "attorney": [
+          "Samantha S. Lieb",
+          "David Gerardi",
+          "Virginia T. Shea",
+          "Michael D. Sirota",
+          "Jeffrey M. Sponder",
+          "Lauren Bielskie",
+          "Felice R. Yudkin"
+        ],
+        "attorney_id": [
+          16095391,
+          10490794,
+          10463634,
+          10466323,
+          10466322,
+          16095390,
+          10462239
+        ],
+        "caseName": "Del Monte Foods Corporation II Inc.",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. New Jersey",
+        "court_citation_string": "Bankr. D.N.J.",
+        "court_id": "njb",
+        "dateArgued": null,
+        "dateFiled": "2025-07-01",
+        "dateTerminated": null,
+        "docketNumber": "25-16984",
+        "docket_absolute_url": "/docket/70687309/del-monte-foods-corporation-ii-inc/",
+        "docket_id": 70687309,
+        "firm": [
+          "Cole Schotz P.C.",
+          "McElroy Deutsch Mulvaney & Carpenter LLP["
+        ],
+        "firm_id": [
+          142798,
+          137582,
+          297399
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-07-02T01:03:45.716812Z",
+          "more_docs": true,
+          "score": {
+            "bm25": 11.356215
+          },
+          "timestamp": "2026-07-06T15:35:45.472882Z"
+        },
+        "pacer_case_id": "1128266",
+        "party": [
+          "Del Monte Foods Corporation II Inc.",
+          "U.S. Trustee"
+        ],
+        "party_id": [
+          15726550,
+          15726551
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Minute of 7/2/2025; Hearing Held, OUTCOME: GRANTED; ORDER TO BE SUBMITTED (related document:7 Motion for an Order Authorizing Debtor to Retain a <mark>Claims and Noticing Agent</mark> Filed by Michael D. Sirota on behalf of Del Monte Foods Corporation II Inc... Filed by Debtor Del Monte Foods Corporation II Inc.) (wiq)",
+            "docket_entry_id": 430573979,
+            "document_number": null,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-07-02",
+            "entry_number": null,
+            "filepath_local": null,
+            "id": 444858461,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-07-07T15:29:16.504931Z",
+              "timestamp": "2026-07-06T15:35:45.451324Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Minute of 7/2/2025; Hearing Held, OUTCOME: GRANTED; ORDER TO BE SUBMITTED (related document:7 Motion for an Order Authorizing Debtor to Retain a <mark>Claims and Noticing Agent</mark> Filed by Michael D. Sirota on behalf of Del Monte Foods Corporation II Inc... Filed by Debtor Del Monte Foods Corporation II Inc.) (wiq)",
+            "docket_entry_id": 430547517,
+            "document_number": null,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-07-03",
+            "entry_number": null,
+            "filepath_local": null,
+            "id": 444830248,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-07-07T08:27:27.555244Z",
+              "timestamp": "2026-07-06T15:35:45.451324Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          },
+          {
+            "absolute_url": "/docket/70687309/70/del-monte-foods-corporation-ii-inc/",
+            "attachment_number": null,
+            "cites": [],
+            "description": "ORDER (I) AUTHORIZING RETENTION AND APPOINTMENT OF STRETTO, INC. AS <mark>CLAIMS AND NOTICING AGENT</mark> AND (II) GRANTING RELATED RELIEF (Related Doc # 7). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 7/3/2025. (wiq) (Entered: 07/03/2025)",
+            "docket_entry_id": 430391018,
+            "document_number": 70,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-07-03",
+            "entry_number": 70,
+            "filepath_local": null,
+            "id": 444670079,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-07-03T15:33:05.373383Z",
+              "timestamp": "2026-07-06T15:35:45.451324Z"
+            },
+            "pacer_doc_id": "118069071823",
+            "page_count": null,
+            "short_description": "Order on Motion to Retain Claims and Noticing Agent",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Sean H. Lane",
+        "assigned_to_id": 8906,
+        "attorney": [
+          "Daniel Rudewicz",
+          "Kevin J. Nash",
+          "J. Ted Donovan"
+        ],
+        "attorney_id": [
+          10427464,
+          10874875,
+          10427463
+        ],
+        "caseName": "Zahav Ventures LLC",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, S.D. New York",
+        "court_citation_string": "Bankr. S.D.N.Y.",
+        "court_id": "nysb",
+        "dateArgued": null,
+        "dateFiled": "2025-06-17",
+        "dateTerminated": "2026-03-12",
+        "docketNumber": "25-22536",
+        "docket_absolute_url": "/docket/70565326/zahav-ventures-llc/",
+        "docket_id": 70565326,
+        "firm": [
+          "Goldberg Weprin Finkel Goldstein LLP",
+          "Daniel Rudewicz",
+          "Goldberg Weprin Finkel Goldstein LLP, Goldberg Weprin Finkel Goldstein LLC"
+        ],
+        "firm_id": [
+          886448,
+          796019,
+          796693
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2025-06-17T22:01:15.124273Z",
+          "more_docs": false,
+          "score": {
+            "bm25": 11.356215
+          },
+          "timestamp": "2026-03-31T16:57:03.085470Z"
+        },
+        "pacer_case_id": "329891",
+        "party": [
+          "United States Trustee",
+          "Zahav Ventures LLC"
+        ],
+        "party_id": [
+          15647798,
+          15647799
+        ],
+        "recap_documents": [
+          {
+            "absolute_url": "",
+            "attachment_number": null,
+            "cites": [],
+            "description": "Receipt of Transfer Agreement FRBP 3001(e) (NON <mark>CLAIMS AGENT</mark> CASES)( 25-22536-shl) [claims,740] ( 28.00) Filing Fee. Receipt number A17236880. Fee amount 28.00. (Re: Doc # 44) (U.S. Treasury)",
+            "docket_entry_id": 441280242,
+            "document_number": null,
+            "document_type": "PACER Document",
+            "entry_date_filed": "2025-09-24",
+            "entry_number": null,
+            "filepath_local": null,
+            "id": 455857390,
+            "is_available": false,
+            "meta": {
+              "date_created": "2025-10-17T20:20:06.264451Z",
+              "timestamp": "2026-03-31T16:57:03.085214Z"
+            },
+            "pacer_doc_id": "",
+            "page_count": null,
+            "short_description": "",
+            "snippet": ""
+          }
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xMS41NjcwOTUmcz03NDc4NDUxMiZ0PXImZD0yMDI2LTEwLTA5JnA9NQ%3D%3D&description=%22claims+and+noticing+agent%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22156%28c%29%22&filed_after=01%2F01%2F2025&highlight=on&q=chapter%3A11&type=r"
+}

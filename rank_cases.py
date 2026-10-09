@@ -17,6 +17,7 @@ from pathlib import Path
 from common import COURTS, DATA, WINDOW_START, atomic_write_text
 
 TEXT = DATA / "text" / "ranking"
+OVERRIDES = DATA / "ranking_overrides.csv"
 
 COURT_NAMES = {
     "deb": r"district of delaware", "njb": r"district of new jersey",
@@ -105,6 +106,16 @@ def main():
                      "funded_debt_musd": round(amt, 1) if amt is not None else "",
                      "candidates": n, "measure": measure, "sentence": sent,
                      "needs_check": bool(sent) and not CURRENT.search(sent), "text": str(txt.relative_to(DATA.parent))})
+    # Hand-checked corrections, each with its source sentence and a note.
+    overrides = {}
+    if OVERRIDES.exists():
+        with open(OVERRIDES, newline="", encoding="utf-8") as f:
+            overrides = {o["case_number"]: o for o in csv.DictReader(f)}
+    for r in rows:
+        o = overrides.get(r["case_number"])
+        if o:
+            r.update(funded_debt_musd=float(o["funded_debt_musd"]), measure=o["measure"],
+                     sentence=o["sentence"], needs_check=False, note=o["note"])
     # One row per docket: the declaration with the largest figure.
     best = {}
     for r in rows:
@@ -115,9 +126,9 @@ def main():
     for i, r in enumerate(ranked, 1):
         r["rank"] = i if r["in_scope"] and r["funded_debt_musd"] != "" else ""
     fields = ["rank", "funded_debt_musd", "court_id", "case_number", "debtor", "in_scope", "measure", "needs_check", "candidates",
-              "sentence", "docket_id", "recap_doc_id", "text"]
+              "sentence", "note", "docket_id", "recap_doc_id", "text"]
     buf = io.StringIO()
-    w = csv.DictWriter(buf, fieldnames=fields)
+    w = csv.DictWriter(buf, fieldnames=fields, restval="")
     w.writeheader()
     w.writerows(ranked)
     atomic_write_text(DATA / "track_a_ranking.csv", buf.getvalue())

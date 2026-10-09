@@ -1,0 +1,5 @@
+case_number,funded_debt_musd,measure,sentence,note
+25-10006,8600,funded debt (hand-checked),"As of the Petition Date, the Debtors' capital structure includes approximately $8.6 billion in funded debt.","Parser took $8.9 billion from a sentence about April 2020 maturities; corrected from the same declaration, 10/09/2026."
+26-90627,11750,funded debt (hand-checked),"The Refinancing Transactions address $11,750,000,000 of the Company Parties' funded debt.","Figure is from the refinancing summary, not an as-of-petition-date sentence; consistent with the DBS notes described in the declaration. Plausible, not exact."
+25-80185,600,secured debt sum (hand-checked),"Non-HUD ABL $223.6 million, HUD ABL $55.7 million, and term loans $317.8 million as of the Petition Date.","No single total stated; sum of three facilities, rounded. Lower bound."
+25-12197,190,first lien only (hand-checked),"As of the Petition Date, approximately $190 million in principal and interest is outstanding under the First Lien Term Loan Facility.","First lien only; lower bound."

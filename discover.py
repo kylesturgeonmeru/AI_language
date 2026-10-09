@@ -240,23 +240,51 @@ def track_a_rank(sess, dockets, max_pages):
     return rows
 
 
+MIN_AVAILABLE_APPLICATIONS = 3  # census qualification (Kyle chose re-pick by coverage, 10/09/2026)
+
+
 def track_a_census(sess, dockets, docs, top_n, max_pages):
-    """Phase 2: every retention-described docket entry in the top-N ranked cases."""
+    """Phase 2: walk the funded-debt ranking and take the first top_n cases whose
+    retention filings are reasonably covered by RECAP.
+
+    One search per case returns only retention-described entries that have a
+    PDF in RECAP. A case qualifies with at least MIN_AVAILABLE_APPLICATIONS
+    retention applications (main documents) available. Filings not in RECAP
+    are outside the prevalence denominator anyway (CLAUDE.md rule 8).
+    """
+    from select_census import kind  # same rules used to pick documents to fetch
     path = DATA / "track_a_ranking.csv"
     if top_n <= 0 or not path.exists():
         return []
     with open(path, newline="", encoding="utf-8") as f:
-        ranked = [r for r in csv.DictReader(f) if r["rank"] and int(r["rank"]) <= top_n]
-    # Case metadata for all census dockets in one call.
-    ids = " OR ".join(r["docket_id"] for r in ranked)
-    for r in cl_search(sess, {"type": "d", "q": f"docket_id:({ids})"}, "A census metadata", 2):
-        dockets[r["docket_id"]] = docket_row(r)
-    for r in sorted(ranked, key=lambda r: int(r["rank"])):
-        print(f"Track A census: #{r['rank']} {r['debtor'][:40]} (docket {r['docket_id']})")
-        params = {"type": "rd", "q": f"docket_id:{r['docket_id']}", "description": RETENTION_DESC}
-        for d in cl_search(sess, params, f"A census {r['docket_id']}", max_pages):
-            docs.append(doc_row(dict(d, docket_id=int(r["docket_id"])), "A", f"census #{r['rank']}"))
-    return ranked
+        ranked = sorted((r for r in csv.DictReader(f) if r["rank"]), key=lambda r: int(r["rank"]))
+    coverage = []
+    for r in ranked:
+        if sum(1 for c in coverage if c["qualifies"]) >= top_n:
+            break
+        params = {"type": "rd", "q": f"docket_id:{r['docket_id']} AND is_available:true",
+                  "description": RETENTION_DESC}
+        found = list(cl_search(sess, params, f"A coverage {r['docket_id']}", max_pages))
+        rows = [doc_row(dict(d, docket_id=int(r["docket_id"])), "A_available", f"rank {r['rank']}") for d in found]
+        apps = {x["document_number"] for x in rows
+                if x["attachment_number"] in ("", "0", None) and kind(x) == "application"}
+        q = len(apps) >= MIN_AVAILABLE_APPLICATIONS
+        coverage.append({"rank": r["rank"], "docket_id": r["docket_id"], "debtor": r["debtor"],
+                         "court_id": r["court_id"], "case_number": r["case_number"],
+                         "funded_debt_musd": r["funded_debt_musd"], "available_retention_docs": len(rows),
+                         "available_applications": len(apps), "qualifies": q})
+        print(f"Track A coverage: #{r['rank']} {r['debtor'][-30:]}: {len(apps)} applications in RECAP"
+              f"{' (qualifies)' if q else ''}")
+        if q:
+            for x in rows:
+                x["track"] = "A"
+            docs.extend(rows)
+    census = [c for c in coverage if c["qualifies"]]
+    if census:
+        ids = " OR ".join(c["docket_id"] for c in census)
+        for d in cl_search(sess, {"type": "d", "q": f"docket_id:({ids})"}, "A census metadata", 2):
+            dockets[d["docket_id"]] = docket_row(d)
+    return coverage
 
 
 def sec_search(sess, max_pages):
@@ -421,6 +449,8 @@ def main():
         write_csv(DATA / "sec_candidates.csv", sec_rows, SEC_FIELDS)
     if rank_rows:
         write_csv(DATA / "track_a_funded_debt.csv", rank_rows, RANK_FIELDS)
+    if census:
+        write_csv(DATA / "track_a_coverage.csv", census, list(census[0]))
     atomic_write_text(DATA / "discovery_summary.md", summarize(cands, cases, sec_rows, stopped))
     print(f"Wrote {len(cands)} candidates, {len(cases)} cases, {len(sec_rows)} SEC hits, "
           f"{len(rank_rows)} funded-debt rows.")

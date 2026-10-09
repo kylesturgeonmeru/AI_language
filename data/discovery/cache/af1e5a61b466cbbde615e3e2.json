@@ -1,0 +1,532 @@
+{
+  "response": {
+    "count": 92,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NDMyODczMDkmdD1yZCZkPTIwMjYtMTAtMDkmcD0y&description=order+AND+%28retain+OR+employ+OR+retention+OR+appoint%29&q=docket_id%3A69522295&type=rd",
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/69522295/231/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Agreed Order Appointing Judge Marvin Isgur as Mediator, Signed on 12/5/2025 (Related document(s):187 Disclosure Statement, Chapter 11 Plan, 194 Application for Administrative Expenses, 195 Application for Administrative Expenses, 201 Objection, 212 Objection, 216 Generic Order, 230 Stipulation) (abh4) (Entered: 12/05/2025)",
+        "docket_entry_id": 446271985,
+        "docket_id": 69522295,
+        "document_number": 231,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-12-05",
+        "entry_number": 231,
+        "filepath_local": null,
+        "id": 460990384,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-12-05T15:34:03.957980Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178053565925",
+        "page_count": null,
+        "short_description": "Generic Order",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/184/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "BNC Certificate of Mailing. (Related document(s):183 Order on Application to Employ) No. of Notices: 5. Notice Date 08/31/2025. (Admin.) (Entered: 08/31/2025)",
+        "docket_entry_id": 436440572,
+        "docket_id": 69522295,
+        "document_number": 184,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-31",
+        "entry_number": 184,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.184.0_2.pdf",
+        "id": 450885716,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-01T05:14:35.734780Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178053094763",
+        "page_count": 6,
+        "short_description": "BNC Certificate of Mailing",
+        "snippet": "           Case 25-30155 Document 184 Filed in TXSB on 08/31/25 Page 1 of 6\n                                                                                             United States Bankruptcy Court\n                                                                                                 Southern District of Texas\n\n                                                                                                    ENTERED\n                    UNITED STATES BANKRUPTCY COURT                 "
+      },
+      {
+        "absolute_url": "/docket/69522295/171/3/alliance-farm-and-ranch-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Application to Employ HMP Advisory Holdings, LLC, dba Harney Partners as Forensic Accountant. Objections/Request for Hearing Due in 21 days. Filed by Trustee Thomas A Howley (Attachments: # 1 Proposed Order # 2 Exhibit A - Engagement Letter # 3 Exhibit B - White Declaration) (Howley, Thomas) (Entered: 08/04/2025)",
+        "docket_entry_id": 433688298,
+        "docket_id": 69522295,
+        "document_number": 171,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-04",
+        "entry_number": 171,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.171.3_2.pdf",
+        "id": 448426455,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-07T20:57:01.967732Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052962463",
+        "page_count": 6,
+        "short_description": "Exhibit B - White Declaration",
+        "snippet": "      Case 25-30155 Document 171-3 Filed in TXSB on 08/04/25 Page 1 of 6\n\n\n\n\n                UNITED STATES BANKRUPTCY COURT\n                   SOUTHERN DISTRICT OF TEXAS\n                        HOUSTON DIVISION\n  IN RE:                          \u00a7    CASE NO. 25-30155\n                                  \u00a7\n  ALLIANCE FARM AND RANCH, LLC,   \u00a7    (CHAPTER 11)\n                                  \u00a7\n       DEBTOR                     \u00a7\n                                  \u00a7\n  IN RE:                          \u00a7 "
+      },
+      {
+        "absolute_url": "/docket/69522295/171/2/alliance-farm-and-ranch-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Application to Employ HMP Advisory Holdings, LLC, dba Harney Partners as Forensic Accountant. Objections/Request for Hearing Due in 21 days. Filed by Trustee Thomas A Howley (Attachments: # 1 Proposed Order # 2 Exhibit A - Engagement Letter # 3 Exhibit B - White Declaration) (Howley, Thomas) (Entered: 08/04/2025)",
+        "docket_entry_id": 433688298,
+        "docket_id": 69522295,
+        "document_number": 171,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-04",
+        "entry_number": 171,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.171.2_2.pdf",
+        "id": 448426452,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-07T20:57:01.353472Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052962462",
+        "page_count": 7,
+        "short_description": "Exhibit A - Engagement Letter",
+        "snippet": "Case 25-30155 Document 171-2 Filed in TXSB on 08/04/25 Page 1 of 7\n\nHARNEY\nPARTNERS\n\nPERSONAL & CONFIDENTIAL\n\nJuly 28, 2025 Via Email to Counsel: eric@howley-law.com\n\nThomas A. Howley\n\nChapter 11 Trustee for Alliance Farm and Ranch, LLC\nand Alliance Energy Partners, LLC\n\n700 Louisiana Street, Ste 4545\n\nHouston, Texas 77002\n\nMr. Howley:\n\nThank you for selecting HMP ADVISORY HOLDINGS, LLC, DBA HARNEY PARTNERS (\u201cHP\u201d) to\nprovide forensic accounting services to you solely in your role as CHAPTER 11 T"
+      },
+      {
+        "absolute_url": "/docket/69522295/171/1/alliance-farm-and-ranch-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Application to Employ HMP Advisory Holdings, LLC, dba Harney Partners as Forensic Accountant. Objections/Request for Hearing Due in 21 days. Filed by Trustee Thomas A Howley (Attachments: # 1 Proposed Order # 2 Exhibit A - Engagement Letter # 3 Exhibit B - White Declaration) (Howley, Thomas) (Entered: 08/04/2025)",
+        "docket_entry_id": 433688298,
+        "docket_id": 69522295,
+        "document_number": 171,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-04",
+        "entry_number": 171,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.171.1_3.pdf",
+        "id": 448426450,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-07T20:57:00.526340Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052962461",
+        "page_count": 3,
+        "short_description": "Proposed Order",
+        "snippet": "           Case 25-30155 Document 171-1 Filed in TXSB on 08/04/25 Page 1 of 3\n\n\n\n\n                    UNITED STATES BANKRUPTCY COURT\n                       SOUTHERN DISTRICT OF TEXAS\n                            HOUSTON DIVISION\n      IN RE:                          \u00a7    CASE NO. 25-30155\n                                      \u00a7\n      ALLIANCE FARM AND RANCH, LLC,   \u00a7    (CHAPTER 11)\n                                      \u00a7\n           DEBTOR                     \u00a7\n                                   "
+      },
+      {
+        "absolute_url": "/docket/69522295/171/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [
+          9441855
+        ],
+        "description": "Application to Employ HMP Advisory Holdings, LLC, dba Harney Partners as Forensic Accountant. Objections/Request for Hearing Due in 21 days. Filed by Trustee Thomas A Howley (Attachments: # 1 Proposed Order # 2 Exhibit A - Engagement Letter # 3 Exhibit B - White Declaration) (Howley, Thomas) (Entered: 08/04/2025)",
+        "docket_entry_id": 433688298,
+        "docket_id": 69522295,
+        "document_number": 171,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-04",
+        "entry_number": 171,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.171.0_2.pdf",
+        "id": 448047434,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-04T22:06:28.988907Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052962460",
+        "page_count": 6,
+        "short_description": "Application to Employ",
+        "snippet": "       Case 25-30155 Document 171 Filed in TXSB on 08/04/25 Page 1 of 6\n\n\n\n\n                UNITED STATES BANKRUPTCY COURT\n                   SOUTHERN DISTRICT OF TEXAS\n                        HOUSTON DIVISION\n  IN RE:                          \u00a7    CASE NO. 25-30155\n                                  \u00a7\n  ALLIANCE FARM AND RANCH, LLC,   \u00a7    (CHAPTER 11)\n                                  \u00a7\n       DEBTOR                     \u00a7\n                                  \u00a7\n  IN RE:                          \u00a7  "
+      },
+      {
+        "absolute_url": "/docket/69522295/165/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Agreed Order Authorizing the Employment of Okin Adams Bartlett Curry LLP as Counsel for the Debtors NUNC PRO TUNC and Order Awarding Final Fees and Expenses of Okin Adams Bartlett Curry LLP, Counsel for the Debtors, Signed on 7/16/2025 (Related document(s):130 Application to Employ, Application for Compensation, 163 Proposed Order) (abh4) (Entered: 07/16/2025)",
+        "docket_entry_id": 431622634,
+        "docket_id": 69522295,
+        "document_number": 165,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-16",
+        "entry_number": 165,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.165.0_2.pdf",
+        "id": 445933090,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-16T21:56:41.471762Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052870920",
+        "page_count": 3,
+        "short_description": "Generic Order",
+        "snippet": "            Case 25-30155 Document 165 Filed in TXSB on 07/16/25 Page 1 of 3\n                                                                                                    United States Bankruptcy Court\n                                                                                                        Southern District of Texas\n\n                                                                                                           ENTERED\n                          IN THE UNITED STATE"
+      },
+      {
+        "absolute_url": "/docket/69522295/163/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Proposed Order RE: Agreed Order (Filed By Okin Adams Bartlett Curry LLP ).(Related document(s):130 Application to Employ, Application for Compensation) (Wentworth, Timothy) (Entered: 07/16/2025)",
+        "docket_entry_id": 431570291,
+        "docket_id": 69522295,
+        "document_number": 163,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-16",
+        "entry_number": 163,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.163.0_2.pdf",
+        "id": 445879367,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-16T16:09:31.017401Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052868311",
+        "page_count": 3,
+        "short_description": "Proposed Order",
+        "snippet": "            Case 25-30155 Document 163 Filed in TXSB on 07/16/25 Page 1 of 3\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                            FOR THE SOUTHERN DISTRICT OF TEXAS\n                                     HOUSTON DIVISION\n\n    IN RE:                         \u00a7                                     CASE NO. 25-30155\n                                   \u00a7\n    ALLIANCE FARM AND RANCH, LLC,  \u00a7                                     (CHAPTER 11)\n                       "
+      },
+      {
+        "absolute_url": "/docket/69522295/160/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "BNC Certificate of Mailing. (Related document(s):158 Order on Application to Employ) No. of Notices: 5. Notice Date 07/13/2025. (Admin.) (Entered: 07/13/2025)",
+        "docket_entry_id": 431251371,
+        "docket_id": 69522295,
+        "document_number": 160,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-13",
+        "entry_number": 160,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.160.0_3.pdf",
+        "id": 445552499,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-14T04:31:03.298710Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052853139",
+        "page_count": 7,
+        "short_description": "BNC Certificate of Mailing",
+        "snippet": "       Case 25-30155 Document 160 Filed in TXSB on 07/13/25 Page 1 of 7\n                                                                                                United States Bankruptcy Court\n                                                                                                     Southern District of Texas\n\n                                                                                                        ENTERED\n                      IN THE UNITED STATES BANKRUPTCY COURT "
+      },
+      {
+        "absolute_url": "/docket/69522295/158/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Retention and Employment of Howley Law PLLC as Chapter 11 Trustee Counsel (Related Doc # 139), Signed on 7/11/2025. (abh4) (Entered: 07/11/2025)",
+        "docket_entry_id": 431106883,
+        "docket_id": 69522295,
+        "document_number": 158,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-11",
+        "entry_number": 158,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.158.0_2.pdf",
+        "id": 445404581,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-11T14:06:08.992390Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052846259",
+        "page_count": 4,
+        "short_description": "Order on Application to Employ",
+        "snippet": "        Case 25-30155 Document 158 Filed in TXSB on 07/11/25 Page 1 of 4\n                                                                                                United States Bankruptcy Court\n                                                                                                     Southern District of Texas\n\n                                                                                                        ENTERED\n                      IN THE UNITED STATES BANKRUPTCY COURT"
+      },
+      {
+        "absolute_url": "/docket/69522295/157/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "BNC Certificate of Mailing. (Related document(s):154 Order on Application to Employ) No. of Notices: 5. Notice Date 07/09/2025. (Admin.) (Entered: 07/09/2025)",
+        "docket_entry_id": 430950233,
+        "docket_id": 69522295,
+        "document_number": 157,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-09",
+        "entry_number": 157,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.157.0_2.pdf",
+        "id": 445244329,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-10T05:06:23.346205Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052837108",
+        "page_count": 6,
+        "short_description": "BNC Certificate of Mailing",
+        "snippet": "         Case 25-30155 Document 157 Filed in TXSB on 07/09/25 Page 1 of 6\n                                                                                 United States Bankruptcy Court\n                                                                                     Southern District of Texas\n\n                                                                                        ENTERED\n                                                                                        July 07, 2025\n   "
+      },
+      {
+        "absolute_url": "/docket/69522295/156/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Second Stipulation and Agreed Order Extending the Objection Deadline Regarding Application for Approval of Employment of Okin Adams Bartlett Curry, LLP as Counsel for Debtors and Application for Compensation and Reimbursement of Expenses for the Periods March 14, 2025 through May 23, 2025 (Alliance Farm and Ranch, LLC) and April 7, 2025 through May 23, 2025 (Alliance Energy Partners, LLC), Signed on 7/9/2025 (Related document(s):130 Application to Employ, Application for Compensation) (abh4) (Entered: 07/09/2025)",
+        "docket_entry_id": 430820471,
+        "docket_id": 69522295,
+        "document_number": 156,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-09",
+        "entry_number": 156,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.156.0_2.pdf",
+        "id": 445111625,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-09T13:05:05.337283Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052831543",
+        "page_count": 4,
+        "short_description": "Generic Order",
+        "snippet": "        Case 25-30155 Document 156 Filed in TXSB on 07/09/25 Page 1 of 4\n                                                                               United States Bankruptcy Court\n                                                                                   Southern District of Texas\n\n                                                                                      ENTERED\n                                                                                      July 09, 2025\n        IN T"
+      },
+      {
+        "absolute_url": "/docket/69522295/155/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Stipulation By Thomas A Howley and Proposed Attorneys for the Debtor. Does this document include an agreed order or otherwise request that the judge sign a document? Yes. (Filed By Thomas A Howley ).(Related document(s):130 Application to Employ, Application for Compensation) (Howley, Thomas) (Entered: 07/08/2025)",
+        "docket_entry_id": 430788490,
+        "docket_id": 69522295,
+        "document_number": 155,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-08",
+        "entry_number": 155,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.155.0_1.pdf",
+        "id": 445078073,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-08T21:35:29.645775Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052830108",
+        "page_count": 4,
+        "short_description": "Stipulation",
+        "snippet": "        Case 25-30155 Document 155 Filed in TXSB on 07/08/25 Page 1 of 4\n\n\n\n\n        IN THE UNITED STATES BANKRUPTCY COURT FOR THE\n                  SOUTHERN DISTRICT OF TEXAS\n                        HOUSTON DIVISION\n\n  IN RE:                                             \u00a7   CASE NO. 25-30155\n                                                     \u00a7\n  ALLIANCE FARM AND RANCH, LLC,                      \u00a7   (CHAPTER 11)\n                                                     \u00a7\n         DEBTOR            "
+      },
+      {
+        "absolute_url": "/docket/69522295/154/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Employment and Retention of Dykema Gossett, PLLC as Attorneys for the Official Committee of Unsecured Creditors of Alliance Farm and Ranch, LLC and Alliance Energy Partners, LLC, Effective as of May 13, 2025 (Related Doc # 136), Signed on 7/7/2025. (abh4) (Entered: 07/07/2025)",
+        "docket_entry_id": 430566329,
+        "docket_id": 69522295,
+        "document_number": 154,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-07",
+        "entry_number": 154,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.154.0.pdf",
+        "id": 444849952,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-07T14:34:41.940430Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052819490",
+        "page_count": 3,
+        "short_description": "Order on Application to Employ",
+        "snippet": "          Case 25-30155 Document 154 Filed in TXSB on 07/07/25 Page 1 of 3\n                                                                                 United States Bankruptcy Court\n                                                                                     Southern District of Texas\n\n                                                                                        ENTERED\n                                                                                        July 07, 2025\n  "
+      },
+      {
+        "absolute_url": "/docket/69522295/139/3/alliance-farm-and-ranch-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Application to Employ Eric Terry as Trustee Counsel. Objections/Request for Hearing Due in 21 days. Filed by Trustee Thomas A Howley (Attachments: # 1 Proposed Order # 2 Exhibit A - Terry Declaration # 3 Exhibit B - Engagement Letter) (Howley, Thomas) (Entered: 06/16/2025)",
+        "docket_entry_id": 428661106,
+        "docket_id": 69522295,
+        "document_number": 139,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-06-16",
+        "entry_number": 139,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.139.3_1.pdf",
+        "id": 443731028,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-06-25T13:14:40.631144Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052728062",
+        "page_count": 4,
+        "short_description": "Exhibit B - Engagement Letter",
+        "snippet": "Case 25-30155 Document 139-3 Filed in TXSB on 06/16/25 Page 1 of 4\n\nEXHIBIT B\n\nEngagement Letter\n\fCase 25-30155 Document 139-3 Filed in TXSB on 06/16/25 Page 2 of 4\n\nHowl ey\n\nJune 9, 2025\n\nEric Terry\nTC Energy Center\n\n700 Louisiana Street, Ste. 4545\nHouston, Texas 77002\n\nTom A. Howley - Trustee\n\nTC Energy Center\n\n700 Louisiana Street, Ste. 4545\nHouston, Texas 77002\n\nRe: Retention to Provide Legal Services as Trustee Counsel\n\nDear Mr. Howley:\n\nThank you for retaining Howley Law PLLC. We are pleas"
+      },
+      {
+        "absolute_url": "/docket/69522295/139/2/alliance-farm-and-ranch-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Application to Employ Eric Terry as Trustee Counsel. Objections/Request for Hearing Due in 21 days. Filed by Trustee Thomas A Howley (Attachments: # 1 Proposed Order # 2 Exhibit A - Terry Declaration # 3 Exhibit B - Engagement Letter) (Howley, Thomas) (Entered: 06/16/2025)",
+        "docket_entry_id": 428661106,
+        "docket_id": 69522295,
+        "document_number": 139,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-06-16",
+        "entry_number": 139,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.139.2_1.pdf",
+        "id": 443731027,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-06-25T13:14:40.614960Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052728061",
+        "page_count": 7,
+        "short_description": "Exhibit A - Terry Declaration",
+        "snippet": "Case 25-30155 Document 139-2 Filed in TXSB on 06/16/25 Page 1 of 7\n\n\n\n\n                           EXHIBIT A\n\n                         Terry Declaration\n\n\n\n\n                                5\n\f       Case 25-30155 Document 139-2 Filed in TXSB on 06/16/25 Page 2 of 7\n\n\n\n\n                      IN THE UNITED STATES BANKRUPTCY COURT\n                        FOR THE SOUTHERN DISTRICT OF TEXAS\n                                 HOUSTON DIVISION\n\n    IN RE:                                                 \u00a7 "
+      },
+      {
+        "absolute_url": "/docket/69522295/139/1/alliance-farm-and-ranch-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Application to Employ Eric Terry as Trustee Counsel. Objections/Request for Hearing Due in 21 days. Filed by Trustee Thomas A Howley (Attachments: # 1 Proposed Order # 2 Exhibit A - Terry Declaration # 3 Exhibit B - Engagement Letter) (Howley, Thomas) (Entered: 06/16/2025)",
+        "docket_entry_id": 428661106,
+        "docket_id": 69522295,
+        "document_number": 139,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-06-16",
+        "entry_number": 139,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.139.1_1.pdf",
+        "id": 443731026,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-06-25T13:14:40.599704Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052728060",
+        "page_count": 4,
+        "short_description": "Proposed Order",
+        "snippet": "       Case 25-30155 Document 139-1 Filed in TXSB on 06/16/25 Page 1 of 4\n\n\n\n\n                      IN THE UNITED STATES BANKRUPTCY COURT\n                        FOR THE SOUTHERN DISTRICT OF TEXAS\n                                 HOUSTON DIVISION\n\n    IN RE:                                                  \u00a7       CASE NO. 25-30155\n                                                            \u00a7\n    ALLIANCE FARM AND RANCH, LLC,                           \u00a7       (CHAPTER 11)\n                       "
+      },
+      {
+        "absolute_url": "/docket/69522295/136/2/alliance-farm-and-ranch-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Application to Employ Dykema Gossett, PLLC as Counsel to Official Committee of Unsecured Creditors. Objections/Request for Hearing Due in 21 days. Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Ex. A - Proposed Order # 2 Ex. B - Hotze Declaration) (Hotze, William) (Entered: 06/12/2025)",
+        "docket_entry_id": 428364659,
+        "docket_id": 69522295,
+        "document_number": 136,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-06-12",
+        "entry_number": 136,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.136.2_1.pdf",
+        "id": 443731025,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-06-25T13:14:40.463468Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052713462",
+        "page_count": 7,
+        "short_description": "Ex. B - Hotze Declaration",
+        "snippet": "          Case 25-30155 Document 136-2 Filed in TXSB on 06/12/25 Page 1 of 7\n\n\n\n                                 IN THE UNITED STATES BANKRUPTCY COURT\n                                       SOUTHERN DISTRICT OF TEXAS\n                                            HOUSTON DIVISION\n\n     IN RE:                                                     \u00a7        CASE NO. 25-30155\n                                                                \u00a7\n     ALLIANCE FARM AND RANCH, LLC,                              "
+      },
+      {
+        "absolute_url": "/docket/69522295/136/1/alliance-farm-and-ranch-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Application to Employ Dykema Gossett, PLLC as Counsel to Official Committee of Unsecured Creditors. Objections/Request for Hearing Due in 21 days. Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Ex. A - Proposed Order # 2 Ex. B - Hotze Declaration) (Hotze, William) (Entered: 06/12/2025)",
+        "docket_entry_id": 428364659,
+        "docket_id": 69522295,
+        "document_number": 136,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-06-12",
+        "entry_number": 136,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.136.1_1.pdf",
+        "id": 443731024,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-06-25T13:14:40.450237Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052713461",
+        "page_count": 3,
+        "short_description": "Ex. A - Proposed Order",
+        "snippet": "        Case 25-30155 Document 136-1 Filed in TXSB on 06/12/25 Page 1 of 3\n\n\n\n\n                                 IN THE UNITED STATES BANKRUPTCY COURT\n                                       SOUTHERN DISTRICT OF TEXAS\n                                            HOUSTON DIVISION\n\n   IN RE:                                            \u00a7    CASE NO. 25-30155\n                                                     \u00a7\n   ALLIANCE FARM AND RANCH, LLC,                     \u00a7    (CHAPTER 11)\n                    "
+      },
+      {
+        "absolute_url": "/docket/69522295/144/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Stipulation and Agreed Order Extending the Objection Deadline Regarding Application for Approval of Employment of Okin Adams Bartlett Curry, LLP as Counsel for Debtors and Application for Compensation and Reimbursement of Expenses for the Period March 14, 2025 Through May 23, 2025 (Alliance Farm and Ranch, LLC) and April 7, 2025 Through May 23, 2025 (Alliance Energy Partners, LLC), Signed on 6/19/2025 (Related document(s):130 Application to Employ, Application for Compensation, 140 Stipulation) (tjl4) (Entered: 06/20/2025)",
+        "docket_entry_id": 429044095,
+        "docket_id": 69522295,
+        "document_number": 144,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-06-19",
+        "entry_number": 144,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.144.0_1.pdf",
+        "id": 443287309,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-06-20T14:32:39.641876Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052746645",
+        "page_count": 3,
+        "short_description": "Generic Order",
+        "snippet": "        Case 25-30155 Document 144 Filed in TXSB on 06/19/25 Page 1 of 3\n                                                                                   United States Bankruptcy Court\n                                                                                       Southern District of Texas\n\n                                                                                          ENTERED\n                                                                                          June 20, 2"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A69522295&description=order+AND+%28retain+OR+employ+OR+retention+OR+appoint%29"
+}

@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 92,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00Mzk5MTQyMDUmdD1yZCZkPTIwMjYtMTAtMDkmcD00&description=order+AND+%28retain+OR+employ+OR+retention+OR+appoint%29&q=docket_id%3A69522295&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NDA1MjA3MzUmcj0xJnQ9cmQmZD0yMDI2LTEwLTA5JnA9Mg%3D%3D&description=order+AND+%28retain+OR+employ+OR+retention+OR+appoint%29&q=docket_id%3A69522295&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69522295/26/1/alliance-farm-and-ranch-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Application to Employ Okin Adams Bartlett Curry, LLP as General Counsel. Objections/Request for Hearing Due in 21 days. Filed by Debtor ALLIANCE FARM AND RANCH, LLC (Attachments: # 1 Exhibit A - Wentworth Declaration # 2 Proposed Order) (Wentworth, Timothy) (Entered: 03/20/2025)",
+        "docket_entry_id": 419902378,
+        "docket_id": 69522295,
+        "document_number": 26,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-20",
+        "entry_number": 26,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.26.1.pdf",
+        "id": 440520735,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-23T14:23:55.748134Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052316710",
+        "page_count": 5,
+        "short_description": "Exhibit A - Wentworth Declaration",
+        "snippet": "           Case 25-30155 Document 26-1 Filed in TXSB on 03/20/25 Page 1 of 5\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                            FOR THE SOUTHERN DISTRICT OF TEXAS\n                                     HOUSTON DIVISION\n\n    IN RE:                                                    \u00a7         CASE NO. 25-30155\n                                                              \u00a7\n    ALLIANCE FARM AND RANCH, LLC,                             \u00a7\n                   "
+      },
+      {
+        "absolute_url": "/docket/69522295/106/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Proposed Order RE: Response to Official Committee of Unsecured Creditors' Emergency Motion to Appoint Chapter 11 Trustee (Filed By ALLIANCE FARM AND RANCH, LLC ). (Crain, Deborah) (Entered: 05/22/2025)",
+        "docket_entry_id": 426318134,
+        "docket_id": 69522295,
+        "document_number": 106,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-22",
+        "entry_number": 106,
+        "filepath_local": null,
+        "id": 440484526,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-23T02:00:48.209333Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052619415",
+        "page_count": null,
+        "short_description": "Proposed Order",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/103/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Response to Emergency Motion to Appoint Chapter 11 Trustee (related document(s):98 Emergency Motion). Filed by ALLIANCE FARM AND RANCH, LLC (Attachments: # 1 Proposed Order Consent Order Re: Settlement Proceeds) (Crain, Deborah) (Entered: 05/22/2025)",
+        "docket_entry_id": 426297413,
+        "docket_id": 69522295,
+        "document_number": 103,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-22",
+        "entry_number": 103,
+        "filepath_local": null,
+        "id": 440463193,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-22T21:33:52.351647Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052618561",
+        "page_count": null,
+        "short_description": "Response",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/100/1/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Motion to File Under Seal Exhibit C to the Emergency Motion for Appointment of Chapter 11 Trustee Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Proposed Order) (Hotze, William) (Entered: 05/22/2025)",
+        "docket_entry_id": 426278411,
+        "docket_id": 69522295,
+        "document_number": 100,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-22",
+        "entry_number": 100,
+        "filepath_local": null,
+        "id": 440445261,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-22T20:10:17.428400Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052617602",
+        "page_count": 2,
+        "short_description": "Proposed Order",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/100/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Motion to File Under Seal Exhibit C to the Emergency Motion for Appointment of Chapter 11 Trustee Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Proposed Order) (Hotze, William) (Entered: 05/22/2025)",
+        "docket_entry_id": 426278411,
+        "docket_id": 69522295,
+        "document_number": 100,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-22",
+        "entry_number": 100,
+        "filepath_local": null,
+        "id": 440444006,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-22T20:07:46.763014Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052617601",
+        "page_count": null,
+        "short_description": "Generic Motion",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/98/4/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 4,
+        "cites": [],
+        "description": "Emergency Motion for Appointment of Chapter 11 Trustee Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Proposed Order # 2 Ex. A - April 9 Hearing Transcript Excerpts # 3 Exhibit B - Notice of Nonsuit # 4 Exhibit C - Settlement Agreement) (Hotze, William) (Entered: 05/22/2025)",
+        "docket_entry_id": 426259985,
+        "docket_id": 69522295,
+        "document_number": 98,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-22",
+        "entry_number": 98,
+        "filepath_local": null,
+        "id": 440440157,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-22T20:00:15.876315Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052616805",
+        "page_count": 1,
+        "short_description": "Exhibit C - Settlement Agreement",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/98/3/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Emergency Motion for Appointment of Chapter 11 Trustee Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Proposed Order # 2 Ex. A - April 9 Hearing Transcript Excerpts # 3 Exhibit B - Notice of Nonsuit # 4 Exhibit C - Settlement Agreement) (Hotze, William) (Entered: 05/22/2025)",
+        "docket_entry_id": 426259985,
+        "docket_id": 69522295,
+        "document_number": 98,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-22",
+        "entry_number": 98,
+        "filepath_local": null,
+        "id": 440440156,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-22T20:00:15.375494Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052616804",
+        "page_count": 4,
+        "short_description": "Exhibit B - Notice of Nonsuit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/98/2/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Emergency Motion for Appointment of Chapter 11 Trustee Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Proposed Order # 2 Ex. A - April 9 Hearing Transcript Excerpts # 3 Exhibit B - Notice of Nonsuit # 4 Exhibit C - Settlement Agreement) (Hotze, William) (Entered: 05/22/2025)",
+        "docket_entry_id": 426259985,
+        "docket_id": 69522295,
+        "document_number": 98,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-22",
+        "entry_number": 98,
+        "filepath_local": null,
+        "id": 440440155,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-22T20:00:15.364423Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052616803",
+        "page_count": 8,
+        "short_description": "Ex. A - April 9 Hearing Transcript Excerpts",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/98/1/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Emergency Motion for Appointment of Chapter 11 Trustee Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Proposed Order # 2 Ex. A - April 9 Hearing Transcript Excerpts # 3 Exhibit B - Notice of Nonsuit # 4 Exhibit C - Settlement Agreement) (Hotze, William) (Entered: 05/22/2025)",
+        "docket_entry_id": 426259985,
+        "docket_id": 69522295,
+        "document_number": 98,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-22",
+        "entry_number": 98,
+        "filepath_local": null,
+        "id": 440440154,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-22T20:00:15.317846Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052616802",
+        "page_count": 2,
+        "short_description": "Proposed Order",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/98/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Emergency Motion for Appointment of Chapter 11 Trustee Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Proposed Order # 2 Ex. A - April 9 Hearing Transcript Excerpts # 3 Exhibit B - Notice of Nonsuit # 4 Exhibit C - Settlement Agreement) (Hotze, William) (Entered: 05/22/2025)",
+        "docket_entry_id": 426259985,
+        "docket_id": 69522295,
+        "document_number": 98,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-22",
+        "entry_number": 98,
+        "filepath_local": null,
+        "id": 440425255,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-22T18:35:12.714522Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052616801",
+        "page_count": null,
+        "short_description": "Emergency Motion",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/85/alliance-farm-and-ranch-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Courtroom Minutes. Time Hearing Held: 10:01 AM to 10:18 AM. Appearance: Timothy Wentworth and Matthew Okin for debtor; Heather McIntyre, Abdiel Lopez-Castro and Noah Meek for creditor Dustin Etter; William Hotze AEP-Committee. Hearing held. Mr. Okin addresses the court and announces a settlement between Mr. Ferr and the Ostranders as stated on the record. It is his representation that Okin Adams needs to withdraw from this representation of the debtors. Mr. Okin makes an oral request for a short continuance on motion 68 for the debtor to retain new counsel. Ms. McIntyre objects to the withdrawal and request the Court moves forward with motion 68. Mr. Hotze addresses the court. Argument heard. The Court will reschedule this hearing for 5/23/2025 at 8:00 AM CST by telephone/video conference. Motion to convert will be the first order of business. Any additional pleadings filed will be addressed at that time. Mr. Wentworth would like to amend the applications and reset the hearings in short order. The Court is agreeable and will continue to an appropriate time. ERO: yes (Related document(s):26 Application to Employ, 31 Application to Employ, 68 Emergency Motion, Motion to Convert Case from Chapter 11 to Chapter 7) Hearing scheduled for 5/23/2025 at 08:00 AM at telephone and video conference. (abh4) (Entered: 05/20/2025)",
+        "docket_entry_id": 426045076,
+        "docket_id": 69522295,
+        "document_number": 85,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-20",
+        "entry_number": 85,
+        "filepath_local": null,
+        "id": 440203500,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-05-21T13:18:23.725881Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "Courtroom Minutes",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/69522295/80/33/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 33,
+        "cites": [],
+        "description": "Exhibit List, Witness List (Filed By Dustin Etter ).(Related document(s):26 Application to Employ, 31 Application to Employ, 68 Emergency Motion, Motion to Convert Case from Chapter 11 to Chapter 7) (Attachments: # 1 Exhibit 1 - Motion to Convert # 2 Exhibit 2 - Contribution Agreement # 3 Exhibit 3 - AEP Truist Bank Statements # 4 Exhibit 4 - AEP Vendor Quick Report for Ostrander # 5 Exhibit 5 - June 2022 ACH Ledger # 6 Exhibit 6 - November December 2022 ACH Ledger # 7 Exhibit 7 - TX Franchise Report - J Parker Construction # 8 Exhibit 8 - April - December 2022 ACH Ledger # 9 Exhibit 9 - Ranch Real Estate Lien Note # 10 Exhibit 10 - List of Equity Security Holders # 11 Exhibit 11 - 8th Amended Petition # 12 Exhibit 12 - Deed of Trust # 13 Exhibit 13 - Farm Ranch Contract (Ostander Milner) # 14 Exhibit 14 - Order Denying Emergency Motion to Dismiss # 15 Exhibit 15 - Hearing Transcript # 16 Exhibit 16 - Defendants Answers to Plaintiffs Second Set of Interrogatories # 17 Exhibit 17 - Farm Ranch Contract (Ostrander AEP) # 18 Exhibit 18 - Receipt Disbursement Ledger # 19 Exhibit 19 - Ranch Contract Amendment # 20 Exhibit 20 - Remodel Invoices # 21 Exhibit 21 - Commercial Lease Agreement # 22 Exhibit 22 - Etter's Emergency Motion to Reschedule # 23 Exhibit 23 - Notice of Lis Pendens # 24 Exhibit 24 - Emergency Motion to Expunge Lis Pendens # 25 Exhibit 25 - Notice of Submission for Motion to Expunge Lis Pendens # 26 Exhibit 26 - AFR's Petition # 27 Exhibit 27 - Debtor AFRs Schedules ABDEFGH # 28 Exhibit 28 - Debtor AFRs SOFA # 29 Exhibit 29 - Debtor AEPs Petition Schedules ABDEFGH # 30 Exhibit 30 - Notice of Foreclosure Sale # 31 Exhibit 31 Ranch Improvements Payment Totals # 32 Exhibit 32 - AEP American Express Bank Statements # 33 Exhibit 33 - Declaration of Noah Meek) (McIntyre, Heather) (Entered: 05/14/2025)",
+        "docket_entry_id": 425378591,
+        "docket_id": 69522295,
+        "document_number": 80,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-14",
+        "entry_number": 80,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.80.33.pdf",
+        "id": 439914213,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-18T19:20:13.150832Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052578380",
+        "page_count": 3,
+        "short_description": "Exhibit 33 - Declaration of Noah Meek",
+        "snippet": "Case 25-30155 Document 80-33 Filed in TXSB on 05/14/25 Page 1 of 3\n\f      Case 25-30155 Document 80-33 Filed in TXSB on 05/14/25 Page 2 of 3\n\n\n\n\n                  IN THE UNITED STATES BANKRUPTCY COURT\n                    FOR THE SOUTHERN DISTRICT OF TEXAS\n                              HOUSTON DIVISION\n\n IN RE:                                     \u00a7\n                                            \u00a7\n ALLIANCE FARM AND RANCH, LLC               \u00a7     Bankruptcy Case No. 25-30155\n and                     "
+      },
+      {
+        "absolute_url": "/docket/69522295/80/32/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 32,
+        "cites": [],
+        "description": "Exhibit List, Witness List (Filed By Dustin Etter ).(Related document(s):26 Application to Employ, 31 Application to Employ, 68 Emergency Motion, Motion to Convert Case from Chapter 11 to Chapter 7) (Attachments: # 1 Exhibit 1 - Motion to Convert # 2 Exhibit 2 - Contribution Agreement # 3 Exhibit 3 - AEP Truist Bank Statements # 4 Exhibit 4 - AEP Vendor Quick Report for Ostrander # 5 Exhibit 5 - June 2022 ACH Ledger # 6 Exhibit 6 - November December 2022 ACH Ledger # 7 Exhibit 7 - TX Franchise Report - J Parker Construction # 8 Exhibit 8 - April - December 2022 ACH Ledger # 9 Exhibit 9 - Ranch Real Estate Lien Note # 10 Exhibit 10 - List of Equity Security Holders # 11 Exhibit 11 - 8th Amended Petition # 12 Exhibit 12 - Deed of Trust # 13 Exhibit 13 - Farm Ranch Contract (Ostander Milner) # 14 Exhibit 14 - Order Denying Emergency Motion to Dismiss # 15 Exhibit 15 - Hearing Transcript # 16 Exhibit 16 - Defendants Answers to Plaintiffs Second Set of Interrogatories # 17 Exhibit 17 - Farm Ranch Contract (Ostrander AEP) # 18 Exhibit 18 - Receipt Disbursement Ledger # 19 Exhibit 19 - Ranch Contract Amendment # 20 Exhibit 20 - Remodel Invoices # 21 Exhibit 21 - Commercial Lease Agreement # 22 Exhibit 22 - Etter's Emergency Motion to Reschedule # 23 Exhibit 23 - Notice of Lis Pendens # 24 Exhibit 24 - Emergency Motion to Expunge Lis Pendens # 25 Exhibit 25 - Notice of Submission for Motion to Expunge Lis Pendens # 26 Exhibit 26 - AFR's Petition # 27 Exhibit 27 - Debtor AFRs Schedules ABDEFGH # 28 Exhibit 28 - Debtor AFRs SOFA # 29 Exhibit 29 - Debtor AEPs Petition Schedules ABDEFGH # 30 Exhibit 30 - Notice of Foreclosure Sale # 31 Exhibit 31 Ranch Improvements Payment Totals # 32 Exhibit 32 - AEP American Express Bank Statements # 33 Exhibit 33 - Declaration of Noah Meek) (McIntyre, Heather) (Entered: 05/14/2025)",
+        "docket_entry_id": 425378591,
+        "docket_id": 69522295,
+        "document_number": 80,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-14",
+        "entry_number": 80,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.80.32_1.pdf",
+        "id": 439914212,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-18T19:20:13.143065Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052578379",
+        "page_count": 45,
+        "short_description": "Exhibit 32 - AEP American Express Bank Statements",
+        "snippet": "Case 25-30155 Document 80-32 Filed in TXSB on 05/14/25 Page 1 of 45\n\f            Case 25-30155 Document 80-32 Filed in TXSB on 05/14/25 Page 2 of 45\n             Business Platinum Card                                                                               p. 1/9\n\n\n\n\n American Express\n PO Box 297800\n Ft Lauderdale, FL 33329-7800\n                                                                                                      February 21, 2022\n Account Ending In: 0-61006\n\n Dear DUSTIN T"
+      },
+      {
+        "absolute_url": "/docket/69522295/80/31/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 31,
+        "cites": [],
+        "description": "Exhibit List, Witness List (Filed By Dustin Etter ).(Related document(s):26 Application to Employ, 31 Application to Employ, 68 Emergency Motion, Motion to Convert Case from Chapter 11 to Chapter 7) (Attachments: # 1 Exhibit 1 - Motion to Convert # 2 Exhibit 2 - Contribution Agreement # 3 Exhibit 3 - AEP Truist Bank Statements # 4 Exhibit 4 - AEP Vendor Quick Report for Ostrander # 5 Exhibit 5 - June 2022 ACH Ledger # 6 Exhibit 6 - November December 2022 ACH Ledger # 7 Exhibit 7 - TX Franchise Report - J Parker Construction # 8 Exhibit 8 - April - December 2022 ACH Ledger # 9 Exhibit 9 - Ranch Real Estate Lien Note # 10 Exhibit 10 - List of Equity Security Holders # 11 Exhibit 11 - 8th Amended Petition # 12 Exhibit 12 - Deed of Trust # 13 Exhibit 13 - Farm Ranch Contract (Ostander Milner) # 14 Exhibit 14 - Order Denying Emergency Motion to Dismiss # 15 Exhibit 15 - Hearing Transcript # 16 Exhibit 16 - Defendants Answers to Plaintiffs Second Set of Interrogatories # 17 Exhibit 17 - Farm Ranch Contract (Ostrander AEP) # 18 Exhibit 18 - Receipt Disbursement Ledger # 19 Exhibit 19 - Ranch Contract Amendment # 20 Exhibit 20 - Remodel Invoices # 21 Exhibit 21 - Commercial Lease Agreement # 22 Exhibit 22 - Etter's Emergency Motion to Reschedule # 23 Exhibit 23 - Notice of Lis Pendens # 24 Exhibit 24 - Emergency Motion to Expunge Lis Pendens # 25 Exhibit 25 - Notice of Submission for Motion to Expunge Lis Pendens # 26 Exhibit 26 - AFR's Petition # 27 Exhibit 27 - Debtor AFRs Schedules ABDEFGH # 28 Exhibit 28 - Debtor AFRs SOFA # 29 Exhibit 29 - Debtor AEPs Petition Schedules ABDEFGH # 30 Exhibit 30 - Notice of Foreclosure Sale # 31 Exhibit 31 Ranch Improvements Payment Totals # 32 Exhibit 32 - AEP American Express Bank Statements # 33 Exhibit 33 - Declaration of Noah Meek) (McIntyre, Heather) (Entered: 05/14/2025)",
+        "docket_entry_id": 425378591,
+        "docket_id": 69522295,
+        "document_number": 80,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-14",
+        "entry_number": 80,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.80.31_2.pdf",
+        "id": 439914211,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-18T19:20:13.135580Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052578378",
+        "page_count": 2,
+        "short_description": "Exhibit 31 Ranch Improvements Payment Totals",
+        "snippet": "Case 25-30155 Document 80-31 Filed in TXSB on 05/14/25 Page 1 of 2\n\f                              Case 25-30155 Document 80-31 Filed in TXSB on 05/14/25 Page 2 of 2\n\n\nIMPROVEMENTS PAYMENTS\n   Date        Amount             Purpose                                                  Notes\n   4/5/2022    $20,484.15 Security Install     In AEP Bank Statement, in Ostrander injunction suit exhibits, $8,246.47 is for \"Main\n                                               House\"\n  4/22/2022    $14,000.00 Ar"
+      },
+      {
+        "absolute_url": "/docket/69522295/80/30/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 30,
+        "cites": [],
+        "description": "Exhibit List, Witness List (Filed By Dustin Etter ).(Related document(s):26 Application to Employ, 31 Application to Employ, 68 Emergency Motion, Motion to Convert Case from Chapter 11 to Chapter 7) (Attachments: # 1 Exhibit 1 - Motion to Convert # 2 Exhibit 2 - Contribution Agreement # 3 Exhibit 3 - AEP Truist Bank Statements # 4 Exhibit 4 - AEP Vendor Quick Report for Ostrander # 5 Exhibit 5 - June 2022 ACH Ledger # 6 Exhibit 6 - November December 2022 ACH Ledger # 7 Exhibit 7 - TX Franchise Report - J Parker Construction # 8 Exhibit 8 - April - December 2022 ACH Ledger # 9 Exhibit 9 - Ranch Real Estate Lien Note # 10 Exhibit 10 - List of Equity Security Holders # 11 Exhibit 11 - 8th Amended Petition # 12 Exhibit 12 - Deed of Trust # 13 Exhibit 13 - Farm Ranch Contract (Ostander Milner) # 14 Exhibit 14 - Order Denying Emergency Motion to Dismiss # 15 Exhibit 15 - Hearing Transcript # 16 Exhibit 16 - Defendants Answers to Plaintiffs Second Set of Interrogatories # 17 Exhibit 17 - Farm Ranch Contract (Ostrander AEP) # 18 Exhibit 18 - Receipt Disbursement Ledger # 19 Exhibit 19 - Ranch Contract Amendment # 20 Exhibit 20 - Remodel Invoices # 21 Exhibit 21 - Commercial Lease Agreement # 22 Exhibit 22 - Etter's Emergency Motion to Reschedule # 23 Exhibit 23 - Notice of Lis Pendens # 24 Exhibit 24 - Emergency Motion to Expunge Lis Pendens # 25 Exhibit 25 - Notice of Submission for Motion to Expunge Lis Pendens # 26 Exhibit 26 - AFR's Petition # 27 Exhibit 27 - Debtor AFRs Schedules ABDEFGH # 28 Exhibit 28 - Debtor AFRs SOFA # 29 Exhibit 29 - Debtor AEPs Petition Schedules ABDEFGH # 30 Exhibit 30 - Notice of Foreclosure Sale # 31 Exhibit 31 Ranch Improvements Payment Totals # 32 Exhibit 32 - AEP American Express Bank Statements # 33 Exhibit 33 - Declaration of Noah Meek) (McIntyre, Heather) (Entered: 05/14/2025)",
+        "docket_entry_id": 425378591,
+        "docket_id": 69522295,
+        "document_number": 80,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-14",
+        "entry_number": 80,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.80.30_2.pdf",
+        "id": 439914210,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-18T19:20:13.127895Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052578377",
+        "page_count": 8,
+        "short_description": "Exhibit 30 - Notice of Foreclosure Sale",
+        "snippet": "Case 25-30155 Document 80-30 Filed in TXSB on 05/14/25 Page 1 of 8\n\nEXHIBIT 30\n\fCase 25-30155 Document 80-30 Filed in TXSB on 05/14/25 Page 2 of 8\n\nAfter recording, return to:\n\nTHE WEAVER LAW FIRM\n\nDOC# mase\n\nFASTER\n\n12/06/2024 4207P\":\n\n*esho0 Munoz\n\nL. BRANDON STEIHHAHN\u00bb COUNTY CLERY\n\n1800 Bering Drive, Suite 1050 WONTGOHERY \u00a9 UGHTYs TEA\nHouston, Texas 77057\nSTATE OF TEXAS \u00a7\n\n\u00a7\n\nCOUNTY OF MONTGOMERY \u00a7\n\nDate:\n\nSecured Obligations:\n\nDeed of Trust:\n\nSubstitute Trustees:\n\nSubstitute Trustees\u2019 Addre"
+      },
+      {
+        "absolute_url": "/docket/69522295/80/29/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 29,
+        "cites": [],
+        "description": "Exhibit List, Witness List (Filed By Dustin Etter ).(Related document(s):26 Application to Employ, 31 Application to Employ, 68 Emergency Motion, Motion to Convert Case from Chapter 11 to Chapter 7) (Attachments: # 1 Exhibit 1 - Motion to Convert # 2 Exhibit 2 - Contribution Agreement # 3 Exhibit 3 - AEP Truist Bank Statements # 4 Exhibit 4 - AEP Vendor Quick Report for Ostrander # 5 Exhibit 5 - June 2022 ACH Ledger # 6 Exhibit 6 - November December 2022 ACH Ledger # 7 Exhibit 7 - TX Franchise Report - J Parker Construction # 8 Exhibit 8 - April - December 2022 ACH Ledger # 9 Exhibit 9 - Ranch Real Estate Lien Note # 10 Exhibit 10 - List of Equity Security Holders # 11 Exhibit 11 - 8th Amended Petition # 12 Exhibit 12 - Deed of Trust # 13 Exhibit 13 - Farm Ranch Contract (Ostander Milner) # 14 Exhibit 14 - Order Denying Emergency Motion to Dismiss # 15 Exhibit 15 - Hearing Transcript # 16 Exhibit 16 - Defendants Answers to Plaintiffs Second Set of Interrogatories # 17 Exhibit 17 - Farm Ranch Contract (Ostrander AEP) # 18 Exhibit 18 - Receipt Disbursement Ledger # 19 Exhibit 19 - Ranch Contract Amendment # 20 Exhibit 20 - Remodel Invoices # 21 Exhibit 21 - Commercial Lease Agreement # 22 Exhibit 22 - Etter's Emergency Motion to Reschedule # 23 Exhibit 23 - Notice of Lis Pendens # 24 Exhibit 24 - Emergency Motion to Expunge Lis Pendens # 25 Exhibit 25 - Notice of Submission for Motion to Expunge Lis Pendens # 26 Exhibit 26 - AFR's Petition # 27 Exhibit 27 - Debtor AFRs Schedules ABDEFGH # 28 Exhibit 28 - Debtor AFRs SOFA # 29 Exhibit 29 - Debtor AEPs Petition Schedules ABDEFGH # 30 Exhibit 30 - Notice of Foreclosure Sale # 31 Exhibit 31 Ranch Improvements Payment Totals # 32 Exhibit 32 - AEP American Express Bank Statements # 33 Exhibit 33 - Declaration of Noah Meek) (McIntyre, Heather) (Entered: 05/14/2025)",
+        "docket_entry_id": 425378591,
+        "docket_id": 69522295,
+        "document_number": 80,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-14",
+        "entry_number": 80,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.80.29.pdf",
+        "id": 439914209,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-18T19:20:13.120043Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052578376",
+        "page_count": 26,
+        "short_description": "Exhibit 29 - Debtor AEPs Petition Schedules ABDEFGH",
+        "snippet": "Case 25-30155 Document 80-29 Filed in TXSB on 05/14/25 Page 1 of 26\n\f                         Case\n                           Case\n                              25-30155\n                                25-31937Document\n                                          Document\n                                                 80-29\n                                                   1 Filed\n                                                        Filed\n                                                      "
+      },
+      {
+        "absolute_url": "/docket/69522295/80/28/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 28,
+        "cites": [],
+        "description": "Exhibit List, Witness List (Filed By Dustin Etter ).(Related document(s):26 Application to Employ, 31 Application to Employ, 68 Emergency Motion, Motion to Convert Case from Chapter 11 to Chapter 7) (Attachments: # 1 Exhibit 1 - Motion to Convert # 2 Exhibit 2 - Contribution Agreement # 3 Exhibit 3 - AEP Truist Bank Statements # 4 Exhibit 4 - AEP Vendor Quick Report for Ostrander # 5 Exhibit 5 - June 2022 ACH Ledger # 6 Exhibit 6 - November December 2022 ACH Ledger # 7 Exhibit 7 - TX Franchise Report - J Parker Construction # 8 Exhibit 8 - April - December 2022 ACH Ledger # 9 Exhibit 9 - Ranch Real Estate Lien Note # 10 Exhibit 10 - List of Equity Security Holders # 11 Exhibit 11 - 8th Amended Petition # 12 Exhibit 12 - Deed of Trust # 13 Exhibit 13 - Farm Ranch Contract (Ostander Milner) # 14 Exhibit 14 - Order Denying Emergency Motion to Dismiss # 15 Exhibit 15 - Hearing Transcript # 16 Exhibit 16 - Defendants Answers to Plaintiffs Second Set of Interrogatories # 17 Exhibit 17 - Farm Ranch Contract (Ostrander AEP) # 18 Exhibit 18 - Receipt Disbursement Ledger # 19 Exhibit 19 - Ranch Contract Amendment # 20 Exhibit 20 - Remodel Invoices # 21 Exhibit 21 - Commercial Lease Agreement # 22 Exhibit 22 - Etter's Emergency Motion to Reschedule # 23 Exhibit 23 - Notice of Lis Pendens # 24 Exhibit 24 - Emergency Motion to Expunge Lis Pendens # 25 Exhibit 25 - Notice of Submission for Motion to Expunge Lis Pendens # 26 Exhibit 26 - AFR's Petition # 27 Exhibit 27 - Debtor AFRs Schedules ABDEFGH # 28 Exhibit 28 - Debtor AFRs SOFA # 29 Exhibit 29 - Debtor AEPs Petition Schedules ABDEFGH # 30 Exhibit 30 - Notice of Foreclosure Sale # 31 Exhibit 31 Ranch Improvements Payment Totals # 32 Exhibit 32 - AEP American Express Bank Statements # 33 Exhibit 33 - Declaration of Noah Meek) (McIntyre, Heather) (Entered: 05/14/2025)",
+        "docket_entry_id": 425378591,
+        "docket_id": 69522295,
+        "document_number": 80,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-14",
+        "entry_number": 80,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.80.28_1.pdf",
+        "id": 439914208,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-18T19:20:13.112135Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052578375",
+        "page_count": 8,
+        "short_description": "Exhibit 28 - Debtor AFRs SOFA",
+        "snippet": "Case 25-30155 Document 80-28 Filed in TXSB on 05/14/25 Page 1 of 8\n\f                     Case\n                      Case25-30155\n                           25-30155 Document\n                                     Document80-28\n                                              36 Filed\n                                                   FiledininTXSB\n                                                             TXSBonon04/04/25\n                                                                      05/14/2"
+      },
+      {
+        "absolute_url": "/docket/69522295/80/27/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 27,
+        "cites": [],
+        "description": "Exhibit List, Witness List (Filed By Dustin Etter ).(Related document(s):26 Application to Employ, 31 Application to Employ, 68 Emergency Motion, Motion to Convert Case from Chapter 11 to Chapter 7) (Attachments: # 1 Exhibit 1 - Motion to Convert # 2 Exhibit 2 - Contribution Agreement # 3 Exhibit 3 - AEP Truist Bank Statements # 4 Exhibit 4 - AEP Vendor Quick Report for Ostrander # 5 Exhibit 5 - June 2022 ACH Ledger # 6 Exhibit 6 - November December 2022 ACH Ledger # 7 Exhibit 7 - TX Franchise Report - J Parker Construction # 8 Exhibit 8 - April - December 2022 ACH Ledger # 9 Exhibit 9 - Ranch Real Estate Lien Note # 10 Exhibit 10 - List of Equity Security Holders # 11 Exhibit 11 - 8th Amended Petition # 12 Exhibit 12 - Deed of Trust # 13 Exhibit 13 - Farm Ranch Contract (Ostander Milner) # 14 Exhibit 14 - Order Denying Emergency Motion to Dismiss # 15 Exhibit 15 - Hearing Transcript # 16 Exhibit 16 - Defendants Answers to Plaintiffs Second Set of Interrogatories # 17 Exhibit 17 - Farm Ranch Contract (Ostrander AEP) # 18 Exhibit 18 - Receipt Disbursement Ledger # 19 Exhibit 19 - Ranch Contract Amendment # 20 Exhibit 20 - Remodel Invoices # 21 Exhibit 21 - Commercial Lease Agreement # 22 Exhibit 22 - Etter's Emergency Motion to Reschedule # 23 Exhibit 23 - Notice of Lis Pendens # 24 Exhibit 24 - Emergency Motion to Expunge Lis Pendens # 25 Exhibit 25 - Notice of Submission for Motion to Expunge Lis Pendens # 26 Exhibit 26 - AFR's Petition # 27 Exhibit 27 - Debtor AFRs Schedules ABDEFGH # 28 Exhibit 28 - Debtor AFRs SOFA # 29 Exhibit 29 - Debtor AEPs Petition Schedules ABDEFGH # 30 Exhibit 30 - Notice of Foreclosure Sale # 31 Exhibit 31 Ranch Improvements Payment Totals # 32 Exhibit 32 - AEP American Express Bank Statements # 33 Exhibit 33 - Declaration of Noah Meek) (McIntyre, Heather) (Entered: 05/14/2025)",
+        "docket_entry_id": 425378591,
+        "docket_id": 69522295,
+        "document_number": 80,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-14",
+        "entry_number": 80,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.80.27.pdf",
+        "id": 439914207,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-18T19:20:13.102864Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052578374",
+        "page_count": 15,
+        "short_description": "Exhibit 27 - Debtor AFRs Schedules ABDEFGH",
+        "snippet": "Case 25-30155 Document 80-27 Filed in TXSB on 05/14/25 Page 1 of 15\n\f                    Case\n                     Case25-30155\n                          25-30155 Document\n                                    Document80-27\n                                             34 Filed\n                                                  FiledininTXSB\n                                                            TXSBonon04/04/25\n                                                                     05/14/25 Page\n"
+      },
+      {
+        "absolute_url": "/docket/69522295/80/26/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 26,
+        "cites": [],
+        "description": "Exhibit List, Witness List (Filed By Dustin Etter ).(Related document(s):26 Application to Employ, 31 Application to Employ, 68 Emergency Motion, Motion to Convert Case from Chapter 11 to Chapter 7) (Attachments: # 1 Exhibit 1 - Motion to Convert # 2 Exhibit 2 - Contribution Agreement # 3 Exhibit 3 - AEP Truist Bank Statements # 4 Exhibit 4 - AEP Vendor Quick Report for Ostrander # 5 Exhibit 5 - June 2022 ACH Ledger # 6 Exhibit 6 - November December 2022 ACH Ledger # 7 Exhibit 7 - TX Franchise Report - J Parker Construction # 8 Exhibit 8 - April - December 2022 ACH Ledger # 9 Exhibit 9 - Ranch Real Estate Lien Note # 10 Exhibit 10 - List of Equity Security Holders # 11 Exhibit 11 - 8th Amended Petition # 12 Exhibit 12 - Deed of Trust # 13 Exhibit 13 - Farm Ranch Contract (Ostander Milner) # 14 Exhibit 14 - Order Denying Emergency Motion to Dismiss # 15 Exhibit 15 - Hearing Transcript # 16 Exhibit 16 - Defendants Answers to Plaintiffs Second Set of Interrogatories # 17 Exhibit 17 - Farm Ranch Contract (Ostrander AEP) # 18 Exhibit 18 - Receipt Disbursement Ledger # 19 Exhibit 19 - Ranch Contract Amendment # 20 Exhibit 20 - Remodel Invoices # 21 Exhibit 21 - Commercial Lease Agreement # 22 Exhibit 22 - Etter's Emergency Motion to Reschedule # 23 Exhibit 23 - Notice of Lis Pendens # 24 Exhibit 24 - Emergency Motion to Expunge Lis Pendens # 25 Exhibit 25 - Notice of Submission for Motion to Expunge Lis Pendens # 26 Exhibit 26 - AFR's Petition # 27 Exhibit 27 - Debtor AFRs Schedules ABDEFGH # 28 Exhibit 28 - Debtor AFRs SOFA # 29 Exhibit 29 - Debtor AEPs Petition Schedules ABDEFGH # 30 Exhibit 30 - Notice of Foreclosure Sale # 31 Exhibit 31 Ranch Improvements Payment Totals # 32 Exhibit 32 - AEP American Express Bank Statements # 33 Exhibit 33 - Declaration of Noah Meek) (McIntyre, Heather) (Entered: 05/14/2025)",
+        "docket_entry_id": 425378591,
+        "docket_id": 69522295,
+        "document_number": 80,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-14",
+        "entry_number": 80,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.80.26.pdf",
+        "id": 439914206,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-18T19:20:13.093483Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052578373",
+        "page_count": 5,
+        "short_description": "Exhibit 26 - AFR's Petition",
+        "snippet": "Case 25-30155 Document 80-26 Filed in TXSB on 05/14/25 Page 1 of 5\n\f                    Case\n                      Case\n                         25-30155\n                           25-30155Document\n                                     Document\n                                            80-26\n                                              1 Filed\n                                                   Filed\n                                                       in in\n                                  "
+      },
+      {
+        "absolute_url": "/docket/69522295/80/25/alliance-farm-and-ranch-llc-and-alliance-energy-partners-llc/",
+        "attachment_number": 25,
+        "cites": [],
+        "description": "Exhibit List, Witness List (Filed By Dustin Etter ).(Related document(s):26 Application to Employ, 31 Application to Employ, 68 Emergency Motion, Motion to Convert Case from Chapter 11 to Chapter 7) (Attachments: # 1 Exhibit 1 - Motion to Convert # 2 Exhibit 2 - Contribution Agreement # 3 Exhibit 3 - AEP Truist Bank Statements # 4 Exhibit 4 - AEP Vendor Quick Report for Ostrander # 5 Exhibit 5 - June 2022 ACH Ledger # 6 Exhibit 6 - November December 2022 ACH Ledger # 7 Exhibit 7 - TX Franchise Report - J Parker Construction # 8 Exhibit 8 - April - December 2022 ACH Ledger # 9 Exhibit 9 - Ranch Real Estate Lien Note # 10 Exhibit 10 - List of Equity Security Holders # 11 Exhibit 11 - 8th Amended Petition # 12 Exhibit 12 - Deed of Trust # 13 Exhibit 13 - Farm Ranch Contract (Ostander Milner) # 14 Exhibit 14 - Order Denying Emergency Motion to Dismiss # 15 Exhibit 15 - Hearing Transcript # 16 Exhibit 16 - Defendants Answers to Plaintiffs Second Set of Interrogatories # 17 Exhibit 17 - Farm Ranch Contract (Ostrander AEP) # 18 Exhibit 18 - Receipt Disbursement Ledger # 19 Exhibit 19 - Ranch Contract Amendment # 20 Exhibit 20 - Remodel Invoices # 21 Exhibit 21 - Commercial Lease Agreement # 22 Exhibit 22 - Etter's Emergency Motion to Reschedule # 23 Exhibit 23 - Notice of Lis Pendens # 24 Exhibit 24 - Emergency Motion to Expunge Lis Pendens # 25 Exhibit 25 - Notice of Submission for Motion to Expunge Lis Pendens # 26 Exhibit 26 - AFR's Petition # 27 Exhibit 27 - Debtor AFRs Schedules ABDEFGH # 28 Exhibit 28 - Debtor AFRs SOFA # 29 Exhibit 29 - Debtor AEPs Petition Schedules ABDEFGH # 30 Exhibit 30 - Notice of Foreclosure Sale # 31 Exhibit 31 Ranch Improvements Payment Totals # 32 Exhibit 32 - AEP American Express Bank Statements # 33 Exhibit 33 - Declaration of Noah Meek) (McIntyre, Heather) (Entered: 05/14/2025)",
+        "docket_entry_id": 425378591,
+        "docket_id": 69522295,
+        "document_number": 80,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-05-14",
+        "entry_number": 80,
+        "filepath_local": "recap/gov.uscourts.txsb.478410/gov.uscourts.txsb.478410.80.25_1.pdf",
+        "id": 439914205,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-18T19:20:13.085509Z",
+          "score": {
+            "bm25": 2.0
+          },
+          "timestamp": "2026-08-27T22:35:40.031033Z"
+        },
+        "pacer_doc_id": "178052578372",
+        "page_count": 3,
+        "short_description": "Exhibit 25 - Notice of Submission for Motion to Expunge Lis Pendens",
+        "snippet": "Case 25-30155 Document 80-25 Filed in TXSB on 05/14/25 Page 1 of 3\n\f       Case 25-30155 Document 80-25 Filed in TXSB on 05/14/25 Page 2 of 3\n\n\n\n\n                                     CAUSE NO. 24-07-11639\n\n DUSTIN ETTER,                                     \u00a7        IN THE DISTRICT CLERK OF\n                        Plaintiff                  \u00a7\n                                                   \u00a7\n v.                                                \u00a7        MONTGOMERY COUNTY, TEXAS\n                  "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz0yLjAmcz00NDA1MjA3MzYmdD1yZCZkPTIwMjYtMTAtMDkmcD0z&description=order+AND+%28retain+OR+employ+OR+retention+OR+appoint%29&q=docket_id%3A69522295&type=rd"
+}

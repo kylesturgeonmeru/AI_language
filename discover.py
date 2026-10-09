@@ -9,7 +9,7 @@ after Kyle approves the "largest cases" measure.
 SEC: EDGAR full-text search for engagement letters filed as exhibits.
 
 Every page is cached in data/discovery/cache/, so reruns spend no API
-calls on pages already fetched. Usage: python discover.py [--only b a sec]
+calls on pages already fetched. Usage: python discover.py [--max-pages N]
 """
 import argparse
 import csv
@@ -175,6 +175,58 @@ def track_a_universe(sess, dockets, docs, max_pages):
     return universe
 
 
+def track_b_related(sess, dockets, docs, max_pages):
+    """For each in-window Track B hit, find the rest of its docket entry and the entered order."""
+    hits = {}
+    for d in docs:
+        if d["track"] == "B" and in_window(dockets.get(d["docket_id"], {})) is True:
+            hits.setdefault((d["docket_id"], d["document_number"]), d)
+    for (docket_id, doc_num), d in sorted(hits.items()):
+        print(f"Track B related: docket {docket_id}, entry {doc_num}")
+        q = f"docket_id:{docket_id} AND document_number:{doc_num}"
+        for r in cl_search(sess, {"type": "rd", "q": q}, f"B entry {docket_id}/{doc_num}", max_pages):
+            docs.append(doc_row(dict(r, docket_id=docket_id), "B_related", f"entry {doc_num}"))
+        firm = d["firm_guess"].split(",")[0].split()[0] if d["firm_guess"] else ""
+        desc = "order AND (retain OR employ OR retention OR appoint)" + (f' AND "{firm}"' if firm else "")
+        for r in cl_search(sess, {"type": "rd", "q": f"docket_id:{docket_id}", "description": desc},
+                           f"B order {docket_id}/{doc_num}", max_pages):
+            row = doc_row(dict(r, docket_id=docket_id), "B_related", f"order for entry {doc_num}")
+            if row["filing_type_guess"] == "order":
+                docs.append(row)
+
+
+MONEY_RE = re.compile(r"\$\s?([\d,.]+)\s*(billion|million)?", re.I)
+
+
+def funded_debt(snippet):
+    """Largest dollar figure in a snippet that mentions funded debt, in $ millions."""
+    best = None
+    for m in MONEY_RE.finditer(snippet):
+        try:
+            v = float(m.group(1).replace(",", "").rstrip("."))
+        except ValueError:
+            continue
+        unit = (m.group(2) or "").lower()
+        v = v * 1000 if unit == "billion" else v if unit == "million" else v / 1e6
+        best = v if best is None else max(best, v)
+    return best
+
+
+def track_a_rank(sess, dockets, max_pages):
+    """First-day declarations that state funded debt; snippet carries the figure."""
+    print("Track A ranking: funded debt in first-day declarations")
+    rows = []
+    desc = '"first day" OR "in support of chapter 11" OR "in support of the chapter 11" OR "in support of debtors"'
+    for r in cl_search(sess, base_params("rd", '"funded debt" AND chapter:11', desc), "A rank funded debt", max_pages):
+        snip = clean(r.get("snippet"))
+        rows.append({"docket_id": r["docket_id"], "recap_doc_id": r.get("id"),
+                     "document_number": r.get("document_number"),
+                     "description": clean(r.get("description"))[:200],
+                     "funded_debt_musd": funded_debt(snip), "snippet": snip[:600],
+                     "doc_url": "https://www.courtlistener.com" + (r.get("absolute_url") or "")})
+    return rows
+
+
 def sec_search(sess, max_pages):
     rows = []
     for term in SEC_TERMS:
@@ -256,6 +308,8 @@ DOC_FIELDS = ["track", "query", "in_window", "court_id", "case_name", "docket_nu
               "docket_url", "snippet"]
 CASE_FIELDS = ["docket_id", "court_id", "case_name", "docket_number", "petition_date", "chapter",
                "in_window", "in_track_a_universe", "track_b_hits", "docket_url"]
+RANK_FIELDS = ["docket_id", "recap_doc_id", "document_number", "funded_debt_musd", "description",
+               "snippet", "doc_url"]
 SEC_FIELDS = ["query", "exhibit", "form", "file_type", "file_date", "company", "file_description", "url"]
 
 
@@ -294,26 +348,25 @@ def summarize(cands, cases, sec_rows, stopped):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--only", nargs="*", choices=["b", "a", "sec"], default=["b", "a", "sec"])
     ap.add_argument("--max-pages", type=int, default=10)
     args = ap.parse_args()
     require_env("COURTLISTENER_TOKEN", "SEC_USER_AGENT")
 
+    # Every stage runs every time; pages already fetched come from cache.
     sess = Session()
-    dockets, docs, universe, sec_rows, stopped = {}, [], set(), [], ""
+    dockets, docs, universe, sec_rows, rank_rows, stopped = {}, [], set(), [], [], ""
     try:
-        if "b" in args.only:
-            track_b(sess, dockets, docs, args.max_pages)
-        if "a" in args.only:
-            universe = track_a_universe(sess, dockets, docs, args.max_pages)
+        track_b(sess, dockets, docs, args.max_pages)
+        universe = track_a_universe(sess, dockets, docs, args.max_pages)
+        track_b_related(sess, dockets, docs, args.max_pages)
+        rank_rows = track_a_rank(sess, dockets, args.max_pages)
     except SourceStopped as e:
         stopped = f"CourtListener stopped: {e}. Rerun later; cached pages are reused."
         print(stopped)
-    if "sec" in args.only:
-        try:
-            sec_rows = sec_search(sess, args.max_pages)
-        except SourceStopped as e:
-            stopped += f" SEC stopped: {e}."
+    try:
+        sec_rows = sec_search(sess, args.max_pages)
+    except SourceStopped as e:
+        stopped += f" SEC stopped: {e}."
 
     cands = merge_docs(docs, dockets)
     b_hits = Counter(c["docket_id"] for c in cands if "B" in c["track"].split("|"))
@@ -327,8 +380,11 @@ def main():
     write_csv(DATA / "cases.csv", cases, CASE_FIELDS)
     if sec_rows:
         write_csv(DATA / "sec_candidates.csv", sec_rows, SEC_FIELDS)
+    if rank_rows:
+        write_csv(DATA / "track_a_funded_debt.csv", rank_rows, RANK_FIELDS)
     atomic_write_text(DATA / "discovery_summary.md", summarize(cands, cases, sec_rows, stopped))
-    print(f"Wrote {len(cands)} candidates, {len(cases)} cases, {len(sec_rows)} SEC hits.")
+    print(f"Wrote {len(cands)} candidates, {len(cases)} cases, {len(sec_rows)} SEC hits, "
+          f"{len(rank_rows)} funded-debt rows.")
 
 
 if __name__ == "__main__":

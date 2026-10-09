@@ -112,7 +112,11 @@ def log_request(url, status, body=None, error=None, source=None, purpose=None):
 
 
 def succeeded_urls():
-    return {r["url"] for r in read_log() if r.get("status") == 200 and not r.get("error")}
+    """URLs whose most recent log row is a success (a later validation failure overrides)."""
+    last = {}
+    for r in read_log():
+        last[r["url"]] = r
+    return {u for u, r in last.items() if r.get("status") == 200 and not r.get("error")}
 
 
 # ---------------------------------------------------------------- throttling

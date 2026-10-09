@@ -28,8 +28,13 @@ Public records only. No logins, paywalls, or CAPTCHA workarounds.
 
 ## Decisions since the brief
 - Classification: done in-session by Claude by default, applying the rubric and writing JSON with a verbatim excerpt for every coded field. `classify.py` calls the Anthropic API only if `ANTHROPIC_API_KEY` is set and Kyle asks for it. Either way: "silent" when the text does not address a field, never infer.
-- Download cap: PENDING. The brief says 150 documents before check-in, but 40 to 60 retentions at three to five documents each can exceed that. Raise this at Checkpoint 1 with the projected count.
-- "Largest cases" for Track A: PENDING. Propose a measure (for example, estimated liabilities from the petition) at Checkpoint 1.
+- Download cap: 400 documents, enforced in `fetch.py` (approved at Checkpoint 1, 10/09/2026).
+- "Largest cases" for Track A: ranked by funded debt stated in the first-day declaration; where none is stated, fall back to the petition liabilities range and flag the case. Kyle reviews the ranked list before Track A phase 2 (approved 10/09/2026).
+- Track A size: the 10 largest cases, every retention in the primary, comparison, and secondary sets. For each retention fetch the application with its exhibits and the entered order only (approved 10/09/2026).
+- Track B: fetch each hit's full docket entry (all attachments) and the entered retention order (approved 10/09/2026).
+- SEC EDGAR: dropped as a systematic source (nearly all hits were noise). Check individual leads by hand; the one open lead is Sleep Number Corporation, 8-K EX-10.1 filed 07/23/2026 (approved 10/09/2026).
+- CourtListener budget: this token has 5 requests/minute, 50/hour, and 125/day. `common.py` paces from the live `/api-usage/` endpoint and stops cleanly when the day is spent; reruns reuse cached pages.
+- Subagents, if any, run on Sonnet.
 
 ## Checkpoints (stop and wait for Kyle)
 1. After discovery: candidate counts by venue, role, and track, plus estimated download volume. No fetching before approval.

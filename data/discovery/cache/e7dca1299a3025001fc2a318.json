@@ -1,0 +1,547 @@
+{
+  "response": {
+    "count": 43,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz02Ljc3MzQ1NCZzPTQ1MDgxOTQ2MCZ0PXJkJmQ9MjAyNi0xMC0xMCZwPTM%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A71035961+AND+is_available%3Atrue&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz02Ljc3MzQ1NCZzPTQ1MjU2MTA2NCZyPTEmdD1yZCZkPTIwMjYtMTAtMTAmcD0x&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A71035961+AND+is_available%3Atrue&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/71035961/304/3/claires-holdings-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "(REDACTED) (Application of the Debtors to Employ and Retain Alvarez & Marsal North America, LLC as Financial Advisors to Debtors and Debtors in Possession Pursuant to Sections 327(a) and 328 of the Bankruptcy Code) (related document(s)299) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/30/2025)",
+        "docket_entry_id": 436377599,
+        "docket_id": 71035961,
+        "document_number": 304,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-30",
+        "entry_number": 304,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.304.3.pdf",
+        "id": 452561064,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-17T14:41:53.852963Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525549",
+        "page_count": 28,
+        "short_description": "Exhibit B",
+        "snippet": "Case 25-11454-BLS   Doc 304-3   Filed 08/30/25   Page 1 of 28\n\n\n\n\n                        Exhibit B\n\n              Declaration of William Kosturos\n\f                  Case 25-11454-BLS            Doc 304-3         Filed 08/30/25         Page 2 of 28\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                        "
+      },
+      {
+        "absolute_url": "/docket/71035961/304/2/claires-holdings-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "(REDACTED) (Application of the Debtors to Employ and Retain Alvarez & Marsal North America, LLC as Financial Advisors to Debtors and Debtors in Possession Pursuant to Sections 327(a) and 328 of the Bankruptcy Code) (related document(s)299) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/30/2025)",
+        "docket_entry_id": 436377599,
+        "docket_id": 71035961,
+        "document_number": 304,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-30",
+        "entry_number": 304,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.304.2.pdf",
+        "id": 452561063,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-17T14:41:53.837204Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525548",
+        "page_count": 17,
+        "short_description": "Exhibit A",
+        "snippet": "Case 25-11454-BLS   Doc 304-2   Filed 08/30/25   Page 1 of 17\n\n\n\n\n                        Exhibit A\n\n                    Engagement Letter\n\f            Case 25-11454-BLS         Doc 304-2      Filed 08/30/25    Page 2 of 17\n\n\n\n\nMay 2, 2025\n\nBrendan McKeough\nExecutive Vice President, General Counsel\nClaire\u2019s Holdings LLC\n2400 West Central Road\nHoffman Estates, IL 60192\n\nDear Mr. McKeough:\n\nThis letter confirms and sets forth the terms and conditions of the engagement between Alvarez\n& Marsal Nort"
+      },
+      {
+        "absolute_url": "/docket/71035961/304/1/claires-holdings-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "(REDACTED) (Application of the Debtors to Employ and Retain Alvarez & Marsal North America, LLC as Financial Advisors to Debtors and Debtors in Possession Pursuant to Sections 327(a) and 328 of the Bankruptcy Code) (related document(s)299) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/30/2025)",
+        "docket_entry_id": 436377599,
+        "docket_id": 71035961,
+        "document_number": 304,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-30",
+        "entry_number": 304,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.304.1.pdf",
+        "id": 452561062,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-17T14:41:53.809638Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525547",
+        "page_count": 3,
+        "short_description": "Notice",
+        "snippet": "                   Case 25-11454-BLS            Doc 304-1         Filed 08/30/25         Page 1 of 3\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                            )     Chapter 11\n                                                                      )\n    CLAIRE\u2019S HOLDINGS LLC, et al.,1    "
+      },
+      {
+        "absolute_url": "/docket/71035961/298/4/claires-holdings-llc/",
+        "attachment_number": 4,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application Pursuant to 11 U.S.C. \u00a7\u00a7 327(a) and 328(a), Fed. R. Bankr. P. 2014(a) and 2016, and Del. Bankr. L.R. 2014- 1 and 2016-1 for Entry of an Order (I) Authorizing the Retention and Employment of Richards, Layton & Finger, P.A. as Co-Counsel to the Debtors Effective as of the Petition Date, and (II) Granting Related Relief) (related document(s)297) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/29/2025)",
+        "docket_entry_id": 436376629,
+        "docket_id": 71035961,
+        "document_number": 298,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-29",
+        "entry_number": 298,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.298.4.pdf",
+        "id": 452560883,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-17T14:41:27.752134Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525495",
+        "page_count": 5,
+        "short_description": "Exhibit C",
+        "snippet": "Case 25-11454-BLS   Doc 298-4   Filed 08/29/25   Page 1 of 5\n\n\n\n\n                        Exhibit C\n\n                    Cramer Declaration\n\f                 Case 25-11454-BLS              Doc 298-4         Filed 08/29/25         Page 2 of 5\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                "
+      },
+      {
+        "absolute_url": "/docket/71035961/298/3/claires-holdings-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application Pursuant to 11 U.S.C. \u00a7\u00a7 327(a) and 328(a), Fed. R. Bankr. P. 2014(a) and 2016, and Del. Bankr. L.R. 2014- 1 and 2016-1 for Entry of an Order (I) Authorizing the Retention and Employment of Richards, Layton & Finger, P.A. as Co-Counsel to the Debtors Effective as of the Petition Date, and (II) Granting Related Relief) (related document(s)297) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/29/2025)",
+        "docket_entry_id": 436376629,
+        "docket_id": 71035961,
+        "document_number": 298,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-29",
+        "entry_number": 298,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.298.3.pdf",
+        "id": 452560882,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-17T14:41:27.637794Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525494",
+        "page_count": 42,
+        "short_description": "Exhibit B",
+        "snippet": "               Case 25-11454-BLS   Doc 298-3   Filed 08/29/25   Page 1 of 42\n\n\n\n\n                                        Exhibit B\n\n                                   Shapiro Declaration\n\n\n\n\nRLF1 33621231v.1\n\f                  Case 25-11454-BLS            Doc 298-3         Filed 08/29/25         Page 2 of 42\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                             "
+      },
+      {
+        "absolute_url": "/docket/71035961/298/2/claires-holdings-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application Pursuant to 11 U.S.C. \u00a7\u00a7 327(a) and 328(a), Fed. R. Bankr. P. 2014(a) and 2016, and Del. Bankr. L.R. 2014- 1 and 2016-1 for Entry of an Order (I) Authorizing the Retention and Employment of Richards, Layton & Finger, P.A. as Co-Counsel to the Debtors Effective as of the Petition Date, and (II) Granting Related Relief) (related document(s)297) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/29/2025)",
+        "docket_entry_id": 436376629,
+        "docket_id": 71035961,
+        "document_number": 298,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-29",
+        "entry_number": 298,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.298.2.pdf",
+        "id": 452560881,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-17T14:41:27.624053Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525493",
+        "page_count": 4,
+        "short_description": "Exhibit A",
+        "snippet": "                   Case 25-11454-BLS   Doc 298-2   Filed 08/29/25   Page 1 of 4\n\n\n\n\n                                          Exhibit A\n\n                                        Proposed Order\n\n\n\n\nRLF1 33620863v.1\n\f                   Case 25-11454-BLS            Doc 298-2         Filed 08/29/25         Page 2 of 4\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                        "
+      },
+      {
+        "absolute_url": "/docket/71035961/298/1/claires-holdings-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application Pursuant to 11 U.S.C. \u00a7\u00a7 327(a) and 328(a), Fed. R. Bankr. P. 2014(a) and 2016, and Del. Bankr. L.R. 2014- 1 and 2016-1 for Entry of an Order (I) Authorizing the Retention and Employment of Richards, Layton & Finger, P.A. as Co-Counsel to the Debtors Effective as of the Petition Date, and (II) Granting Related Relief) (related document(s)297) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/29/2025)",
+        "docket_entry_id": 436376629,
+        "docket_id": 71035961,
+        "document_number": 298,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-29",
+        "entry_number": 298,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.298.1.pdf",
+        "id": 452560880,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-17T14:41:27.600829Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525492",
+        "page_count": 3,
+        "short_description": "Notice",
+        "snippet": "                   Case 25-11454-BLS            Doc 298-1         Filed 08/29/25         Page 1 of 3\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                            )     Chapter 11\n                                                                      )\n    CLAIRE\u2019S HOLDINGS LLC, et al.,1    "
+      },
+      {
+        "absolute_url": "/docket/71035961/457/claires-holdings-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Order (I) Establishing Procedures for Interim Compensation and Reimbursement of Expenses for Retained Professionals and (II) Granting Related Relief [Docket No. 366]. Filed by Omni Agent Solutions, Inc.. (related document(s)366) (Lowry, Randy) (Entered: 09/15/2025)",
+        "docket_entry_id": 437889759,
+        "docket_id": 71035961,
+        "document_number": 457,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-09-15",
+        "entry_number": 457,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.457.0.pdf",
+        "id": 452375818,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-15T22:21:02.563081Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022554902",
+        "page_count": 19,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": "Case 25-11454-BLS   Doc 457   Filed 09/15/25   Page 1 of 19\n\fCase 25-11454-BLS   Doc 457   Filed 09/15/25   Page 2 of 19\n\n                    EXHIBIT A\n\f                                         Case 25-11454-BLS                                          Doc 457              Filed 09/15/25                Page 3 of 19\n\n\n                                                                                                            Exhibit A\n                                                               "
+      },
+      {
+        "absolute_url": "/docket/71035961/451/claires-holdings-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Withdrawal of [SEALED] Application/Motion to Employ/Retain Province, LLC as Financial Advisor to the Official Committee of Unsecured Creditors Effective as of August 19, 2025 (related document(s)450) Filed by Official Committee of Unsecured Creditors. (Alberto, Justin) (Entered: 09/15/2025)",
+        "docket_entry_id": 437883994,
+        "docket_id": 71035961,
+        "document_number": 451,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-09-15",
+        "entry_number": 451,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.451.0.pdf",
+        "id": 452369840,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-15T21:45:05.712572Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022554391",
+        "page_count": 2,
+        "short_description": "Withdrawal - Notice",
+        "snippet": "                  Case 25-11454-BLS               Doc 451       Filed 09/15/25         Page 1 of 2\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )    Chapter 11\n                                                                )\n    CLAIRE\u2019S HOLDINGS LLC, et al.,1                         "
+      },
+      {
+        "absolute_url": "/docket/71035961/308/claires-holdings-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "(REDACTED) (Application of Debtors for Entry of an Order Authorizing Debtors to Employ and Retain Omni Agent Solutions, Inc. as Administrative Agent Effective as of August 6, 2025) (related document(s)303) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C # 5 Exhibit D) (Meehan, Colin) (Entered: 08/30/2025)",
+        "docket_entry_id": 436392039,
+        "docket_id": 71035961,
+        "document_number": 308,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-30",
+        "entry_number": 308,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.308.0.pdf",
+        "id": 450835956,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T05:38:19.171119Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525743",
+        "page_count": 10,
+        "short_description": "Proposed Redacted Document",
+        "snippet": "                    Case 25-11454-BLS            Doc 308        Filed 08/30/25        Page 1 of 10\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                            )     Chapter 11\n                                                                      )\n    CLAIRE\u2019S HOLDINGS LLC, et al., 1     "
+      },
+      {
+        "absolute_url": "/docket/71035961/306/claires-holdings-llc/",
+        "attachment_number": null,
+        "cites": [
+          774269,
+          1896426,
+          1934072
+        ],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Katten Muchin Rosenman LLP as Counsel to the Debtors at the Sole Direction of the Independent Managers Effective as of the Petition Date) (related document(s)301) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B) (Meehan, Colin) (Entered: 08/30/2025)",
+        "docket_entry_id": 436384936,
+        "docket_id": 71035961,
+        "document_number": 306,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-30",
+        "entry_number": 306,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.306.0.pdf",
+        "id": 450828808,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T05:02:38.879266Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525559",
+        "page_count": 34,
+        "short_description": "Proposed Redacted Document",
+        "snippet": "                   Case 25-11454-BLS                Doc 306     Filed 08/30/25        Page 1 of 34\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                            ) Chapter 11\n                                                                      )\n                                             "
+      },
+      {
+        "absolute_url": "/docket/71035961/307/claires-holdings-llc/",
+        "attachment_number": null,
+        "cites": [
+          13150
+        ],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order (I) Authorizing the Employment and Retention of BDO USA, P.C. as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of August 6, 2025, (II) Approving the Terms of the Services Agreement, and (III) Granting Related Relief) (related document(s)302) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B) (Meehan, Colin) (Entered: 08/30/2025)",
+        "docket_entry_id": 436384760,
+        "docket_id": 71035961,
+        "document_number": 307,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-30",
+        "entry_number": 307,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.307.0.pdf",
+        "id": 450828632,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T05:02:25.455352Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525737",
+        "page_count": 14,
+        "short_description": "Proposed Redacted Document",
+        "snippet": "                   Case 25-11454-BLS             Doc 307        Filed 08/30/25        Page 1 of 14\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                            )     Chapter 11\n                                                                      )\n    CLAIRE\u2019S HOLDINGS LLC, et al., 1     "
+      },
+      {
+        "absolute_url": "/docket/71035961/296/4/claires-holdings-llc/",
+        "attachment_number": 4,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland and Ellis LLP and Kirkland and Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of August 6, 2025) (related document(s)295) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/29/2025)",
+        "docket_entry_id": 436375666,
+        "docket_id": 71035961,
+        "document_number": 296,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-29",
+        "entry_number": 296,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.296.4.pdf",
+        "id": 450824082,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T04:36:13.384608Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525444",
+        "page_count": 5,
+        "short_description": "Exhibit C",
+        "snippet": "Case 25-11454-BLS   Doc 296-4   Filed 08/29/25   Page 1 of 5\n\n\n\n\n                      EXHIBIT C\n\n            Christopher T. Cramer Declaration\n\f                  Case 25-11454-BLS             Doc 296-4         Filed 08/29/25         Page 2 of 5\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                           "
+      },
+      {
+        "absolute_url": "/docket/71035961/296/3/claires-holdings-llc/",
+        "attachment_number": 3,
+        "cites": [
+          9524333
+        ],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland and Ellis LLP and Kirkland and Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of August 6, 2025) (related document(s)295) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/29/2025)",
+        "docket_entry_id": 436375666,
+        "docket_id": 71035961,
+        "document_number": 296,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-29",
+        "entry_number": 296,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.296.3.pdf",
+        "id": 450824080,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T04:36:13.361302Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525443",
+        "page_count": 87,
+        "short_description": "Exhibit B",
+        "snippet": "Case 25-11454-BLS     Doc 296-3   Filed 08/29/25   Page 1 of 87\n\n\n\n\n                         EXHIBIT B\n\n                    Schwarzman Declaration\n\f                  Case 25-11454-BLS            Doc 296-3         Filed 08/29/25         Page 2 of 87\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                        "
+      },
+      {
+        "absolute_url": "/docket/71035961/296/2/claires-holdings-llc/",
+        "attachment_number": 2,
+        "cites": [
+          9524333
+        ],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland and Ellis LLP and Kirkland and Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of August 6, 2025) (related document(s)295) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/29/2025)",
+        "docket_entry_id": 436375666,
+        "docket_id": 71035961,
+        "document_number": 296,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-29",
+        "entry_number": 296,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.296.2.pdf",
+        "id": 450824079,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T04:36:13.340517Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525442",
+        "page_count": 21,
+        "short_description": "Exhibit A",
+        "snippet": "Case 25-11454-BLS   Doc 296-2   Filed 08/29/25   Page 1 of 21\n\n\n\n\n                       EXHIBIT A\n\n                     Proposed Order\n\f                 Case 25-11454-BLS             Doc 296-2         Filed 08/29/25         Page 2 of 21\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                   "
+      },
+      {
+        "absolute_url": "/docket/71035961/296/1/claires-holdings-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland and Ellis LLP and Kirkland and Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of August 6, 2025) (related document(s)295) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/29/2025)",
+        "docket_entry_id": 436375666,
+        "docket_id": 71035961,
+        "document_number": 296,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-08-29",
+        "entry_number": 296,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.296.1.pdf",
+        "id": 450824077,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T04:36:13.298080Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525441",
+        "page_count": 3,
+        "short_description": "Notice",
+        "snippet": "                   Case 25-11454-BLS            Doc 296-1         Filed 08/29/25         Page 1 of 3\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                            )     Chapter 11\n                                                                      )\n    CLAIRE\u2019S HOLDINGS LLC, et al.,1    "
+      },
+      {
+        "absolute_url": "/docket/71035961/304/claires-holdings-llc/",
+        "attachment_number": null,
+        "cites": [
+          9495663
+        ],
+        "description": "(REDACTED) (Application of the Debtors to Employ and Retain Alvarez & Marsal North America, LLC as Financial Advisors to Debtors and Debtors in Possession Pursuant to Sections 327(a) and 328 of the Bankruptcy Code) (related document(s)299) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/30/2025)",
+        "docket_entry_id": 436377599,
+        "docket_id": 71035961,
+        "document_number": 304,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-30",
+        "entry_number": 304,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.304.0.pdf",
+        "id": 450821461,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T04:31:21.092868Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525546",
+        "page_count": 12,
+        "short_description": "Proposed Redacted Document",
+        "snippet": "                   Case 25-11454-BLS             Doc 304        Filed 08/30/25        Page 1 of 12\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    CLAIRE\u2019S HOLDINGS LLC, et al., 1                    "
+      },
+      {
+        "absolute_url": "/docket/71035961/305/claires-holdings-llc/",
+        "attachment_number": null,
+        "cites": [
+          13150,
+          8306175
+        ],
+        "description": "(REDACTED) (Application of Debtors for Entry of an Order (I) Authorizing the Retention and Employment of Houlihan Lokey Capital, Inc. as Financial Advisor and Investment Banker to the Debtors Effective as of the Petition Date, and (II) Waiving Certain Reporting Requirements Pursuant to Local Rule 2016-2) (related document(s)300) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B) (Meehan, Colin) (Entered: 08/30/2025)",
+        "docket_entry_id": 436377597,
+        "docket_id": 71035961,
+        "document_number": 305,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-30",
+        "entry_number": 305,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.305.0.pdf",
+        "id": 450821457,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T04:31:20.914321Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525553",
+        "page_count": 18,
+        "short_description": "Proposed Redacted Document",
+        "snippet": "                  Case 25-11454-BLS              Doc 305        Filed 08/30/25         Page 1 of 18\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                 )\n    In re:                                                       )        Chapter 11\n                                                                 )\n    CLAIRE\u2019S HOLDINGS LLC, et al., 1                "
+      },
+      {
+        "absolute_url": "/docket/71035961/298/claires-holdings-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application Pursuant to 11 U.S.C. \u00a7\u00a7 327(a) and 328(a), Fed. R. Bankr. P. 2014(a) and 2016, and Del. Bankr. L.R. 2014- 1 and 2016-1 for Entry of an Order (I) Authorizing the Retention and Employment of Richards, Layton & Finger, P.A. as Co-Counsel to the Debtors Effective as of the Petition Date, and (II) Granting Related Relief) (related document(s)297) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/29/2025)",
+        "docket_entry_id": 436376629,
+        "docket_id": 71035961,
+        "document_number": 298,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-29",
+        "entry_number": 298,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.298.0.pdf",
+        "id": 450820432,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T03:37:12.927039Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525491",
+        "page_count": 10,
+        "short_description": "Proposed Redacted Document",
+        "snippet": "                   Case 25-11454-BLS             Doc 298        Filed 08/29/25        Page 1 of 10\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                            )     Chapter 11\n                                                                      )\n    CLAIRE\u2019S HOLDINGS LLC, et al., 1     "
+      },
+      {
+        "absolute_url": "/docket/71035961/296/claires-holdings-llc/",
+        "attachment_number": null,
+        "cites": [
+          9524333
+        ],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland and Ellis LLP and Kirkland and Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of August 6, 2025) (related document(s)295) Filed by Claire's Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Meehan, Colin) (Entered: 08/29/2025)",
+        "docket_entry_id": 436375666,
+        "docket_id": 71035961,
+        "document_number": 296,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-29",
+        "entry_number": 296,
+        "filepath_local": "recap/gov.uscourts.deb.198602/gov.uscourts.deb.198602.296.0.pdf",
+        "id": 450819460,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-30T02:36:56.577909Z",
+          "score": {
+            "bm25": 6.773454
+          },
+          "timestamp": "2026-10-05T16:33:26.092233Z"
+        },
+        "pacer_doc_id": "042022525440",
+        "page_count": 12,
+        "short_description": "Proposed Redacted Document",
+        "snippet": "                  Case 25-11454-BLS              Doc 296        Filed 08/29/25        Page 1 of 12\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                            )     Chapter 11\n                                                                      )\n    CLAIRE\u2019S HOLDINGS LLC, et al.,1      "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz02Ljc3MzQ1NCZzPTQ1MjU2MTA2NSZ0PXJkJmQ9MjAyNi0xMC0xMCZwPTI%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A71035961+AND+is_available%3Atrue&type=rd"
+}

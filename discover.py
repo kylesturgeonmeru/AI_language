@@ -409,6 +409,8 @@ def summarize(cands, cases, sec_rows, stopped):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--max-pages", type=int, default=10)
+    ap.add_argument("--sec", action="store_true",
+                    help="rerun SEC EDGAR search (dropped as a source 10/09/2026; off by default)")
     ap.add_argument("--track-a-top", type=int, default=10,
                     help="census size for Track A phase 2 (approved 10/09/2026: top 10)")
     ap.add_argument("--census-max-pages", type=int, default=25)
@@ -430,10 +432,11 @@ def main():
     except SourceStopped as e:
         stopped = f"CourtListener stopped: {e}. Rerun later; cached pages are reused."
         print(stopped)
-    try:
-        sec_rows = sec_search(sess, args.max_pages)
-    except SourceStopped as e:
-        stopped += f" SEC stopped: {e}."
+    if args.sec:
+        try:
+            sec_rows = sec_search(sess, args.max_pages)
+        except SourceStopped as e:
+            stopped += f" SEC stopped: {e}."
 
     cands = merge_docs(docs, dockets)
     b_hits = Counter(c["docket_id"] for c in cands if "B" in c["track"].split("|"))

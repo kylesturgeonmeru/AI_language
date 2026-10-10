@@ -1,0 +1,1443 @@
+{
+  "response": {
+    "_shards": {
+      "failed": 0,
+      "skipped": 0,
+      "successful": 50,
+      "total": 50
+    },
+    "aggregations": {
+      "biz_states_filter": {
+        "buckets": [
+          {
+            "doc_count": 20,
+            "key": "NY"
+          },
+          {
+            "doc_count": 19,
+            "key": "CA"
+          },
+          {
+            "doc_count": 11,
+            "key": "X0"
+          },
+          {
+            "doc_count": 8,
+            "key": "GA"
+          },
+          {
+            "doc_count": 7,
+            "key": "CO"
+          },
+          {
+            "doc_count": 7,
+            "key": "TN"
+          },
+          {
+            "doc_count": 6,
+            "key": "1H"
+          },
+          {
+            "doc_count": 6,
+            "key": "ID"
+          },
+          {
+            "doc_count": 5,
+            "key": "C0"
+          },
+          {
+            "doc_count": 5,
+            "key": "E9"
+          },
+          {
+            "doc_count": 5,
+            "key": "TX"
+          },
+          {
+            "doc_count": 4,
+            "key": "F4"
+          },
+          {
+            "doc_count": 4,
+            "key": "IL"
+          },
+          {
+            "doc_count": 3,
+            "key": "NE"
+          },
+          {
+            "doc_count": 2,
+            "key": "FL"
+          },
+          {
+            "doc_count": 2,
+            "key": "MA"
+          },
+          {
+            "doc_count": 2,
+            "key": "MD"
+          },
+          {
+            "doc_count": 2,
+            "key": "MN"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "entity_filter": {
+        "buckets": [
+          {
+            "doc_count": 8,
+            "key": "Xdata Group  (CIK 0002038688)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Live Oak Acquisition Corp. V  (LOKV, LOKVU, LOKVW)  (CIK 0002048951)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Volato Group, Inc.  (SOAR, SOARW)  (CIK 0001853070)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Ares Acquisition Corp II  (AACT, AACT-UN, AACT-WT)  (CIK 0001853138)"
+          },
+          {
+            "doc_count": 6,
+            "key": "Kodiak Robotics, Inc.  (CIK 0001747286)"
+          },
+          {
+            "doc_count": 6,
+            "key": "OU XDATA GROUP  (CIK 0002045727)"
+          },
+          {
+            "doc_count": 5,
+            "key": "Clearwater Analytics Holdings, Inc.  (CWAN)  (CIK 0001866368)"
+          },
+          {
+            "doc_count": 5,
+            "key": "DT House Ltd  (CIK 0002047713)"
+          },
+          {
+            "doc_count": 5,
+            "key": "McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)"
+          },
+          {
+            "doc_count": 5,
+            "key": "Nuclea Energy Inc.  (NCLA)  (CIK 0002101996)"
+          },
+          {
+            "doc_count": 5,
+            "key": "Teamshares Inc.  (CIK 0001783876)"
+          },
+          {
+            "doc_count": 4,
+            "key": "Amneal Pharmaceuticals, Inc.  (AMRX)  (CIK 0001723128)"
+          },
+          {
+            "doc_count": 4,
+            "key": "Nuclea Energy Inc.  (CIK 0002101996)"
+          },
+          {
+            "doc_count": 3,
+            "key": "Accelerant Holdings  (CIK 0001997350)"
+          },
+          {
+            "doc_count": 3,
+            "key": "Alpha Star Acquisition Corp  (ALSAF, ALSTF, ALSUF, ALSWF)  (CIK 0001865111)"
+          },
+          {
+            "doc_count": 3,
+            "key": "DT House Ltd  (DTDT)  (CIK 0002047713)"
+          },
+          {
+            "doc_count": 3,
+            "key": "Enfusion, Inc.  (ENFN)  (CIK 0001868912)"
+          },
+          {
+            "doc_count": 3,
+            "key": "Gigabit Inc.  (CIK 0002066522)"
+          },
+          {
+            "doc_count": 3,
+            "key": "Informatica Inc.  (INFA)  (CIK 0001868778)"
+          },
+          {
+            "doc_count": 3,
+            "key": "Monogram Technologies Inc.  (MGRM)  (CIK 0001769759)"
+          },
+          {
+            "doc_count": 3,
+            "key": "ServiceNow, Inc.  (NOW)  (CIK 0001373715)"
+          },
+          {
+            "doc_count": 3,
+            "key": "Teamshares Inc  (TMS, TMSWW)  (CIK 0002048951)"
+          },
+          {
+            "doc_count": 3,
+            "key": "UNION PACIFIC CORP  (UNP)  (CIK 0000100885)"
+          },
+          {
+            "doc_count": 2,
+            "key": "Accelerant Holdings  (ARX)  (CIK 0001997350)"
+          },
+          {
+            "doc_count": 2,
+            "key": "American Exceptionalism Acquisition Corp. A  (AEXA)  (CIK 0002079173)"
+          },
+          {
+            "doc_count": 2,
+            "key": "Cheetah Mobile Inc.  (CMCM)  (CIK 0001597835)"
+          },
+          {
+            "doc_count": 2,
+            "key": "ELECTRO SENSORS INC  (ELSE)  (CIK 0000351789)"
+          },
+          {
+            "doc_count": 2,
+            "key": "ENZO BIOCHEM INC  (ENZB)  (CIK 0000316253)"
+          },
+          {
+            "doc_count": 2,
+            "key": "Gigabit Inc.  (GBH)  (CIK 0002066522)"
+          },
+          {
+            "doc_count": 2,
+            "key": "McKinley Acquisition Corp  (MKLY, MKLYR, MKLYU)  (CIK 0002067592)"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 24
+      },
+      "form_filter": {
+        "buckets": [
+          {
+            "doc_count": 27,
+            "key": "S-4"
+          },
+          {
+            "doc_count": 16,
+            "key": "F-1"
+          },
+          {
+            "doc_count": 13,
+            "key": "DRS"
+          },
+          {
+            "doc_count": 10,
+            "key": "424B3"
+          },
+          {
+            "doc_count": 9,
+            "key": "DEFM14A"
+          },
+          {
+            "doc_count": 7,
+            "key": "20-F"
+          },
+          {
+            "doc_count": 7,
+            "key": "S-1"
+          },
+          {
+            "doc_count": 5,
+            "key": "DEF 14A"
+          },
+          {
+            "doc_count": 4,
+            "key": "8-K"
+          },
+          {
+            "doc_count": 4,
+            "key": "POS AM"
+          },
+          {
+            "doc_count": 4,
+            "key": "PREM14A"
+          },
+          {
+            "doc_count": 2,
+            "key": "424B4"
+          },
+          {
+            "doc_count": 2,
+            "key": "425"
+          },
+          {
+            "doc_count": 1,
+            "key": "10-K"
+          },
+          {
+            "doc_count": 1,
+            "key": "424B5"
+          },
+          {
+            "doc_count": 1,
+            "key": "6-K"
+          },
+          {
+            "doc_count": 1,
+            "key": "ARS"
+          },
+          {
+            "doc_count": 1,
+            "key": "DEFA14A"
+          },
+          {
+            "doc_count": 1,
+            "key": "DEFM14C"
+          },
+          {
+            "doc_count": 1,
+            "key": "F-4"
+          },
+          {
+            "doc_count": 1,
+            "key": "N-CSR"
+          },
+          {
+            "doc_count": 1,
+            "key": "PRE 14A"
+          },
+          {
+            "doc_count": 1,
+            "key": "PREM14C"
+          },
+          {
+            "doc_count": 1,
+            "key": "PRER14A"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "sic_filter": {
+        "buckets": [
+          {
+            "doc_count": 31,
+            "key": "7372"
+          },
+          {
+            "doc_count": 10,
+            "key": "5900"
+          },
+          {
+            "doc_count": 9,
+            "key": "3433"
+          },
+          {
+            "doc_count": 8,
+            "key": "2834"
+          },
+          {
+            "doc_count": 8,
+            "key": "7389"
+          },
+          {
+            "doc_count": 7,
+            "key": "4522"
+          },
+          {
+            "doc_count": 7,
+            "key": "6770"
+          },
+          {
+            "doc_count": 6,
+            "key": "7370"
+          },
+          {
+            "doc_count": 6,
+            "key": "7373"
+          },
+          {
+            "doc_count": 6,
+            "key": "7374"
+          },
+          {
+            "doc_count": 5,
+            "key": "6411"
+          },
+          {
+            "doc_count": 4,
+            "key": "4011"
+          },
+          {
+            "doc_count": 3,
+            "key": "3841"
+          },
+          {
+            "doc_count": 2,
+            "key": "2836"
+          },
+          {
+            "doc_count": 2,
+            "key": "3823"
+          },
+          {
+            "doc_count": 1,
+            "key": "4700"
+          },
+          {
+            "doc_count": 1,
+            "key": "4812"
+          },
+          {
+            "doc_count": 1,
+            "key": "6035"
+          },
+          {
+            "doc_count": 1,
+            "key": "6311"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      }
+    },
+    "hits": {
+      "hits": [
+        {
+          "_id": "0001193125-25-203772:d38750ds1a.htm",
+          "_index": "edgar_file",
+          "_score": 2.2455382,
+          "_source": {
+            "adsh": "0001193125-25-203772",
+            "biz_locations": [
+              "Menlo Park, CA"
+            ],
+            "biz_states": [
+              "CA"
+            ],
+            "ciks": [
+              "0002079173"
+            ],
+            "display_names": [
+              "American Exceptionalism Acquisition Corp. A  (AEXA)  (CIK 0002079173)"
+            ],
+            "file_date": "2025-09-15",
+            "file_description": "S-1/A",
+            "file_num": [
+              "333-289701"
+            ],
+            "file_type": "S-1/A",
+            "film_num": [
+              "251315063"
+            ],
+            "form": "S-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-221814:d38750d424b4.htm",
+          "_index": "edgar_file",
+          "_score": 2.2394476,
+          "_source": {
+            "adsh": "0001193125-25-221814",
+            "biz_locations": [
+              "Menlo Park, CA"
+            ],
+            "biz_states": [
+              "CA"
+            ],
+            "ciks": [
+              "0002079173"
+            ],
+            "display_names": [
+              "American Exceptionalism Acquisition Corp. A  (AEXA)  (CIK 0002079173)"
+            ],
+            "file_date": "2025-09-29",
+            "file_description": "424B4",
+            "file_num": [
+              "333-289701"
+            ],
+            "file_type": "424B4",
+            "film_num": [
+              "251352385"
+            ],
+            "form": "424B4",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-076132:ea0280268-02.htm",
+          "_index": "edgar_file",
+          "_score": 2.2385015,
+          "_source": {
+            "adsh": "0001213900-26-076132",
+            "biz_locations": [
+              "Santa Monica, CA"
+            ],
+            "biz_states": [
+              "CA"
+            ],
+            "ciks": [
+              "0002104391"
+            ],
+            "display_names": [
+              "Catalyst Acquisition Corp.  (CIK 0002104391)"
+            ],
+            "file_date": "2026-07-08",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-297309"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "261160625"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-081980:ea0280268-05.htm",
+          "_index": "edgar_file",
+          "_score": 2.2154584,
+          "_source": {
+            "adsh": "0001213900-26-081980",
+            "biz_locations": [
+              "Santa Monica, CA"
+            ],
+            "biz_states": [
+              "CA"
+            ],
+            "ciks": [
+              "0002104391"
+            ],
+            "display_names": [
+              "Catalyst Acquisition Corp.  (CATL)  (CIK 0002104391)"
+            ],
+            "file_date": "2026-07-28",
+            "file_description": "PROSPECTUS",
+            "file_num": [
+              "333-297309"
+            ],
+            "file_type": "424B4",
+            "film_num": [
+              "261207530"
+            ],
+            "form": "424B4",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-182758:d38750ds1.htm",
+          "_index": "edgar_file",
+          "_score": 2.2043786,
+          "_source": {
+            "adsh": "0001193125-25-182758",
+            "biz_locations": [
+              "Menlo Park, CA"
+            ],
+            "biz_states": [
+              "CA"
+            ],
+            "ciks": [
+              "0002079173"
+            ],
+            "display_names": [
+              "American Exceptionalism Acquisition Corp. A  (CIK 0002079173)"
+            ],
+            "file_date": "2025-08-18",
+            "file_description": "S-1",
+            "file_num": [
+              "333-289701"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "251228767"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0000950123-25-005872:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 2.1936727,
+          "_source": {
+            "adsh": "0000950123-25-005872",
+            "biz_locations": [
+              "Grand Cayman, E9"
+            ],
+            "biz_states": [
+              "E9"
+            ],
+            "ciks": [
+              "0001997350"
+            ],
+            "display_names": [
+              "Accelerant Holdings  (CIK 0001997350)"
+            ],
+            "file_date": "2025-05-28",
+            "file_description": null,
+            "file_num": [
+              "377-06929"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "25990499"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6411"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-25-076248:tm2521046-1_prem14a.htm",
+          "_index": "edgar_file",
+          "_score": 1.8293481,
+          "_source": {
+            "adsh": "0001104659-25-076248",
+            "biz_locations": [
+              "Austin, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001769759"
+            ],
+            "display_names": [
+              "Monogram Technologies Inc.  (MGRM)  (CIK 0001769759)"
+            ],
+            "file_date": "2025-08-11",
+            "file_description": "PREM14A",
+            "file_num": [
+              "001-41707"
+            ],
+            "file_type": "PREM14A",
+            "film_num": [
+              "251203143"
+            ],
+            "form": "PREM14A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-08-11",
+            "root_forms": [
+              "PREM14A"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3841"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-25-084674:tm2521046-2_defm14a.htm",
+          "_index": "edgar_file",
+          "_score": 1.8237591,
+          "_source": {
+            "adsh": "0001104659-25-084674",
+            "biz_locations": [
+              "Austin, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001769759"
+            ],
+            "display_names": [
+              "Monogram Technologies Inc.  (MGRM)  (CIK 0001769759)"
+            ],
+            "file_date": "2025-08-28",
+            "file_description": "DEFM14A",
+            "file_num": [
+              "001-41707"
+            ],
+            "file_type": "DEFM14A",
+            "film_num": [
+              "251272308"
+            ],
+            "form": "DEFM14A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DEFM14A"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3841"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-25-084132:tm2521046-4_prer14a.htm",
+          "_index": "edgar_file",
+          "_score": 1.817111,
+          "_source": {
+            "adsh": "0001104659-25-084132",
+            "biz_locations": [
+              "Austin, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001769759"
+            ],
+            "display_names": [
+              "Monogram Technologies Inc.  (MGRM)  (CIK 0001769759)"
+            ],
+            "file_date": "2025-08-28",
+            "file_description": "PRER14A",
+            "file_num": [
+              "001-41707"
+            ],
+            "file_type": "PRER14A",
+            "film_num": [
+              "251267133"
+            ],
+            "form": "PRER14A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "PRER14A"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3841"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-161013:d543111ds1a.htm",
+          "_index": "edgar_file",
+          "_score": 1.6929274,
+          "_source": {
+            "adsh": "0001193125-25-161013",
+            "biz_locations": [
+              "Grand Cayman, E9"
+            ],
+            "biz_states": [
+              "E9"
+            ],
+            "ciks": [
+              "0001997350"
+            ],
+            "display_names": [
+              "Accelerant Holdings  (ARX)  (CIK 0001997350)"
+            ],
+            "file_date": "2025-07-18",
+            "file_description": "S-1/A",
+            "file_num": [
+              "333-288435"
+            ],
+            "file_type": "S-1/A",
+            "film_num": [
+              "251133371"
+            ],
+            "form": "S-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6411"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-152889:d543111ds1.htm",
+          "_index": "edgar_file",
+          "_score": 1.6786389,
+          "_source": {
+            "adsh": "0001193125-25-152889",
+            "biz_locations": [
+              "Grand Cayman, E9"
+            ],
+            "biz_states": [
+              "E9"
+            ],
+            "ciks": [
+              "0001997350"
+            ],
+            "display_names": [
+              "Accelerant Holdings  (CIK 0001997350)"
+            ],
+            "file_date": "2025-06-30",
+            "file_description": "S-1",
+            "file_num": [
+              "333-288435"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "251093257"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6411"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-159018:d543111ds1a.htm",
+          "_index": "edgar_file",
+          "_score": 1.6731639,
+          "_source": {
+            "adsh": "0001193125-25-159018",
+            "biz_locations": [
+              "Grand Cayman, E9"
+            ],
+            "biz_states": [
+              "E9"
+            ],
+            "ciks": [
+              "0001997350"
+            ],
+            "display_names": [
+              "Accelerant Holdings  (ARX)  (CIK 0001997350)"
+            ],
+            "file_date": "2025-07-15",
+            "file_description": "S-1/A",
+            "file_num": [
+              "333-288435"
+            ],
+            "file_type": "S-1/A",
+            "film_num": [
+              "251123059"
+            ],
+            "form": "S-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6411"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-119920:d948047ds4.htm",
+          "_index": "edgar_file",
+          "_score": 1.0874071,
+          "_source": {
+            "adsh": "0001193125-25-119920",
+            "biz_locations": [
+              "New York, NY",
+              "Mountain View, CA"
+            ],
+            "biz_states": [
+              "NY",
+              "CA"
+            ],
+            "ciks": [
+              "0001853138",
+              "0001747286"
+            ],
+            "display_names": [
+              "Ares Acquisition Corp II  (AACT, AACT-UN, AACT-WT)  (CIK 0001853138)",
+              "Kodiak Robotics, Inc.  (CIK 0001747286)"
+            ],
+            "file_date": "2025-05-14",
+            "file_description": "S-4",
+            "file_num": [
+              "333-287278",
+              "333-287278-01"
+            ],
+            "file_type": "S-4",
+            "film_num": [
+              "25946685",
+              "25946686"
+            ],
+            "form": "S-4",
+            "inc_states": [
+              "E9",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-187391:d948047ds4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.0777259,
+          "_source": {
+            "adsh": "0001193125-25-187391",
+            "biz_locations": [
+              "New York, NY",
+              "Mountain View, CA"
+            ],
+            "biz_states": [
+              "NY",
+              "CA"
+            ],
+            "ciks": [
+              "0001853138",
+              "0001747286"
+            ],
+            "display_names": [
+              "Ares Acquisition Corp II  (AACT, AACT-UN, AACT-WT)  (CIK 0001853138)",
+              "Kodiak Robotics, Inc.  (CIK 0001747286)"
+            ],
+            "file_date": "2025-08-25",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-287278",
+              "333-287278-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "251249698",
+              "251249699"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7373",
+              "7373"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-165628:d948047ds4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.0777259,
+          "_source": {
+            "adsh": "0001193125-25-165628",
+            "biz_locations": [
+              "New York, NY",
+              "Mountain View, CA"
+            ],
+            "biz_states": [
+              "NY",
+              "CA"
+            ],
+            "ciks": [
+              "0001853138",
+              "0001747286"
+            ],
+            "display_names": [
+              "Ares Acquisition Corp II  (AACT, AACT-UN, AACT-WT)  (CIK 0001853138)",
+              "Kodiak Robotics, Inc.  (CIK 0001747286)"
+            ],
+            "file_date": "2025-07-28",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-287278",
+              "333-287278-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "251152760",
+              "251152761"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7373",
+              "7373"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-181961:d948047ds4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.0745945,
+          "_source": {
+            "adsh": "0001193125-25-181961",
+            "biz_locations": [
+              "New York, NY",
+              "Mountain View, CA"
+            ],
+            "biz_states": [
+              "NY",
+              "CA"
+            ],
+            "ciks": [
+              "0001853138",
+              "0001747286"
+            ],
+            "display_names": [
+              "Ares Acquisition Corp II  (AACT, AACT-UN, AACT-WT)  (CIK 0001853138)",
+              "Kodiak Robotics, Inc.  (CIK 0001747286)"
+            ],
+            "file_date": "2025-08-15",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-287278",
+              "333-287278-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "251225759",
+              "251225760"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7373",
+              "7373"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-192820:d948047d424b3.htm",
+          "_index": "edgar_file",
+          "_score": 1.0646801,
+          "_source": {
+            "adsh": "0001193125-25-192820",
+            "biz_locations": [
+              "New York, NY",
+              "Mountain View, CA"
+            ],
+            "biz_states": [
+              "NY",
+              "CA"
+            ],
+            "ciks": [
+              "0001853138",
+              "0001747286"
+            ],
+            "display_names": [
+              "Ares Acquisition Corp II  (AACT, AACT-UN, AACT-WT)  (CIK 0001853138)",
+              "Kodiak Robotics, Inc.  (CIK 0001747286)"
+            ],
+            "file_date": "2025-08-29",
+            "file_description": "424B3",
+            "file_num": [
+              "333-287278",
+              "333-287278-01"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "251281385",
+              "251281386"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "E9",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7373",
+              "7373"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-152053:d948047ds4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.0134106,
+          "_source": {
+            "adsh": "0001193125-25-152053",
+            "biz_locations": [
+              "New York, NY",
+              "Mountain View, CA"
+            ],
+            "biz_states": [
+              "NY",
+              "CA"
+            ],
+            "ciks": [
+              "0001853138",
+              "0001747286"
+            ],
+            "display_names": [
+              "Ares Acquisition Corp II  (AACT, AACT-UN, AACT-WT)  (CIK 0001853138)",
+              "Kodiak Robotics, Inc.  (CIK 0001747286)"
+            ],
+            "file_date": "2025-06-30",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-287278",
+              "333-287278-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "251088854",
+              "251088855"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7373",
+              "7373"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001145549-25-008120:8dd529c4e615939.htm",
+          "_index": "edgar_file",
+          "_score": 0.95535135,
+          "_source": {
+            "adsh": "0001145549-25-008120",
+            "biz_locations": [
+              "Houston, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0000896435"
+            ],
+            "display_names": [
+              "AIM VARIABLE INSURANCE FUNDS (INVESCO VARIABLE INSURANCE FUNDS)  (CIK 0000896435)"
+            ],
+            "file_date": "2025-02-21",
+            "file_description": "N-CSR",
+            "file_num": [
+              "811-07452"
+            ],
+            "file_type": "N-CSR",
+            "film_num": [
+              "25650894"
+            ],
+            "form": "N-CSR",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2024-12-31",
+            "root_forms": [
+              "N-CSR"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-088352:ea0300852-01.htm",
+          "_index": "edgar_file",
+          "_score": 0.8990679,
+          "_source": {
+            "adsh": "0001213900-26-088352",
+            "biz_locations": [
+              "Needham, MA",
+              "Miami, FL"
+            ],
+            "biz_states": [
+              "MA",
+              "FL"
+            ],
+            "ciks": [
+              "0002067592",
+              "0002080206"
+            ],
+            "display_names": [
+              "McKinley Acquisition Corp  (MKLY, MKLYR, MKLYU)  (CIK 0002067592)",
+              "Space-Eyes, Inc.  (CIK 0002080206)"
+            ],
+            "file_date": "2026-08-12",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-298265",
+              "333-298265-01"
+            ],
+            "file_type": "S-4",
+            "film_num": [
+              "261267489",
+              "261267490"
+            ],
+            "form": "S-4",
+            "inc_states": [
+              "E9",
+              "DC"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6770",
+              "7372"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-106819:ea0300852-02.htm",
+          "_index": "edgar_file",
+          "_score": 0.85020447,
+          "_source": {
+            "adsh": "0001213900-26-106819",
+            "biz_locations": [
+              "Needham, MA",
+              "Miami, FL"
+            ],
+            "biz_states": [
+              "MA",
+              "FL"
+            ],
+            "ciks": [
+              "0002067592",
+              "0002080206"
+            ],
+            "display_names": [
+              "McKinley Acquisition Corp  (MKLY, MKLYR, MKLYU)  (CIK 0002067592)",
+              "Space-Eyes, Inc.  (CIK 0002080206)"
+            ],
+            "file_date": "2026-10-05",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-298265",
+              "333-298265-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "261440450",
+              "261440451"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "DC"
+            ],
+            "items": [],
+            "ma_i_individual": null,
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7372",
+              "7372"
+            ],
+            "xsl": null
+          }
+        }
+      ],
+      "max_score": 13.739284,
+      "total": {
+        "relation": "eq",
+        "value": 121
+      }
+    },
+    "query": {
+      "_source": {
+        "exclude": [
+          "doc_text"
+        ]
+      },
+      "aggregations": {
+        "biz_states_filter": {
+          "terms": {
+            "field": "biz_states",
+            "size": 30
+          }
+        },
+        "entity_filter": {
+          "terms": {
+            "field": "display_names.raw",
+            "size": 30
+          }
+        },
+        "form_filter": {
+          "terms": {
+            "field": "root_forms",
+            "size": 30
+          }
+        },
+        "sic_filter": {
+          "terms": {
+            "field": "sics",
+            "size": 30
+          }
+        }
+      },
+      "from": 100,
+      "query": {
+        "bool": {
+          "filter": [
+            {
+              "range": {
+                "file_date": {
+                  "gte": "2025-01-01",
+                  "lte": "2026-10-10"
+                }
+              }
+            }
+          ],
+          "must": [
+            {
+              "match_phrase": {
+                "doc_text": "large language model"
+              }
+            },
+            {
+              "match_phrase": {
+                "doc_text": "engagement letter"
+              }
+            },
+            {
+              "match_phrase": {
+                "doc_text": "restructuring"
+              }
+            }
+          ],
+          "must_not": [],
+          "should": []
+        }
+      },
+      "size": 100
+    },
+    "timed_out": false,
+    "took": 38
+  },
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22large+language+model%22+%22engagement+letter%22+%22restructuring%22&dateRange=custom&startdt=2025-01-01&enddt=2026-10-10&from=100"
+}

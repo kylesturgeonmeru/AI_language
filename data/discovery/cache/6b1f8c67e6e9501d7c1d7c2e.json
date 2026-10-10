@@ -1,0 +1,538 @@
+{
+  "response": {
+    "count": 68,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz03Ljg0NTQ0NSZzPTQ0NjYxNzIzNyZ0PXJkJmQ9MjAyNi0xMC0xMCZwPTQ%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A70619299+AND+is_available%3Atrue&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz03Ljg0NTQ0NSZzPTQ0NzgyNDk4NCZyPTEmdD1yZCZkPTIwMjYtMTAtMTAmcD0y&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A70619299+AND+is_available%3Atrue&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/70619299/262/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order (I) Authorizing The Retention and Employment Of PJT Partners LP as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date Filed(Related Doc # 146)(related document(s)146) Order Signed on 8/1/2025. (AJL) (Entered: 08/01/2025)",
+        "docket_entry_id": 433472375,
+        "docket_id": 70619299,
+        "document_number": 262,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-01",
+        "entry_number": 262,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.262.0.pdf",
+        "id": 447824984,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-01T19:49:00.939267Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022465078",
+        "page_count": 7,
+        "short_description": "Order on Application to Employ",
+        "snippet": "                   Case 25-11195-JKS            Doc 262          Filed 08/01/25       Page 1 of 7\n\n\n\n                              I N THE UNITED STATES BANKRUPTCY COURT\n                                    FOR THE DISTRICT OF DELAWARE\n\n------------------------------------------------------------ x\nIn re:                                                       :    Chapter 11\n                                                             :\nZEN JV, LLC, et al.,1                                        "
+      },
+      {
+        "absolute_url": "/docket/70619299/254/2/zen-jv-llc/",
+        "attachment_number": 2,
+        "cites": [
+          9495663
+        ],
+        "description": "Certification of Counsel Regarding Order Authorizing the Employment and Retention of Omni Agent Solutions Inc. as Administrative Agent Effective as of the Petition Date (related document(s)155) Filed by Zen JV, LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Meehan, Colin) (Entered: 07/31/2025)",
+        "docket_entry_id": 433336200,
+        "docket_id": 70619299,
+        "document_number": 254,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-31",
+        "entry_number": 254,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.254.2.pdf",
+        "id": 447685429,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-31T20:25:46.895702Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022461116",
+        "page_count": 7,
+        "short_description": "Exhibit 2",
+        "snippet": "                   Case 25-11195-JKS   Doc 254-2   Filed 07/31/25   Page 1 of 7\n\n\n\n\n                                           Exhibit 2\n\n                                           Blackline\n\n\n\n\nRLF1 33388054V.1\n\f                Case 25-11195-JKS               Doc 254-2         Filed 07/31/25         Page 2 of 7\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- x"
+      },
+      {
+        "absolute_url": "/docket/70619299/254/1/zen-jv-llc/",
+        "attachment_number": 1,
+        "cites": [
+          9495663
+        ],
+        "description": "Certification of Counsel Regarding Order Authorizing the Employment and Retention of Omni Agent Solutions Inc. as Administrative Agent Effective as of the Petition Date (related document(s)155) Filed by Zen JV, LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Meehan, Colin) (Entered: 07/31/2025)",
+        "docket_entry_id": 433336200,
+        "docket_id": 70619299,
+        "document_number": 254,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-31",
+        "entry_number": 254,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.254.1.pdf",
+        "id": 447685427,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-31T20:25:46.886834Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022461115",
+        "page_count": 20,
+        "short_description": "Exhibit 1",
+        "snippet": "               Case 25-11195-JKS   Doc 254-1   Filed 07/31/25   Page 1 of 20\n\n\n\n\n                                       Exhibit 1\n\n                                     Revised Order\n\n\n\n\nRLF1 33388054V.1\n\f               Case 25-11195-JKS               Doc 254-1         Filed 07/31/25         Page 2 of 20\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- x\n        "
+      },
+      {
+        "absolute_url": "/docket/70619299/254/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Order Authorizing the Employment and Retention of Omni Agent Solutions Inc. as Administrative Agent Effective as of the Petition Date (related document(s)155) Filed by Zen JV, LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Meehan, Colin) (Entered: 07/31/2025)",
+        "docket_entry_id": 433336200,
+        "docket_id": 70619299,
+        "document_number": 254,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-31",
+        "entry_number": 254,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.254.0.pdf",
+        "id": 447685414,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-31T20:25:45.406606Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022461114",
+        "page_count": 3,
+        "short_description": "Certification of Counsel",
+        "snippet": "                   Case 25-11195-JKS             Doc 254        Filed 07/31/25          Page 1 of 3\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- x\n                                                          :\nIn re:                                                    :     Chapter 11\n                                                          :\nZEN JV, LLC, et al"
+      },
+      {
+        "absolute_url": "/docket/70619299/251/1/zen-jv-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Application of Debtors to Retain and Employ Richards, Layton & Finger, P.A. as Co-Counsel to the Debtors Effective as of Petition Date (related document(s)147) Filed by Zen JV, LLC. (Attachments: # 1 Exhibit A) (Meehan, Colin) (Entered: 07/31/2025)",
+        "docket_entry_id": 433265808,
+        "docket_id": 70619299,
+        "document_number": 251,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-31",
+        "entry_number": 251,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.251.1.pdf",
+        "id": 447613248,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-31T14:33:32.999405Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022457905",
+        "page_count": 4,
+        "short_description": "Exhibit A",
+        "snippet": "                   Case 25-11195-JKS   Doc 251-1   Filed 07/31/25   Page 1 of 4\n\n\n\n\n                                         EXHIBIT A\n\n                                        Proposed Order\n\n\n\n\nRLF1 33380576v.2\n\f                   Case 25-11195-JKS            Doc 251-1         Filed 07/31/25         Page 2 of 4\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- x"
+      },
+      {
+        "absolute_url": "/docket/70619299/251/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Application of Debtors to Retain and Employ Richards, Layton & Finger, P.A. as Co-Counsel to the Debtors Effective as of Petition Date (related document(s)147) Filed by Zen JV, LLC. (Attachments: # 1 Exhibit A) (Meehan, Colin) (Entered: 07/31/2025)",
+        "docket_entry_id": 433265808,
+        "docket_id": 70619299,
+        "document_number": 251,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-31",
+        "entry_number": 251,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.251.0.pdf",
+        "id": 447613247,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-31T14:33:31.624233Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022457904",
+        "page_count": 2,
+        "short_description": "Certificate of No Objection",
+        "snippet": "                   Case 25-11195-JKS           Doc 251        Filed 07/31/25        Page 1 of 2\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                             FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- x\n                                                          :\nIn re:                                                    :   Chapter 11\n                                                          :\nZEN JV, LLC, et al.,1     "
+      },
+      {
+        "absolute_url": "/docket/70619299/250/2/zen-jv-llc/",
+        "attachment_number": 2,
+        "cites": [
+          9495663
+        ],
+        "description": "Certification of Counsel Regarding Order Authorizing the Employment and Retention of AlixPartners, LLC as Financial Advisor for the Debtors Effective as of the Petition Date (related document(s)145) Filed by Zen JV, LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Meehan, Colin) (Entered: 07/31/2025)",
+        "docket_entry_id": 433264517,
+        "docket_id": 70619299,
+        "document_number": 250,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-31",
+        "entry_number": 250,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.250.2.pdf",
+        "id": 447611848,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-31T14:25:59.161947Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022457853",
+        "page_count": 6,
+        "short_description": "Exhibit 2",
+        "snippet": "                   Case 25-11195-JKS   Doc 250-2   Filed 07/31/25   Page 1 of 6\n\n\n\n\n                                           Exhibit 2\n\n                                           Blackline\n\n\n\n\nRLF1 33388166V.1\n\f                Case 25-11195-JKS               Doc 250-2         Filed 07/31/25         Page 2 of 6\n\n\n\n\n                              UNITED STATES BANKRUPTCY COURT\n                                 FOR THE DISTRICT OF DELAWARE\n--------------------------------------------------------- x"
+      },
+      {
+        "absolute_url": "/docket/70619299/250/1/zen-jv-llc/",
+        "attachment_number": 1,
+        "cites": [
+          9495663
+        ],
+        "description": "Certification of Counsel Regarding Order Authorizing the Employment and Retention of AlixPartners, LLC as Financial Advisor for the Debtors Effective as of the Petition Date (related document(s)145) Filed by Zen JV, LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Meehan, Colin) (Entered: 07/31/2025)",
+        "docket_entry_id": 433264517,
+        "docket_id": 70619299,
+        "document_number": 250,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-31",
+        "entry_number": 250,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.250.1.pdf",
+        "id": 447611847,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-31T14:25:59.156001Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022457852",
+        "page_count": 6,
+        "short_description": "Exhibit 1",
+        "snippet": "                   Case 25-11195-JKS   Doc 250-1   Filed 07/31/25   Page 1 of 6\n\n\n\n\n                                           Exhibit 1\n\n                                        Revised Order\n\n\n\n\nRLF1 33388166V.1\n\f                Case 25-11195-JKS               Doc 250-1         Filed 07/31/25         Page 2 of 6\n\n\n\n\n                              UNITED STATES BANKRUPTCY COURT\n                                 FOR THE DISTRICT OF DELAWARE\n--------------------------------------------------------- "
+      },
+      {
+        "absolute_url": "/docket/70619299/250/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Order Authorizing the Employment and Retention of AlixPartners, LLC as Financial Advisor for the Debtors Effective as of the Petition Date (related document(s)145) Filed by Zen JV, LLC. (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (Meehan, Colin) (Entered: 07/31/2025)",
+        "docket_entry_id": 433264517,
+        "docket_id": 70619299,
+        "document_number": 250,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-31",
+        "entry_number": 250,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.250.0.pdf",
+        "id": 447611846,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-31T14:25:57.750838Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022457851",
+        "page_count": 3,
+        "short_description": "Certification of Counsel",
+        "snippet": "                  Case 25-11195-JKS              Doc 250        Filed 07/31/25          Page 1 of 3\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- x\n                                                          :\nIn re:                                                    :     Chapter 11\n                                                          :\nZEN JV, LLC, et al"
+      },
+      {
+        "absolute_url": "/docket/70619299/245/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Debtors Application for Entry of an Order Authorizing the Employment and Retention of Latham & Watkins LLP as Bankruptcy Counsel Effective as of the Petition Date [Docket No. 207] and Declaration of James Lilly in Support of the Debtors Sales [Docket No. 208]. Filed by Omni Agent Solutions, Inc.. (related document(s)207, 208) (Lowry, Randy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433070849,
+        "docket_id": 70619299,
+        "document_number": 245,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 245,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.245.0.pdf",
+        "id": 447413730,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-30T03:17:32.564490Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022452343",
+        "page_count": 13,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": "Case 25-11195-JKS   Doc 245   Filed 07/29/25   Page 1 of 13\n\fCase 25-11195-JKS   Doc 245   Filed 07/29/25   Page 2 of 13\n\n                    EXHIBIT A\n\f                                      Case 25-11195-JKS                            Doc 245              Filed 07/29/25                 Page 3 of 13\n\n\n                                                                                           Exhibit A\n                                                                                        Master S"
+      },
+      {
+        "absolute_url": "/docket/70619299/243/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service re: Application for an Order Pursuant to 11 U.S.C. \u00a7\u00a7 328(a) and 1103 Authorizing and Approving the Retention and Employment of Cole Schotz P.C. as Counsel to the Official Committee of Unsecured Creditors Effective as of July 2, 2025 [Docket No. 203] and Application of the Official Committee of Unsecured Creditors of Zen JV, LLC, et al., for Entry of an Order Authorizing and Approving the Employment and Retention of M3 Advisory Partners, LP as Financial Advisor Effective as of July 2, 2025 [Docket No. 204]. Filed by Omni Agent Solutions, Inc.. (related document(s)203, 204) (Lowry, Randy) (Entered: 07/29/2025)",
+        "docket_entry_id": 433070839,
+        "docket_id": 70619299,
+        "document_number": 243,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 243,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.243.0.pdf",
+        "id": 447413718,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-30T03:10:45.242311Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022452337",
+        "page_count": 7,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": "Case 25-11195-JKS   Doc 243   Filed 07/29/25   Page 1 of 7\n\fCase 25-11195-JKS   Doc 243   Filed 07/29/25   Page 2 of 7\n\n                    EXHIBIT A\n\f                                                Case 25-11195-JKS                                  Doc 243                        Filed 07/29/25                       Page 3 of 7\n\n\n                                                                                                                   Exhibit A\n                                           "
+      },
+      {
+        "absolute_url": "/docket/70619299/240/1/zen-jv-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Application of Debtors for Entry of an Order (I) Authorizing the Retention and Employment of PJT Partners LP as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date, (II) Waiving Certain Information Requirements Pursuant to Local Rule 2016-2, and (III) Granting Related Relief (related document(s)146) Filed by Zen JV, LLC. (Attachments: # 1 Exhibit A) (Liu, Huiqi) (Entered: 07/29/2025)",
+        "docket_entry_id": 433028805,
+        "docket_id": 70619299,
+        "document_number": 240,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 240,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.240.1.pdf",
+        "id": 447370566,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-29T20:15:11.707539Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022451551",
+        "page_count": 8,
+        "short_description": "Exhibit A",
+        "snippet": "                   Case 25-11195-JKS   Doc 240-1   Filed 07/29/25   Page 1 of 8\n\n\n\n\n                                         EXHIBIT A\n\n                                        Proposed Order\n\n\n\n\nRLF1 33375064v.1\n\f                   Case 25-11195-JKS           Doc 240-1         Filed 07/29/25        Page 2 of 8\n\n\n\n                              I N THE UNITED STATES BANKRUPTCY COURT\n                                    FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------"
+      },
+      {
+        "absolute_url": "/docket/70619299/240/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Application of Debtors for Entry of an Order (I) Authorizing the Retention and Employment of PJT Partners LP as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date, (II) Waiving Certain Information Requirements Pursuant to Local Rule 2016-2, and (III) Granting Related Relief (related document(s)146) Filed by Zen JV, LLC. (Attachments: # 1 Exhibit A) (Liu, Huiqi) (Entered: 07/29/2025)",
+        "docket_entry_id": 433028805,
+        "docket_id": 70619299,
+        "document_number": 240,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-29",
+        "entry_number": 240,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.240.0.pdf",
+        "id": 447370565,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-29T20:15:10.097540Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022451550",
+        "page_count": 2,
+        "short_description": "Certificate of No Objection",
+        "snippet": "                   Case 25-11195-JKS            Doc 240        Filed 07/29/25        Page 1 of 2\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                             FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- x\n                                                          :\nIn re:                                                    :   Chapter 11\n                                                          :\nZEN JV, LLC, et al.,1    "
+      },
+      {
+        "absolute_url": "/docket/70619299/207/4/zen-jv-llc/",
+        "attachment_number": 4,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Lathm & Watkins LLP as Bankruptcy Counsel Effective as of the Petition Date Filed by Zen JV, LLC. Hearing scheduled for 8/21/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #6, Wilmington, Delaware. Objections due by 8/7/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Carlisle, Clint) (Entered: 07/24/2025)",
+        "docket_entry_id": 432512158,
+        "docket_id": 70619299,
+        "document_number": 207,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-24",
+        "entry_number": 207,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.207.4.pdf",
+        "id": 446843648,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-25T01:02:13.311409Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022442621",
+        "page_count": 6,
+        "short_description": "Exhibit C",
+        "snippet": "                   Case 25-11195-JKS    Doc 207-4    Filed 07/24/25   Page 1 of 6\n\n\n\n\n                                            Exhibit C\n\n                                       Retention Declaration\n\n\n\n\nRLF1 33353099v.1\n\f                   Case 25-11195-JKS            Doc 207-4         Filed 07/24/25         Page 2 of 6\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n------------------------------------------------"
+      },
+      {
+        "absolute_url": "/docket/70619299/207/3/zen-jv-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Lathm & Watkins LLP as Bankruptcy Counsel Effective as of the Petition Date Filed by Zen JV, LLC. Hearing scheduled for 8/21/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #6, Wilmington, Delaware. Objections due by 8/7/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Carlisle, Clint) (Entered: 07/24/2025)",
+        "docket_entry_id": 432512158,
+        "docket_id": 70619299,
+        "document_number": 207,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-24",
+        "entry_number": 207,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.207.3.pdf",
+        "id": 446843647,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-25T01:02:13.306395Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022442620",
+        "page_count": 46,
+        "short_description": "Exhibit B",
+        "snippet": "               Case 25-11195-JKS   Doc 207-3   Filed 07/24/25   Page 1 of 46\n\n\n\n\n                                        Exhibit B\n\n                                   Schrock Declaration\n\n\n\n\nRLF1 33353099v.1\n\f               Case 25-11195-JKS               Doc 207-3         Filed 07/24/25         Page 2 of 46\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- x\n   "
+      },
+      {
+        "absolute_url": "/docket/70619299/207/2/zen-jv-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Lathm & Watkins LLP as Bankruptcy Counsel Effective as of the Petition Date Filed by Zen JV, LLC. Hearing scheduled for 8/21/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #6, Wilmington, Delaware. Objections due by 8/7/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Carlisle, Clint) (Entered: 07/24/2025)",
+        "docket_entry_id": 432512158,
+        "docket_id": 70619299,
+        "document_number": 207,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-24",
+        "entry_number": 207,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.207.2.pdf",
+        "id": 446843646,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-25T01:02:13.301271Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022442619",
+        "page_count": 4,
+        "short_description": "Exhibit A",
+        "snippet": "                   Case 25-11195-JKS   Doc 207-2   Filed 07/24/25   Page 1 of 4\n\n\n\n\n                                          Exhibit A\n\n                                        Proposed Order\n\n\n\n\nRLF1 33353099v.1\n\f                   Case 25-11195-JKS            Doc 207-2         Filed 07/24/25         Page 2 of 4\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- "
+      },
+      {
+        "absolute_url": "/docket/70619299/207/1/zen-jv-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Lathm & Watkins LLP as Bankruptcy Counsel Effective as of the Petition Date Filed by Zen JV, LLC. Hearing scheduled for 8/21/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #6, Wilmington, Delaware. Objections due by 8/7/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Carlisle, Clint) (Entered: 07/24/2025)",
+        "docket_entry_id": 432512158,
+        "docket_id": 70619299,
+        "document_number": 207,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-24",
+        "entry_number": 207,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.207.1.pdf",
+        "id": 446843645,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-25T01:02:13.294397Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022442618",
+        "page_count": 3,
+        "short_description": "Notice",
+        "snippet": "                   Case 25-11195-JKS             Doc 207-1         Filed 07/24/25         Page 1 of 3\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- x\n                                                          :\nIn re:                                                    :      Chapter 11\n                                                          :\nZEN JV, LLC, "
+      },
+      {
+        "absolute_url": "/docket/70619299/207/zen-jv-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Lathm & Watkins LLP as Bankruptcy Counsel Effective as of the Petition Date Filed by Zen JV, LLC. Hearing scheduled for 8/21/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #6, Wilmington, Delaware. Objections due by 8/7/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Carlisle, Clint) (Entered: 07/24/2025)",
+        "docket_entry_id": 432512158,
+        "docket_id": 70619299,
+        "document_number": 207,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-24",
+        "entry_number": 207,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.207.0.pdf",
+        "id": 446843643,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-25T01:02:11.876258Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022442617",
+        "page_count": 12,
+        "short_description": "Application/Motion to Employ (B)",
+        "snippet": "                   Case 25-11195-JKS            Doc 207        Filed 07/24/25          Page 1 of 12\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n--------------------------------------------------------- x\n                                                          :\nIn re:                                                    :     Chapter 11\n                                                          :\nZEN JV, LLC, et al"
+      },
+      {
+        "absolute_url": "/docket/70619299/204/3/zen-jv-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain M3 Advisory Partners, LP as Financial Advisor Effective as of July 2, 2025 Filed by Official Committee of Unsecured Creditors. Hearing scheduled for 8/21/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #6, Wilmington, Delaware. Objections due by 8/6/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B) (Alberto, Justin) (Entered: 07/23/2025)",
+        "docket_entry_id": 432290035,
+        "docket_id": 70619299,
+        "document_number": 204,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-23",
+        "entry_number": 204,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.204.3.pdf",
+        "id": 446617238,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-23T15:41:53.079225Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022438005",
+        "page_count": 4,
+        "short_description": "Exhibit B",
+        "snippet": "Case 25-11195-JKS   Doc 204-3   Filed 07/23/25   Page 1 of 4\n\n\n\n\n                      EXHIBIT B\n\n                     Proposed Order\n\f                  Case 25-11195-JKS            Doc 204-3        Filed 07/23/25         Page 2 of 4\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                             FOR THE DISTRICT OF DELAWARE\n\n\n    In re:                                                Chapter 11\n\n    ZEN JV, LLC, et al.,1                                 Case No. 25-"
+      },
+      {
+        "absolute_url": "/docket/70619299/204/2/zen-jv-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain M3 Advisory Partners, LP as Financial Advisor Effective as of July 2, 2025 Filed by Official Committee of Unsecured Creditors. Hearing scheduled for 8/21/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 5th Fl., Courtroom #6, Wilmington, Delaware. Objections due by 8/6/2025. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B) (Alberto, Justin) (Entered: 07/23/2025)",
+        "docket_entry_id": 432290035,
+        "docket_id": 70619299,
+        "document_number": 204,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-07-23",
+        "entry_number": 204,
+        "filepath_local": "recap/gov.uscourts.deb.197516/gov.uscourts.deb.197516.204.2.pdf",
+        "id": 446617237,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-23T15:41:53.073459Z",
+          "score": {
+            "bm25": 7.845445
+          },
+          "timestamp": "2025-11-10T21:08:52.461888Z"
+        },
+        "pacer_doc_id": "042022438004",
+        "page_count": 18,
+        "short_description": "Exhibit A",
+        "snippet": "Case 25-11195-JKS   Doc 204-2    Filed 07/23/25   Page 1 of 18\n\n\n\n\n                       EXHIBIT A\n\n                    Winning Declaration\n\n\n\n\n                            11\n\f                   Case 25-11195-JKS           Doc 204-2        Filed 07/23/25        Page 2 of 18\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n\n     In re:                                                Chapter 11\n\n     ZEN JV, LLC, et al"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz03Ljg0NTQ0NSZzPTQ0NzgyNTU5MSZ0PXJkJmQ9MjAyNi0xMC0xMCZwPTM%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A70619299+AND+is_available%3Atrue&type=rd"
+}

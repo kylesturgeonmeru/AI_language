@@ -138,8 +138,9 @@ def cl_usage(http):
 def _cl_wait_seconds(http):
     """Seconds to wait before the next CourtListener API call.
 
-    Returns None when the daily budget is spent, so the caller can stop and
-    resume after the rolling window frees up.
+    Every window is rolling, including the daily one, so a spent window frees
+    up gradually; the caller waits if that is within its max_wait and stops
+    otherwise (reruns resume from cache).
     """
     now = datetime.now(timezone.utc)
     wait = 0.0
@@ -151,8 +152,6 @@ def _cl_wait_seconds(http):
             secs = float(row["window_seconds"])
         else:
             secs = (datetime.fromisoformat(row["reset_at"]) - now).total_seconds() + 1
-        if row["window_seconds"] >= 86400:
-            return None
         wait = max(wait, secs)
     return wait
 

@@ -27,7 +27,9 @@ OCP_DECL = re.compile(r"ordinary course professional|disinterestedness", re.I)
 
 def kind(c):
     d = re.sub(r"^[^A-Za-z]+", "", c["description"])
-    d = re.sub(r"^(Application/Motion to Employ/Retain|Motion to Authorize\s*/?)\s*", "Application ", d)
+    # Normalize docket-text prefixes but keep the retention verb the rules below need.
+    d = re.sub(r"^Application/Motion to Employ/Retain\s*", "Application to employ ", d)
+    d = re.sub(r"^Motion to Authorize\s*/?\s*", "Motion ", d)
     if NOT_RETENTION.search(d[:250]) and not re.search(r"employ|retain|retention", d[:120], re.I):
         return None
     if ORDER.search(d[:250]):

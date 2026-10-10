@@ -1,0 +1,4900 @@
+{
+  "response": {
+    "_shards": {
+      "failed": 0,
+      "skipped": 0,
+      "successful": 50,
+      "total": 50
+    },
+    "aggregations": {
+      "biz_states_filter": {
+        "buckets": [
+          {
+            "doc_count": 245,
+            "key": "NY"
+          },
+          {
+            "doc_count": 148,
+            "key": "TX"
+          },
+          {
+            "doc_count": 137,
+            "key": "CA"
+          },
+          {
+            "doc_count": 83,
+            "key": "K3"
+          },
+          {
+            "doc_count": 81,
+            "key": "MA"
+          },
+          {
+            "doc_count": 68,
+            "key": "FL"
+          },
+          {
+            "doc_count": 46,
+            "key": "NV"
+          },
+          {
+            "doc_count": 45,
+            "key": "PA"
+          },
+          {
+            "doc_count": 43,
+            "key": "F4"
+          },
+          {
+            "doc_count": 37,
+            "key": "NJ"
+          },
+          {
+            "doc_count": 36,
+            "key": "IL"
+          },
+          {
+            "doc_count": 34,
+            "key": "X0"
+          },
+          {
+            "doc_count": 32,
+            "key": "WA"
+          },
+          {
+            "doc_count": 31,
+            "key": "MD"
+          },
+          {
+            "doc_count": 30,
+            "key": "GA"
+          },
+          {
+            "doc_count": 29,
+            "key": "AZ"
+          },
+          {
+            "doc_count": 23,
+            "key": "E9"
+          },
+          {
+            "doc_count": 23,
+            "key": "U0"
+          },
+          {
+            "doc_count": 22,
+            "key": "CO"
+          },
+          {
+            "doc_count": 19,
+            "key": "N8"
+          },
+          {
+            "doc_count": 18,
+            "key": "DE"
+          },
+          {
+            "doc_count": 18,
+            "key": "MI"
+          },
+          {
+            "doc_count": 18,
+            "key": "NC"
+          },
+          {
+            "doc_count": 17,
+            "key": "A1"
+          },
+          {
+            "doc_count": 16,
+            "key": "CT"
+          },
+          {
+            "doc_count": 14,
+            "key": "VA"
+          },
+          {
+            "doc_count": 13,
+            "key": "MN"
+          },
+          {
+            "doc_count": 12,
+            "key": "ID"
+          },
+          {
+            "doc_count": 12,
+            "key": "TN"
+          },
+          {
+            "doc_count": 12,
+            "key": "WI"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 162
+      },
+      "entity_filter": {
+        "buckets": [
+          {
+            "doc_count": 15,
+            "key": "Banzai International, Inc.  (BNZI, BNZIW)  (CIK 0001826011)"
+          },
+          {
+            "doc_count": 12,
+            "key": "FG Holdings Ltd  (FGO)  (CIK 0002004385)"
+          },
+          {
+            "doc_count": 12,
+            "key": "TG-17, Inc.  (CIK 0001756064)"
+          },
+          {
+            "doc_count": 11,
+            "key": "Diginex Ltd  (DGNX)  (CIK 0002010499)"
+          },
+          {
+            "doc_count": 10,
+            "key": "ClimateRock Holdings Ltd  (CIK 0001949712)"
+          },
+          {
+            "doc_count": 9,
+            "key": "AMC Corp  (CIK 0002044018)"
+          },
+          {
+            "doc_count": 9,
+            "key": "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)"
+          },
+          {
+            "doc_count": 9,
+            "key": "Clearwater Analytics Holdings, Inc.  (CWAN)  (CIK 0001866368)"
+          },
+          {
+            "doc_count": 9,
+            "key": "Ultra High Point Holdings Ltd  (UHP)  (CIK 0002034767)"
+          },
+          {
+            "doc_count": 9,
+            "key": "Zi Yun Dong Fang Ltd  (YLY)  (CIK 0002053115)"
+          },
+          {
+            "doc_count": 9,
+            "key": "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)"
+          },
+          {
+            "doc_count": 8,
+            "key": "ELC Group Holdings Ltd.  (ELCG)  (CIK 0002039096)"
+          },
+          {
+            "doc_count": 8,
+            "key": "HZJL Cayman Ltd  (CIK 0002059547)"
+          },
+          {
+            "doc_count": 8,
+            "key": "Live Oak Acquisition Corp. V  (LOKV, LOKVU, LOKVW)  (CIK 0002048951)"
+          },
+          {
+            "doc_count": 8,
+            "key": "NON INVASIVE MONITORING SYSTEMS INC /FL/  (NIMU)  (CIK 0000720762)"
+          },
+          {
+            "doc_count": 8,
+            "key": "Rocket Companies, Inc.  (RKT)  (CIK 0001805284)"
+          },
+          {
+            "doc_count": 8,
+            "key": "Xdata Group  (CIK 0002038688)"
+          },
+          {
+            "doc_count": 7,
+            "key": "AIAI Holdings Corp  (AIAI)  (CIK 0002096362)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Churchill Capital Corp IX/Cayman  (CCIX, CCIXU, CCIXW)  (CIK 0002006291)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Churchill Capital Corp X/Cayman  (CCCX, CCCXU, CCCXW)  (CIK 0002007825)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Eagle Energy Metals Corp.  (CIK 0002008507)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Freenome Holdings, Inc.  (CIK 0001676446)"
+          },
+          {
+            "doc_count": 7,
+            "key": "InMed Pharmaceuticals Inc.  (INM)  (CIK 0001728328)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Instinct Bio Technical Co Inc.  (CIK 0002072186)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Lincoln International, Inc.  (CIK 0001925283)"
+          },
+          {
+            "doc_count": 7,
+            "key": "MAINZ BIOMED N.V.  (MYNZ)  (CIK 0001874252)"
+          },
+          {
+            "doc_count": 7,
+            "key": "MEDIAON GROUP INC.  (CIK 0002059702)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Odysight.ai Inc.  (ODYS)  (CIK 0001577445)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Perceptive Capital Solutions Corp  (PCSC)  (CIK 0002017526)"
+          },
+          {
+            "doc_count": 7,
+            "key": "Plus Automation, Inc.  (CIK 0002086744)"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 1514
+      },
+      "form_filter": {
+        "buckets": [
+          {
+            "doc_count": 247,
+            "key": "S-4"
+          },
+          {
+            "doc_count": 171,
+            "key": "DRS"
+          },
+          {
+            "doc_count": 153,
+            "key": "F-1"
+          },
+          {
+            "doc_count": 115,
+            "key": "S-1"
+          },
+          {
+            "doc_count": 112,
+            "key": "424B3"
+          },
+          {
+            "doc_count": 90,
+            "key": "10-K"
+          },
+          {
+            "doc_count": 86,
+            "key": "DEFM14A"
+          },
+          {
+            "doc_count": 72,
+            "key": "8-K"
+          },
+          {
+            "doc_count": 61,
+            "key": "F-4"
+          },
+          {
+            "doc_count": 43,
+            "key": "PREM14A"
+          },
+          {
+            "doc_count": 36,
+            "key": "20-F"
+          },
+          {
+            "doc_count": 35,
+            "key": "DEF 14A"
+          },
+          {
+            "doc_count": 34,
+            "key": "ARS"
+          },
+          {
+            "doc_count": 24,
+            "key": "424B4"
+          },
+          {
+            "doc_count": 24,
+            "key": "POS AM"
+          },
+          {
+            "doc_count": 22,
+            "key": "485BPOS"
+          },
+          {
+            "doc_count": 21,
+            "key": "425"
+          },
+          {
+            "doc_count": 20,
+            "key": "PRER14A"
+          },
+          {
+            "doc_count": 17,
+            "key": "40-F"
+          },
+          {
+            "doc_count": 15,
+            "key": "6-K"
+          },
+          {
+            "doc_count": 15,
+            "key": "N-CSR"
+          },
+          {
+            "doc_count": 14,
+            "key": "N-PX"
+          },
+          {
+            "doc_count": 12,
+            "key": "10-Q"
+          },
+          {
+            "doc_count": 12,
+            "key": "DEFA14A"
+          },
+          {
+            "doc_count": 9,
+            "key": "PRE 14A"
+          },
+          {
+            "doc_count": 8,
+            "key": "DEFM14C"
+          },
+          {
+            "doc_count": 7,
+            "key": "424B5"
+          },
+          {
+            "doc_count": 6,
+            "key": "485APOS"
+          },
+          {
+            "doc_count": 6,
+            "key": "SC 13E3"
+          },
+          {
+            "doc_count": 5,
+            "key": "486BPOS"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 41
+      },
+      "sic_filter": {
+        "buckets": [
+          {
+            "doc_count": 129,
+            "key": "7372"
+          },
+          {
+            "doc_count": 92,
+            "key": "6770"
+          },
+          {
+            "doc_count": 88,
+            "key": "7374"
+          },
+          {
+            "doc_count": 85,
+            "key": "2834"
+          },
+          {
+            "doc_count": 66,
+            "key": "6199"
+          },
+          {
+            "doc_count": 46,
+            "key": "7370"
+          },
+          {
+            "doc_count": 41,
+            "key": "7389"
+          },
+          {
+            "doc_count": 40,
+            "key": "7373"
+          },
+          {
+            "doc_count": 36,
+            "key": "2836"
+          },
+          {
+            "doc_count": 29,
+            "key": "3841"
+          },
+          {
+            "doc_count": 29,
+            "key": "8000"
+          },
+          {
+            "doc_count": 26,
+            "key": "6282"
+          },
+          {
+            "doc_count": 25,
+            "key": "7371"
+          },
+          {
+            "doc_count": 24,
+            "key": "6022"
+          },
+          {
+            "doc_count": 23,
+            "key": "4899"
+          },
+          {
+            "doc_count": 23,
+            "key": "7310"
+          },
+          {
+            "doc_count": 21,
+            "key": "8742"
+          },
+          {
+            "doc_count": 17,
+            "key": "4731"
+          },
+          {
+            "doc_count": 16,
+            "key": "3760"
+          },
+          {
+            "doc_count": 15,
+            "key": "3590"
+          },
+          {
+            "doc_count": 14,
+            "key": "4911"
+          },
+          {
+            "doc_count": 13,
+            "key": "2844"
+          },
+          {
+            "doc_count": 13,
+            "key": "8071"
+          },
+          {
+            "doc_count": 12,
+            "key": "3569"
+          },
+          {
+            "doc_count": 12,
+            "key": "3674"
+          },
+          {
+            "doc_count": 12,
+            "key": "4833"
+          },
+          {
+            "doc_count": 11,
+            "key": "3714"
+          },
+          {
+            "doc_count": 11,
+            "key": "7200"
+          },
+          {
+            "doc_count": 11,
+            "key": "7311"
+          },
+          {
+            "doc_count": 11,
+            "key": "7363"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 466
+      }
+    },
+    "hits": {
+      "hits": [
+        {
+          "_id": "0001213900-26-043007:ea0286101-424b3_2020bio.htm",
+          "_index": "edgar_file",
+          "_score": 18.628891,
+          "_source": {
+            "adsh": "0001213900-26-043007",
+            "biz_locations": [
+              "Rockville, MD"
+            ],
+            "biz_states": [
+              "MD"
+            ],
+            "ciks": [
+              "0001139685"
+            ],
+            "display_names": [
+              "20/20 Biolabs, Inc.  (AIDX)  (CIK 0001139685)"
+            ],
+            "file_date": "2026-04-13",
+            "file_description": "PROSPECTUS",
+            "file_num": [
+              "333-292125"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "26858088"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8734"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-040545:ea0284856-posam1_2020bio.htm",
+          "_index": "edgar_file",
+          "_score": 18.586311,
+          "_source": {
+            "adsh": "0001213900-26-040545",
+            "biz_locations": [
+              "Rockville, MD"
+            ],
+            "biz_states": [
+              "MD"
+            ],
+            "ciks": [
+              "0001139685"
+            ],
+            "display_names": [
+              "20/20 Biolabs, Inc.  (AIDX)  (CIK 0001139685)"
+            ],
+            "file_date": "2026-04-06",
+            "file_description": "POST-EFFECTIVE AMENDMENT NO. 1 TO FORM S-1",
+            "file_num": [
+              "333-292125"
+            ],
+            "file_type": "POS AM",
+            "film_num": [
+              "26842207"
+            ],
+            "form": "POS AM",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "POS AM"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8734"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-037667:ea0283134-10k_2020bio.htm",
+          "_index": "edgar_file",
+          "_score": 18.430473,
+          "_source": {
+            "adsh": "0001213900-26-037667",
+            "biz_locations": [
+              "Rockville, MD"
+            ],
+            "biz_states": [
+              "MD"
+            ],
+            "ciks": [
+              "0001139685"
+            ],
+            "display_names": [
+              "20/20 Biolabs, Inc.  (AIDX)  (CIK 0001139685)"
+            ],
+            "file_date": "2026-03-31",
+            "file_description": "ANNUAL REPORT",
+            "file_num": [
+              "001-43128"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "26823655"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8734"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-040553:ea0284915-s1_2020bio.htm",
+          "_index": "edgar_file",
+          "_score": 18.257195,
+          "_source": {
+            "adsh": "0001213900-26-040553",
+            "biz_locations": [
+              "Rockville, MD"
+            ],
+            "biz_states": [
+              "MD"
+            ],
+            "ciks": [
+              "0001139685"
+            ],
+            "display_names": [
+              "20/20 Biolabs, Inc.  (AIDX)  (CIK 0001139685)"
+            ],
+            "file_date": "2026-04-06",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-294903"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "26842269"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8734"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-043009:ea0286113-424b3_2020bio.htm",
+          "_index": "edgar_file",
+          "_score": 18.143541,
+          "_source": {
+            "adsh": "0001213900-26-043009",
+            "biz_locations": [
+              "Rockville, MD"
+            ],
+            "biz_states": [
+              "MD"
+            ],
+            "ciks": [
+              "0001139685"
+            ],
+            "display_names": [
+              "20/20 Biolabs, Inc.  (AIDX)  (CIK 0001139685)"
+            ],
+            "file_date": "2026-04-13",
+            "file_description": "PROSPECTUS",
+            "file_num": [
+              "333-294903"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "26858094"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8734"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-093918:ea0259550-253g2_rmxind.htm",
+          "_index": "edgar_file",
+          "_score": 17.88762,
+          "_source": {
+            "adsh": "0001213900-25-093918",
+            "biz_locations": [
+              "Dallas, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001970743"
+            ],
+            "display_names": [
+              "RMX INDUSTRIES, INC.  (RMXI)  (CIK 0001970743)"
+            ],
+            "file_date": "2025-09-30",
+            "file_description": "OFFERING CIRCULAR",
+            "file_num": [
+              "024-12440"
+            ],
+            "file_type": "253G2",
+            "film_num": [
+              "251360321"
+            ],
+            "form": "253G2",
+            "inc_states": [
+              "NV"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "253G2"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001437749-26-001542:ycbd20250930_10ka.htm",
+          "_index": "edgar_file",
+          "_score": 17.816341,
+          "_source": {
+            "adsh": "0001437749-26-001542",
+            "biz_locations": [
+              "Charlotte, NC"
+            ],
+            "biz_states": [
+              "NC"
+            ],
+            "ciks": [
+              "0001644903"
+            ],
+            "display_names": [
+              "cbdMD, Inc.  (YCBD)  (CIK 0001644903)"
+            ],
+            "file_date": "2026-01-20",
+            "file_description": "FORM 10-K/A",
+            "file_num": [
+              "001-38299"
+            ],
+            "file_type": "10-K/A",
+            "film_num": [
+              "26542838"
+            ],
+            "form": "10-K/A",
+            "inc_states": [
+              "NC"
+            ],
+            "items": [],
+            "period_ending": "2025-09-30",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "2844"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-089658:ea0258019-1apos_rmxind.htm",
+          "_index": "edgar_file",
+          "_score": 17.769512,
+          "_source": {
+            "adsh": "0001213900-25-089658",
+            "biz_locations": [
+              "Dallas, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001970743"
+            ],
+            "display_names": [
+              "RMX INDUSTRIES, INC.  (RMXI)  (CIK 0001970743)"
+            ],
+            "file_date": "2025-09-19",
+            "file_description": "POST-QUALIFICATION OFFERING CIRCULAR AMENDMENT NO. 2 TO FORM 1-A",
+            "file_num": [
+              "024-12440"
+            ],
+            "file_type": "PART II AND III",
+            "film_num": [
+              "251327729"
+            ],
+            "form": "1-A POS",
+            "inc_states": [
+              "NV"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "1-A POS"
+            ],
+            "sequence": "2",
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-041669:ea0285534-s1_rmx.htm",
+          "_index": "edgar_file",
+          "_score": 17.481136,
+          "_source": {
+            "adsh": "0001213900-26-041669",
+            "biz_locations": [
+              "Dallas, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001970743"
+            ],
+            "display_names": [
+              "RMX INDUSTRIES, INC.  (RMXI)  (CIK 0001970743)"
+            ],
+            "file_date": "2026-04-09",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-294940"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "26849584"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "NV"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-089938:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 17.08979,
+          "_source": {
+            "adsh": "0001213900-25-089938",
+            "biz_locations": [
+              "Rockville, MD"
+            ],
+            "biz_states": [
+              "MD"
+            ],
+            "ciks": [
+              "0001139685"
+            ],
+            "display_names": [
+              "20/20 Biolabs, Inc.  (CIK 0001139685)"
+            ],
+            "file_date": "2025-09-22",
+            "file_description": null,
+            "file_num": [
+              "377-08220"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "251329050"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8734"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-027091:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 16.901005,
+          "_source": {
+            "adsh": "0001213900-26-027091",
+            "biz_locations": [
+              "Dallas, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001970743"
+            ],
+            "display_names": [
+              "RMX INDUSTRIES, INC.  (RMXI)  (CIK 0001970743)"
+            ],
+            "file_date": "2026-03-12",
+            "file_description": null,
+            "file_num": [
+              "377-09132"
+            ],
+            "file_type": "DRS",
+            "film_num": [
+              "26749074"
+            ],
+            "form": "DRS",
+            "inc_states": [
+              "NV"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-046145:ea0287088-424b3_rmx.htm",
+          "_index": "edgar_file",
+          "_score": 16.804981,
+          "_source": {
+            "adsh": "0001213900-26-046145",
+            "biz_locations": [
+              "Dallas, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001970743"
+            ],
+            "display_names": [
+              "RMX INDUSTRIES, INC.  (RMXI)  (CIK 0001970743)"
+            ],
+            "file_date": "2026-04-21",
+            "file_description": "PROSPECTUS",
+            "file_num": [
+              "333-294940"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "26879247"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "NV"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-25-112570:taox-20250930x10q.htm",
+          "_index": "edgar_file",
+          "_score": 16.554356,
+          "_source": {
+            "adsh": "0001104659-25-112570",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001571934"
+            ],
+            "display_names": [
+              "TAO Synergies Inc.  (TAOX)  (CIK 0001571934)"
+            ],
+            "file_date": "2025-11-14",
+            "file_description": "10-Q",
+            "file_num": [
+              "001-40458"
+            ],
+            "file_type": "10-Q",
+            "film_num": [
+              "251486638"
+            ],
+            "form": "10-Q",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-09-30",
+            "root_forms": [
+              "10-Q"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6199"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-018039:ea0277459-424b3_2020bio.htm",
+          "_index": "edgar_file",
+          "_score": 16.490671,
+          "_source": {
+            "adsh": "0001213900-26-018039",
+            "biz_locations": [
+              "Rockville, MD"
+            ],
+            "biz_states": [
+              "MD"
+            ],
+            "ciks": [
+              "0001139685"
+            ],
+            "display_names": [
+              "20/20 Biolabs, Inc.  (CIK 0001139685)"
+            ],
+            "file_date": "2026-02-18",
+            "file_description": "PROSPECTUS",
+            "file_num": [
+              "333-292125"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "26650275"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8734"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-006263:ea0273270-s1a1_biolabs.htm",
+          "_index": "edgar_file",
+          "_score": 15.857747,
+          "_source": {
+            "adsh": "0001213900-26-006263",
+            "biz_locations": [
+              "Rockville, MD"
+            ],
+            "biz_states": [
+              "MD"
+            ],
+            "ciks": [
+              "0001139685"
+            ],
+            "display_names": [
+              "20/20 Biolabs, Inc.  (CIK 0001139685)"
+            ],
+            "file_date": "2026-01-21",
+            "file_description": "AMENDMENT NO. 1 TO FORM S-1",
+            "file_num": [
+              "333-292125"
+            ],
+            "file_type": "S-1/A",
+            "film_num": [
+              "26548579"
+            ],
+            "form": "S-1/A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8734"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001811935-26-000024:ptrn-20260331.htm",
+          "_index": "edgar_file",
+          "_score": 15.842574,
+          "_source": {
+            "adsh": "0001811935-26-000024",
+            "biz_locations": [
+              "Lehi, UT"
+            ],
+            "biz_states": [
+              "UT"
+            ],
+            "ciks": [
+              "0001811935"
+            ],
+            "display_names": [
+              "Pattern Group Inc.  (PTRN)  (CIK 0001811935)"
+            ],
+            "file_date": "2026-04-01",
+            "file_description": "DEF 14A",
+            "file_num": [
+              "001-42852"
+            ],
+            "file_type": "DEF 14A",
+            "film_num": [
+              "26824073"
+            ],
+            "form": "DEF 14A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2026-05-15",
+            "root_forms": [
+              "DEF 14A"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5961"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-121285:ea0269214-s1_2020bio.htm",
+          "_index": "edgar_file",
+          "_score": 15.807523,
+          "_source": {
+            "adsh": "0001213900-25-121285",
+            "biz_locations": [
+              "Rockville, MD"
+            ],
+            "biz_states": [
+              "MD"
+            ],
+            "ciks": [
+              "0001139685"
+            ],
+            "display_names": [
+              "20/20 Biolabs, Inc.  (CIK 0001139685)"
+            ],
+            "file_date": "2025-12-12",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-292125"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "251569148"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8734"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001410578-25-001820:snpx-20250630x10q.htm",
+          "_index": "edgar_file",
+          "_score": 15.784138,
+          "_source": {
+            "adsh": "0001410578-25-001820",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001571934"
+            ],
+            "display_names": [
+              "TAO Synergies Inc.  (TAOX)  (CIK 0001571934)"
+            ],
+            "file_date": "2025-08-14",
+            "file_description": "10-Q",
+            "file_num": [
+              "001-40458"
+            ],
+            "file_type": "10-Q",
+            "film_num": [
+              "251219528"
+            ],
+            "form": "10-Q",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-06-30",
+            "root_forms": [
+              "10-Q"
+            ],
+            "sequence": 1,
+            "sics": [
+              "2834"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-093132:ea0303093-posam1_rmx.htm",
+          "_index": "edgar_file",
+          "_score": 15.4868555,
+          "_source": {
+            "adsh": "0001213900-26-093132",
+            "biz_locations": [
+              "Dallas, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001970743"
+            ],
+            "display_names": [
+              "RMX INDUSTRIES, INC.  (RMXI, RMXID)  (CIK 0001970743)"
+            ],
+            "file_date": "2026-08-24",
+            "file_description": "POST-EFFECTIVE AMENDMENT NO. 1 TO FORM S-1",
+            "file_num": [
+              "333-294940"
+            ],
+            "file_type": "POS AM",
+            "film_num": [
+              "261311580"
+            ],
+            "form": "POS AM",
+            "inc_states": [
+              "NV"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "POS AM"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-006045:form424b4.htm",
+          "_index": "edgar_file",
+          "_score": 15.423498,
+          "_source": {
+            "adsh": "0001493152-25-006045",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001577445"
+            ],
+            "display_names": [
+              "Odysight.ai Inc.  (ODYS)  (CIK 0001577445)"
+            ],
+            "file_date": "2025-02-12",
+            "file_description": null,
+            "file_num": [
+              "333-283773"
+            ],
+            "file_type": "424B4",
+            "film_num": [
+              "25612186"
+            ],
+            "form": "424B4",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3827"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-009165:form10-k.htm",
+          "_index": "edgar_file",
+          "_score": 15.375132,
+          "_source": {
+            "adsh": "0001493152-26-009165",
+            "biz_locations": [
+              "Las Vegas, NV"
+            ],
+            "biz_states": [
+              "NV"
+            ],
+            "ciks": [
+              "0001861622"
+            ],
+            "display_names": [
+              "Jet.AI Inc.  (JTAI)  (CIK 0001861622)"
+            ],
+            "file_date": "2026-03-06",
+            "file_description": "10-K",
+            "file_num": [
+              "001-40725"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "26731784"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "4522"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-017600:formars.pdf",
+          "_index": "edgar_file",
+          "_score": 14.963431,
+          "_source": {
+            "adsh": "0001493152-25-017600",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001577445"
+            ],
+            "display_names": [
+              "Odysight.ai Inc.  (ODYS)  (CIK 0001577445)"
+            ],
+            "file_date": "2025-10-09",
+            "file_description": "ARS",
+            "file_num": [
+              "001-42497"
+            ],
+            "file_type": "ARS",
+            "film_num": [
+              "251385234"
+            ],
+            "form": "ARS",
+            "inc_states": [],
+            "items": [],
+            "period_ending": "2024-12-31",
+            "root_forms": [
+              "ARS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7373"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-014362:form10-k.htm",
+          "_index": "edgar_file",
+          "_score": 14.950559,
+          "_source": {
+            "adsh": "0001493152-26-014362",
+            "biz_locations": [
+              "Murray, UT"
+            ],
+            "biz_states": [
+              "UT"
+            ],
+            "ciks": [
+              "0001416090"
+            ],
+            "display_names": [
+              "BLUSKY AI INC.  (BSAI)  (CIK 0001416090)"
+            ],
+            "file_date": "2026-03-31",
+            "file_description": "10-K",
+            "file_num": [
+              "000-55219"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "26823645"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "NV"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "1040"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-004350:forms-1a.htm",
+          "_index": "edgar_file",
+          "_score": 14.920372,
+          "_source": {
+            "adsh": "0001493152-25-004350",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001577445"
+            ],
+            "display_names": [
+              "Odysight.ai Inc.  (ODYS)  (CIK 0001577445)"
+            ],
+            "file_date": "2025-01-31",
+            "file_description": null,
+            "file_num": [
+              "333-283773"
+            ],
+            "file_type": "S-1/A",
+            "film_num": [
+              "25576213"
+            ],
+            "form": "S-1/A",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3827"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-003588:forms-1a.htm",
+          "_index": "edgar_file",
+          "_score": 14.856796,
+          "_source": {
+            "adsh": "0001493152-25-003588",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001577445"
+            ],
+            "display_names": [
+              "Odysight.ai Inc.  (ODYS)  (CIK 0001577445)"
+            ],
+            "file_date": "2025-01-24",
+            "file_description": null,
+            "file_num": [
+              "333-283773"
+            ],
+            "file_type": "S-1/A",
+            "film_num": [
+              "25554478"
+            ],
+            "form": "S-1/A",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3827"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-004022:forms-1a.htm",
+          "_index": "edgar_file",
+          "_score": 14.848267,
+          "_source": {
+            "adsh": "0001493152-25-004022",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001577445"
+            ],
+            "display_names": [
+              "Odysight.ai Inc.  (ODYS)  (CIK 0001577445)"
+            ],
+            "file_date": "2025-01-28",
+            "file_description": null,
+            "file_num": [
+              "333-283773"
+            ],
+            "file_type": "S-1/A",
+            "film_num": [
+              "25565838"
+            ],
+            "form": "S-1/A",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3827"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-065183:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 14.568483,
+          "_source": {
+            "adsh": "0001213900-25-065183",
+            "biz_locations": [
+              "Rockville, MD"
+            ],
+            "biz_states": [
+              "MD"
+            ],
+            "ciks": [
+              "0001139685"
+            ],
+            "display_names": [
+              "20/20 Biolabs, Inc.  (CIK 0001139685)"
+            ],
+            "file_date": "2025-07-17",
+            "file_description": null,
+            "file_num": [
+              "377-08220"
+            ],
+            "file_type": "DRS",
+            "film_num": [
+              "251131238"
+            ],
+            "form": "DRS",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8734"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-056270:tm268462d2_ncsr.htm",
+          "_index": "edgar_file",
+          "_score": 14.36885,
+          "_source": {
+            "adsh": "0001104659-26-056270",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001417802"
+            ],
+            "display_names": [
+              "Voya Infrastructure, Industrials & Materials Fund  (IDE)  (CIK 0001417802)"
+            ],
+            "file_date": "2026-05-06",
+            "file_description": "N-CSR",
+            "file_num": [
+              "811-22144"
+            ],
+            "file_type": "N-CSR",
+            "film_num": [
+              "26948811"
+            ],
+            "form": "N-CSR",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2026-02-28",
+            "root_forms": [
+              "N-CSR"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-056283:tm268462d5_ncsr.htm",
+          "_index": "edgar_file",
+          "_score": 14.356531,
+          "_source": {
+            "adsh": "0001104659-26-056283",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001332943"
+            ],
+            "display_names": [
+              "Voya Global Advantage & Premium Opportunity Fund  (IGA)  (CIK 0001332943)"
+            ],
+            "file_date": "2026-05-06",
+            "file_description": "N-CSR",
+            "file_num": [
+              "811-21786"
+            ],
+            "file_type": "N-CSR",
+            "film_num": [
+              "26948888"
+            ],
+            "form": "N-CSR",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2026-02-28",
+            "root_forms": [
+              "N-CSR"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001753368-25-000018:annualinformationform-f25y.htm",
+          "_index": "edgar_file",
+          "_score": 14.297811,
+          "_source": {
+            "adsh": "0001753368-25-000018",
+            "biz_locations": [
+              "Markham, A6"
+            ],
+            "biz_states": [
+              "A6"
+            ],
+            "ciks": [
+              "0001753368"
+            ],
+            "display_names": [
+              "Sangoma Technologies Corp  (SANG)  (CIK 0001753368)"
+            ],
+            "file_date": "2025-09-17",
+            "file_description": "EX-99.1",
+            "file_num": [
+              "001-41175"
+            ],
+            "file_type": "EX-99.1",
+            "film_num": [
+              "251320818"
+            ],
+            "form": "40-F",
+            "inc_states": [
+              "A6"
+            ],
+            "items": [],
+            "period_ending": "2025-06-30",
+            "root_forms": [
+              "40-F"
+            ],
+            "sequence": "3",
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-056293:tm268462d6_ncsr.htm",
+          "_index": "edgar_file",
+          "_score": 14.231504,
+          "_source": {
+            "adsh": "0001104659-26-056293",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001285890"
+            ],
+            "display_names": [
+              "Voya GLOBAL EQUITY DIVIDEND & PREMIUM OPPORTUNITY FUND  (IGD)  (CIK 0001285890)"
+            ],
+            "file_date": "2026-05-06",
+            "file_description": "N-CSR",
+            "file_num": [
+              "811-21553"
+            ],
+            "file_type": "N-CSR",
+            "film_num": [
+              "26948943"
+            ],
+            "form": "N-CSR",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2026-02-28",
+            "root_forms": [
+              "N-CSR"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-26-096557:ck0002017636-20251231.htm",
+          "_index": "edgar_file",
+          "_score": 14.2213955,
+          "_source": {
+            "adsh": "0001193125-26-096557",
+            "biz_locations": [
+              "Los Angeles, CA"
+            ],
+            "biz_states": [
+              "CA"
+            ],
+            "ciks": [
+              "0002017636"
+            ],
+            "display_names": [
+              "CCS IX Portfolio Holdings, LLC  (CIK 0002017636)"
+            ],
+            "file_date": "2026-03-06",
+            "file_description": "10-K",
+            "file_num": [
+              "814-01821"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "26731190"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-056275:tm268462d3_ncsr.htm",
+          "_index": "edgar_file",
+          "_score": 14.19696,
+          "_source": {
+            "adsh": "0001104659-26-056275",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001385632"
+            ],
+            "display_names": [
+              "Voya Asia Pacific High Dividend Equity Income Fund  (IAE)  (CIK 0001385632)"
+            ],
+            "file_date": "2026-05-06",
+            "file_description": "N-CSR",
+            "file_num": [
+              "811-22004"
+            ],
+            "file_type": "N-CSR",
+            "film_num": [
+              "26948834"
+            ],
+            "form": "N-CSR",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2026-02-28",
+            "root_forms": [
+              "N-CSR"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001437749-25-027383:flnt20250630_10q.htm",
+          "_index": "edgar_file",
+          "_score": 14.191331,
+          "_source": {
+            "adsh": "0001437749-25-027383",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001460329"
+            ],
+            "display_names": [
+              "Fluent, Inc.  (FLNT)  (CIK 0001460329)"
+            ],
+            "file_date": "2025-08-19",
+            "file_description": "FORM 10-Q",
+            "file_num": [
+              "001-37893"
+            ],
+            "file_type": "10-Q",
+            "film_num": [
+              "251233107"
+            ],
+            "form": "10-Q",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-06-30",
+            "root_forms": [
+              "10-Q"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7310"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-056279:tm268462d4_ncsr.htm",
+          "_index": "edgar_file",
+          "_score": 14.18889,
+          "_source": {
+            "adsh": "0001104659-26-056279",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001496292"
+            ],
+            "display_names": [
+              "Voya Emerging Markets High Dividend Equity Fund  (IHD)  (CIK 0001496292)"
+            ],
+            "file_date": "2026-05-06",
+            "file_description": "N-CSR",
+            "file_num": [
+              "811-22438"
+            ],
+            "file_type": "N-CSR",
+            "film_num": [
+              "26948865"
+            ],
+            "form": "N-CSR",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2026-02-28",
+            "root_forms": [
+              "N-CSR"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001753368-26-000011:aif-f26q4.htm",
+          "_index": "edgar_file",
+          "_score": 14.124584,
+          "_source": {
+            "adsh": "0001753368-26-000011",
+            "biz_locations": [
+              "Markham, A6"
+            ],
+            "biz_states": [
+              "A6"
+            ],
+            "ciks": [
+              "0001753368"
+            ],
+            "display_names": [
+              "Sangoma Technologies Corp  (SANG)  (CIK 0001753368)"
+            ],
+            "file_date": "2026-09-28",
+            "file_description": "EX-99.1",
+            "file_num": [
+              "001-41175"
+            ],
+            "file_type": "EX-99.1",
+            "film_num": [
+              "261418206"
+            ],
+            "form": "40-F",
+            "inc_states": [
+              "A6"
+            ],
+            "items": [],
+            "ma_i_individual": null,
+            "period_ending": "2026-06-30",
+            "root_forms": [
+              "40-F"
+            ],
+            "sequence": "3",
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-041769:ea0241482-s1a1_zoomcar.htm",
+          "_index": "edgar_file",
+          "_score": 14.113455,
+          "_source": {
+            "adsh": "0001213900-25-041769",
+            "biz_locations": [
+              "Bangalore, K7"
+            ],
+            "biz_states": [
+              "K7"
+            ],
+            "ciks": [
+              "0001854275"
+            ],
+            "display_names": [
+              "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)"
+            ],
+            "file_date": "2025-05-12",
+            "file_description": "AMENDMENT NO. 1 TO FORM S-1",
+            "file_num": [
+              "333-286986"
+            ],
+            "file_type": "S-1/A",
+            "film_num": [
+              "25932806"
+            ],
+            "form": "S-1/A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7510"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001013762-25-003498:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 14.073166,
+          "_source": {
+            "adsh": "0001013762-25-003498",
+            "biz_locations": [
+              "Bangalore, K7"
+            ],
+            "biz_states": [
+              "K7"
+            ],
+            "ciks": [
+              "0001854275"
+            ],
+            "display_names": [
+              "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)"
+            ],
+            "file_date": "2025-03-28",
+            "file_description": null,
+            "file_num": [
+              "377-07827"
+            ],
+            "file_type": "DRS",
+            "film_num": [
+              "25780973"
+            ],
+            "form": "DRS",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7510"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-039778:ea0237557-s1_zoomcar.htm",
+          "_index": "edgar_file",
+          "_score": 14.008451,
+          "_source": {
+            "adsh": "0001213900-25-039778",
+            "biz_locations": [
+              "Bangalore, K7"
+            ],
+            "biz_states": [
+              "K7"
+            ],
+            "ciks": [
+              "0001854275"
+            ],
+            "display_names": [
+              "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)"
+            ],
+            "file_date": "2025-05-05",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-286986"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "25915375"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7510"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-020176:ea0232543-s1_zoomcar.htm",
+          "_index": "edgar_file",
+          "_score": 13.989597,
+          "_source": {
+            "adsh": "0001213900-25-020176",
+            "biz_locations": [
+              "Bangalore, K7"
+            ],
+            "biz_states": [
+              "K7"
+            ],
+            "ciks": [
+              "0001854275"
+            ],
+            "display_names": [
+              "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)"
+            ],
+            "file_date": "2025-03-04",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-285536"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "25704292"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7510"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001079973-26-000965:cdio_ars.htm",
+          "_index": "edgar_file",
+          "_score": 13.972877,
+          "_source": {
+            "adsh": "0001079973-26-000965",
+            "biz_locations": [
+              "Chicago, IL"
+            ],
+            "biz_states": [
+              "IL"
+            ],
+            "ciks": [
+              "0001870144"
+            ],
+            "display_names": [
+              "Cardio Diagnostics Holdings, Inc.  (CDIO, CDIOW)  (CIK 0001870144)"
+            ],
+            "file_date": "2026-07-23",
+            "file_description": "ANNUAL REPORT TO SECURITY HOLDERS",
+            "file_num": [
+              "001-41097"
+            ],
+            "file_type": "ARS",
+            "film_num": [
+              "261197525"
+            ],
+            "form": "ARS",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "ARS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "2835"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001553350-26-000023:cdio_10k-123125.htm",
+          "_index": "edgar_file",
+          "_score": 13.968891,
+          "_source": {
+            "adsh": "0001553350-26-000023",
+            "biz_locations": [
+              "Chicago, IL"
+            ],
+            "biz_states": [
+              "IL"
+            ],
+            "ciks": [
+              "0001870144"
+            ],
+            "display_names": [
+              "Cardio Diagnostics Holdings, Inc.  (CDIO, CDIOW)  (CIK 0001870144)"
+            ],
+            "file_date": "2026-03-13",
+            "file_description": "ANNUAL REPORT",
+            "file_num": [
+              "001-41097"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "26753532"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "2835"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-059675:ea0246595-10k_zoomcar.htm",
+          "_index": "edgar_file",
+          "_score": 13.8656025,
+          "_source": {
+            "adsh": "0001213900-25-059675",
+            "biz_locations": [
+              "Bangalore, K7"
+            ],
+            "biz_states": [
+              "K7"
+            ],
+            "ciks": [
+              "0001854275"
+            ],
+            "display_names": [
+              "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)"
+            ],
+            "file_date": "2025-06-30",
+            "file_description": "ANNUAL REPORT",
+            "file_num": [
+              "001-40964"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "251092265"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-03-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7510"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-028084:formposam.htm",
+          "_index": "edgar_file",
+          "_score": 13.614593,
+          "_source": {
+            "adsh": "0001493152-25-028084",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (ELCG)  (CIK 0002039096)"
+            ],
+            "file_date": "2025-12-17",
+            "file_description": "POS AM",
+            "file_num": [
+              "333-285524"
+            ],
+            "file_type": "POS AM",
+            "film_num": [
+              "251577708"
+            ],
+            "form": "POS AM",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "POS AM"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-029206:form424b4.htm",
+          "_index": "edgar_file",
+          "_score": 13.596914,
+          "_source": {
+            "adsh": "0001493152-26-029206",
+            "biz_locations": [
+              "San Antonio, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001712762"
+            ],
+            "display_names": [
+              "bioAffinity Technologies, Inc.  (BIAF, BIAFW)  (CIK 0001712762)"
+            ],
+            "file_date": "2026-06-18",
+            "file_description": "424B4",
+            "file_num": [
+              "333-296764"
+            ],
+            "file_type": "424B4",
+            "film_num": [
+              "261100647"
+            ],
+            "form": "424B4",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8731"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-004549:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 13.574081,
+          "_source": {
+            "adsh": "0001493152-25-004549",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (CIK 0002039096)"
+            ],
+            "file_date": "2025-02-03",
+            "file_description": null,
+            "file_num": [
+              "377-07577"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "25580416"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-019885:formposam.htm",
+          "_index": "edgar_file",
+          "_score": 13.552841,
+          "_source": {
+            "adsh": "0001493152-25-019885",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (ELCG)  (CIK 0002039096)"
+            ],
+            "file_date": "2025-10-28",
+            "file_description": "POS AM",
+            "file_num": [
+              "333-285524"
+            ],
+            "file_type": "POS AM",
+            "film_num": [
+              "251424907"
+            ],
+            "form": "POS AM",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "POS AM"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-018006:formf-1a.htm",
+          "_index": "edgar_file",
+          "_score": 13.51402,
+          "_source": {
+            "adsh": "0001493152-25-018006",
+            "biz_locations": [
+              "Hong Kong, K3"
+            ],
+            "biz_states": [
+              "K3"
+            ],
+            "ciks": [
+              "0002058867"
+            ],
+            "display_names": [
+              "PressLogic Inc.  (PLAI)  (CIK 0002058867)"
+            ],
+            "file_date": "2025-10-14",
+            "file_description": "F-1/A",
+            "file_num": [
+              "333-290492"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251391676"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7310"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-001843:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 13.456291,
+          "_source": {
+            "adsh": "0001493152-25-001843",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (CIK 0002039096)"
+            ],
+            "file_date": "2025-01-13",
+            "file_description": null,
+            "file_num": [
+              "377-07577"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "25524651"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-014823:formf-1.htm",
+          "_index": "edgar_file",
+          "_score": 13.432732,
+          "_source": {
+            "adsh": "0001493152-25-014823",
+            "biz_locations": [
+              "Hong Kong, K3"
+            ],
+            "biz_states": [
+              "K3"
+            ],
+            "ciks": [
+              "0002058867"
+            ],
+            "display_names": [
+              "PressLogic Inc.  (CIK 0002058867)"
+            ],
+            "file_date": "2025-09-24",
+            "file_description": "F-1",
+            "file_num": [
+              "333-290492"
+            ],
+            "file_type": "F-1",
+            "film_num": [
+              "251339364"
+            ],
+            "form": "F-1",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7310"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-008953:formf-1.htm",
+          "_index": "edgar_file",
+          "_score": 13.40193,
+          "_source": {
+            "adsh": "0001493152-25-008953",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (CIK 0002039096)"
+            ],
+            "file_date": "2025-03-04",
+            "file_description": null,
+            "file_num": [
+              "333-285524"
+            ],
+            "file_type": "F-1",
+            "film_num": [
+              "25701332"
+            ],
+            "form": "F-1",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-034228:ea0238881-1apos_reticulate.htm",
+          "_index": "edgar_file",
+          "_score": 13.3988085,
+          "_source": {
+            "adsh": "0001213900-25-034228",
+            "biz_locations": [
+              "St. Louis, MO"
+            ],
+            "biz_states": [
+              "MO"
+            ],
+            "ciks": [
+              "0001970743"
+            ],
+            "display_names": [
+              "Reticulate Micro, Inc.  (RMXI)  (CIK 0001970743)"
+            ],
+            "file_date": "2025-04-22",
+            "file_description": "POST-QUALIFICATION OFFERING CIRCULAR AMENDMENT NO. 1 TO FORM 1-A",
+            "file_num": [
+              "024-12440"
+            ],
+            "file_type": "PART II AND III",
+            "film_num": [
+              "25858196"
+            ],
+            "form": "1-A POS",
+            "inc_states": [
+              "NV"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "1-A POS"
+            ],
+            "sequence": "2",
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-041213:ea0241510-253g2_reticulate.htm",
+          "_index": "edgar_file",
+          "_score": 13.386263,
+          "_source": {
+            "adsh": "0001213900-25-041213",
+            "biz_locations": [
+              "St. Louis, MO"
+            ],
+            "biz_states": [
+              "MO"
+            ],
+            "ciks": [
+              "0001970743"
+            ],
+            "display_names": [
+              "Reticulate Micro, Inc.  (RMXI)  (CIK 0001970743)"
+            ],
+            "file_date": "2025-05-09",
+            "file_description": "OFFERING CIRCULAR",
+            "file_num": [
+              "024-12440"
+            ],
+            "file_type": "253G2",
+            "film_num": [
+              "25928427"
+            ],
+            "form": "253G2",
+            "inc_states": [
+              "NV"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "253G2"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-021290:formf-1a.htm",
+          "_index": "edgar_file",
+          "_score": 13.357598,
+          "_source": {
+            "adsh": "0001493152-25-021290",
+            "biz_locations": [
+              "Hong Kong, K3"
+            ],
+            "biz_states": [
+              "K3"
+            ],
+            "ciks": [
+              "0002058867"
+            ],
+            "display_names": [
+              "PressLogic Inc.  (PLAI)  (CIK 0002058867)"
+            ],
+            "file_date": "2025-11-07",
+            "file_description": "F-1/A",
+            "file_num": [
+              "333-290492"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251463162"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7310"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-025544:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 13.323597,
+          "_source": {
+            "adsh": "0001641172-25-025544",
+            "biz_locations": [
+              "Hong Kong, K3"
+            ],
+            "biz_states": [
+              "K3"
+            ],
+            "ciks": [
+              "0002058867"
+            ],
+            "display_names": [
+              "PressLogic Inc.  (CIK 0002058867)"
+            ],
+            "file_date": "2025-08-26",
+            "file_description": null,
+            "file_num": [
+              "377-07994"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "251258140"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7310"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-014437:ea0230454-10q_zoomcar.htm",
+          "_index": "edgar_file",
+          "_score": 13.318991,
+          "_source": {
+            "adsh": "0001213900-25-014437",
+            "biz_locations": [
+              "Bangalore, K7"
+            ],
+            "biz_states": [
+              "K7"
+            ],
+            "ciks": [
+              "0001854275"
+            ],
+            "display_names": [
+              "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)"
+            ],
+            "file_date": "2025-02-14",
+            "file_description": "QUARTERLY REPORT",
+            "file_num": [
+              "001-40964"
+            ],
+            "file_type": "10-Q",
+            "film_num": [
+              "25631120"
+            ],
+            "form": "10-Q",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2024-12-31",
+            "root_forms": [
+              "10-Q"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7510"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-113229:ea0266537-01.htm",
+          "_index": "edgar_file",
+          "_score": 13.248272,
+          "_source": {
+            "adsh": "0001213900-25-113229",
+            "biz_locations": [
+              "Midland, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0002028336"
+            ],
+            "display_names": [
+              "New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)"
+            ],
+            "file_date": "2025-11-21",
+            "file_description": "PROXY STATEMENT",
+            "file_num": [
+              "001-42433"
+            ],
+            "file_type": "DEF 14A",
+            "film_num": [
+              "251504267"
+            ],
+            "form": "DEF 14A",
+            "inc_states": [
+              "NV"
+            ],
+            "items": [],
+            "period_ending": "2025-12-16",
+            "root_forms": [
+              "DEF 14A"
+            ],
+            "sequence": 1,
+            "sics": [
+              "1311"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001661306-26-000023:hpci-20251231.htm",
+          "_index": "edgar_file",
+          "_score": 13.227289,
+          "_source": {
+            "adsh": "0001661306-26-000023",
+            "biz_locations": [
+              "Chicago, IL"
+            ],
+            "biz_states": [
+              "IL"
+            ],
+            "ciks": [
+              "0001661306"
+            ],
+            "display_names": [
+              "Hancock Park Corporate Income, Inc.  (CIK 0001661306)"
+            ],
+            "file_date": "2026-03-13",
+            "file_description": "10-K",
+            "file_num": [
+              "814-01185"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "26750588"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "MD"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-054324:ea0226094-05.htm",
+          "_index": "edgar_file",
+          "_score": 13.203958,
+          "_source": {
+            "adsh": "0001213900-25-054324",
+            "biz_locations": [
+              "Grand Cayman, E9",
+              "Grand Cayman, E9"
+            ],
+            "biz_states": [
+              "E9"
+            ],
+            "ciks": [
+              "0002013873",
+              "0001868573"
+            ],
+            "display_names": [
+              "OmnigenicsAI Corp  (OMNI)  (CIK 0002013873)",
+              "APx Acquisition Corp. I  (CIK 0001868573)"
+            ],
+            "file_date": "2025-06-13",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-284406",
+              "333-284406-01"
+            ],
+            "file_type": "F-4/A",
+            "film_num": [
+              "251047146",
+              "251047147"
+            ],
+            "form": "F-4/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8000",
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001661306-26-000079:hpci_annual_report_2025_.pdf",
+          "_index": "edgar_file",
+          "_score": 13.194954,
+          "_source": {
+            "adsh": "0001661306-26-000079",
+            "biz_locations": [
+              "Chicago, IL"
+            ],
+            "biz_states": [
+              "IL"
+            ],
+            "ciks": [
+              "0001661306"
+            ],
+            "display_names": [
+              "Hancock Park Corporate Income, Inc.  (CIK 0001661306)"
+            ],
+            "file_date": "2026-08-19",
+            "file_description": "ARS",
+            "file_num": [
+              "814-01185"
+            ],
+            "file_type": "ARS",
+            "film_num": [
+              "261293242"
+            ],
+            "form": "ARS",
+            "inc_states": [
+              "MD"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "ARS"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-061545:ea0226094-07.htm",
+          "_index": "edgar_file",
+          "_score": 13.181866,
+          "_source": {
+            "adsh": "0001213900-25-061545",
+            "biz_locations": [
+              "Grand Cayman, E9",
+              "Grand Cayman, E9"
+            ],
+            "biz_states": [
+              "E9"
+            ],
+            "ciks": [
+              "0002013873",
+              "0001868573"
+            ],
+            "display_names": [
+              "OmnigenicsAI Corp  (OMNI)  (CIK 0002013873)",
+              "APx Acquisition Corp. I  (CIK 0001868573)"
+            ],
+            "file_date": "2025-07-03",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-284406",
+              "333-284406-01"
+            ],
+            "file_type": "F-4/A",
+            "film_num": [
+              "251106199",
+              "251106200"
+            ],
+            "form": "F-4/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8000",
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-065703:ea0226094-11.htm",
+          "_index": "edgar_file",
+          "_score": 13.1734,
+          "_source": {
+            "adsh": "0001213900-25-065703",
+            "biz_locations": [
+              "Grand Cayman, E9",
+              "Grand Cayman, E9"
+            ],
+            "biz_states": [
+              "E9"
+            ],
+            "ciks": [
+              "0002013873",
+              "0001868573"
+            ],
+            "display_names": [
+              "OmnigenicsAI Corp  (OMNI)  (CIK 0002013873)",
+              "APx Acquisition Corp. I  (CIK 0001868573)"
+            ],
+            "file_date": "2025-07-18",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-284406",
+              "333-284406-01"
+            ],
+            "file_type": "F-4/A",
+            "film_num": [
+              "251134916",
+              "251134915"
+            ],
+            "form": "F-4/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8000",
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-010760:formf-1a.htm",
+          "_index": "edgar_file",
+          "_score": 13.141175,
+          "_source": {
+            "adsh": "0001641172-25-010760",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (ELCG)  (CIK 0002039096)"
+            ],
+            "file_date": "2025-05-15",
+            "file_description": "F-1/A",
+            "file_num": [
+              "333-285524"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "25951745"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-016911:formf-1a.htm",
+          "_index": "edgar_file",
+          "_score": 13.133184,
+          "_source": {
+            "adsh": "0001641172-25-016911",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (ELCG)  (CIK 0002039096)"
+            ],
+            "file_date": "2025-06-27",
+            "file_description": "F-1/A",
+            "file_num": [
+              "333-285524"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251087007"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-026339:ea0226094-03.htm",
+          "_index": "edgar_file",
+          "_score": 12.983823,
+          "_source": {
+            "adsh": "0001213900-25-026339",
+            "biz_locations": [
+              "Grand Cayman, E9",
+              "Grand Cayman, E9"
+            ],
+            "biz_states": [
+              "E9"
+            ],
+            "ciks": [
+              "0002013873",
+              "0001868573"
+            ],
+            "display_names": [
+              "OmnigenicsAI Corp  (OMNI)  (CIK 0002013873)",
+              "APx Acquisition Corp. I  (CIK 0001868573)"
+            ],
+            "file_date": "2025-03-31",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-284406",
+              "333-284406-01"
+            ],
+            "file_type": "F-4/A",
+            "film_num": [
+              "25794283",
+              "25794284"
+            ],
+            "form": "F-4/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8000",
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-039572:form424b5.htm",
+          "_index": "edgar_file",
+          "_score": 12.963894,
+          "_source": {
+            "adsh": "0001493152-26-039572",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001577445"
+            ],
+            "display_names": [
+              "Odysight.ai Inc.  (ODYS)  (CIK 0001577445)"
+            ],
+            "file_date": "2026-08-21",
+            "file_description": "424B5",
+            "file_num": [
+              "333-293080"
+            ],
+            "file_type": "424B5",
+            "film_num": [
+              "261301850"
+            ],
+            "form": "424B5",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B5"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7373"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-039235:form424b5.htm",
+          "_index": "edgar_file",
+          "_score": 12.895237,
+          "_source": {
+            "adsh": "0001493152-26-039235",
+            "biz_locations": [
+              "Scottsdale, AZ"
+            ],
+            "biz_states": [
+              "AZ"
+            ],
+            "ciks": [
+              "0001577445"
+            ],
+            "display_names": [
+              "Odysight.ai Inc.  (ODYS)  (CIK 0001577445)"
+            ],
+            "file_date": "2026-08-19",
+            "file_description": "424B5",
+            "file_num": [
+              "333-293080"
+            ],
+            "file_type": "424B5",
+            "film_num": [
+              "261295997"
+            ],
+            "form": "424B5",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B5"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7373"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-099370:ea0291005-02.htm",
+          "_index": "edgar_file",
+          "_score": 12.723516,
+          "_source": {
+            "adsh": "0001213900-26-099370",
+            "biz_locations": [
+              "Hanoi"
+            ],
+            "biz_states": [],
+            "ciks": [
+              "0002134106"
+            ],
+            "display_names": [
+              "Meey Global Corp  (CIK 0002134106)"
+            ],
+            "file_date": "2026-09-11",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-298906"
+            ],
+            "file_type": "F-1",
+            "film_num": [
+              "261375313"
+            ],
+            "form": "F-1",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7374"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-037915:taox-20251231x10k.htm",
+          "_index": "edgar_file",
+          "_score": 12.699646,
+          "_source": {
+            "adsh": "0001104659-26-037915",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001571934"
+            ],
+            "display_names": [
+              "TAO Synergies Inc.  (TAOX)  (CIK 0001571934)"
+            ],
+            "file_date": "2026-03-31",
+            "file_description": "10-K",
+            "file_num": [
+              "001-40458"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "26823555"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6199"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-25-025591:forms-1.htm",
+          "_index": "edgar_file",
+          "_score": 12.694462,
+          "_source": {
+            "adsh": "0001493152-25-025591",
+            "biz_locations": [
+              "Las Vegas, NV"
+            ],
+            "biz_states": [
+              "NV"
+            ],
+            "ciks": [
+              "0001861622"
+            ],
+            "display_names": [
+              "Jet.AI Inc.  (JTAI)  (CIK 0001861622)"
+            ],
+            "file_date": "2025-12-01",
+            "file_description": "S-1",
+            "file_num": [
+              "333-291871"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "251540508"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "4522"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-078029:ea0296662-10k_zoomcar.htm",
+          "_index": "edgar_file",
+          "_score": 12.661669,
+          "_source": {
+            "adsh": "0001213900-26-078029",
+            "biz_locations": [
+              "Bangalore, K7"
+            ],
+            "biz_states": [
+              "K7"
+            ],
+            "ciks": [
+              "0001854275"
+            ],
+            "display_names": [
+              "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)"
+            ],
+            "file_date": "2026-07-14",
+            "file_description": "ANNUAL REPORT",
+            "file_num": [
+              "001-40964"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "261175188"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2026-03-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7510"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001823306-26-000025:annualinformationform2026.htm",
+          "_index": "edgar_file",
+          "_score": 12.657793,
+          "_source": {
+            "adsh": "0001823306-26-000025",
+            "biz_locations": [
+              "Montreal, Z4"
+            ],
+            "biz_states": [
+              "Z4"
+            ],
+            "ciks": [
+              "0001823306"
+            ],
+            "display_names": [
+              "Lightspeed Commerce Inc.  (LSPD)  (CIK 0001823306)"
+            ],
+            "file_date": "2026-05-21",
+            "file_description": "EX-99.1",
+            "file_num": [
+              "001-39498"
+            ],
+            "file_type": "EX-99.1",
+            "film_num": [
+              "261005901"
+            ],
+            "form": "40-F",
+            "inc_states": [
+              "Z4"
+            ],
+            "items": [],
+            "period_ending": "2026-03-31",
+            "root_forms": [
+              "40-F"
+            ],
+            "sequence": "3",
+            "sics": [
+              "7372"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-078693:ea0296662-10ka1_zoomcar.htm",
+          "_index": "edgar_file",
+          "_score": 12.623134,
+          "_source": {
+            "adsh": "0001213900-26-078693",
+            "biz_locations": [
+              "Bangalore, K7"
+            ],
+            "biz_states": [
+              "K7"
+            ],
+            "ciks": [
+              "0001854275"
+            ],
+            "display_names": [
+              "Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)"
+            ],
+            "file_date": "2026-07-16",
+            "file_description": "ANNUAL REPORT",
+            "file_num": [
+              "001-40964"
+            ],
+            "file_type": "10-K/A",
+            "film_num": [
+              "261180379"
+            ],
+            "form": "10-K/A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2026-03-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7510"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-020962:formf-1a.htm",
+          "_index": "edgar_file",
+          "_score": 12.600698,
+          "_source": {
+            "adsh": "0001641172-25-020962",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (ELCG)  (CIK 0002039096)"
+            ],
+            "file_date": "2025-07-25",
+            "file_description": "F-1/A",
+            "file_num": [
+              "333-285524"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251150099"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001823306-25-000030:annualinformationform2025.htm",
+          "_index": "edgar_file",
+          "_score": 12.52841,
+          "_source": {
+            "adsh": "0001823306-25-000030",
+            "biz_locations": [
+              "Montreal, Z4"
+            ],
+            "biz_states": [
+              "Z4"
+            ],
+            "ciks": [
+              "0001823306"
+            ],
+            "display_names": [
+              "Lightspeed Commerce Inc.  (LSPD)  (CIK 0001823306)"
+            ],
+            "file_date": "2025-05-22",
+            "file_description": "EX-99.1",
+            "file_num": [
+              "001-39498"
+            ],
+            "file_type": "EX-99.1",
+            "film_num": [
+              "25974734"
+            ],
+            "form": "40-F",
+            "inc_states": [
+              "Z4"
+            ],
+            "items": [],
+            "period_ending": "2025-03-31",
+            "root_forms": [
+              "40-F"
+            ],
+            "sequence": "3",
+            "sics": [
+              "7372"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-045471:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 12.516935,
+          "_source": {
+            "adsh": "0001213900-26-045471",
+            "biz_locations": [
+              "Palo Alto, CA"
+            ],
+            "biz_states": [
+              "CA"
+            ],
+            "ciks": [
+              "0002111846"
+            ],
+            "display_names": [
+              "Game Your Game Inc.  (CIK 0002111846)"
+            ],
+            "file_date": "2026-04-20",
+            "file_description": null,
+            "file_num": [
+              "377-09084"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "26874289"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7372"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-018409:formf-1a.htm",
+          "_index": "edgar_file",
+          "_score": 12.512726,
+          "_source": {
+            "adsh": "0001641172-25-018409",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (ELCG)  (CIK 0002039096)"
+            ],
+            "file_date": "2025-07-09",
+            "file_description": "F-1/A",
+            "file_num": [
+              "333-285524"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251113846"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-025415:formf-1a.htm",
+          "_index": "edgar_file",
+          "_score": 12.489605,
+          "_source": {
+            "adsh": "0001641172-25-025415",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (ELCG)  (CIK 0002039096)"
+            ],
+            "file_date": "2025-08-25",
+            "file_description": "F-1/A",
+            "file_num": [
+              "333-285524"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251251912"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-26-005690:ea0273016-f1_dthouse.htm",
+          "_index": "edgar_file",
+          "_score": 12.478802,
+          "_source": {
+            "adsh": "0001213900-26-005690",
+            "biz_locations": [
+              "Masdar City"
+            ],
+            "biz_states": [],
+            "ciks": [
+              "0002047713"
+            ],
+            "display_names": [
+              "DT House Ltd  (DTDT)  (CIK 0002047713)"
+            ],
+            "file_date": "2026-01-20",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-292827"
+            ],
+            "file_type": "F-1",
+            "film_num": [
+              "26543380"
+            ],
+            "form": "F-1",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7389"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001437749-26-009237:oblg20251231_10k.htm",
+          "_index": "edgar_file",
+          "_score": 12.467333,
+          "_source": {
+            "adsh": "0001437749-26-009237",
+            "biz_locations": [
+              "Denver, CO"
+            ],
+            "biz_states": [
+              "CO"
+            ],
+            "ciks": [
+              "0000746210"
+            ],
+            "display_names": [
+              "TaoWeave, Inc.  (TWAV)  (CIK 0000746210)"
+            ],
+            "file_date": "2026-03-20",
+            "file_description": "FORM 10-K",
+            "file_num": [
+              "001-35376"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "26778474"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-26-122187:ppcf_supplement_no._9_3.htm",
+          "_index": "edgar_file",
+          "_score": 12.460632,
+          "_source": {
+            "adsh": "0001193125-26-122187",
+            "biz_locations": [
+              "Newark, NJ"
+            ],
+            "biz_states": [
+              "NJ"
+            ],
+            "ciks": [
+              "0001923622"
+            ],
+            "display_names": [
+              "PGIM Private Credit Fund  (PGIM)  (CIK 0001923622)"
+            ],
+            "file_date": "2026-03-24",
+            "file_description": "424B3",
+            "file_num": [
+              "333-286866"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "26787327"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-005463:ea0226094-01.htm",
+          "_index": "edgar_file",
+          "_score": 12.384189,
+          "_source": {
+            "adsh": "0001213900-25-005463",
+            "biz_locations": [
+              "Grand Cayman, E9",
+              "Grand Cayman, E9"
+            ],
+            "biz_states": [
+              "E9"
+            ],
+            "ciks": [
+              "0002013873",
+              "0001868573"
+            ],
+            "display_names": [
+              "OmnigenicsAI Corp  (CIK 0002013873)",
+              "APx Acquisition Corp. I  (CIK 0001868573)"
+            ],
+            "file_date": "2025-01-22",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-284406",
+              "333-284406-01"
+            ],
+            "file_type": "F-4",
+            "film_num": [
+              "25545812",
+              "25545813"
+            ],
+            "form": "F-4",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8000",
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-022522:formf-1a.htm",
+          "_index": "edgar_file",
+          "_score": 12.345419,
+          "_source": {
+            "adsh": "0001641172-25-022522",
+            "biz_locations": [
+              "Singapore, U0"
+            ],
+            "biz_states": [
+              "U0"
+            ],
+            "ciks": [
+              "0002039096"
+            ],
+            "display_names": [
+              "ELC Group Holdings Ltd.  (ELCG)  (CIK 0002039096)"
+            ],
+            "file_date": "2025-08-07",
+            "file_description": "F-1/A",
+            "file_num": [
+              "333-285524"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251191864"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7363"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-25-302570:d64210ds1.htm",
+          "_index": "edgar_file",
+          "_score": 12.326484,
+          "_source": {
+            "adsh": "0001193125-25-302570",
+            "biz_locations": [
+              "El Dorado Hills, CA"
+            ],
+            "biz_states": [
+              "CA"
+            ],
+            "ciks": [
+              "0001871638"
+            ],
+            "display_names": [
+              "Blaize Holdings, Inc.  (BZAI, BZAIW)  (CIK 0001871638)"
+            ],
+            "file_date": "2025-11-28",
+            "file_description": "S-1",
+            "file_num": [
+              "333-291847"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "251536002"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3674"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-072682:ea0247969-f1a2_dthouse.htm",
+          "_index": "edgar_file",
+          "_score": 12.313618,
+          "_source": {
+            "adsh": "0001213900-25-072682",
+            "biz_locations": [
+              "Masdar City, C0"
+            ],
+            "biz_states": [
+              "C0"
+            ],
+            "ciks": [
+              "0002047713"
+            ],
+            "display_names": [
+              "DT House Ltd  (CIK 0002047713)"
+            ],
+            "file_date": "2025-08-07",
+            "file_description": "AMENDMENT NO. 2 TO FORM F-1",
+            "file_num": [
+              "333-285475"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251191047"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7389"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-084729:ea0255982-f1a4_dthouse.htm",
+          "_index": "edgar_file",
+          "_score": 12.289336,
+          "_source": {
+            "adsh": "0001213900-25-084729",
+            "biz_locations": [
+              "Masdar City, C0"
+            ],
+            "biz_states": [
+              "C0"
+            ],
+            "ciks": [
+              "0002047713"
+            ],
+            "display_names": [
+              "DT House Ltd  (CIK 0002047713)"
+            ],
+            "file_date": "2025-09-05",
+            "file_description": "AMENDMENT NO. 4 TO FORM F-1",
+            "file_num": [
+              "333-285475"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251295057"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7389"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-089136:ea0257871-f1a5_dthouse.htm",
+          "_index": "edgar_file",
+          "_score": 12.281837,
+          "_source": {
+            "adsh": "0001213900-25-089136",
+            "biz_locations": [
+              "Masdar City"
+            ],
+            "biz_states": [],
+            "ciks": [
+              "0002047713"
+            ],
+            "display_names": [
+              "DT House Ltd  (DTDT)  (CIK 0002047713)"
+            ],
+            "file_date": "2025-09-19",
+            "file_description": "AMENDMENT NO. 5 TO FORM F-1",
+            "file_num": [
+              "333-285475"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251324635"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7389"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001871638-25-000016:a424b3prospectussupplement.htm",
+          "_index": "edgar_file",
+          "_score": 12.270134,
+          "_source": {
+            "adsh": "0001871638-25-000016",
+            "biz_locations": [
+              "El Dorado Hills, CA"
+            ],
+            "biz_states": [
+              "CA"
+            ],
+            "ciks": [
+              "0001871638"
+            ],
+            "display_names": [
+              "Blaize Holdings, Inc.  (BZAI, BZAIW)  (CIK 0001871638)"
+            ],
+            "file_date": "2025-12-18",
+            "file_description": "424B3",
+            "file_num": [
+              "333-291847"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "251583122"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3674"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-078456:ea0248398-f1a_dthouse.htm",
+          "_index": "edgar_file",
+          "_score": 12.217241,
+          "_source": {
+            "adsh": "0001213900-25-078456",
+            "biz_locations": [
+              "Masdar City, C0"
+            ],
+            "biz_states": [
+              "C0"
+            ],
+            "ciks": [
+              "0002047713"
+            ],
+            "display_names": [
+              "DT House Ltd  (CIK 0002047713)"
+            ],
+            "file_date": "2025-08-19",
+            "file_description": "AMENDMENT NO. 3 TO FORM F-1",
+            "file_num": [
+              "333-285475"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251231404"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7389"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001829126-26-008507:aeriestech_10q.htm",
+          "_index": "edgar_file",
+          "_score": 12.217235,
+          "_source": {
+            "adsh": "0001829126-26-008507",
+            "biz_locations": [
+              "George Town"
+            ],
+            "biz_states": [],
+            "ciks": [
+              "0001853044"
+            ],
+            "display_names": [
+              "Aeries Technology, Inc.  (AERT, AERTW)  (CIK 0001853044)"
+            ],
+            "file_date": "2026-08-10",
+            "file_description": "10-Q",
+            "file_num": [
+              "001-40920"
+            ],
+            "file_type": "10-Q",
+            "film_num": [
+              "261256231"
+            ],
+            "form": "10-Q",
+            "inc_states": [],
+            "items": [],
+            "period_ending": "2026-06-30",
+            "root_forms": [
+              "10-Q"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8742"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-086022:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 12.216583,
+          "_source": {
+            "adsh": "0001213900-25-086022",
+            "biz_locations": [
+              "Pasadena, CA"
+            ],
+            "biz_states": [
+              "CA"
+            ],
+            "ciks": [
+              "0001972234"
+            ],
+            "display_names": [
+              "VenHub Global, Inc.  (CIK 0001972234)"
+            ],
+            "file_date": "2025-09-09",
+            "file_description": null,
+            "file_num": [
+              "377-08211"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "251302598"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3590"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-102087:ea0262304-f1a6_dthouse.htm",
+          "_index": "edgar_file",
+          "_score": 12.216428,
+          "_source": {
+            "adsh": "0001213900-25-102087",
+            "biz_locations": [
+              "Masdar City"
+            ],
+            "biz_states": [],
+            "ciks": [
+              "0002047713"
+            ],
+            "display_names": [
+              "DT House Ltd  (DTDT)  (CIK 0002047713)"
+            ],
+            "file_date": "2025-10-24",
+            "file_description": "AMENDMENT NO. 6 TO FORM F-1",
+            "file_num": [
+              "333-285475"
+            ],
+            "file_type": "F-1/A",
+            "film_num": [
+              "251415819"
+            ],
+            "form": "F-1/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "F-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7389"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-074604:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 12.152547,
+          "_source": {
+            "adsh": "0001213900-25-074604",
+            "biz_locations": [
+              "Austin, TX",
+              "Wilmington, DE"
+            ],
+            "biz_states": [
+              "TX",
+              "DE"
+            ],
+            "ciks": [
+              "0002070457",
+              "0002070394"
+            ],
+            "display_names": [
+              "Twenty One Capital, Inc.  (CIK 0002070457)",
+              "Twenty One Assets, LLC  (CIK 0002070394)"
+            ],
+            "file_date": "2025-08-12",
+            "file_description": null,
+            "file_num": [
+              "377-08182",
+              "377-08182-01"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "251203963",
+              "251203964"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "TX",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6199"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-018357:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 12.136366,
+          "_source": {
+            "adsh": "0001641172-25-018357",
+            "biz_locations": [
+              "Hong Kong, K3"
+            ],
+            "biz_states": [
+              "K3"
+            ],
+            "ciks": [
+              "0002058867"
+            ],
+            "display_names": [
+              "PressLogic Inc.  (CIK 0002058867)"
+            ],
+            "file_date": "2025-07-09",
+            "file_description": null,
+            "file_num": [
+              "377-07994"
+            ],
+            "file_type": "DRS/A",
+            "film_num": [
+              "251113105"
+            ],
+            "form": "DRS/A",
+            "inc_states": [
+              "E9"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7310"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-061570:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 12.10965,
+          "_source": {
+            "adsh": "0001213900-25-061570",
+            "biz_locations": [
+              "Austin, TX",
+              "Wilmington, DE"
+            ],
+            "biz_states": [
+              "TX",
+              "DE"
+            ],
+            "ciks": [
+              "0002070457",
+              "0002070394"
+            ],
+            "display_names": [
+              "Twenty One Capital, Inc.  (CIK 0002070457)",
+              "Twenty One Assets, LLC  (CIK 0002070394)"
+            ],
+            "file_date": "2025-07-03",
+            "file_description": null,
+            "file_num": [
+              "377-08182",
+              "377-08182-01"
+            ],
+            "file_type": "DRS",
+            "film_num": [
+              "251106397",
+              "251106398"
+            ],
+            "form": "DRS",
+            "inc_states": [
+              "TX",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6199"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-25-122577:tm2533845d1_ex10-1.htm",
+          "_index": "edgar_file",
+          "_score": 12.0706215,
+          "_source": {
+            "adsh": "0001104659-25-122577",
+            "biz_locations": [
+              "The Woodlands, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001981792"
+            ],
+            "display_names": [
+              "Howard Hughes Holdings Inc.  (HHH)  (CIK 0001981792)"
+            ],
+            "file_date": "2025-12-18",
+            "file_description": "EXHIBIT 10.1",
+            "file_num": [
+              "001-41779"
+            ],
+            "file_type": "EX-10.1",
+            "film_num": [
+              "251583692"
+            ],
+            "form": "8-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [
+              "1.01",
+              "3.02",
+              "7.01",
+              "9.01"
+            ],
+            "period_ending": "2025-12-17",
+            "root_forms": [
+              "8-K"
+            ],
+            "sequence": "2",
+            "sics": [
+              "6798"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-090210:ea0253959-10k_inmed.htm",
+          "_index": "edgar_file",
+          "_score": 12.05568,
+          "_source": {
+            "adsh": "0001213900-25-090210",
+            "biz_locations": [
+              "Vancouver, A1"
+            ],
+            "biz_states": [
+              "A1"
+            ],
+            "ciks": [
+              "0001728328"
+            ],
+            "display_names": [
+              "InMed Pharmaceuticals Inc.  (INM)  (CIK 0001728328)"
+            ],
+            "file_date": "2025-09-23",
+            "file_description": "ANNUAL REPORT",
+            "file_num": [
+              "001-39685"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "251331084"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "A1"
+            ],
+            "items": [],
+            "period_ending": "2025-06-30",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [
+              "2834"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-020739:filename1.htm",
+          "_index": "edgar_file",
+          "_score": 12.028194,
+          "_source": {
+            "adsh": "0001493152-26-020739",
+            "biz_locations": [
+              "San Antonio, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001712762"
+            ],
+            "display_names": [
+              "bioAffinity Technologies, Inc.  (BIAF, BIAFW)  (CIK 0001712762)"
+            ],
+            "file_date": "2026-04-30",
+            "file_description": null,
+            "file_num": [
+              "377-09318"
+            ],
+            "file_type": "DRS",
+            "film_num": [
+              "26927245"
+            ],
+            "form": "DRS",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DRS"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8731"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001193125-26-111462:ck0001923622-20251231.htm",
+          "_index": "edgar_file",
+          "_score": 12.022296,
+          "_source": {
+            "adsh": "0001193125-26-111462",
+            "biz_locations": [
+              "Newark, NJ"
+            ],
+            "biz_states": [
+              "NJ"
+            ],
+            "ciks": [
+              "0001923622"
+            ],
+            "display_names": [
+              "PGIM Private Credit Fund  (PGIM)  (CIK 0001923622)"
+            ],
+            "file_date": "2026-03-18",
+            "file_description": "10-K",
+            "file_num": [
+              "814-01582"
+            ],
+            "file_type": "10-K",
+            "film_num": [
+              "26764233"
+            ],
+            "form": "10-K",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": "2025-12-31",
+            "root_forms": [
+              "10-K"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001493152-26-028507:forms-1.htm",
+          "_index": "edgar_file",
+          "_score": 12.018179,
+          "_source": {
+            "adsh": "0001493152-26-028507",
+            "biz_locations": [
+              "San Antonio, TX"
+            ],
+            "biz_states": [
+              "TX"
+            ],
+            "ciks": [
+              "0001712762"
+            ],
+            "display_names": [
+              "bioAffinity Technologies, Inc.  (BIAF, BIAFW)  (CIK 0001712762)"
+            ],
+            "file_date": "2026-06-12",
+            "file_description": "S-1",
+            "file_num": [
+              "333-296764"
+            ],
+            "file_type": "S-1",
+            "film_num": [
+              "261087893"
+            ],
+            "form": "S-1",
+            "inc_states": [
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-1"
+            ],
+            "sequence": 1,
+            "sics": [
+              "8731"
+            ],
+            "xsl": null
+          }
+        }
+      ],
+      "max_score": 18.628891,
+      "total": {
+        "relation": "eq",
+        "value": 1533
+      }
+    },
+    "query": {
+      "_source": {
+        "exclude": [
+          "doc_text"
+        ]
+      },
+      "aggregations": {
+        "biz_states_filter": {
+          "terms": {
+            "field": "biz_states",
+            "size": 30
+          }
+        },
+        "entity_filter": {
+          "terms": {
+            "field": "display_names.raw",
+            "size": 30
+          }
+        },
+        "form_filter": {
+          "terms": {
+            "field": "root_forms",
+            "size": 30
+          }
+        },
+        "sic_filter": {
+          "terms": {
+            "field": "sics",
+            "size": 30
+          }
+        }
+      },
+      "from": 0,
+      "query": {
+        "bool": {
+          "filter": [
+            {
+              "range": {
+                "file_date": {
+                  "gte": "2025-01-01",
+                  "lte": "2026-10-10"
+                }
+              }
+            }
+          ],
+          "must": [
+            {
+              "match_phrase": {
+                "doc_text": "machine learning"
+              }
+            },
+            {
+              "match_phrase": {
+                "doc_text": "engagement letter"
+              }
+            },
+            {
+              "match_phrase": {
+                "doc_text": "restructuring"
+              }
+            }
+          ],
+          "must_not": [],
+          "should": []
+        }
+      },
+      "size": 100
+    },
+    "timed_out": false,
+    "took": 102
+  },
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22machine+learning%22+%22engagement+letter%22+%22restructuring%22&dateRange=custom&startdt=2025-01-01&enddt=2026-10-10&from=0"
+}

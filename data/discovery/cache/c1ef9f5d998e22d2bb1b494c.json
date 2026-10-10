@@ -1,0 +1,1197 @@
+{
+  "response": {
+    "_shards": {
+      "failed": 0,
+      "skipped": 0,
+      "successful": 50,
+      "total": 50
+    },
+    "aggregations": {
+      "biz_states_filter": {
+        "buckets": [
+          {
+            "doc_count": 27,
+            "key": "NY"
+          },
+          {
+            "doc_count": 15,
+            "key": "CO"
+          },
+          {
+            "doc_count": 11,
+            "key": "MA"
+          },
+          {
+            "doc_count": 9,
+            "key": "WA"
+          },
+          {
+            "doc_count": 9,
+            "key": "X0"
+          },
+          {
+            "doc_count": 7,
+            "key": "DE"
+          },
+          {
+            "doc_count": 6,
+            "key": "1H"
+          },
+          {
+            "doc_count": 6,
+            "key": "F4"
+          },
+          {
+            "doc_count": 5,
+            "key": "FL"
+          },
+          {
+            "doc_count": 4,
+            "key": "CA"
+          },
+          {
+            "doc_count": 4,
+            "key": "K3"
+          },
+          {
+            "doc_count": 4,
+            "key": "N8"
+          },
+          {
+            "doc_count": 4,
+            "key": "NV"
+          },
+          {
+            "doc_count": 4,
+            "key": "TX"
+          },
+          {
+            "doc_count": 2,
+            "key": "NJ"
+          },
+          {
+            "doc_count": 2,
+            "key": "UT"
+          },
+          {
+            "doc_count": 1,
+            "key": "IL"
+          },
+          {
+            "doc_count": 1,
+            "key": "L3"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "entity_filter": {
+        "buckets": [
+          {
+            "doc_count": 11,
+            "key": "TG-17, Inc.  (CIK 0001756064)"
+          },
+          {
+            "doc_count": 9,
+            "key": "AMC Corp  (CIK 0002044018)"
+          },
+          {
+            "doc_count": 9,
+            "key": "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)"
+          },
+          {
+            "doc_count": 8,
+            "key": "Xdata Group  (CIK 0002038688)"
+          },
+          {
+            "doc_count": 6,
+            "key": "FORGE NANO, INC.  (CIK 0001719324)"
+          },
+          {
+            "doc_count": 6,
+            "key": "IGTA Merger Sub Ltd  (PRGY)  (CIK 0001997698)"
+          },
+          {
+            "doc_count": 6,
+            "key": "OU XDATA GROUP  (CIK 0002045727)"
+          },
+          {
+            "doc_count": 5,
+            "key": "ATII Holdings Inc.  (NANO)  (CIK 0002101833)"
+          },
+          {
+            "doc_count": 5,
+            "key": "Blockfusion USA, Inc.  (CIK 0001910992)"
+          },
+          {
+            "doc_count": 5,
+            "key": "Innventure, Inc.  (INV, INVLW)  (CIK 0002001557)"
+          },
+          {
+            "doc_count": 5,
+            "key": "MEDIAON GROUP INC.  (CIK 0002059702)"
+          },
+          {
+            "doc_count": 5,
+            "key": "McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)"
+          },
+          {
+            "doc_count": 5,
+            "key": "Nuclea Energy Inc.  (NCLA)  (CIK 0002101996)"
+          },
+          {
+            "doc_count": 4,
+            "key": "Asset Entities Inc.  (ASST)  (CIK 0001920406)"
+          },
+          {
+            "doc_count": 4,
+            "key": "Global IBO Group Ltd.  (CIK 0002034047)"
+          },
+          {
+            "doc_count": 4,
+            "key": "Jet.AI Inc.  (JTAI)  (CIK 0001861622)"
+          },
+          {
+            "doc_count": 4,
+            "key": "Nuclea Energy Inc.  (CIK 0002101996)"
+          },
+          {
+            "doc_count": 3,
+            "key": "Alpha Star Acquisition Corp  (ALSAF, ALSTF, ALSUF, ALSWF)  (CIK 0001865111)"
+          },
+          {
+            "doc_count": 3,
+            "key": "Baidu, Inc.  (BIDU, BAIDF)  (CIK 0001329099)"
+          },
+          {
+            "doc_count": 3,
+            "key": "SAGTEC GLOBAL Ltd  (SAGT)  (CIK 0002029138)"
+          },
+          {
+            "doc_count": 3,
+            "key": "ServiceNow, Inc.  (NOW)  (CIK 0001373715)"
+          },
+          {
+            "doc_count": 2,
+            "key": "Avalon GloboCare Corp.  (ALBT)  (CIK 0001630212)"
+          },
+          {
+            "doc_count": 2,
+            "key": "Blockfusion Data Centers, Inc.  (BLDC)  (CIK 0002097508)"
+          },
+          {
+            "doc_count": 2,
+            "key": "Blockfusion Digital Infrastructure, Inc.  (BLDC)  (CIK 0002097508)"
+          },
+          {
+            "doc_count": 2,
+            "key": "DOMO, INC.  (DOMO)  (CIK 0001505952)"
+          },
+          {
+            "doc_count": 2,
+            "key": "GIBO HOLDINGS Ltd  (CIK 0002034520)"
+          },
+          {
+            "doc_count": 2,
+            "key": "GIBO HOLDINGS Ltd  (GIBO)  (CIK 0002034520)"
+          },
+          {
+            "doc_count": 2,
+            "key": "Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)"
+          },
+          {
+            "doc_count": 2,
+            "key": "XTI Aerospace, Inc.  (XTIA)  (CIK 0001529113)"
+          },
+          {
+            "doc_count": 1,
+            "key": "ATII Holdings Inc.  (CIK 0002101833)"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 15
+      },
+      "form_filter": {
+        "buckets": [
+          {
+            "doc_count": 32,
+            "key": "S-4"
+          },
+          {
+            "doc_count": 13,
+            "key": "424B3"
+          },
+          {
+            "doc_count": 13,
+            "key": "DRS"
+          },
+          {
+            "doc_count": 13,
+            "key": "S-1"
+          },
+          {
+            "doc_count": 12,
+            "key": "F-1"
+          },
+          {
+            "doc_count": 5,
+            "key": "10-K"
+          },
+          {
+            "doc_count": 5,
+            "key": "DEFM14A"
+          },
+          {
+            "doc_count": 5,
+            "key": "POS AM"
+          },
+          {
+            "doc_count": 3,
+            "key": "F-4"
+          },
+          {
+            "doc_count": 2,
+            "key": "20-F"
+          },
+          {
+            "doc_count": 2,
+            "key": "424B4"
+          },
+          {
+            "doc_count": 2,
+            "key": "ARS"
+          },
+          {
+            "doc_count": 2,
+            "key": "DEF 14A"
+          },
+          {
+            "doc_count": 1,
+            "key": "6-K"
+          },
+          {
+            "doc_count": 1,
+            "key": "8-K"
+          },
+          {
+            "doc_count": 1,
+            "key": "CB"
+          },
+          {
+            "doc_count": 1,
+            "key": "DEFM14C"
+          },
+          {
+            "doc_count": 1,
+            "key": "POS462C"
+          },
+          {
+            "doc_count": 1,
+            "key": "PRE 14A"
+          },
+          {
+            "doc_count": 1,
+            "key": "PREM14C"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "sic_filter": {
+        "buckets": [
+          {
+            "doc_count": 27,
+            "key": "7372"
+          },
+          {
+            "doc_count": 11,
+            "key": "4899"
+          },
+          {
+            "doc_count": 10,
+            "key": "5700"
+          },
+          {
+            "doc_count": 10,
+            "key": "7374"
+          },
+          {
+            "doc_count": 9,
+            "key": "3433"
+          },
+          {
+            "doc_count": 9,
+            "key": "6770"
+          },
+          {
+            "doc_count": 9,
+            "key": "7370"
+          },
+          {
+            "doc_count": 5,
+            "key": "3559"
+          },
+          {
+            "doc_count": 5,
+            "key": "7311"
+          },
+          {
+            "doc_count": 4,
+            "key": "4522"
+          },
+          {
+            "doc_count": 4,
+            "key": "6199"
+          },
+          {
+            "doc_count": 3,
+            "key": "7371"
+          },
+          {
+            "doc_count": 2,
+            "key": "8011"
+          },
+          {
+            "doc_count": 1,
+            "key": "2836"
+          },
+          {
+            "doc_count": 1,
+            "key": "3576"
+          },
+          {
+            "doc_count": 1,
+            "key": "6794"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      }
+    },
+    "hits": {
+      "hits": [
+        {
+          "_id": "0001641172-25-006051:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.7746043,
+          "_source": {
+            "adsh": "0001641172-25-006051",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-04-25",
+            "file_description": null,
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "25869462",
+              "25869463"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-022054:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.7726417,
+          "_source": {
+            "adsh": "0001641172-25-022054",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-08-04",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "251180827",
+              "251180828"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-040649:ea0201720-25.htm",
+          "_index": "edgar_file",
+          "_score": 1.7709694,
+          "_source": {
+            "adsh": "0001213900-25-040649",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001997698"
+            ],
+            "display_names": [
+              "IGTA Merger Sub Ltd  (PRGY)  (CIK 0001997698)"
+            ],
+            "file_date": "2025-05-07",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-276929"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "25921654"
+            ],
+            "form": "S-4/A",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-003864:ea0201720-17.htm",
+          "_index": "edgar_file",
+          "_score": 1.7705321,
+          "_source": {
+            "adsh": "0001213900-25-003864",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001997698"
+            ],
+            "display_names": [
+              "IGTA Merger Sub Ltd  (PRGY)  (CIK 0001997698)"
+            ],
+            "file_date": "2025-01-15",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-276929"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "25533357"
+            ],
+            "form": "S-4/A",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001013762-25-004113:ea0201720-21.htm",
+          "_index": "edgar_file",
+          "_score": 1.7668386,
+          "_source": {
+            "adsh": "0001013762-25-004113",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001997698"
+            ],
+            "display_names": [
+              "IGTA Merger Sub Ltd  (PRGY)  (CIK 0001997698)"
+            ],
+            "file_date": "2025-03-28",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-276929"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "25786549"
+            ],
+            "form": "S-4/A",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-047841:ea0201720-27.htm",
+          "_index": "edgar_file",
+          "_score": 1.7633381,
+          "_source": {
+            "adsh": "0001213900-25-047841",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001997698"
+            ],
+            "display_names": [
+              "IGTA Merger Sub Ltd  (PRGY)  (CIK 0001997698)"
+            ],
+            "file_date": "2025-05-27",
+            "file_description": "PROSPECTUS",
+            "file_num": [
+              "333-276929"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "25989431"
+            ],
+            "form": "424B3",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-010968:ea0201720-19.htm",
+          "_index": "edgar_file",
+          "_score": 1.7437172,
+          "_source": {
+            "adsh": "0001213900-25-010968",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001997698"
+            ],
+            "display_names": [
+              "IGTA Merger Sub Ltd  (PRGY)  (CIK 0001997698)"
+            ],
+            "file_date": "2025-02-06",
+            "file_description": "REGISTRATION STATEMENT",
+            "file_num": [
+              "333-276929"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "25598119"
+            ],
+            "form": "S-4/A",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "7370"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001213900-25-047847:ea0243490-01.htm",
+          "_index": "edgar_file",
+          "_score": 1.7434936,
+          "_source": {
+            "adsh": "0001213900-25-047847",
+            "biz_locations": [
+              "New York, NY"
+            ],
+            "biz_states": [
+              "NY"
+            ],
+            "ciks": [
+              "0001866838"
+            ],
+            "display_names": [
+              "Inception Growth Acquisition Ltd  (IGTA, IGTAR, IGTAU, IGTAW)  (CIK 0001866838)"
+            ],
+            "file_date": "2025-05-27",
+            "file_description": "PROXY STATEMENT",
+            "file_num": [
+              "001-41134"
+            ],
+            "file_type": "DEFM14A",
+            "film_num": [
+              "25989480"
+            ],
+            "form": "DEFM14A",
+            "inc_states": [],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "DEFM14A"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001641172-25-009530:forms-4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.6554079,
+          "_source": {
+            "adsh": "0001641172-25-009530",
+            "biz_locations": [
+              "New York, NY",
+              "Sammamish, WA"
+            ],
+            "biz_states": [
+              "NY",
+              "WA"
+            ],
+            "ciks": [
+              "0001937891",
+              "0002044018"
+            ],
+            "display_names": [
+              "AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)",
+              "AMC Corp  (CIK 0002044018)"
+            ],
+            "file_date": "2025-05-12",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-283183",
+              "333-283183-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "25932185",
+              "25932186"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "E9",
+              "WA"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "5700",
+              "5700"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-055717:none-20260505xs4.htm",
+          "_index": "edgar_file",
+          "_score": 1.3613615,
+          "_source": {
+            "adsh": "0001104659-26-055717",
+            "biz_locations": [
+              "Claymont, DE",
+              "Thornton, CO"
+            ],
+            "biz_states": [
+              "DE",
+              "CO"
+            ],
+            "ciks": [
+              "0002101833",
+              "0001719324"
+            ],
+            "display_names": [
+              "ATII Holdings Inc.  (CIK 0002101833)",
+              "FORGE NANO, INC.  (CIK 0001719324)"
+            ],
+            "file_date": "2026-05-05",
+            "file_description": "S-4",
+            "file_num": [
+              "333-295563",
+              "333-295563-01"
+            ],
+            "file_type": "S-4",
+            "film_num": [
+              "26944432",
+              "26944433"
+            ],
+            "form": "S-4",
+            "inc_states": [
+              "DE",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-076467:none-20260618xs4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.1428452,
+          "_source": {
+            "adsh": "0001104659-26-076467",
+            "biz_locations": [
+              "Claymont, DE",
+              "Thornton, CO"
+            ],
+            "biz_states": [
+              "DE",
+              "CO"
+            ],
+            "ciks": [
+              "0002101833",
+              "0001719324"
+            ],
+            "display_names": [
+              "ATII Holdings Inc.  (NANO)  (CIK 0002101833)",
+              "FORGE NANO, INC.  (CIK 0001719324)"
+            ],
+            "file_date": "2026-06-22",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-295563",
+              "333-295563-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "261108044",
+              "261108045"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "DE",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3559",
+              "3559"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-104734:none-20260902xs4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.0301218,
+          "_source": {
+            "adsh": "0001104659-26-104734",
+            "biz_locations": [
+              "Claymont, DE",
+              "Thornton, CO"
+            ],
+            "biz_states": [
+              "DE",
+              "CO"
+            ],
+            "ciks": [
+              "0002101833",
+              "0001719324"
+            ],
+            "display_names": [
+              "ATII Holdings Inc.  (NANO)  (CIK 0002101833)",
+              "FORGE NANO, INC.  (CIK 0001719324)"
+            ],
+            "file_date": "2026-09-02",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-295563",
+              "333-295563-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "261354950",
+              "261354951"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "DE",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3559",
+              "3559"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-110234:tm2624841-1_defm14a.htm",
+          "_index": "edgar_file",
+          "_score": 1.0203443,
+          "_source": {
+            "adsh": "0001104659-26-110234",
+            "biz_locations": [
+              "Claymont, DE"
+            ],
+            "biz_states": [
+              "DE"
+            ],
+            "ciks": [
+              "0002028516"
+            ],
+            "display_names": [
+              "Archimedes Tech SPAC Partners II Co.  (ATII, ATIIU, ATIIW)  (CIK 0002028516)"
+            ],
+            "file_date": "2026-09-24",
+            "file_description": "DEFM14A",
+            "file_num": [
+              "001-42514"
+            ],
+            "file_type": "DEFM14A",
+            "film_num": [
+              "261402296"
+            ],
+            "form": "DEFM14A",
+            "inc_states": [],
+            "items": [],
+            "ma_i_individual": null,
+            "period_ending": null,
+            "root_forms": [
+              "DEFM14A"
+            ],
+            "sequence": 1,
+            "sics": [
+              "6770"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-086700:none-20260724xs4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.0111418,
+          "_source": {
+            "adsh": "0001104659-26-086700",
+            "biz_locations": [
+              "Claymont, DE",
+              "Thornton, CO"
+            ],
+            "biz_states": [
+              "DE",
+              "CO"
+            ],
+            "ciks": [
+              "0002101833",
+              "0001719324"
+            ],
+            "display_names": [
+              "ATII Holdings Inc.  (NANO)  (CIK 0002101833)",
+              "FORGE NANO, INC.  (CIK 0001719324)"
+            ],
+            "file_date": "2026-07-24",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-295563",
+              "333-295563-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "261202359",
+              "261202360"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "DE",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3559",
+              "3559"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-110231:tm264900-25_424b3.htm",
+          "_index": "edgar_file",
+          "_score": 1.0077567,
+          "_source": {
+            "adsh": "0001104659-26-110231",
+            "biz_locations": [
+              "Claymont, DE",
+              "Thornton, CO"
+            ],
+            "biz_states": [
+              "DE",
+              "CO"
+            ],
+            "ciks": [
+              "0002101833",
+              "0001719324"
+            ],
+            "display_names": [
+              "ATII Holdings Inc.  (NANO)  (CIK 0002101833)",
+              "FORGE NANO, INC.  (CIK 0001719324)"
+            ],
+            "file_date": "2026-09-24",
+            "file_description": "424B3",
+            "file_num": [
+              "333-295563",
+              "333-295563-01"
+            ],
+            "file_type": "424B3",
+            "film_num": [
+              "261402275",
+              "261402276"
+            ],
+            "form": "424B3",
+            "inc_states": [
+              "DE",
+              "DE"
+            ],
+            "items": [],
+            "ma_i_individual": null,
+            "period_ending": null,
+            "root_forms": [
+              "424B3"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3559",
+              "3559"
+            ],
+            "xsl": null
+          }
+        },
+        {
+          "_id": "0001104659-26-107980:none-20260915xs4a.htm",
+          "_index": "edgar_file",
+          "_score": 1.0028625,
+          "_source": {
+            "adsh": "0001104659-26-107980",
+            "biz_locations": [
+              "Claymont, DE",
+              "Thornton, CO"
+            ],
+            "biz_states": [
+              "DE",
+              "CO"
+            ],
+            "ciks": [
+              "0002101833",
+              "0001719324"
+            ],
+            "display_names": [
+              "ATII Holdings Inc.  (NANO)  (CIK 0002101833)",
+              "FORGE NANO, INC.  (CIK 0001719324)"
+            ],
+            "file_date": "2026-09-15",
+            "file_description": "S-4/A",
+            "file_num": [
+              "333-295563",
+              "333-295563-01"
+            ],
+            "file_type": "S-4/A",
+            "film_num": [
+              "261381843",
+              "261381844"
+            ],
+            "form": "S-4/A",
+            "inc_states": [
+              "DE",
+              "DE"
+            ],
+            "items": [],
+            "period_ending": null,
+            "root_forms": [
+              "S-4"
+            ],
+            "sequence": 1,
+            "sics": [
+              "3559",
+              "3559"
+            ],
+            "xsl": null
+          }
+        }
+      ],
+      "max_score": 14.63748,
+      "total": {
+        "relation": "eq",
+        "value": 116
+      }
+    },
+    "query": {
+      "_source": {
+        "exclude": [
+          "doc_text"
+        ]
+      },
+      "aggregations": {
+        "biz_states_filter": {
+          "terms": {
+            "field": "biz_states",
+            "size": 30
+          }
+        },
+        "entity_filter": {
+          "terms": {
+            "field": "display_names.raw",
+            "size": 30
+          }
+        },
+        "form_filter": {
+          "terms": {
+            "field": "root_forms",
+            "size": 30
+          }
+        },
+        "sic_filter": {
+          "terms": {
+            "field": "sics",
+            "size": 30
+          }
+        }
+      },
+      "from": 100,
+      "query": {
+        "bool": {
+          "filter": [
+            {
+              "range": {
+                "file_date": {
+                  "gte": "2025-01-01",
+                  "lte": "2026-10-10"
+                }
+              }
+            }
+          ],
+          "must": [
+            {
+              "match_phrase": {
+                "doc_text": "ChatGPT"
+              }
+            },
+            {
+              "match_phrase": {
+                "doc_text": "engagement letter"
+              }
+            },
+            {
+              "match_phrase": {
+                "doc_text": "restructuring"
+              }
+            }
+          ],
+          "must_not": [],
+          "should": []
+        }
+      },
+      "size": 100
+    },
+    "timed_out": false,
+    "took": 26
+  },
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22ChatGPT%22+%22engagement+letter%22+%22restructuring%22&dateRange=custom&startdt=2025-01-01&enddt=2026-10-10&from=100"
+}

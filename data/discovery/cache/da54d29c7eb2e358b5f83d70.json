@@ -1,0 +1,96 @@
+{
+  "response": {
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/71160429/376/2/modivcare-inc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Emergency Motion of Debtors For Entry of Interim and Final Orders (A) Authorizing Payment of Prepetition Trade Claims in the Ordinary Course of Business, and (B) Granting Related Relief (Filed By ModivCare Inc. ).(Related document(s):6 Emergency Motion (with hearing date), 64 Order Setting Hearing, 334 Order on Emergency Motion) (Attachments: # 1 Exhibit A (Revised Proposed Final Critical Vendors Order) # 2 Exhibit B (Redline)) (Davidson, Timothy) (Entered: 09/29/2025)",
+        "docket_entry_id": 439245546,
+        "docket_id": 71160429,
+        "document_number": 376,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-09-29",
+        "entry_number": 376,
+        "filepath_local": "recap/gov.uscourts.txsb.485766/gov.uscourts.txsb.485766.376.2.pdf",
+        "id": 461271906,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-12-08T23:27:33.463952Z",
+          "score": {
+            "bm25": 8.343954
+          },
+          "timestamp": "2026-08-11T15:02:17.093862Z"
+        },
+        "pacer_doc_id": "178053228488",
+        "page_count": 9,
+        "short_description": "Exhibit B (Redline)",
+        "snippet": "        Case 25-90309 Document 376-2 Filed in TXSB on 09/29/25 Page 1 of 9\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                          FOR THE SOUTHERN DISTRICT OF TEXAS\n                                   HOUSTON DIVISION\n\n------------------------------------------------------------ x\n                                                             :\nIn re:                                                       : Chapter 11\n                                             "
+      },
+      {
+        "absolute_url": "/docket/71160429/64/modivcare-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Interim Order (A) Authorizing Debtors to Pay Prepetition Trade Claims in the Ordinary Course of Business, and (B) Granting Related Relief, Signed on 8/21/2025 (Related document(s):6 Emergency Motion (with hearing date)) Hearing scheduled for 9/16/2025 at 09:00 AM at telephone and video conference. (abh4) (Entered: 08/21/2025)",
+        "docket_entry_id": 435476018,
+        "docket_id": 71160429,
+        "document_number": 64,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-21",
+        "entry_number": 64,
+        "filepath_local": "recap/gov.uscourts.txsb.485766/gov.uscourts.txsb.485766.64.0.pdf",
+        "id": 449890548,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-21T21:34:16.644105Z",
+          "score": {
+            "bm25": 8.343954
+          },
+          "timestamp": "2026-08-11T15:02:17.093862Z"
+        },
+        "pacer_doc_id": "178053052238",
+        "page_count": 7,
+        "short_description": "Setting Hearing",
+        "snippet": "          Case 25-90309 Document 64 Filed in TXSB on 08/21/25 Page 1 of 7\n                                                                                                   United States Bankruptcy Court\n                                                                                                       Southern District of Texas\n\n                                                                                                          ENTERED\n                       IN THE UNITED STATES BANKRUP"
+      },
+      {
+        "absolute_url": "/docket/71160429/6/modivcare-inc/",
+        "attachment_number": null,
+        "cites": [
+          463185,
+          1533948,
+          1551673,
+          1822913,
+          3190920,
+          4420638,
+          8412042
+        ],
+        "description": "Emergency Motion of Debtors For Entry of Interim and Final Orders (A) Authorizing Payment of Prepetition Trade Claims in the Ordinary Course of Business and (B) Granting Related Relief Filed by Debtor ModivCare Inc. Hearing scheduled for 8/21/2025 at 02:30 PM at telephone and video conference. (Attachments: # 1 Proposed Order (Interim Order) # 2 Proposed Order (Final Order)) (Davidson, Timothy) (Entered: 08/20/2025)",
+        "docket_entry_id": 435351353,
+        "docket_id": 71160429,
+        "document_number": 6,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-20",
+        "entry_number": 6,
+        "filepath_local": "recap/gov.uscourts.txsb.485766/gov.uscourts.txsb.485766.6.0.pdf",
+        "id": 449763807,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-21T02:04:36.901925Z",
+          "score": {
+            "bm25": 8.343954
+          },
+          "timestamp": "2026-08-11T15:02:17.093862Z"
+        },
+        "pacer_doc_id": "178053046152",
+        "page_count": 27,
+        "short_description": "Emergency Motion (Hearing Date Obtained Prior to Filing)",
+        "snippet": "           Case 25-90309 Document 6 Filed in TXSB on 08/20/25 Page 1 of 27\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                          FOR THE SOUTHERN DISTRICT OF TEXAS\n                                   HOUSTON DIVISION\n\n------------------------------------------------------------ x\n                                                             :\nIn re:                                                       : Chapter 11\n                                             "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A71160429+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

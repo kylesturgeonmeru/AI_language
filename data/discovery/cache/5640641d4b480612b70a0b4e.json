@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/72190554/305/fat-brands-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Employ Steptoe LLP as Counsel to the Independent Members of the Board of Directors of FAT Brands Inc. and the Independent Members of the Board of Directors of Twin Hospitality Group Inc. Effective as of the Petition Date. Objections/Request for Hearing Due in 21 days. Filed by Debtor FAT Brands Inc. (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Exhibit C # 4 Proposed Order) (Davidson, Timothy) (Entered: 02/25/2026)",
+        "docket_entry_id": 455104180,
+        "docket_id": 72190554,
+        "document_number": 305,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-25",
+        "entry_number": 305,
+        "filepath_local": "recap/gov.uscourts.txsb.491300/gov.uscourts.txsb.491300.305.0.pdf",
+        "id": 470039906,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-02-26T05:31:48.701471Z",
+          "score": {
+            "bm25": 7.6151915
+          },
+          "timestamp": "2026-09-11T13:32:34.292901Z"
+        },
+        "pacer_doc_id": "178053984721",
+        "page_count": 13,
+        "short_description": "Employ",
+        "snippet": "           Case 26-90126 Document 305 Filed in TXSB on 02/25/26 Page 1 of 13\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                            FOR THE SOUTHERN DISTRICT OF TEXAS\n                                     HOUSTON DIVISION\n------------------------------------------------------------ x\n                                                             :\nIn re:                                                       : Chapter 11\n                                      "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A72190554+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/72366159/296/cumulus-media-inc-and-atlanta-radio-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Wiley Rein LLP Pursuant to the Order Authorizing the Retention and Compensation of Certain Professionals Utilized in the Ordinary Course of Business (Filed By Cumulus Media Inc. ). (Higgins, John) (Entered: 04/30/2026)",
+        "docket_entry_id": 462569146,
+        "docket_id": 72366159,
+        "document_number": 296,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-30",
+        "entry_number": 296,
+        "filepath_local": "recap/gov.uscourts.txsb.492893/gov.uscourts.txsb.492893.296.0.pdf",
+        "id": 477686973,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-04-30T20:32:00.173844Z",
+          "score": {
+            "bm25": 8.608143
+          },
+          "timestamp": "2026-10-08T22:11:46.097806Z"
+        },
+        "pacer_doc_id": "178054332328",
+        "page_count": 3,
+        "short_description": "Declaration",
+        "snippet": "           Case 26-90346 Document 296 Filed in TXSB on 04/30/26 Page 1 of 3\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                           FOR THE SOUTHERN DISTRICT OF TEXAS\n                                    HOUSTON DIVISION\n\n                                                                  )\nIn re:                                                            ) Chapter 11\n                                                                  )\nCUMULUS MEDIA INC., et al."
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A72366159+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

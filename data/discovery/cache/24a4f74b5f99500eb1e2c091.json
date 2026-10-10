@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/70676726/177/wolfspeed-inc-and-wolfspeed-texas-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: / Declaration of Disinterestedness of Ayna.AI LLC Pursuant to Order Authorizing the Retention and Compensation of Certain Professionals Used in the Ordinary Course of Business (Filed By Wolfspeed, Inc. ).(Related document(s):174 Generic Order) (Davidson, Timothy) (Entered: 08/15/2025)",
+        "docket_entry_id": 434871738,
+        "docket_id": 70676726,
+        "document_number": 177,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-15",
+        "entry_number": 177,
+        "filepath_local": "recap/gov.uscourts.txsb.483982/gov.uscourts.txsb.483982.177.0.pdf",
+        "id": 449270237,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-15T20:06:16.117966Z",
+          "score": {
+            "bm25": 7.8455796
+          },
+          "timestamp": "2026-06-29T23:29:26.331554Z"
+        },
+        "pacer_doc_id": "178053022869",
+        "page_count": 3,
+        "short_description": "Declaration",
+        "snippet": "         Case 25-90163 Document 177 Filed in TXSB on 08/15/25 Page 1 of 3\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                          FOR THE SOUTHERN DISTRICT OF TEXAS\n                                   HOUSTON DIVISION\n\n------------------------------------------------------------ x\n                                                             :\nIn re:                                                       : Chapter 11\n                                              "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A70676726+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

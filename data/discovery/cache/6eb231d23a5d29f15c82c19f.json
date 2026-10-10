@@ -1,0 +1,62 @@
+{
+  "response": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/71919403/55/lugano-diamonds-jewelry-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Approving Application Appointing OMNI AGENT SOLUTIONS as Claims and Noticing Agent for the Debtors Pursuant to 28 U.S.C. 156(c) (Related Doc # 4) Order Signed on 11/18/2025. (Attachments: # 1 Exhibit) (JMW) (Entered: 11/18/2025)",
+        "docket_entry_id": 444542177,
+        "docket_id": 71919403,
+        "document_number": 55,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-18",
+        "entry_number": 55,
+        "filepath_local": "recap/gov.uscourts.deb.199825/gov.uscourts.deb.199825.55.0.pdf",
+        "id": 459212009,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-11-18T20:33:11.127583Z",
+          "score": {
+            "bm25": 8.672321
+          },
+          "timestamp": "2026-02-23T16:44:37.929064Z"
+        },
+        "pacer_doc_id": "042022684716",
+        "page_count": 6,
+        "short_description": "Application to Appoint Claims/Noticing Agent",
+        "snippet": "                    Case 25-12055-BLS            Doc 55       Filed 11/18/25        Page 1 of 6\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n\n    In re:                                                       Chapter 11\n\n    LUGANO DIAMONDS & JEWELRY INC.,                              Case No. 25-12055 (BLS)\n    et al.,1\n                                                                 (Jointly Administered)\n         "
+      },
+      {
+        "absolute_url": "/docket/71919403/4/lugano-diamonds-jewelry-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Appoint Claims/Noticing Agent OMNI AGENT SOLUTIONS Filed By Lugano Diamonds & Jewelry Inc. (Powell, Timothy) (Entered: 11/16/2025)",
+        "docket_entry_id": 444266488,
+        "docket_id": 71919403,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-16",
+        "entry_number": 4,
+        "filepath_local": "recap/gov.uscourts.deb.199825/gov.uscourts.deb.199825.4.0.pdf",
+        "id": 458930593,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-11-17T04:01:34.498366Z",
+          "score": {
+            "bm25": 8.672321
+          },
+          "timestamp": "2026-02-23T16:44:37.929064Z"
+        },
+        "pacer_doc_id": "042022678882",
+        "page_count": 40,
+        "short_description": "Application to Appoint Claims/Noticing Agent",
+        "snippet": "                                  IN THE UNITED STATES BANKRUPTCY COURT\n                                       FOR THE DISTRICT OF DELAWARE\n\n\n             In re:                                                      Chapter 11\n\n             LUGANO DIAMONDS & JEWELRY INC.,                             Case No. 25-12055 (___)\n             et al.,1\n                                                                         (Joint Administration Requested)\n                             Debtors.\n\n\n        "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A71919403+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

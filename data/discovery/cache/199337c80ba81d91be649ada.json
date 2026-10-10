@@ -1,0 +1,98 @@
+{
+  "response": {
+    "count": 23,
+    "next": null,
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjM1MTQ1NCZzPTQ4MTgzMzg4MCZyPTEmdD1yZCZkPTIwMjYtMTAtMTAmcD0y&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A73450943+AND+is_available%3Atrue&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/73450943/13/1/gohealth-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Motion to Authorize Motion of Debtors for Entry of Interim and Final Orders (I) Authorizing Payment of All Trade Claims in the Ordinary Course of Business, (II) Confirming the Admiinistrative Expense Priority of Outstanding Orders, and (III) Granting Related Relief Filed by GoHealth, Inc.. (Attachments: # 1 Exhibit A - Proposed Interim Order # 2 Exhibit B - Proposed Final Order) (Jones, Laura Davis) (Entered: 06/07/2026)",
+        "docket_entry_id": 466590447,
+        "docket_id": 73450943,
+        "document_number": 13,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-06-07",
+        "entry_number": 13,
+        "filepath_local": "recap/gov.uscourts.deb.201581/gov.uscourts.deb.201581.13.1.pdf",
+        "id": 481833880,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-06-08T01:25:29.145564Z",
+          "score": {
+            "bm25": 8.351454
+          },
+          "timestamp": "2026-06-08T12:30:36.101625Z"
+        },
+        "pacer_doc_id": "042023022938",
+        "page_count": 8,
+        "short_description": "Exhibit A - Proposed Interim Order",
+        "snippet": "Case 26-10914   Doc 13-1   Filed 06/07/26   Page 1 of 8\n\n\n\n\n                      Exhibit A\n\n                Proposed Interim Order\n\f                     Case 26-10914           Doc 13-1        Filed 06/07/26        Page 2 of 8\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                     )\n    In re:                                                           )   C"
+      },
+      {
+        "absolute_url": "/docket/73450943/13/gohealth-inc/",
+        "attachment_number": null,
+        "cites": [
+          90673,
+          1533948,
+          1551673,
+          1826941,
+          1844238,
+          1872425,
+          1889194,
+          1983380,
+          9873500
+        ],
+        "description": "Motion to Authorize Motion of Debtors for Entry of Interim and Final Orders (I) Authorizing Payment of All Trade Claims in the Ordinary Course of Business, (II) Confirming the Admiinistrative Expense Priority of Outstanding Orders, and (III) Granting Related Relief Filed by GoHealth, Inc.. (Attachments: # 1 Exhibit A - Proposed Interim Order # 2 Exhibit B - Proposed Final Order) (Jones, Laura Davis) (Entered: 06/07/2026)",
+        "docket_entry_id": 466590447,
+        "docket_id": 73450943,
+        "document_number": 13,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-07",
+        "entry_number": 13,
+        "filepath_local": "recap/gov.uscourts.deb.201581/gov.uscourts.deb.201581.13.0_1.pdf",
+        "id": 481833533,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-06-08T00:54:49.413438Z",
+          "score": {
+            "bm25": 8.351454
+          },
+          "timestamp": "2026-06-08T20:23:26.048129Z"
+        },
+        "pacer_doc_id": "042023022937",
+        "page_count": 18,
+        "short_description": "Authorize - Motion",
+        "snippet": "                Case 26-10914-TMH               Doc 13       Filed 06/07/26         Page 1 of 18\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                             FOR THE DISTRICT OF DELAWARE\n\n                                                                        )\nIn re:                                                                  )   Chapter 11\n                                                                        )\nGOHEALTH, INC., et al.,1                   "
+      },
+      {
+        "absolute_url": "/docket/73450943/8/gohealth-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Appoint Claims/Noticing Agent DONLIN, RECANO & CO., LLC Filed By GoHealth, Inc. (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Terry Declaration)(Jones, Laura Davis) (Entered: 06/07/2026)",
+        "docket_entry_id": 466588721,
+        "docket_id": 73450943,
+        "document_number": 8,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-07",
+        "entry_number": 8,
+        "filepath_local": "recap/gov.uscourts.deb.201581/gov.uscourts.deb.201581.8.0.pdf",
+        "id": 481831728,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-06-07T23:31:02.682194Z",
+          "score": {
+            "bm25": 8.351454
+          },
+          "timestamp": "2026-06-08T20:10:19.776366Z"
+        },
+        "pacer_doc_id": "042023022915",
+        "page_count": 14,
+        "short_description": "Application to Appoint Claims/Noticing Agent",
+        "snippet": "                    Case 26-10914-TMH              Doc 8      Filed 06/07/26        Page 1 of 14\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    GOHEALTH, INC., et al.,1                                "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjM1MTQ1NCZzPTQ4MTgzMzg4MSZ0PXJkJmQ9MjAyNi0xMC0xMCZwPTM%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A73450943+AND+is_available%3Atrue&type=rd"
+}

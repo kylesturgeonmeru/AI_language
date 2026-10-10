@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/73322689/112/1/spanish-broadcasting-system-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Order Approving Application to Employ Riveron Management Services, LLC, Effective as of the Petition Date, (II) Approving the Terms of Riveron Management Services, LLC's Retention and Employment, (III) Designating Jesse York as Chief Restructuring Officer Effective as of the Petition Date, and (IV) Granting Related Relief (Related Doc # 62, 97) Order Signed on 6/4/2026. (Attachments: # 1 Exhibit 1: Engagement Letter) (JMW) (Entered: 06/04/2026)",
+        "docket_entry_id": 466343063,
+        "docket_id": 73322689,
+        "document_number": 112,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-06-04",
+        "entry_number": 112,
+        "filepath_local": "recap/gov.uscourts.deb.201204/gov.uscourts.deb.201204.112.1.pdf",
+        "id": 485803243,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-07-10T17:42:18.875544Z",
+          "score": {
+            "bm25": 8.47311
+          },
+          "timestamp": "2026-07-10T17:44:00.219523Z"
+        },
+        "pacer_doc_id": "042023018781",
+        "page_count": 18,
+        "short_description": "Exhibit 1: Engagement Letter",
+        "snippet": "Case 26-10708-BLS   Doc 112-1   Filed 06/04/26   Page 1 of 18\n\n\n\n\n                        Exhibit 1\n\n                    Engagement Letter\n\f            Case 26-10708-BLS        Doc 112-1     Filed 06/04/26    Page 2 of 18\n\n\n\nApril 15, 2026\n\nMr. Richard D. Lara\nExecutive Vice President and General Counsel\nSpanish Broadcasting System, Inc.\n7007 NW 77th Ave.\nMiami, Florida 33166\n\n      Re: Engagement to Provide Interim Management Services to Spanish\nBroadcasting System, Inc.\n\nDear Mr. Lara,\n\nThe pu"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A73322689+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

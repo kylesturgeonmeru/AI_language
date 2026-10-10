@@ -1,0 +1,54 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/71012535/7/agdp-holding-inc/",
+        "attachment_number": null,
+        "cites": [
+          203890,
+          476263,
+          591132,
+          791140,
+          1530682,
+          1539892,
+          1542964,
+          1548225,
+          1825411,
+          1844146,
+          1844238,
+          1889194,
+          1945900,
+          2002557,
+          2003170,
+          2004320,
+          9004759
+        ],
+        "description": "Motion Regarding Chapter 11 First Day Motions // Debtors' Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Pay Their Obligations Under Prepetition Insurance Policies, (B) Continue to Pay Certain Brokerage Fees, (C) Renew, Supplement, Modify, or Purchase Insurance Coverage, (D) Enter into New Financing Agreements in the Ordinary Course of Business, and (E) Continue the Workers' Compensation Program, and (II) Granting Related Relief Filed By AGDP Holding Inc. (Gawrysiak, Sarah) (Entered: 08/04/2025)",
+        "docket_entry_id": 433568732,
+        "docket_id": 71012535,
+        "document_number": 7,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-08-04",
+        "entry_number": 7,
+        "filepath_local": "recap/gov.uscourts.deb.198542/gov.uscourts.deb.198542.7.0_3.pdf",
+        "id": 447925234,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-08-04T06:03:24.994528Z",
+          "score": {
+            "bm25": 8.47311
+          },
+          "timestamp": "2026-07-24T19:03:45.677662Z"
+        },
+        "pacer_doc_id": "042022466696",
+        "page_count": 32,
+        "short_description": "Motion Re: Chapter 11 First Day Motions",
+        "snippet": "                                 Case 25-11446        Doc 7      Filed 08/04/25         Page 1 of 32\n\n\n\n\n                                    IN THE UNITED STATES BANKRUPTCY COURT\n                                         FOR THE DISTRICT OF DELAWARE\n\n\n             In re:                                                      Chapter 11\n\n             AGDP HOLDING INC., et al., 1                                Case No. 25-11446 ([\uf09f])\n\n                                       Debtors.                   "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A71012535+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

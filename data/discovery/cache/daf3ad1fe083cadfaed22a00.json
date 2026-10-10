@@ -1,0 +1,47 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/69744209/17/brightmark-plastics-renewal-llc/",
+        "attachment_number": null,
+        "cites": [
+          90673,
+          96241,
+          112445,
+          1808471,
+          1844146,
+          1844238,
+          1889194,
+          1909401,
+          1945900,
+          1983380
+        ],
+        "description": "Motion to Pay Employee Wages //Debtors Motion for Entry of Interim and Final Orders (I) Authorizing, but Not Directing, the Debtors to (A) Pay Prepetition Wages, Compensation, Employee Benefits, and Other Employee Obligations and (B) Continue Certain Employee Benefit Programs in the Ordinary Course; (II) Authorizing All Banks to Honor Prepetition Checks for Payment of Prepetition Employee Obligations; and (III) Granting Related Relief Filed By Brightmark Plastics Renewal LLC (McNeill, R.) (Entered: 03/17/2025)",
+        "docket_entry_id": 419511576,
+        "docket_id": 69744209,
+        "document_number": 17,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-17",
+        "entry_number": 17,
+        "filepath_local": "recap/gov.uscourts.deb.196147/gov.uscourts.deb.196147.17.0.pdf",
+        "id": 433438034,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-17T19:32:36.795670Z",
+          "score": {
+            "bm25": 6.764202
+          },
+          "timestamp": "2025-06-17T01:04:29.380484Z"
+        },
+        "pacer_doc_id": "042022168899",
+        "page_count": 36,
+        "short_description": "Motion to Pay Employee Wages (BF)",
+        "snippet": "                   Case 25-10472-LSS              Doc 17        Filed 03/17/25         Page 1 of 36\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n\n    In re:                                                     Chapter 11\n\n    Brightmark Plastics Renewal LLC, et al.,1                  Case No. 25-10472 (LSS)\n\n                     Debtors.                                  (Joint Administration Requested)\n\n\n         "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A69744209+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

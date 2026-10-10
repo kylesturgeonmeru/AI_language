@@ -1,0 +1,68 @@
+{
+  "response": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/71314102/885/us-magnesium-llc/",
+        "attachment_number": null,
+        "cites": [
+          500715,
+          742630
+        ],
+        "description": "Limited Objection to Debtor's Motion for Authorization to (i) Enter into and Perform its Obligations Under an Asset Monetization Agreement in Connection with the Sale of the Debtor's Remaining M&E and Scrap Assets Free and Clear of All Liens, Claims, and Encumbrances of any Nature; (ii) Retain the Services of SB360 Capital Partners, LLC as its Liquidation Consultants in Connection Therewith; and (iii) Granting Related Relief (related document(s)866) Filed by United States of America (on behalf of U.S. Environmental Protection Agency) (Indrisano, Matthew) (Entered: 05/15/2026)",
+        "docket_entry_id": 464242388,
+        "docket_id": 71314102,
+        "document_number": 885,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-05-15",
+        "entry_number": 885,
+        "filepath_local": "recap/gov.uscourts.deb.199340/gov.uscourts.deb.199340.885.0.pdf",
+        "id": 479409779,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-05-15T20:05:54.740332Z",
+          "score": {
+            "bm25": 8.474655
+          },
+          "timestamp": "2026-08-19T16:46:28.205133Z"
+        },
+        "pacer_doc_id": "042022987084",
+        "page_count": 6,
+        "short_description": "Objection",
+        "snippet": "                 Case 25-11696-BLS             Doc 885        Filed 05/15/26       Page 1 of 6\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                             FOR THE DISTRICT OF DELAWARE\n\nIn re                                                 :   Chapter 11\n                                                      :\nUS MAGNESIUM LLC,1                                    :   Case Number 25-11696 (BLS)\n                                                      :\n        Debtor"
+      },
+      {
+        "absolute_url": "/docket/71314102/66/us-magnesium-llc/",
+        "attachment_number": null,
+        "cites": [
+          1819084,
+          1824500
+        ],
+        "description": "Motion to Authorize Motion For Entry of an Order (I) Authorizing Debtor's Retention and Payment of Professionals Utilized in The Ordinary Course of Business Pursuant to 11 U.S.C. \u00a7 327(B); and (II) Granting Related Relief Filed by US Magnesium LLC. Hearing scheduled for 10/6/2025 at 11:00 AM at US Bankruptcy Court, 824 Market St., 6th Fl., Courtroom #1, Wilmington, Delaware. Objections due by 9/29/2025. (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Notice) (Manning, Margaret) (Entered: 09/22/2025)",
+        "docket_entry_id": 438597017,
+        "docket_id": 71314102,
+        "document_number": 66,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-09-22",
+        "entry_number": 66,
+        "filepath_local": "recap/gov.uscourts.deb.199340/gov.uscourts.deb.199340.66.0.pdf",
+        "id": 453102394,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-22T21:00:41.565536Z",
+          "score": {
+            "bm25": 8.474655
+          },
+          "timestamp": "2026-08-14T02:06:07.669216Z"
+        },
+        "pacer_doc_id": "042022570734",
+        "page_count": 11,
+        "short_description": "Authorize - Motion",
+        "snippet": "                  Case 25-11696-BLS             Doc 66       Filed 09/22/25        Page 1 of 11\n\n\n\n\n                       IN THE UNITED STATES BANKRUPTCY COURT\n                            FOR THE DISTRICT OF DELAWARE\n\nIn re:\n                                                           Chapter 11\n                              1\nUS MAGNESIUM LLC,\n                                                           Case No. 25-11696 (BLS)\n                 Debtor.\n                                              "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A71314102+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

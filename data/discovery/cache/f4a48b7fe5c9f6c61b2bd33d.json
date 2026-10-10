@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/71717482/29/primalend-capital-partners-lp/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Debtors' Chapter 11 Petitions and Requests for First Day Relief filed by Debtor PrimaLend Capital Partners, LP (RE: related document(s)4 Motion for joint administration of cases 25-90013, 25-90014 and 25-90015, 5 Notice of designation as complex chapter 11 case, 6 Application to employ Stretto, Inc. as Claims Agent, 9 Motion to establish procedures - Emergency Motion for Entry of an Order (I) Authorizing the Debtors to File (A) a Consolidated Creditor Matrix, (B) a Consolidated List of Top 30 Unsecured Creditors; (II) Authorizing the Debtors to Redact Certain PII fr, 10 Motion to pay pre-petition debt- Debtors' Emergency Motion for Entry of Order (I) Authorizing the Debtors to Pay Prepetition Wages, Compensation, and Employee Benefits, and (II) Granting Related Relief, 11 Motion to pay tax debts- Debtors' Emergency Motion for an Order (I) Authorizing the Debtors to Pay Certain Taxes and Fees and (II) Granting Related Relief, 12 Motion regarding utilities. - Debtors' Emergency Motion for an Order (I) Prohibiting Utilities from Altering, Refusing, or Discontinuing Service; (II) Deeming Utilities Adequately Assured of Future Performance; (III) Establishing Procedures for, 14 Motion regarding pre or post petition contracts. - Debtors' Emergency Motion for an Order (I) Authorizing the Debtors to (A) Continue Prepetition Insurance Coverage and Satisfy Prepetition Obligations Related Thereto, and (B) Renew, Amend, Supp, 17 Motion to extend time to file schedules or new case deficiencies, excluding matrix (RE: related document(s)2 Notice of deficiency), 20 Motion to maintain bank accounts. - Debtors' Emergency Motion (I) Authorizing the Debtors to (A) Continue to Operate Their Existing Cash Management System and Maintain Existing Bank Accounts, (B) Continue Using Existing Checks and Business Form, 26 Motion to establish procedures. - Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to Continue Their Servicing Obligations, (II) Approving Loss Mitigation and Settlement Procedures, and (III) Granting). (Kathman, Jason)",
+        "docket_entry_id": 441748746,
+        "docket_id": 71717482,
+        "document_number": 29,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-10-22",
+        "entry_number": 29,
+        "filepath_local": "recap/gov.uscourts.txnb.533992/gov.uscourts.txnb.533992.29.0.pdf",
+        "id": 456337809,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-10-22T21:05:25.339789Z",
+          "score": {
+            "bm25": 8.412607
+          },
+          "timestamp": "2026-05-29T19:06:48.969722Z"
+        },
+        "pacer_doc_id": "176051210528",
+        "page_count": 35,
+        "short_description": "Declaration",
+        "snippet": "Case 25-90013-mxm11              Doc 29 Filed 10/22/25 Entered 10/22/25 15:56:40                           Desc Main\n                                       Document    Page 1 of 35\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                           FOR THE NORTHERN DISTRICT OF TEXAS\n                                   FORT WORTH DIVISION\n\n In re:                                  \u00a7                               Chapter 11\n                                         \u00a7\n PRIMALE"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A71717482+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/74666757/237/bfg-supply-co-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Mailing by Claims Agent Re: Second Interim DIP Order; Amended Agenda; Stalking Horse Notice. Filed by Epiq Corporate Restructuring LLC. (related document(s)223, 224, 227) (Mailloux, Kathryn) (Entered: 09/30/2026)",
+        "docket_entry_id": 480069974,
+        "docket_id": 74666757,
+        "document_number": 237,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-09-30",
+        "entry_number": 237,
+        "filepath_local": "recap/gov.uscourts.deb.202341/gov.uscourts.deb.202341.237.0.pdf",
+        "id": 495759097,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-09-30T23:34:52.577212Z",
+          "score": {
+            "bm25": 7.925054
+          },
+          "timestamp": "2026-10-01T15:17:32.755286Z"
+        },
+        "pacer_doc_id": "042023219959",
+        "page_count": 8,
+        "short_description": "Certificate of Mailing",
+        "snippet": "                        IN THE UNITED STATES BANKRUPTCY COURT\n                             FOR THE DISTRICT OF DELAWARE\n\n\n    In re:                                                       Chapter 11\n\n    BFG Supply Co., LLC, et al.,1                                Case No. 26-11284 (CTG)\n\n                             Debtors.                            (Jointly Administered)\n\n                                                                 Ref. Docket Nos. 223 \u2013 224, & 227\n\n\n                     "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A74666757+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

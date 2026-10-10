@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/70242583/16/flagship-resort-development-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Cherie Parks, Chief Financial Officer, In Support of Debtor's Chapter 11 Petition and First Day Motions in support of (related document:1 Voluntary Petition (Chapter 11) filed by Debtor Flagship Resort Development Corporation, 4 Application for Designation as a Chapter 11 Complex Case filed by Debtor Flagship Resort Development Corporation, 5 Motion to Extend Time filed by Debtor Flagship Resort Development Corporation, 6 Motion (Generic) filed by Debtor Flagship Resort Development Corporation, 7 Motion (Generic) filed by Debtor Flagship Resort Development Corporation, 8 Motion (Generic) filed by Debtor Flagship Resort Development Corporation, 9 Motion (Generic) filed by Debtor Flagship Resort Development Corporation, 10 Motion to Use Cash Collateral filed by Debtor Flagship Resort Development Corporation, 11 Motion (Generic) filed by Debtor Flagship Resort Development Corporation, 12 Support filed by Debtor Flagship Resort Development Corporation, 13 Motion (Generic) filed by Debtor Flagship Resort Development Corporation, 15 Motion to Retain Claims and Noticing Agent filed by Debtor Flagship Resort Development Corporation) filed by Warren J. Martin Jr. on behalf of Flagship Resort Development Corporation. (Attachments: # 1 Exhibit A - Related Entity Structure Chart # 2 Exhibit B - Unrelated Entity Corporate Structure Chart # 3 Exhibit C - Settlement Term Sheet # 4 Exhibit D - Budget/13 Week Cash Flow) (Martin, Warren) (Entered: 05/12/2025)",
+        "docket_entry_id": 425088777,
+        "docket_id": 70242583,
+        "document_number": 16,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-05-12",
+        "entry_number": 16,
+        "filepath_local": "recap/gov.uscourts.njb.1126248/gov.uscourts.njb.1126248.16.0.pdf",
+        "id": 439216445,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-05-12T15:30:50.706235Z",
+          "score": {
+            "bm25": 7.8814793
+          },
+          "timestamp": "2025-05-27T16:33:52.966644Z"
+        },
+        "pacer_doc_id": "118068800516",
+        "page_count": 30,
+        "short_description": "Support",
+        "snippet": "Case 25-15047-JNP             Doc 16      Filed 05/12/25 Entered 05/12/25 11:27:00                        Desc Main\n                                         Document      Page 1 of 30\n\n\n\n    UNITED STATES BANKRUPTCY COURT\n    DISTRICT OF NEW JERSEY\n    Caption in Compliance with D.N.J. LBR 9004-1\n    PORZIO, BROMBERG & NEWMAN, P.C.\n    100 Southgate Parkway\n    P.O. Box 1997\n    Morristown, New Jersey 07962\n    (973) 538-4006\n    (973) 538-5146 Facsimile\n    Warren J. Martin, Jr., Esq. (wjmartin"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A70242583+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

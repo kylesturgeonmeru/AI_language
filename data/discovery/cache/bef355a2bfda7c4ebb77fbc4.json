@@ -1,0 +1,62 @@
+{
+  "response": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/70568234/435/higher-ground-education-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Disinterestedness of David M. Abner & Associates Pursuant to the Order (I) Authorizing the Retention and Compensation of Certain Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief filed by Debtor Higher Ground Education, Inc. (RE: related document(s)411 Order on motion for leave). (O'Neil, Holland)",
+        "docket_entry_id": 437428942,
+        "docket_id": 70568234,
+        "document_number": 435,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-09-10",
+        "entry_number": 435,
+        "filepath_local": "recap/gov.uscourts.txnb.529057/gov.uscourts.txnb.529057.435.0.pdf",
+        "id": 451902088,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-09-10T21:33:11.396522Z",
+          "score": {
+            "bm25": 8.224717
+          },
+          "timestamp": "2026-07-10T12:21:55.474610Z"
+        },
+        "pacer_doc_id": "176051009377",
+        "page_count": 3,
+        "short_description": "Declaration",
+        "snippet": "Case 25-80121-mvl11              Doc 435 Filed 09/10/25 Entered 09/10/25 16:02:37                          Desc\n                                   Main Document     Page 1 of 3\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                          FOR THE NORTHERN DISTRICT OF TEXAS\n                                    DALLAS DIVISION\n\n                                                          \u00a7\nIn re:                                                    \u00a7   Chapter 11\n          "
+      },
+      {
+        "absolute_url": "/docket/70568234/15/higher-ground-education-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: /Declaration of Jonathan McCarthy in Support of First Day Motions filed by Debtor Higher Ground Education, Inc. (RE: related document(s)2 Motion for joint administration of cases 25-80121, 25-80122, 25-80123, 25-80124, 25-80125, 25-80126, 25-80127, 25-80128, 25-80129, 25-80130, 25-80131, 25-80132, 25-80133, 25-80134, 25-80135, 25-80136, 25-80137, 25-80138, 25-80139, 25-80140, 25-80141,, 3 Notice of designation as complex chapter 11 case, 4 Motion to extend time to file schedules or new case deficiencies, excluding matrix, 5 Motion for approval of form notice. /Debtors Emergency Motion for Entry of an Order (I) Authorizing the Debtors to Serve a Consolidated List of Creditors (II) Authorizing the Debtors to Redact Certain Personal Identification Information; (III) Appro, 6 Application to employ Kurtzman Carson Consultants, LLC dba Verita Global as Claims Agent, 7 Motion to establish procedures to Reject Executory Contracts and Unexpired Leases.., 8 Motion regarding pre or post petition contracts. /Debtors Emergency Motion for Entry of an Order (I) Authorizing the Debtors to (A) Continue Their Insurance Policies and Honor All Obligations in Respect Thereof, (B) Renew, Supplement, and Enter Into, 9 Emergency Motion to pay tax debts/Debtors Emergency Motion for Entry of an Order (I) Authorizing the Payment of Certain Prepetition Taxes and Postpetition Taxes and (II) Granting Related Relie, 10 Motion regarding pre or post petition contracts. /Debtors Emergency Motion for Entry of an Order (I) Authorizing the Debtors to Maintain and Administer Their Existing Deposit Programs and Honor Certain Prepetition Obligations Related Thereto and (II, 11 Motion regarding pre-petition claims. /Debtors Emergency Motion for Entry of an Order (I) Authorizing Debtors to Pay Certain Prepetition Claims of Foreign Vendors and (II) Granting Related Relie, 12 Motion to pay pre-petition debt/Debtors Emergency Motion for Entry of an Order (I) Authorizing Debtors to (A) Pay Prepetition Wages, Salaries, Other Compensation, and Reimbursable Expenses, (B) Continue Employee Benefits Programs, and (II) Grant Rel, 13 Motion to maintain bank accounts. /Debtors Emergency Motion for Entry of an Order (I) Authorizing Debtors to (A) Continue to Operate Their Cash Management System, (B) Honor Certain Prepetition Obligations Related Thereto, (C) Maintain Existing Busin, 14 Motion for DIP financing. /Debtors Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Obtain Postpetition Senior Secured Financing from 2HR Learning, Inc.; (B) Obtain PostPetition Junior Secured Financing from). (O'Neil, Holland)",
+        "docket_entry_id": 428827205,
+        "docket_id": 70568234,
+        "document_number": 15,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-06-18",
+        "entry_number": 15,
+        "filepath_local": "recap/gov.uscourts.txnb.529057/gov.uscourts.txnb.529057.15.0.pdf",
+        "id": 443065651,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-06-18T09:01:03.828229Z",
+          "score": {
+            "bm25": 8.224717
+          },
+          "timestamp": "2026-03-03T15:01:16.854363Z"
+        },
+        "pacer_doc_id": "176050634614",
+        "page_count": 76,
+        "short_description": "Declaration",
+        "snippet": "Case 25-80121-mvl11           Doc 15     Filed 06/18/25 Entered 06/18/25 03:46:27                      Desc Main\n                                        Document     Page 1 of 76\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                          FOR THE NORTHERN DISTRICT OF TEXAS\n                                    DALLAS DIVISION\n\n                                                             \u00a7\n     In re:                                                  \u00a7   Chapter 11\n   "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A70568234+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

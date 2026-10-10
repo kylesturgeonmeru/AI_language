@@ -1,0 +1,65 @@
+{
+  "response": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/69898417/325/global-clean-energy-holdings-inc-and-official-committee-of-unsecured/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: /First Supplemental Declaration of Eric W. Kaup in Support of Debtors' Application for Entry of an Order (I) Authorizing the Retention and Employment of Hilco Valuation Services, LLC Effective as of the Petition Date, (II) Waiving Certain Timekeeping Requirements, and (III) Granting Related Relief (Filed By Global Clean Energy Holdings, Inc. ). (Bruner, Robert) (Entered: 07/21/2025)",
+        "docket_entry_id": 432090862,
+        "docket_id": 69898417,
+        "document_number": 325,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-07-21",
+        "entry_number": 325,
+        "filepath_local": "recap/gov.uscourts.txsb.481646/gov.uscourts.txsb.481646.325.0.pdf",
+        "id": 446411410,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-07-21T21:05:19.995076Z",
+          "score": {
+            "bm25": 7.6895924
+          },
+          "timestamp": "2025-11-03T22:35:15.016717Z"
+        },
+        "pacer_doc_id": "178052895498",
+        "page_count": 8,
+        "short_description": "Declaration",
+        "snippet": "              Case 25-90113 Document 325 Filed in TXSB on 07/21/25 Page 1 of 8\n\n\n\n\n                               UNITED STATES BANKRUPTCY COURT\n                                 SOUTHERN DISTRICT OF TEXAS\n                                       HOUSTON DIVISION\n\n                                                                    )\n    In re:                                                          )     Chapter 11\n                                                                    )\n    GLOBAL CL"
+      },
+      {
+        "absolute_url": "/docket/69898417/99/global-clean-energy-holdings-inc/",
+        "attachment_number": null,
+        "cites": [
+          1819084,
+          2004320
+        ],
+        "description": "Motion Debtors' Motion for Entry of an Order Authorizing the Retention and Compensation of Certain Professionals Utilized in the Ordinary Course of Business Filed by Debtor Global Clean Energy Holdings, Inc. (Attachments: # 1 Proposed Order) (Boland, Jason) (Entered: 04/29/2025)",
+        "docket_entry_id": 423862113,
+        "docket_id": 69898417,
+        "document_number": 99,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-29",
+        "entry_number": 99,
+        "filepath_local": "recap/gov.uscourts.txsb.481646/gov.uscourts.txsb.481646.99.0.pdf",
+        "id": 437939745,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-29T20:33:36.961690Z",
+          "score": {
+            "bm25": 7.6895924
+          },
+          "timestamp": "2025-11-03T22:35:15.016717Z"
+        },
+        "pacer_doc_id": "178052506064",
+        "page_count": 12,
+        "short_description": "Generic Motion",
+        "snippet": "             Case 25-90113 Document 99 Filed in TXSB on 04/29/25 Page 1 of 12\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                            FOR THE SOUTHERN DISTRICT OF TEXAS\n                                     HOUSTON DIVISION\n\n                                                                     )\n    In re:                                                           )     Chapter 11\n                                                                     )\n    GLOB"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A69898417+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

@@ -1,7 +1,5 @@
 # Discovery summary (Checkpoint 1 input)
 
-**Incomplete:** CourtListener stopped: CourtListener daily budget spent; rerun after the rolling window frees up.. Rerun later; cached pages are reused.
-
 Generated 10/10/2026. Counts are discovery candidates, not confirmed AI provisions; role, filing type, and firm are guesses from the docket text.
 
 ## Track B (AI terms in retention filings)
@@ -54,5 +52,5 @@ By AI term (a document can match several):
 
 ## SEC EDGAR
 
-- Hits: 3562 (1876 unique files), of which exhibits: 191
+- Hits: 0 (0 unique files), of which exhibits: 0
 

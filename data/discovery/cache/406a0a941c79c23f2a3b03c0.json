@@ -1,0 +1,90 @@
+{
+  "response": {
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/69651079/47/nikola-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Interim Order (I) Authorizing the Debtors to (A) Pay Prepetition Wages, Compensation, Employee Benefits, and Other Employee Obligations and (B) Continue Certain Employee Benefit Programs in the Ordinary Course; (II) Authorizing All Banks to Honor Prepetition Checks for Payment of Prepetition Employee Obligations; and (III) Granting Related Relief (related document(s)10) Order Signed on 2/20/2025. (DRG) (Entered: 02/20/2025)",
+        "docket_entry_id": 417050785,
+        "docket_id": 69651079,
+        "document_number": 47,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-20",
+        "entry_number": 47,
+        "filepath_local": "recap/gov.uscourts.deb.195826/gov.uscourts.deb.195826.47.0.pdf",
+        "id": 430802772,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-20T17:32:33.289437Z",
+          "score": {
+            "bm25": 8.401624
+          },
+          "timestamp": "2026-02-27T19:01:54.935473Z"
+        },
+        "pacer_doc_id": "042022117881",
+        "page_count": 6,
+        "short_description": "Motion to Pay Employee Wages",
+        "snippet": "                    Case 25-10258-TMH               Doc 47       Filed 02/20/25         Page 1 of 6\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n\n    In re:                                                     Chapter 11\n\n    Nikola Corp., et al.,1                                     Case No. 25-10258 (TMH)\n\n                     Debtors.                                  (Jointly Administered)\n\n                    "
+      },
+      {
+        "absolute_url": "/docket/69651079/50/nikola-corporation/",
+        "attachment_number": null,
+        "cites": [
+          780365
+        ],
+        "description": "Order Authorizing the Debtors to Employ and Retain Epiq Corporate Restructuring, LLC as Claims and Noticing Agent Effective as of the Petition Date (related document(s)22) Order Signed on 2/20/2025. (AMH) (Entered: 02/20/2025)",
+        "docket_entry_id": 417050766,
+        "docket_id": 69651079,
+        "document_number": 50,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-20",
+        "entry_number": 50,
+        "filepath_local": "recap/gov.uscourts.deb.195826/gov.uscourts.deb.195826.50.0.pdf",
+        "id": 430802753,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-20T17:32:32.636129Z",
+          "score": {
+            "bm25": 8.401624
+          },
+          "timestamp": "2026-02-27T19:01:54.935473Z"
+        },
+        "pacer_doc_id": "042022117896",
+        "page_count": 6,
+        "short_description": "Application to Appoint Claims/Noticing Agent",
+        "snippet": "                   Case 25-10258-TMH                Doc 50       Filed 02/20/25         Page 1 of 6\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n\n    In re:                                                     Chapter 11\n\n    Nikola Corp., et al.,1                                     Case No. 25-10258 (TMH)\n\n                     Debtors.                                  (Jointly Administered)\n\n                    "
+      },
+      {
+        "absolute_url": "/docket/69651079/22/nikola-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Appoint Claims/Noticing Agent EPIQ CORPORATE RESTRUCTURING, LLC Filed By Nikola Corporation (Kotsiras, Maria) (Entered: 02/19/2025)",
+        "docket_entry_id": 416911471,
+        "docket_id": 69651079,
+        "document_number": 22,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 22,
+        "filepath_local": "recap/gov.uscourts.deb.195826/gov.uscourts.deb.195826.22.0.pdf",
+        "id": 430657737,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T16:01:26.149805Z",
+          "score": {
+            "bm25": 8.401624
+          },
+          "timestamp": "2026-02-27T19:01:54.935473Z"
+        },
+        "pacer_doc_id": "042022114785",
+        "page_count": 49,
+        "short_description": "Application to Appoint Claims/Noticing Agent",
+        "snippet": "                   Case 25-10258-TMH               Doc 22       Filed 02/19/25         Page 1 of 49\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n\n    In re:                                                     Chapter 11\n\n    Nikola Corp., et al.,1                                     Case No. 25-10258 (___)\n\n                                                               (Joint Administration Requested)\n           "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A69651079+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

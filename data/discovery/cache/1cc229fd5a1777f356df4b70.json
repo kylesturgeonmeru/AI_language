@@ -1,0 +1,62 @@
+{
+  "response": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/72008069/80/tedder-industries-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Declaration of Nicholas Foley in Support of the Debtors Application for Entry of an Order Authorizing the Employment and Retention of Trinity River Advisors, LLC, as Brokers for the Debtor (Filed By Tedder Industries, LLC ).(Related document(s):79 Application to Employ) (Prostok, Jeffrey) (Entered: 01/14/2026)",
+        "docket_entry_id": 450354336,
+        "docket_id": 72008069,
+        "document_number": 80,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-01-14",
+        "entry_number": 80,
+        "filepath_local": "recap/gov.uscourts.txsb.489846/gov.uscourts.txsb.489846.80.0.pdf",
+        "id": 465169520,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-01-14T22:36:09.034726Z",
+          "score": {
+            "bm25": 8.474652
+          },
+          "timestamp": "2026-02-25T19:59:31.307535Z"
+        },
+        "pacer_doc_id": "178053765782",
+        "page_count": 7,
+        "short_description": "Declaration",
+        "snippet": "              Case 25-90805 Document 80 Filed in TXSB on 01/14/26 Page 1 of 7\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                          FOR THE SOUTHERN DISTRICT OF TEXAS\n                                   HOUSTON DIVISION\n\n    In re:                                                                          Chapter 11\n\n    TEDDER INDUSTRIES, LLC,1                                               Case No. 25-90805 (CML)\n\n                           Debtor.\n\n\n         "
+      },
+      {
+        "absolute_url": "/docket/72008069/50/tedder-industries-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Employ Vartabedian Hester & Haynes LLP as Attorneys. Objections/Request for Hearing Due in 21 days. Filed by Debtor Tedder Industries, LLC (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Master Service List) (Prostok, Jeffrey) (Entered: 01/07/2026)",
+        "docket_entry_id": 449581346,
+        "docket_id": 72008069,
+        "document_number": 50,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-01-07",
+        "entry_number": 50,
+        "filepath_local": "recap/gov.uscourts.txsb.489846/gov.uscourts.txsb.489846.50.0.pdf",
+        "id": 464378115,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-01-08T00:11:37.807013Z",
+          "score": {
+            "bm25": 8.474652
+          },
+          "timestamp": "2026-02-25T19:59:29.173358Z"
+        },
+        "pacer_doc_id": "178053727481",
+        "page_count": 8,
+        "short_description": "Employ",
+        "snippet": "        Case 25-90805 Document 50 Filed in TXSB on 01/07/26 Page 1 of 8\n\n\n\n\n                      IN THE UNITED STATES BANKRUPTCY COURT\n                        FOR THE SOUTHERN DISTRICT OF TEXAS\n                                 HOUSTON DIVISION\n\n     In re:                                                \u00a7        Chapter 11 Case\n                                                           \u00a7\n     TEDDER INDUSTRIES, LLC, 1                             \u00a7        Case No. 25-90805 (CML)\n                 "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A72008069+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

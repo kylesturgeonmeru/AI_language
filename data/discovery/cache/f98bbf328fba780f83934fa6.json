@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/69585213/46/jervois-texas-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice Notice of Filing of Revised Proposed Interim Order (I) Authorizing the Debtors to Pay Accounts Payable Claims in the Ordinary Course of Business, (II) Granting Administrative Expense Priority to Undisputed Obligations on Account of Outstanding Orders and/or Provision of Services and Authorizing Payment of Such Obligations in the Ordinary Course of Business, and (III) Granting Related Relief. (Related document(s):7 Motion Re: Chapter 11 First Day Motions) Filed by Jervois Texas, LLC (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) (McFaul, Duston) (Entered: 01/29/2025)",
+        "docket_entry_id": 414950911,
+        "docket_id": 69585213,
+        "document_number": 46,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-01-29",
+        "entry_number": 46,
+        "filepath_local": "recap/gov.uscourts.txsb.479135/gov.uscourts.txsb.479135.46.0.pdf",
+        "id": 428620936,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-01-29T21:03:05.982407Z",
+          "score": {
+            "bm25": 8.513712
+          },
+          "timestamp": "2025-04-05T13:27:39.256333Z"
+        },
+        "pacer_doc_id": "178052083080",
+        "page_count": 4,
+        "short_description": "Notice",
+        "snippet": "              Case 25-90002 Document 46 Filed in TXSB on 01/29/25 Page 1 of 4\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                          FOR THE SOUTHERN DISTRICT OF TEXAS\n                                   HOUSTON DIVISION\n\n\n\n    In re:                                                      Chapter 11\n\n    JERVOIS TEXAS, LLC, et al.1                                 Case No. 25-90002 (CML)\n\n                            Debtors.                            (Jointly Ad"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A69585213+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

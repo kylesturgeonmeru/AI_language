@@ -178,7 +178,18 @@ class Session:
 
     def _pace(self, source):
         if source == "courtlistener":
-            wait = _cl_wait_seconds(self.http)
+            wait = None
+            for attempt in range(4):
+                try:
+                    wait = _cl_wait_seconds(self.http)
+                    break
+                except requests.RequestException:
+                    time.sleep(2 ** attempt * 2)
+            else:
+                # Usage endpoint unreachable: pace conservatively (5/min means 12s apart).
+                print("  [pace] usage check failed; waiting 15s", flush=True)
+                time.sleep(15)
+                return
             if wait is None:
                 raise SourceStopped("CourtListener daily budget spent; rerun after the rolling window frees up.")
             if wait > self.max_wait:

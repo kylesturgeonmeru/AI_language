@@ -12,8 +12,10 @@ the mechanical parts and reads only saved files:
                                 data/classifications.jsonl
 
 Validation rules: every R1 to R14 field has a value; any value other than
-"silent" must carry an excerpt that appears verbatim (whitespace-normalized)
-in one of the filing's documents; "silent" carries no excerpt. The Anthropic
+"silent" or "not_available" must carry an excerpt that appears verbatim
+(whitespace-normalized) in one of the filing's documents (for R14, any fetched
+document in the case, since court treatment sits in orders and objections);
+"silent" and "not_available" carry no excerpt. The Anthropic
 API path is not built: it runs only if ANTHROPIC_API_KEY is set and Kyle
 asks for it.
 """
@@ -48,6 +50,9 @@ RUBRIC = {
 DOC_FIELDS = ["case_name", "case_number", "court", "petition_date", "filing_date", "docket_number",
               "document_url", "professional_firm", "role", "retained_by", "filing_type", "el_attached",
               "ai_provision_present", "location", "track"]
+# "silent": the text does not address the field. "not_available": the document
+# that would answer it (usually the entered order) is not in RECAP; a gap, not a "no".
+NO_EXCERPT = {"silent", "not_available"}
 ROLES = {"FA", "IB", "CRO", "claims agent", "administrative advisor", "OCP", "debtor counsel",
          "committee counsel", "committee FA", "other"}
 
@@ -84,11 +89,13 @@ def packets():
     print(f"{len(filings)} packets, {sum(1 for fl in filings if by_filing.get(f'{fl['docket_number']}_{fl['document_number']}'))} with AI passages")
 
 
-def filing_texts(docket_number, document_number):
+def filing_texts(docket_number, document_number=None):
+    """Normalized text of a filing's documents, or of every fetched document in the
+    case when document_number is None (R14 evidence sits in orders and objections)."""
     with open(DATA / "fetch_manifest.csv", newline="", encoding="utf-8") as f:
         paths = [m["path"] for m in csv.DictReader(f)
-                 if m["docket_number"] == docket_number and m["document_number"] == document_number
-                 and m["status"] == "ok"]
+                 if m["docket_number"] == docket_number and m["status"] == "ok"
+                 and (document_number is None or m["document_number"] == document_number)]
     out = []
     for p in paths:
         t = DATA.parent / p.replace("data/raw/", "data/text/").replace(".pdf", ".txt")
@@ -105,6 +112,7 @@ def validate():
         if r.get("role") not in ROLES:
             errs.append(f"role {r.get('role')!r} not in {sorted(ROLES)}")
         texts = filing_texts(str(r.get("docket_number", "")), str(r.get("document_number", "")))
+        case_texts = filing_texts(str(r.get("docket_number", "")))
         if not texts:
             errs.append("no extracted text found for this filing")
         for code in RUBRIC:
@@ -113,13 +121,14 @@ def validate():
                 errs.append(f"{code}: missing value")
                 continue
             ex = field.get("excerpt", "")
-            if field["value"] == "silent":
+            if field["value"] in NO_EXCERPT:
                 if ex:
-                    errs.append(f"{code}: silent must not carry an excerpt")
+                    errs.append(f"{code}: {field['value']} must not carry an excerpt")
             elif not ex:
                 errs.append(f"{code}: coded {field['value']!r} without an excerpt")
-            elif texts and not any(norm(ex) in t for t in texts):
-                errs.append(f"{code}: excerpt not found verbatim in the filing's text")
+            elif texts and not any(norm(ex) in t for t in (case_texts if code == "R14" else texts)):
+                errs.append(f"{code}: excerpt not found verbatim in the "
+                            f"{'case' if code == 'R14' else 'filing'}'s text")
         if errs:
             errors.append((path.name, errs))
         else:

@@ -1,0 +1,67 @@
+{
+  "case_name": "Zen JV, LLC",
+  "case_number": "25-11195",
+  "court": "D. Del.",
+  "petition_date": "06/24/2025",
+  "filing_date": "07/14/2025",
+  "docket_number": "25-11195",
+  "document_number": "145",
+  "document_url": "https://www.courtlistener.com/docket/70619299/145/zen-jv-llc/",
+  "professional_firm": "AlixPartners, LLP",
+  "role": "FA",
+  "retained_by": "debtor",
+  "filing_type": "retention application",
+  "el_attached": "Y",
+  "ai_provision_present": "Y",
+  "location": "inside EL confidentiality",
+  "track": "A|B",
+  "rubric": {
+    "R1": {
+      "value": "general: firm's own AI technologies, used to augment its services",
+      "excerpt": "to train, enhance or test AlixPartners’ Artificial Intelligence (AI) technologies to augment or enhance its services"
+    },
+    "R2": {
+      "value": "silent"
+    },
+    "R3": {
+      "value": "silent"
+    },
+    "R4": {
+      "value": "safeguards limited to secure firewall and aggregated, anonymized output; training on client data permitted",
+      "excerpt": "Any such use will only be conducted behind a secure firewall, and any output from such activities will only be used on an aggregated and anonymized basis."
+    },
+    "R5": {
+      "value": "silent"
+    },
+    "R6": {
+      "value": "silent"
+    },
+    "R7": {
+      "value": "silent"
+    },
+    "R8": {
+      "value": "silent"
+    },
+    "R9": {
+      "value": "silent"
+    },
+    "R10": {
+      "value": "silent"
+    },
+    "R11": {
+      "value": "silent"
+    },
+    "R12": {
+      "value": "silent"
+    },
+    "R13": {
+      "value": "yes: firm may use client Confidential Information for benchmarking and to train its AI",
+      "excerpt": "AlixPartners may use Confidential Information (i) for benchmarking and related activities, and (ii) to train, enhance or test AlixPartners’ Artificial Intelligence (AI) technologies to augment or enhance its services."
+    },
+    "R14": {
+      "value": "no objection to AI terms; revised order resolved UST comments without touching them",
+      "excerpt": "The Revised Order has been circulated to the U.S. Trustee, and the U.S. Trustee does not object to the entry of the Revised Order."
+    }
+  },
+  "notes": "AI clause sits in the confidentiality section of the EL terms (attachment 3). Entered order (Dkt 263) and the blackline of the revised order (Dkt 250-2) contain no AI or confidentiality changes (full-text search, 10/10/2026). Track B hit and Track A census filing."
+}

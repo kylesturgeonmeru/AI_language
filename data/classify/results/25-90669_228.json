@@ -1,0 +1,68 @@
+{
+  "case_name": "Pine Gate Renewables, LLC",
+  "case_number": "25-90669",
+  "court": "S.D. Tex.",
+  "petition_date": "11/06/2025",
+  "filing_date": "11/20/2025",
+  "docket_number": "25-90669",
+  "document_number": "228",
+  "document_url": "https://www.courtlistener.com/docket/71884150/228/pine-gate-renewables-llc/",
+  "professional_firm": "Latham & Watkins LLP",
+  "role": "debtor counsel",
+  "retained_by": "debtor",
+  "filing_type": "retention application",
+  "el_attached": "Y",
+  "ai_provision_present": "Y",
+  "location": "inside EL (data privacy and vendors section)",
+  "track": "A|B",
+  "rubric": {
+    "R1": {
+      "value": "general: AI within third-party SaaS vendor tools",
+      "excerpt": "SaaS services (which may include software that utilizes artificial intelligence (AI))"
+    },
+    "R2": {
+      "value": "yes: lawyer review of all AI output",
+      "excerpt": "all results from AI tools will be reviewed by qualified lawyers who are trained on the ethical and responsible use of AI"
+    },
+    "R3": {
+      "value": "silent"
+    },
+    "R4": {
+      "value": "no training of public or open LLMs on client data; vendor DPAs where applicable",
+      "excerpt": "Your data will not be used to train any large language models (“LLMs”) that are made publicly available or hosted on open platforms accessible to the general public"
+    },
+    "R5": {
+      "value": "yes: AI-enabled vendors are permitted recipients, bound by confidentiality and data processing terms",
+      "excerpt": "All such vendors shall be subject to confidentiality and data security obligations and, where applicable, appropriate data processing terms."
+    },
+    "R6": {
+      "value": "silent"
+    },
+    "R7": {
+      "value": "silent"
+    },
+    "R8": {
+      "value": "separate consent only for matter-specific vendors; firm-wide AI vendors need none",
+      "excerpt": "To the extent a third-party vendor is required specifically for one of your matters (e.g., the engagement of an expert, forensic analysis, local counsel), you will be notified and asked to consent to the vendor engagement."
+    },
+    "R9": {
+      "value": "silent"
+    },
+    "R10": {
+      "value": "silent"
+    },
+    "R11": {
+      "value": "silent"
+    },
+    "R12": {
+      "value": "silent"
+    },
+    "R13": {
+      "value": "silent"
+    },
+    "R14": {
+      "value": "not_available"
+    }
+  },
+  "notes": "Entered retention order (Dkt 694) is not in RECAP; on the Manual Pull List. Track B hit and Track A census filing."
+}

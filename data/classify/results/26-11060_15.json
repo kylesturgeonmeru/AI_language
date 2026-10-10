@@ -1,0 +1,66 @@
+{
+  "case_name": "Pacifica of the Valley Corporation",
+  "case_number": "26-11060",
+  "court": "D. Del.",
+  "petition_date": "07/04/2026",
+  "filing_date": "07/07/2026",
+  "docket_number": "26-11060",
+  "document_number": "15",
+  "document_url": "https://www.courtlistener.com/docket/73574916/15/pacifica-of-the-valley-corporation/",
+  "professional_firm": "Verita Global (Kurtzman Carson Consultants, LLC)",
+  "role": "claims agent",
+  "retained_by": "debtor",
+  "filing_type": "§ 156(c) application",
+  "el_attached": "Y",
+  "ai_provision_present": "Y",
+  "location": "standalone EL section (services agreement attached to proposed order)",
+  "track": "B",
+  "rubric": {
+    "R1": {
+      "value": "specific tasks: data processing, fraud detection, communications",
+      "excerpt": "Verita may use AI-assisted tools solely to support service delivery (e.g., data processing, fraud detection, communications)."
+    },
+    "R2": {
+      "value": "no automated decisions affecting individuals",
+      "excerpt": "Such tools do not independently make decisions affecting individuals."
+    },
+    "R3": {
+      "value": "silent"
+    },
+    "R4": {
+      "value": "same contractual, security, and data protection terms as other processing; no training of shared or third-party models",
+      "excerpt": "Personal information processed via such tools is subject to the same contractual restrictions, security measures, and data protection obligations as all other processing, and is not used to train shared or third-party AI models."
+    },
+    "R5": {
+      "value": "silent"
+    },
+    "R6": {
+      "value": "silent"
+    },
+    "R7": {
+      "value": "silent"
+    },
+    "R8": {
+      "value": "silent"
+    },
+    "R9": {
+      "value": "silent"
+    },
+    "R10": {
+      "value": "silent"
+    },
+    "R11": {
+      "value": "silent"
+    },
+    "R12": {
+      "value": "silent"
+    },
+    "R13": {
+      "value": "silent"
+    },
+    "R14": {
+      "value": "not_available"
+    }
+  },
+  "notes": "Section VIII of the Verita services agreement. The no-training promise covers shared or third-party models only and is silent on Verita's own models (R13 coded silent, not 'no'). Entered order (Dkt 50) is not in RECAP. Secondary set."
+}

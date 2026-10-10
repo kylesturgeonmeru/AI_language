@@ -1,0 +1,36 @@
+{
+  "response": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/73410103/6/goldenpeaks-poland-holding-limited/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Emergency Motion /Emergency Ex Parte Application For Entry Of An Order Authorizing The Employment And Retention Of Kroll Restructuring Administration LLC As Claims, Noticing, And Solicitation Agent Filed by Debtor GOLDENPEAKS POLAND HOLDING LIMITED (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Proposed Order) (Wallen, Benjamin) (Entered: 05/30/2026)",
+        "docket_entry_id": 465761028,
+        "docket_id": 73410103,
+        "document_number": 6,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-05-30",
+        "entry_number": 6,
+        "filepath_local": "recap/gov.uscourts.txsb.496068/gov.uscourts.txsb.496068.6.0.pdf",
+        "id": 480973474,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-05-30T20:02:52.234223Z",
+          "score": {
+            "bm25": 8.608143
+          },
+          "timestamp": "2026-10-08T23:06:42.144338Z"
+        },
+        "pacer_doc_id": "178054502123",
+        "page_count": 4,
+        "short_description": "Emergency Motion",
+        "snippet": "              Case 26-90564 Document 6 Filed in TXSB on 05/30/26 Page 1 of 4\n\n\n\n\n                       IN THE UNITED STATES BANKRUPTCY COURT\n                         FOR THE SOUTHERN DISTRICT OF TEXAS\n                                  HOUSTON DIVISION\n\n                                                                   Chapter 11\nIn re:\n                                                                   Case No. 26-90564 (ARP)\nGOLDENPEAKS POLAND HOLDING\nLIMITED, et al.                            "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A73410103+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

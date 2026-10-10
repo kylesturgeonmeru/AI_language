@@ -1,0 +1,62 @@
+{
+  "response": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/73673083/15/1/republic-national-distributing-company-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Emergency Motion - Debtors' Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Pay Certain Prepetition of Claims of Critical Vendors, 503(b)(9) Claimants, Lien Claimants, and Foreign Vendors and (B) Honor Their Obligations Under the Supplier Agreements in the Ordinary Course of Business, (II) Confirming Administrative Expense Priority of Outstanding Orders, and (III) Granting Related Relief Filed by Debtor Republic National Distributing Company, LLC Hearing scheduled for 7/27/2026 at 02:00 PM at telephone and video conference. (Attachments: # 1 Proposed Order - Interim # 2 Proposed Order - Final) (Higgins, John) (Entered: 07/27/2026)",
+        "docket_entry_id": 472191085,
+        "docket_id": 73673083,
+        "document_number": 15,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-07-27",
+        "entry_number": 15,
+        "filepath_local": "recap/gov.uscourts.txsb.498599/gov.uscourts.txsb.498599.15.1_1.pdf",
+        "id": 487653881,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-07-27T16:08:38.074797Z",
+          "score": {
+            "bm25": 8.409639
+          },
+          "timestamp": "2026-08-12T23:01:07.051473Z"
+        },
+        "pacer_doc_id": "178054827366",
+        "page_count": 17,
+        "short_description": "Proposed Order - Interim",
+        "snippet": "             Case 26-90737 Document 15-1 Filed in TXSB on 07/27/26 Page 1 of 17\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                           FOR THE SOUTHERN DISTRICT OF TEXAS\n                                    HOUSTON DIVISION\n\n                                                                    )\n    In re:                                                          )   Chapter 11\n                                                                    )\n    REPUBLIC N"
+      },
+      {
+        "absolute_url": "/docket/73673083/4/republic-national-distributing-company-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Emergency Motion - Debtors' Emergency Ex Parte Application for Entry of an Order Authorizing the Employment and Retention of Omni Agent Solutions, Inc. as Claims, Noticing, and Solicitation Agent Filed by Debtor Republic National Distributing Company, LLC (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Proposed Order) (Young-John, Megan) (Entered: 07/27/2026)",
+        "docket_entry_id": 472191074,
+        "docket_id": 73673083,
+        "document_number": 4,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-27",
+        "entry_number": 4,
+        "filepath_local": "recap/gov.uscourts.txsb.498599/gov.uscourts.txsb.498599.4.0_2.pdf",
+        "id": 487617488,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-07-27T11:32:33.101897Z",
+          "score": {
+            "bm25": 8.409639
+          },
+          "timestamp": "2026-08-12T23:01:07.051473Z"
+        },
+        "pacer_doc_id": "178054827307",
+        "page_count": 6,
+        "short_description": "",
+        "snippet": "                  Case 26-90737 Document 4 Filed in TXSB on 07/27/26 Page 1 of 6\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                            FOR THE SOUTHERN DISTRICT OF TEXAS\n                                     HOUSTON DIVISION\n\n                                                                      )\n    In re:                                                            )    Chapter 11\n                                                                      )\n   "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=docket_id%3A73673083+AND+is_available%3Atrue&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22"
+}

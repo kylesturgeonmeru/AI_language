@@ -1,0 +1,538 @@
+{
+  "response": {
+    "count": 144,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjU2OTY5NDUmcz00MzE5Njk1NTUmdD1yZCZkPTIwMjYtMTAtMTAmcD02&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69545727+AND+is_available%3Atrue&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjU2OTY5NDUmcz00MzIwMjA2MzEmcj0xJnQ9cmQmZD0yMDI2LTEwLTEwJnA9NA%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69545727+AND+is_available%3Atrue&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69545727/555/joann-inc/",
+        "attachment_number": null,
+        "cites": [
+          780365
+        ],
+        "description": "Order (I) Authorizing the Employment and Retention of Centerview Partners LLC as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date, (II) Approving the Terms of the Engagement Letter, (III) Modifying Certain Timekeeping Requirements, and (IV) Granting Related Relief) (related document(s) 421, 454, 550) Signed on 3/4/2025. (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418228773,
+        "docket_id": 69545727,
+        "document_number": 555,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 555,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.555.0.pdf",
+        "id": 432020631,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T20:23:50.953625Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022143294",
+        "page_count": 8,
+        "short_description": "Employ (Application)",
+        "snippet": "                   Case 25-10068-CTG              Doc 555       Filed 03/04/25         Page 1 of 8\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al., 1                                 "
+      },
+      {
+        "absolute_url": "/docket/69545727/554/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Debtors Pursuant to 11 U.S.C. \u00a7\u00a7 105(a) and 363(b) to (I) Retain Alvarez & Marsal North America, LLC to Provide the Debtors an Interim Chief Executive Officer, an Interim Chief Financial Officer, and Certain Additional Personnel, (II) Designate Michael Prendergast as Interim Chief Executive Officer, and (III) Designate Jeffrey Dwyer as Interim Chief Financial Officer for the Debtors, in Each Case Effective as of the Petition Date (related document(s)549) Signed on 3/4/2025. (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418227106,
+        "docket_id": 69545727,
+        "document_number": 554,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 554,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.554.0.pdf",
+        "id": 432018956,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T20:19:33.024401Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022143266",
+        "page_count": 5,
+        "short_description": "Employ (Application)",
+        "snippet": "                   Case 25-10068-CTG              Doc 554          Filed 03/04/25      Page 1 of 5\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                               )\n    In re:                                                     )        Chapter 11\n                                                               )\n    JOANN INC., et al., 1                                    "
+      },
+      {
+        "absolute_url": "/docket/69545727/553/3/joann-inc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Order (I) Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief (related document(s) 427, 548) Signed on 3/4/2025. (Attachments: # 1 Exhibit 1 - Form of Declaration of Disinterestedness # 2 Schedule 1 - Tier 1 OCP List # 3 Schedule 2 - Tier 2 OCP List) (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418226248,
+        "docket_id": 69545727,
+        "document_number": 553,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 553,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.553.3.pdf",
+        "id": 432018085,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T20:09:53.670001Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022143247",
+        "page_count": 2,
+        "short_description": "Schedule 2 - Tier 2 OCP List",
+        "snippet": "          Case 25-10068-CTG          Doc 553-3      Filed 03/04/25        Page 1 of 2\n\n\n\n\n                                          Schedule 2\n\n                                       Tier 2 OCP List\n\n           Name                               Address                             Service\n                                                                               Legal Services\n                                100 N. Tampa Street, Suite 4000 Tampa,\n   Adams and Reese LLP                       "
+      },
+      {
+        "absolute_url": "/docket/69545727/553/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Order (I) Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief (related document(s) 427, 548) Signed on 3/4/2025. (Attachments: # 1 Exhibit 1 - Form of Declaration of Disinterestedness # 2 Schedule 1 - Tier 1 OCP List # 3 Schedule 2 - Tier 2 OCP List) (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418226248,
+        "docket_id": 69545727,
+        "document_number": 553,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 553,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.553.2.pdf",
+        "id": 432018084,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T20:09:53.665143Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022143246",
+        "page_count": 1,
+        "short_description": "Schedule 1 - Tier 1 OCP List",
+        "snippet": "      Case 25-10068-CTG      Doc 553-2      Filed 03/04/25        Page 1 of 1\n\n\n\n\n                                  Schedule 1\n\n                               Tier 1 OCP List\n\n       Name                           Address                            Service\n                                                                        Technical\n                        127 Public Square Suite 3300 Cleveland,\nDeloitte & Touche LLP                                                Account/Internal\n           "
+      },
+      {
+        "absolute_url": "/docket/69545727/553/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Order (I) Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief (related document(s) 427, 548) Signed on 3/4/2025. (Attachments: # 1 Exhibit 1 - Form of Declaration of Disinterestedness # 2 Schedule 1 - Tier 1 OCP List # 3 Schedule 2 - Tier 2 OCP List) (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418226248,
+        "docket_id": 69545727,
+        "document_number": 553,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 553,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.553.1.pdf",
+        "id": 432018083,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T20:09:53.659817Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022143245",
+        "page_count": 4,
+        "short_description": "Exhibit 1 - Form of Declaration of Disinterestedness",
+        "snippet": "Case 25-10068-CTG   Doc 553-1     Filed 03/04/25     Page 1 of 4\n\n\n\n\n                         Exhibit 1\n\n          Form of Declaration of Disinterestedness\n\f                  Case 25-10068-CTG             Doc 553-1           Filed 03/04/25      Page 2 of 4\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                        "
+      },
+      {
+        "absolute_url": "/docket/69545727/553/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order (I) Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief (related document(s) 427, 548) Signed on 3/4/2025. (Attachments: # 1 Exhibit 1 - Form of Declaration of Disinterestedness # 2 Schedule 1 - Tier 1 OCP List # 3 Schedule 2 - Tier 2 OCP List) (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418226248,
+        "docket_id": 69545727,
+        "document_number": 553,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 553,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.553.0.pdf",
+        "id": 432018082,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T20:09:51.276649Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022143244",
+        "page_count": 6,
+        "short_description": "Authorize",
+        "snippet": "                   Case 25-10068-CTG              Doc 553       Filed 03/04/25         Page 1 of 6\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al.,1                                  "
+      },
+      {
+        "absolute_url": "/docket/69545727/552/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order (I) Establishing Procedures for Interim Compensation and Reimbursement of Expenses for Retained Professionals and (II) Granting Related Relief (related document(s) 426, 547) Signed on 3/4/2025. (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418226004,
+        "docket_id": 69545727,
+        "document_number": 552,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 552,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.552.0.pdf",
+        "id": 432017838,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T20:06:18.119499Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022143225",
+        "page_count": 7,
+        "short_description": "Order Approving Motion Regarding Interim Compensation Procedures",
+        "snippet": "                   Case 25-10068-CTG              Doc 552       Filed 03/04/25         Page 1 of 7\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al.,1                                  "
+      },
+      {
+        "absolute_url": "/docket/69545727/550/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [
+          780365
+        ],
+        "description": "Certification of Counsel Regarding Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of Centerview Partners LLC as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date, (II) Approving the Terms of the Engagement Letter, (III) Modifying Certain Timekeeping Requirements, and (IV) Granting Related Relief (related document(s)421, 454) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Order # 2 Exhibit 2 - Blackline) (Reilley, Patrick) (Entered: 03/04/2025)",
+        "docket_entry_id": 418195583,
+        "docket_id": 69545727,
+        "document_number": 550,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 550,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.550.2.pdf",
+        "id": 431986857,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T17:25:15.666451Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142550",
+        "page_count": 9,
+        "short_description": "Exhibit 2 - Blackline",
+        "snippet": "Case 25-10068-CTG   Doc 550-2   Filed 03/04/25   Page 1 of 9\n\n\n\n\n                       Exhibit 2\n\n                       Blackline\n\f                  Case 25-10068-CTG              Doc 550-2          Filed 03/04/25       Page 2 of 9\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )      "
+      },
+      {
+        "absolute_url": "/docket/69545727/550/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [
+          780365
+        ],
+        "description": "Certification of Counsel Regarding Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of Centerview Partners LLC as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date, (II) Approving the Terms of the Engagement Letter, (III) Modifying Certain Timekeeping Requirements, and (IV) Granting Related Relief (related document(s)421, 454) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Order # 2 Exhibit 2 - Blackline) (Reilley, Patrick) (Entered: 03/04/2025)",
+        "docket_entry_id": 418195583,
+        "docket_id": 69545727,
+        "document_number": 550,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 550,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.550.1.pdf",
+        "id": 431986856,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T17:25:15.658823Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142549",
+        "page_count": 9,
+        "short_description": "Exhibit 1 - Revised Order",
+        "snippet": "Case 25-10068-CTG   Doc 550-1   Filed 03/04/25   Page 1 of 9\n\n\n\n\n                       Exhibit 1\n\n                     Revised Order\n\f                  Case 25-10068-CTG             Doc 550-1           Filed 03/04/25      Page 2 of 9\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )       "
+      },
+      {
+        "absolute_url": "/docket/69545727/550/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of Centerview Partners LLC as Investment Banker to the Debtors and Debtors in Possession Effective as of the Petition Date, (II) Approving the Terms of the Engagement Letter, (III) Modifying Certain Timekeeping Requirements, and (IV) Granting Related Relief (related document(s)421, 454) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Order # 2 Exhibit 2 - Blackline) (Reilley, Patrick) (Entered: 03/04/2025)",
+        "docket_entry_id": 418195583,
+        "docket_id": 69545727,
+        "document_number": 550,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 550,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.550.0.pdf",
+        "id": 431986855,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T17:25:13.554995Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142548",
+        "page_count": 3,
+        "short_description": "Certification of Counsel(Aty)",
+        "snippet": "                   Case 25-10068-CTG              Doc 550       Filed 03/04/25         Page 1 of 3\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al., 1                                 "
+      },
+      {
+        "absolute_url": "/docket/69545727/549/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Application of the Debtors Pursuant to 11 U.S.C. \u00a7\u00a7 105(a) and 363(b) to (I) Retain Alvarez & Marsal North America, LLC to Provide the Debtors an Interim Chief Executive Officer, an Interim Chief Financial Officer, and Certain Additional Personnel, (II) Designate Michael Prendergast as Interim Chief Executive Officer, and (III) Designate Jeffrey Dwyer as Interim Chief Financial Officer for the Debtors, in Each Case Effective as of the Petition Date (related document(s)420, 453) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Order # 2 Exhibit 2 - Blackline) (Reilley, Patrick) (Entered: 03/04/2025)",
+        "docket_entry_id": 418187583,
+        "docket_id": 69545727,
+        "document_number": 549,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 549,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.549.2.pdf",
+        "id": 431978691,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T16:42:44.468430Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142293",
+        "page_count": 6,
+        "short_description": "Exhibit 2 - Blackline",
+        "snippet": "Case 25-10068-CTG   Doc 549-2   Filed 03/04/25   Page 1 of 6\n\n\n\n\n                       Exhibit 2\n\n                       Blackline\n\f                  Case 25-10068-CTG              Doc 549-2         Filed 03/04/25        Page 2 of 6\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                               )\n    In re:                                                     )        "
+      },
+      {
+        "absolute_url": "/docket/69545727/549/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Application of the Debtors Pursuant to 11 U.S.C. \u00a7\u00a7 105(a) and 363(b) to (I) Retain Alvarez & Marsal North America, LLC to Provide the Debtors an Interim Chief Executive Officer, an Interim Chief Financial Officer, and Certain Additional Personnel, (II) Designate Michael Prendergast as Interim Chief Executive Officer, and (III) Designate Jeffrey Dwyer as Interim Chief Financial Officer for the Debtors, in Each Case Effective as of the Petition Date (related document(s)420, 453) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Order # 2 Exhibit 2 - Blackline) (Reilley, Patrick) (Entered: 03/04/2025)",
+        "docket_entry_id": 418187583,
+        "docket_id": 69545727,
+        "document_number": 549,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 549,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.549.1.pdf",
+        "id": 431978690,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T16:42:44.460861Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142292",
+        "page_count": 6,
+        "short_description": "Exhibit 1 - Revised Order",
+        "snippet": "Case 25-10068-CTG   Doc 549-1   Filed 03/04/25   Page 1 of 6\n\n\n\n\n                       Exhibit 1\n\n                     Revised Order\n\f                  Case 25-10068-CTG             Doc 549-1          Filed 03/04/25       Page 2 of 6\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                               )\n    In re:                                                     )        C"
+      },
+      {
+        "absolute_url": "/docket/69545727/549/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Application of the Debtors Pursuant to 11 U.S.C. \u00a7\u00a7 105(a) and 363(b) to (I) Retain Alvarez & Marsal North America, LLC to Provide the Debtors an Interim Chief Executive Officer, an Interim Chief Financial Officer, and Certain Additional Personnel, (II) Designate Michael Prendergast as Interim Chief Executive Officer, and (III) Designate Jeffrey Dwyer as Interim Chief Financial Officer for the Debtors, in Each Case Effective as of the Petition Date (related document(s)420, 453) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Order # 2 Exhibit 2 - Blackline) (Reilley, Patrick) (Entered: 03/04/2025)",
+        "docket_entry_id": 418187583,
+        "docket_id": 69545727,
+        "document_number": 549,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 549,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.549.0.pdf",
+        "id": 431978689,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T16:42:43.230740Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142291",
+        "page_count": 3,
+        "short_description": "Certification of Counsel(Aty)",
+        "snippet": "                   Case 25-10068-CTG              Doc 549       Filed 03/04/25         Page 1 of 3\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al., 1                                 "
+      },
+      {
+        "absolute_url": "/docket/69545727/548/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Motion of Debtors for Entry of an Order (I) Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief (related document(s)427) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Final Order # 2 Exhibit 2 - Blackline) (Reilley, Patrick) (Entered: 03/04/2025)",
+        "docket_entry_id": 418184380,
+        "docket_id": 69545727,
+        "document_number": 548,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 548,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.548.2.pdf",
+        "id": 431975486,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T16:31:30.349986Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142247",
+        "page_count": 14,
+        "short_description": "Exhibit 2 - Blackline",
+        "snippet": "Case 25-10068-CTG   Doc 548-2   Filed 03/04/25   Page 1 of 14\n\n\n\n\n                        Exhibit 2\n\n                        Blackline\n\f                 Case 25-10068-CTG              Doc 548-2           Filed 03/04/25      Page 2 of 14\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )   "
+      },
+      {
+        "absolute_url": "/docket/69545727/548/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Motion of Debtors for Entry of an Order (I) Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief (related document(s)427) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Final Order # 2 Exhibit 2 - Blackline) (Reilley, Patrick) (Entered: 03/04/2025)",
+        "docket_entry_id": 418184380,
+        "docket_id": 69545727,
+        "document_number": 548,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 548,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.548.1.pdf",
+        "id": 431975485,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T16:31:30.343885Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142246",
+        "page_count": 14,
+        "short_description": "Exhibit 1 - Revised Final Order",
+        "snippet": "Case 25-10068-CTG   Doc 548-1   Filed 03/04/25   Page 1 of 14\n\n\n\n\n                         Exhibit 1\n\n                    Revised Final Order\n\f                 Case 25-10068-CTG             Doc 548-1            Filed 03/04/25     Page 2 of 14\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      "
+      },
+      {
+        "absolute_url": "/docket/69545727/548/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Motion of Debtors for Entry of an Order (I) Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief (related document(s)427) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Final Order # 2 Exhibit 2 - Blackline) (Reilley, Patrick) (Entered: 03/04/2025)",
+        "docket_entry_id": 418184380,
+        "docket_id": 69545727,
+        "document_number": 548,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 548,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.548.0.pdf",
+        "id": 431975459,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T16:31:28.645846Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142245",
+        "page_count": 3,
+        "short_description": "Certification of Counsel(Aty)",
+        "snippet": "                   Case 25-10068-CTG              Doc 548       Filed 03/04/25         Page 1 of 3\n\n\n\n\n                    HOW TOIN THE UNITED STATES BANKRUPTCY COURT\n                           FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al.,1                                    "
+      },
+      {
+        "absolute_url": "/docket/69545727/546/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Retention and Employment of Cole Schotz P.C. as Delaware Co-Counsel for the Debtors Effective as of the Petition Date (related document(s) 425, 457) Signed on 3/4/2025. (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418178737,
+        "docket_id": 69545727,
+        "document_number": 546,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 546,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.546.0.pdf",
+        "id": 431969734,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T15:59:09.317447Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142113",
+        "page_count": 3,
+        "short_description": "Employ (Application)",
+        "snippet": "                   Case 25-10068-CTG             Doc 546        Filed 03/04/25        Page 1 of 3\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                               )\n    In re:                                                     )        Chapter 11\n                                                               )\n    JOANN INC., et al.,1                                    "
+      },
+      {
+        "absolute_url": "/docket/69545727/545/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [
+          2032573
+        ],
+        "description": "Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of January 15, 2025 (related document(s) 538) Signed on 3/4/2025. (Attachments: # 1 Exhibit 1 - Engagement Letter) (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418178719,
+        "docket_id": 69545727,
+        "document_number": 545,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 545,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.545.1.pdf",
+        "id": 431969716,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T15:56:55.554622Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142104",
+        "page_count": 14,
+        "short_description": "Exhibit 1 - Engagement Letter",
+        "snippet": "Case 25-10068-CTG   Doc 545-1   Filed 03/04/25   Page 1 of 14\n\n\n\n\n                        Exhibit 1\n\n                    Engagement Letter\n\f                                  Case 25-10068-CTG                                 Doc 545-1                 Filed 03/04/25                    Page 2 of 14\n\n\n\n\n                                                                                     333 West Wolf Point Plaza\n                                                                                        "
+      },
+      {
+        "absolute_url": "/docket/69545727/545/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of January 15, 2025 (related document(s) 538) Signed on 3/4/2025. (Attachments: # 1 Exhibit 1 - Engagement Letter) (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418178719,
+        "docket_id": 69545727,
+        "document_number": 545,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 545,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.545.0.pdf",
+        "id": 431969715,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T15:56:54.036330Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142103",
+        "page_count": 6,
+        "short_description": "Employ (Application)",
+        "snippet": "                   Case 25-10068-CTG             Doc 545         Filed 03/04/25       Page 1 of 6\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                 )\n    In re:                                                       )      Chapter 11\n                                                                 )\n    JOANN INC., et al.,1                                "
+      },
+      {
+        "absolute_url": "/docket/69545727/544/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Order Authorizing the Retention and Employment of Kroll Restructuring Administration LLC as Administrative Advisor Effective as of the Petition Date (related document(s) 422, 455, 537) Signed on 3/4/2025. (Attachments: # 1 Exhibit 1 - Engagement Agreement) (NAB) (Entered: 03/04/2025)",
+        "docket_entry_id": 418178583,
+        "docket_id": 69545727,
+        "document_number": 544,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-03-04",
+        "entry_number": 544,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.544.1.pdf",
+        "id": 431969555,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-04T15:50:47.467924Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022142097",
+        "page_count": 16,
+        "short_description": "Exhibit 1 - Engagement Agreement",
+        "snippet": "Case 25-10068-CTG    Doc 544-1   Filed 03/04/25   Page 1 of 16\n\n\n\n\n                          Exhibit 1\n\n                    Engagement Agreement\n\f              Case 25-10068-CTG               Doc 544-1        Filed 03/04/25        Page 2 of 16\n\n\n\n\n                    Kroll Restructuring Administration LLC Engagement Agreement\nThis Agreement is entered into as of January 3, 2025 between Kroll Restructuring Administration LLC\n(\u201cKroll\u201d) and JOANN Inc. (together with its affiliates and subsidiaries,"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjU2OTY5NDUmcz00MzIwMzgyMjImdD1yZCZkPTIwMjYtMTAtMTAmcD01&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69545727+AND+is_available%3Atrue&type=rd"
+}

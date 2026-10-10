@@ -1,0 +1,540 @@
+{
+  "response": {
+    "count": 144,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjU2OTY5NDUmcz00MzA2Mjk1MzEmdD1yZCZkPTIwMjYtMTAtMTAmcD04&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69545727+AND+is_available%3Atrue&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjU2OTY5NDUmcz00MzE3MDM5NjEmcj0xJnQ9cmQmZD0yMDI2LTEwLTEwJnA9Ng%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69545727+AND+is_available%3Atrue&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69545727/530/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Kelley Drye & Warren LLP as Lead Counsel to the Official Committee of Unsecured Creditors Filed by Kelley Drye & Warren LLP. Hearing scheduled for 4/3/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 3/14/2025. (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Adams Declaration (Redacted) # 3 Exhibit C - Tucker Declaration # 4 Notice) (O'Neill, James) (Entered: 02/28/2025)",
+        "docket_entry_id": 417921976,
+        "docket_id": 69545727,
+        "document_number": 530,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-28",
+        "entry_number": 530,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.530.0.pdf",
+        "id": 431703961,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-28T20:57:40.501522Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022136825",
+        "page_count": 10,
+        "short_description": "Employ/Retain - Application/Motion",
+        "snippet": "               Case 25-10068-CTG           Doc 530     Filed 02/28/25      Page 1 of 10\n\n\n\n\n                      IN THE UNITED STATES BANKRUPTCY COURT\n                           FOR THE DISTRICT OF DELAWARE\n\n                                                         Chapter 11\nIn re:\n                                                         Case No. 25\u201310068 (CTG)\n                      1\nJOANN INC., et al.,\n                                                         (Jointly Administered)\n           "
+      },
+      {
+        "absolute_url": "/docket/69545727/529/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Motion to File Under Seal/ Motion For An Order Authorizing The Official Committee Of Unsecured Creditors To File Under Seal The Names Of Certain Confidential Parties In Interest Related To The Committees Professional Retention Applications Filed by Official Committee of Unsecured Creditors. Hearing scheduled for 4/3/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 3/14/2025. (Attachments: # 1 Exhibit A - Proposed Order # 2 Notice) (O'Neill, James) (Entered: 02/28/2025)",
+        "docket_entry_id": 417921756,
+        "docket_id": 69545727,
+        "document_number": 529,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-28",
+        "entry_number": 529,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.529.2.pdf",
+        "id": 431703722,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-28T20:54:58.332067Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022136798",
+        "page_count": 3,
+        "short_description": "Notice",
+        "snippet": "                 Case 25-10068-CTG        Doc 529-2       Filed 02/28/25      Page 1 of 3\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                      )\n    In re:                                            )      Chapter 11\n                                                      )\n                                                      )      Case No. 25-10068 (CTG)\n    JOANN IN"
+      },
+      {
+        "absolute_url": "/docket/69545727/529/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Motion to File Under Seal/ Motion For An Order Authorizing The Official Committee Of Unsecured Creditors To File Under Seal The Names Of Certain Confidential Parties In Interest Related To The Committees Professional Retention Applications Filed by Official Committee of Unsecured Creditors. Hearing scheduled for 4/3/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 3/14/2025. (Attachments: # 1 Exhibit A - Proposed Order # 2 Notice) (O'Neill, James) (Entered: 02/28/2025)",
+        "docket_entry_id": 417921756,
+        "docket_id": 69545727,
+        "document_number": 529,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-28",
+        "entry_number": 529,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.529.1.pdf",
+        "id": 431703721,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-28T20:54:58.287973Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022136797",
+        "page_count": 4,
+        "short_description": "Exhibit A - Proposed Order",
+        "snippet": "                 Case 25-10068-CTG   Doc 529-1   Filed 02/28/25   Page 1 of 4\n\n\n\n\n                                       EXHIBIT A\n\n                                     Proposed Order\n\n\n\n\n4921-9513-0911.2 46699.00002\n\f                 Case 25-10068-CTG             Doc 529-1        Filed 02/28/25         Page 2 of 4\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                      "
+      },
+      {
+        "absolute_url": "/docket/69545727/529/joann-inc/",
+        "attachment_number": null,
+        "cites": [
+          1547639,
+          2020615
+        ],
+        "description": "Motion to File Under Seal/ Motion For An Order Authorizing The Official Committee Of Unsecured Creditors To File Under Seal The Names Of Certain Confidential Parties In Interest Related To The Committees Professional Retention Applications Filed by Official Committee of Unsecured Creditors. Hearing scheduled for 4/3/2025 at 01:00 PM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 3/14/2025. (Attachments: # 1 Exhibit A - Proposed Order # 2 Notice) (O'Neill, James) (Entered: 02/28/2025)",
+        "docket_entry_id": 417921756,
+        "docket_id": 69545727,
+        "document_number": 529,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-28",
+        "entry_number": 529,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.529.0.pdf",
+        "id": 431703720,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-28T20:54:53.233261Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022136796",
+        "page_count": 7,
+        "short_description": "File Under Seal - Motion (B)",
+        "snippet": "                  Case 25-10068-CTG         Doc 529       Filed 02/28/25    Page 1 of 7\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                      )\n    In re:                                            )       Chapter 11\n                                                      )\n                                                      )       Case No. 25-10068 (CTG)\n    JOANN IN"
+      },
+      {
+        "absolute_url": "/docket/69545727/469/3/joann-inc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "(REDACTED) (Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief) Objections due by 3/6/2025. (related document(s)468) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Paszt Declaration) (Reilley, Patrick) (Entered: 02/20/2025)",
+        "docket_entry_id": 417074880,
+        "docket_id": 69545727,
+        "document_number": 469,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-20",
+        "entry_number": 469,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.469.3.pdf",
+        "id": 430827266,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-20T19:39:18.729147Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022118387",
+        "page_count": 99,
+        "short_description": "Exhibit B - Paszt Declaration",
+        "snippet": "Case 25-10068-CTG   Doc 469-3   Filed 02/20/25   Page 1 of 99\n\n\n\n\n                        Exhibit B\n\n                    Paszt Declaration\n\f                  Case 25-10068-CTG            Doc 469-3        Filed 02/20/25         Page 2 of 99\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                     )\n    In re:                                                  "
+      },
+      {
+        "absolute_url": "/docket/69545727/469/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "(REDACTED) (Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief) Objections due by 3/6/2025. (related document(s)468) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Paszt Declaration) (Reilley, Patrick) (Entered: 02/20/2025)",
+        "docket_entry_id": 417074880,
+        "docket_id": 69545727,
+        "document_number": 469,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-20",
+        "entry_number": 469,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.469.2.pdf",
+        "id": 430827265,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-20T19:39:18.724807Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022118386",
+        "page_count": 105,
+        "short_description": "Exhibit A - Proposed Order",
+        "snippet": "Case 25-10068-CTG   Doc 469-2   Filed 02/20/25   Page 1 of 105\n\n\n\n\n                       EXHIBIT A\n\n                      Proposed Order\n\f                Case 25-10068-CTG              Doc 469-2        Filed 02/20/25         Page 2 of 105\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                   "
+      },
+      {
+        "absolute_url": "/docket/69545727/469/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "(REDACTED) (Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief) Objections due by 3/6/2025. (related document(s)468) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Paszt Declaration) (Reilley, Patrick) (Entered: 02/20/2025)",
+        "docket_entry_id": 417074880,
+        "docket_id": 69545727,
+        "document_number": 469,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-20",
+        "entry_number": 469,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.469.1.pdf",
+        "id": 430827264,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-20T19:39:18.719073Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022118385",
+        "page_count": 2,
+        "short_description": "Notice of Application",
+        "snippet": "                 Case 25-10068-CTG              Doc 469-1         Filed 02/20/25        Page 1 of 2\n\n\n\n\n                           IN THE UNITED STATES BANKRUPTCY COURT\n                                FOR THE DISTRICT OF DELAWARE\n\n                                                          )\n    In re:                                                )    Chapter 11\n                                                          )\n    JOANN INC., et al.,1                                  )    Case No. 25-"
+      },
+      {
+        "absolute_url": "/docket/69545727/469/joann-inc/",
+        "attachment_number": null,
+        "cites": [
+          13150
+        ],
+        "description": "(REDACTED) (Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief) Objections due by 3/6/2025. (related document(s)468) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Paszt Declaration) (Reilley, Patrick) (Entered: 02/20/2025)",
+        "docket_entry_id": 417074880,
+        "docket_id": 69545727,
+        "document_number": 469,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-20",
+        "entry_number": 469,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.469.0.pdf",
+        "id": 430827263,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-20T19:39:17.073685Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022118384",
+        "page_count": 18,
+        "short_description": "Proposed Redacted Document",
+        "snippet": "                  Case 25-10068-CTG              Doc 469        Filed 02/20/25         Page 1 of 18\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                            )\n    In re:                                                  )   Chapter 11\n                                                            )\n    JOANN INC., et al.,1                                    )   Case No."
+      },
+      {
+        "absolute_url": "/docket/69545727/463/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Mailing of Jordan D. Searles Regarding Motion of Debtors for Entry of an Order (I) Directing the Joint Administration of Chapter 11 Cases, and (II) Granting Related Relief, Application of Debtors for Entry of an Order (I) Authorizing the Appointment of Kroll Restructuring Administration LLC as Claims and Noticing Agent Effective as of the Petition Date and (II) Granting Related Relief, Motion of Debtors for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Serve Certain Parties in Interest by Email, (B) Approve the Form and Manner of Service of the Notice of Commencement, (C) Redact or Withhold Certain Confidential Information of Customers, and (D) Redact Certain Personally Identifiable Information of Individuals, and (II) Granting Related Relief, Declaration of Michael Prendergast, Interim Chief Executive Officer, in Support of Chapter 11 Petitions and First Day Motions, Cash Collateral Motion, Wages Motion, Critical Vendors Motion, Customer Programs Motion, NOL Motion, Cash Management Motion, Taxes Motion, Insurance Motion, Utility Motion, Motion of Debtors for Entry of an Order (I) Extending Time to File Schedules of Assets and Liabilities, Schedules of Current Income and Expenditures, Schedules of Executory Contracts and Unexpired Leases, Statements of Financial Affairs, and Rule 2015.3 Financial Reports, and (II) Granting Related Relief, Assumption and Rejection Procedures Motion, Bidding Procedures Motion, Order (I) Directing the Joint Administration of Chapter 11 Cases, and (II) Granting Related Relief, Interim Cash Management Order, Interim Critical Vendors Order, Interim Cash Collateral Order, Interim Customer Programs Order, Order (I) Authorizing the Appointment of Kroll Restructuring Administration LLC as Claims and Noticing Agent Effective as of the Petition Date, and (II) Granting Related Relief, Interim Critical Vendors Order, Interim NOL Order, Interim Taxes Order, Interim Utility Order, Interim Order (I) Authorizing the Debtors to (A) Serve Certain Parties in Interest by Email, (B) Approve the Form and Manner of Service of the Notice of Commencement, (C) Redact or Withhold Certain Confidential Information of Customers, and (D) Redact Certain Personally Identifiable Information of Individuals, and (II) Granting Related Relief, Interim Insurance Order, Notice of Entry of Interim Order and Final Hearing with Respect to Motion of Debtors for Entry of Interim and Final Orders (I) Authorizing the Debtors to (A) Serve Certain Parties in Interest by Email, (B) Approve the Form and Manner of Service of the Notice of Commencement, (C) Redact or Withhold Certain Confidential Information of Customers, and (D) Redact Certain Personally Identifiable Information of Individuals, and (II) Granting Related Relief, Notice of Hearing Regarding Interim Cash Collateral Order, Notice of Hearing Regarding Interim Wages Order, Notice of Hearing Regarding Interim Critical Vendors Order, Notice of Hearing Regarding Interim Customer Programs Order, Notice of Hearing Regarding Interim NOL Order, Notice of Hearing Regarding Interim Cash Management Order, Notice of Hearing Regarding Interim Taxes Order, Notice of Hearing Regarding Interim Insurance Order, Notice of Hearing Regarding Utility Order, Notice of Hearing Regarding Interim SOFA Extension Order, Notice of Hearing Regarding Assumption and Rejection Procedures Order, and Notice of Hearing Regarding Bidding Procedures Order. Filed by Kroll Restructuring Administration LLC. (related document(s)2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 114, 125, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140) (Steele, Benjamin) (Entered: 02/19/2025)",
+        "docket_entry_id": 416959608,
+        "docket_id": 69545727,
+        "document_number": 463,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-19",
+        "entry_number": 463,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.463.0.pdf",
+        "id": 430706909,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T20:19:52.230655Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022116234",
+        "page_count": 137,
+        "short_description": "Affidavit/Declaration of Mailing",
+        "snippet": "                  Case 25-10068-CTG             Doc 463        Filed 02/19/25        Page 1 of 137\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al., 1                                 "
+      },
+      {
+        "absolute_url": "/docket/69545727/457/4/joann-inc/",
+        "attachment_number": 4,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Cole Schotz P.C. as Delaware Co-Counsel for the Debtors Effective as of the Petition Date) (related document(s)425) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Reilley Declaration # 4 Exhibit C - Aber Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884310,
+        "docket_id": 69545727,
+        "document_number": 457,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 457,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.457.4.pdf",
+        "id": 430629659,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:18:35.567700Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114131",
+        "page_count": 5,
+        "short_description": "Exhibit C - Aber Declaration",
+        "snippet": "Case 25-10068-CTG   Doc 457-4   Filed 02/18/25   Page 1 of 5\n\n\n\n\n                        Exhibit C\n\n                    Aber Declaration\n\f                  Case 25-10068-CTG             Doc 457-4          Filed 02/18/25       Page 2 of 5\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                               )\n    In re:                                                     )    "
+      },
+      {
+        "absolute_url": "/docket/69545727/457/3/joann-inc/",
+        "attachment_number": 3,
+        "cites": [
+          1924174
+        ],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Cole Schotz P.C. as Delaware Co-Counsel for the Debtors Effective as of the Petition Date) (related document(s)425) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Reilley Declaration # 4 Exhibit C - Aber Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884310,
+        "docket_id": 69545727,
+        "document_number": 457,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 457,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.457.3.pdf",
+        "id": 430629658,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:18:35.523454Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114130",
+        "page_count": 51,
+        "short_description": "Exhibit B - Reilley Declaration",
+        "snippet": "Case 25-10068-CTG   Doc 457-3   Filed 02/18/25   Page 1 of 51\n\n\n\n\n                        Exhibit B\n\n                    Reilley Declaration\n\f                  Case 25-10068-CTG            Doc 457-3           Filed 02/18/25      Page 2 of 51\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                               )\n    In re:                                                     )"
+      },
+      {
+        "absolute_url": "/docket/69545727/457/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Cole Schotz P.C. as Delaware Co-Counsel for the Debtors Effective as of the Petition Date) (related document(s)425) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Reilley Declaration # 4 Exhibit C - Aber Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884310,
+        "docket_id": 69545727,
+        "document_number": 457,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 457,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.457.2.pdf",
+        "id": 430629657,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:18:35.518525Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114129",
+        "page_count": 4,
+        "short_description": "Exhibit A - Proposed Order",
+        "snippet": "Case 25-10068-CTG   Doc 457-2   Filed 02/18/25   Page 1 of 4\n\n\n\n\n                        Exhibit A\n\n                     Proposed Order\n\f                  Case 25-10068-CTG             Doc 457-2          Filed 02/18/25       Page 2 of 4\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                               )\n    In re:                                                     )     "
+      },
+      {
+        "absolute_url": "/docket/69545727/457/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Cole Schotz P.C. as Delaware Co-Counsel for the Debtors Effective as of the Petition Date) (related document(s)425) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Reilley Declaration # 4 Exhibit C - Aber Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884310,
+        "docket_id": 69545727,
+        "document_number": 457,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 457,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.457.1.pdf",
+        "id": 430629656,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:18:35.512998Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114128",
+        "page_count": 2,
+        "short_description": "Notice of Application",
+        "snippet": "                Case 25-10068-CTG              Doc 457-1         Filed 02/18/25        Page 1 of 2\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                         )\n    In re:                                               )    Chapter 11\n                                                         )\n    JOANN INC., et al.,1                                 )    Case No. 25-10068 ("
+      },
+      {
+        "absolute_url": "/docket/69545727/457/joann-inc/",
+        "attachment_number": null,
+        "cites": [
+          1917210,
+          1924174
+        ],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Cole Schotz P.C. as Delaware Co-Counsel for the Debtors Effective as of the Petition Date) (related document(s)425) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Reilley Declaration # 4 Exhibit C - Aber Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884310,
+        "docket_id": 69545727,
+        "document_number": 457,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 457,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.457.0.pdf",
+        "id": 430629655,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:18:34.249395Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114127",
+        "page_count": 13,
+        "short_description": "Proposed Redacted Document",
+        "snippet": "                 Case 25-10068-CTG                 Doc 457     Filed 02/18/25        Page 1 of 13\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                         )\n    In re:                                               )   Chapter 11\n                                                         )\n    JOANN INC., et al.,1                                 )   Case No. 25-10068 (CTG)\n"
+      },
+      {
+        "absolute_url": "/docket/69545727/456/4/joann-inc/",
+        "attachment_number": 4,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of January 15, 2025) (related document(s)424) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Yenamandra Declaration # 4 Exhibit C - Aber Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884248,
+        "docket_id": 69545727,
+        "document_number": 456,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 456,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.456.4.pdf",
+        "id": 430629592,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:15:39.284163Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114124",
+        "page_count": 5,
+        "short_description": "Exhibit C - Aber Declaration",
+        "snippet": "Case 25-10068-CTG   Doc 456-4   Filed 02/18/25   Page 1 of 5\n\n\n\n\n                       Exhibit C\n\n                    Aber Declaration\n\f                  Case 25-10068-CTG             Doc 456-4           Filed 02/18/25      Page 2 of 5\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )     "
+      },
+      {
+        "absolute_url": "/docket/69545727/456/3/joann-inc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of January 15, 2025) (related document(s)424) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Yenamandra Declaration # 4 Exhibit C - Aber Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884248,
+        "docket_id": 69545727,
+        "document_number": 456,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 456,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.456.3.pdf",
+        "id": 430629591,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:15:39.251569Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114123",
+        "page_count": 92,
+        "short_description": "Exhibit B - Yenamandra Declaration",
+        "snippet": "Case 25-10068-CTG   Doc 456-3   Filed 02/18/25   Page 1 of 92\n\n\n\n\n                        Exhibit B\n\n                Yenamandra Declaration\n\f                  Case 25-10068-CTG            Doc 456-3            Filed 02/18/25     Page 2 of 92\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      ) "
+      },
+      {
+        "absolute_url": "/docket/69545727/456/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of January 15, 2025) (related document(s)424) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Yenamandra Declaration # 4 Exhibit C - Aber Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884248,
+        "docket_id": 69545727,
+        "document_number": 456,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 456,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.456.2.pdf",
+        "id": 430629590,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:15:39.246603Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114122",
+        "page_count": 21,
+        "short_description": "Exhibit A - Proposed Order",
+        "snippet": "Case 25-10068-CTG   Doc 456-2   Filed 02/18/25   Page 1 of 21\n\n\n\n\n                        Exhibit A\n\n                     Proposed Order\n\f                 Case 25-10068-CTG             Doc 456-2             Filed 02/18/25    Page 2 of 21\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                 )\n    In re:                                                       )"
+      },
+      {
+        "absolute_url": "/docket/69545727/456/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of January 15, 2025) (related document(s)424) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Yenamandra Declaration # 4 Exhibit C - Aber Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884248,
+        "docket_id": 69545727,
+        "document_number": 456,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 456,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.456.1.pdf",
+        "id": 430629589,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:15:39.240073Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114121",
+        "page_count": 2,
+        "short_description": "Notice of Application",
+        "snippet": "                 Case 25-10068-CTG              Doc 456-1         Filed 02/18/25        Page 1 of 2\n\n\n\n\n                           IN THE UNITED STATES BANKRUPTCY COURT\n                                FOR THE DISTRICT OF DELAWARE\n\n                                                          )\n    In re:                                                )    Chapter 11\n                                                          )\n    JOANN INC., et al.,1                                  )    Case No. 25-"
+      },
+      {
+        "absolute_url": "/docket/69545727/456/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "(REDACTED) (Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of January 15, 2025) (related document(s)424) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Yenamandra Declaration # 4 Exhibit C - Aber Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884248,
+        "docket_id": 69545727,
+        "document_number": 456,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 456,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.456.0.pdf",
+        "id": 430629588,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:15:38.035691Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114120",
+        "page_count": 12,
+        "short_description": "Proposed Redacted Document",
+        "snippet": "                  Case 25-10068-CTG             Doc 456        Filed 02/18/25        Page 1 of 12\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                        )\n    In re:                                              )    Chapter 11\n                                                        )\n    JOANN INC., et al.,1                                )    Case No. 25-10068 (CTG)\n  "
+      },
+      {
+        "absolute_url": "/docket/69545727/455/3/joann-inc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "(REDACTED) (Application of Debtors for Entry of an Order Authorizing the Retention and Employment of Kroll Restructuring Administration LLC as Administrative Advisor Effective as of the Petition Date) (related document(s)422) Filed by JOANN Inc.. (Attachments: # 1 Notice of Application # 2 Exhibit A - Proposed Order # 3 Exhibit B - Steele Declaration) (Reilley, Patrick) (Entered: 02/18/2025)",
+        "docket_entry_id": 416884191,
+        "docket_id": 69545727,
+        "document_number": 455,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-02-18",
+        "entry_number": 455,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.455.3.pdf",
+        "id": 430629531,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-02-19T03:11:27.654089Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022114117",
+        "page_count": 49,
+        "short_description": "Exhibit B - Steele Declaration",
+        "snippet": "Case 25-10068-CTG   Doc 455-3   Filed 02/18/25   Page 1 of 49\n\n\n\n\n                        Exhibit B\n\n                    Steele Declaration\n\f                  Case 25-10068-CTG             Doc 455-3           Filed 02/18/25     Page 2 of 49\n\n\n\n\n                            IN THE UNITED STATES BANKRUPTCY COURT\n                                 FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                  "
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjU2OTY5NDUmcz00MzE3MDM5NjImdD1yZCZkPTIwMjYtMTAtMTAmcD03&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69545727+AND+is_available%3Atrue&type=rd"
+}

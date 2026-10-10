@@ -1,0 +1,534 @@
+{
+  "response": {
+    "count": 144,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjU2OTY5NDUmcz00MzQ4OTc0MjMmdD1yZCZkPTIwMjYtMTAtMTAmcD00&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69545727+AND+is_available%3Atrue&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjU2OTY5NDUmcz00MzYzNDgyNDkmcj0xJnQ9cmQmZD0yMDI2LTEwLTEwJnA9Mg%3D%3D&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69545727+AND+is_available%3Atrue&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/69545727/705/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Mailing of Sonia Akter Regarding Declaration of Disinterestedness of Adams and Reese LLP Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business, Declaration of Disinterestedness of Frejka PLLC Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business, and Declaration of Disinterestedness of Ogletree, Deakins, Nash, Smoak & Stewart, P.C. Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business. Filed by Kroll Restructuring Administration LLC. (related document(s)631, 632, 633) (Malo, David) (Entered: 04/14/2025)",
+        "docket_entry_id": 422321863,
+        "docket_id": 69545727,
+        "document_number": 705,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-14",
+        "entry_number": 705,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.705.0.pdf",
+        "id": 436348249,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-14T19:21:35.714189Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-30T21:08:08.024089Z"
+        },
+        "pacer_doc_id": "042022225886",
+        "page_count": 4,
+        "short_description": "Affidavit/Declaration of Mailing",
+        "snippet": "                  Case 25-10068-CTG                 Doc 705         Filed 04/14/25           Page 1 of 4\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                    )\n In re:                                                             )         Chapter 11\n                                                                    )\n JOANN INC., et al.,1                "
+      },
+      {
+        "absolute_url": "/docket/69545727/701/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Nicholas Accordino in Support of the Ordinary Course Retention of Deloitte & Touche LLP as Professional Services Provider (related document(s)553) Filed by JOANN Inc.. (Reilley, Patrick) (Entered: 04/11/2025)",
+        "docket_entry_id": 422183937,
+        "docket_id": 69545727,
+        "document_number": 701,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-11",
+        "entry_number": 701,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.701.0.pdf",
+        "id": 436206122,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-11T23:27:18.656468Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022223251",
+        "page_count": 351,
+        "short_description": "Declaration",
+        "snippet": "              Case 25-10068-CTG              Doc 701        Filed 04/11/25        Page 1 of 351\n\n\n\n\n                        IN THE UNITED STATES BANKRUPTCY COURT\n                             FOR THE DISTRICT OF DELAWARE\n\n\n                                                            )\nIn re:                                                      )      Chapter 11\n                                                            )\nJOANN INC., et al., 1                                       )      Case No. "
+      },
+      {
+        "absolute_url": "/docket/69545727/690/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Supplemental Declaration of Laura J. Paszt in Support of Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief (related document(s)468, 469) Filed by JOANN Inc.. (Reilley, Patrick) (Entered: 04/09/2025)",
+        "docket_entry_id": 421844024,
+        "docket_id": 69545727,
+        "document_number": 690,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-09",
+        "entry_number": 690,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.690.0.pdf",
+        "id": 435856273,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-09T17:13:23.831557Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022216145",
+        "page_count": 266,
+        "short_description": "Declaration",
+        "snippet": "                  Case 25-10068-CTG            Doc 690        Filed 04/09/25        Page 1 of 266\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n\n                                                                     )\n    In re:                                                           )     Chapter 11\n                                                                     )\n    JOANN INC., et al.,1                    "
+      },
+      {
+        "absolute_url": "/docket/69545727/688/4/joann-inc/",
+        "attachment_number": 4,
+        "cites": [],
+        "description": "Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief (related document(s) 468, 469, 663) Signed on 4/8/2025. (Attachments: # 1 Annex 1 - Tax Advisory SOW # 2 Annex 2 - Tax Compliance SOW # 3 Annex 3 - Tax Restructuring SOW # 4 Annex 4 - Master Services Agreement) (NAB) (Entered: 04/08/2025)",
+        "docket_entry_id": 421751677,
+        "docket_id": 69545727,
+        "document_number": 688,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-04-08",
+        "entry_number": 688,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.688.4.pdf",
+        "id": 435761001,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-08T19:48:37.740070Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022214363",
+        "page_count": 15,
+        "short_description": "Annex 4 - Master Services Agreement",
+        "snippet": "Case 25-10068-CTG   Doc 688-4   Filed 04/08/25   Page 1 of 15\n\n\n\n\n                        Annex 4\n\n               Master Services Agreement\n\fDocusign Envelope ID: BBEDE3F7-F7AC-4AC1-B2BC-A4A9FF74528C\n                         Case 25-10068-CTG            Doc 688-4   Filed 04/08/25     Page 2 of 15\n\n        MASTER SERVICES AGREEMENT\n        THIS MASTER SERVICES AGREEMENT (this \u201cAgreement\u201d), dated August 12, 2024 (the \u201cEffective\n        Date\u201d), is between Deloitte LLP, a Delaware limited liability "
+      },
+      {
+        "absolute_url": "/docket/69545727/688/3/joann-inc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief (related document(s) 468, 469, 663) Signed on 4/8/2025. (Attachments: # 1 Annex 1 - Tax Advisory SOW # 2 Annex 2 - Tax Compliance SOW # 3 Annex 3 - Tax Restructuring SOW # 4 Annex 4 - Master Services Agreement) (NAB) (Entered: 04/08/2025)",
+        "docket_entry_id": 421751677,
+        "docket_id": 69545727,
+        "document_number": 688,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-04-08",
+        "entry_number": 688,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.688.3.pdf",
+        "id": 435761000,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-08T19:48:37.708152Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022214362",
+        "page_count": 7,
+        "short_description": "Annex 3 - Tax Restructuring SOW",
+        "snippet": "Case 25-10068-CTG   Doc 688-3     Filed 04/08/25   Page 1 of 7\n\n\n\n\n                        Annex 3\n\n                Tax Restructuring SOW\n\fDocusign Envelope ID: 472D39C4-B118-49A1-B169-2A5DB2293A77\n                            Case 25-10068-CTG                Doc 688-3         Filed 04/08/25         Page 2 of 7\n\n\n\n\n                                                                  EXHIBIT A\n\n                       STATEMENT OF WORK \u2013 TURNAROUND & RESTRUCTURING TAX SERVICES\n\n             SOW Number"
+      },
+      {
+        "absolute_url": "/docket/69545727/688/2/joann-inc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief (related document(s) 468, 469, 663) Signed on 4/8/2025. (Attachments: # 1 Annex 1 - Tax Advisory SOW # 2 Annex 2 - Tax Compliance SOW # 3 Annex 3 - Tax Restructuring SOW # 4 Annex 4 - Master Services Agreement) (NAB) (Entered: 04/08/2025)",
+        "docket_entry_id": 421751677,
+        "docket_id": 69545727,
+        "document_number": 688,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-04-08",
+        "entry_number": 688,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.688.2.pdf",
+        "id": 435760999,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-08T19:48:37.701729Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022214361",
+        "page_count": 70,
+        "short_description": "Annex 2 - Tax Compliance SOW",
+        "snippet": "Case 25-10068-CTG    Doc 688-2   Filed 04/08/25   Page 1 of 70\n\n\n\n\n                         Annex 2\n\n                    Tax Compliance SOW\n\fDocusign Envelope ID: 8F091092-7B03-4152-8A26-D97E54C09FC4\n                           Case 25-10068-CTG            Doc 688-2   Filed 04/08/25   Page 2 of 70\n\n\n\n                                                      STATEMENT OF WORK\n\n             SOW Number: TAX-002                                        Authorized Start Date: Upon Execution\n\n\n\n             "
+      },
+      {
+        "absolute_url": "/docket/69545727/688/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief (related document(s) 468, 469, 663) Signed on 4/8/2025. (Attachments: # 1 Annex 1 - Tax Advisory SOW # 2 Annex 2 - Tax Compliance SOW # 3 Annex 3 - Tax Restructuring SOW # 4 Annex 4 - Master Services Agreement) (NAB) (Entered: 04/08/2025)",
+        "docket_entry_id": 421751677,
+        "docket_id": 69545727,
+        "document_number": 688,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-04-08",
+        "entry_number": 688,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.688.1.pdf",
+        "id": 435760998,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-08T19:48:37.694920Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022214360",
+        "page_count": 5,
+        "short_description": "Annex 1 - Tax Advisory SOW",
+        "snippet": "Case 25-10068-CTG   Doc 688-1     Filed 04/08/25   Page 1 of 5\n\n\n\n\n                        Annex 1\n\n                    Tax Advisory SOW\n\fDocusign Envelope ID: 8F091092-7B03-4152-8A26-D97E54C09FC4\n                           Case 25-10068-CTG             Doc 688-1   Filed 04/08/25    Page 2 of 5\n\n\n\n                                                      STATEMENT OF WORK\n\n\n\n             Statement of Work Number: TAX-001                          Authorized Start Date: Upon Execution\n\n\n\n             "
+      },
+      {
+        "absolute_url": "/docket/69545727/688/joann-inc/",
+        "attachment_number": null,
+        "cites": [
+          780365
+        ],
+        "description": "Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief (related document(s) 468, 469, 663) Signed on 4/8/2025. (Attachments: # 1 Annex 1 - Tax Advisory SOW # 2 Annex 2 - Tax Compliance SOW # 3 Annex 3 - Tax Restructuring SOW # 4 Annex 4 - Master Services Agreement) (NAB) (Entered: 04/08/2025)",
+        "docket_entry_id": 421751677,
+        "docket_id": 69545727,
+        "document_number": 688,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-08",
+        "entry_number": 688,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.688.0.pdf",
+        "id": 435760996,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-08T19:48:35.976361Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022214359",
+        "page_count": 7,
+        "short_description": "Employ (Application)",
+        "snippet": "                   Case 25-10068-CTG              Doc 688       Filed 04/08/25         Page 1 of 7\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                            )    Chapter 11\n                                                                      )\n    JOANN INC., et al., 1                   "
+      },
+      {
+        "absolute_url": "/docket/69545727/683/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Mailing of Ishrat Khan Regarding Order Scheduling Omnibus Hearing Date, and Declaration of Disinterestedness of [Entity] Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business. Filed by Kroll Restructuring Administration LLC. (related document(s)637, 639) (Malo, David) (Entered: 04/08/2025)",
+        "docket_entry_id": 421696924,
+        "docket_id": 69545727,
+        "document_number": 683,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-08",
+        "entry_number": 683,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.683.0.pdf",
+        "id": 435704996,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-08T14:37:22.427057Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022213406",
+        "page_count": 23,
+        "short_description": "Affidavit/Declaration of Mailing",
+        "snippet": "                 Case 25-10068-CTG                  Doc 683        Filed 04/08/25           Page 1 of 23\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                    )\n In re:                                                             )         Chapter 11\n                                                                    )\n JOANN INC., et al.,1                "
+      },
+      {
+        "absolute_url": "/docket/69545727/682/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Mailing of Ishrat Khan Regarding Declaration of Disinterestedness of Jones Day Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business, Declaration in Support of Ordinary Course Retention, Chapter 11 Monthly Operating Reports for the Month Ending: 02/28/2025, and Monthly Fee Application of Kroll Restructuring Administration LLC, Administrative Advisor to the Debtors, for Compensation for Services and Reimbursement of Expenses for the Period from January 15, 2025 through February 28, 2025. Filed by Kroll Restructuring Administration LLC. (related document(s)613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628) (Steele, Benjamin) (Entered: 04/08/2025)",
+        "docket_entry_id": 421694085,
+        "docket_id": 69545727,
+        "document_number": 682,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-08",
+        "entry_number": 682,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.682.0.pdf",
+        "id": 435702122,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-08T14:25:20.500334Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022213371",
+        "page_count": 11,
+        "short_description": "Affidavit/Declaration of Mailing",
+        "snippet": "                 Case 25-10068-CTG                  Doc 682        Filed 04/08/25           Page 1 of 11\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                                    )\n In re:                                                             )         Chapter 11\n                                                                    )\n JOANN INC., et al.,1                "
+      },
+      {
+        "absolute_url": "/docket/69545727/678/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Amended Declaration of Disinterestedness of Adams and Reese LLP Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business (related document(s)553, 631) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1) (Reilley, Patrick) (Entered: 04/04/2025)",
+        "docket_entry_id": 421449691,
+        "docket_id": 69545727,
+        "document_number": 678,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-04-04",
+        "entry_number": 678,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.678.1.pdf",
+        "id": 435449503,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-04T19:38:41.471000Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022209118",
+        "page_count": 67,
+        "short_description": "Exhibit 1",
+        "snippet": "                               Case 25-10068-CTG   Doc 678-1   Filed 04/04/25     Page 1 of 67\n                                                                                                       EXHIBIT 1\n\n\n                        Name                          Clean Name                Category\nREDACTED NAME ON FILE                      REDACTED NAME ON FILE                363 Sale/M&A Parties\nREDACTED NAME ON FILE                      REDACTED NAME ON FILE                363 Sale/M&A Parties"
+      },
+      {
+        "absolute_url": "/docket/69545727/678/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Amended Declaration of Disinterestedness of Adams and Reese LLP Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business (related document(s)553, 631) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1) (Reilley, Patrick) (Entered: 04/04/2025)",
+        "docket_entry_id": 421449691,
+        "docket_id": 69545727,
+        "document_number": 678,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-04",
+        "entry_number": 678,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.678.0.pdf",
+        "id": 435449502,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-04T19:38:39.662527Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022209117",
+        "page_count": 3,
+        "short_description": "Declaration",
+        "snippet": "Case 25-10068-CTG Doc678 Filed 04/04/25 Pagelof3\n\nIN THE UNITED STATES BANKRUPTCY COURT\nFOR THE DISTRICT OF DELAWARE\n\nIn re: ) Chapter ||\nJOANN INC,, ef al.,' ) Case No. 25-10068 (CTG)\nDebtors. ) (Jointly Administered)\n\n) Re: Docket No. 427\n\nAMENDED DECLARATION\nOF DISINTERESTEDNESS\nOF [ENTITY] PURSUANT TO THE ORDER\nAUTHORIZING THE DEBTORS TO RETAIN AND COMPENSATE\nPROFESSIONALS UTILIZED IN THE ORDINARY COURSE OF BUSINESS\n\nI, [NAME], declare under penalty of perjury:\n\nl. I am a Special Counsel of "
+      },
+      {
+        "absolute_url": "/docket/69545727/675/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Disinterestedness of Jackson Lewis P.C. Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business (related document(s)553) Filed by JOANN Inc.. (Reilley, Patrick) (Entered: 04/03/2025)",
+        "docket_entry_id": 421280880,
+        "docket_id": 69545727,
+        "document_number": 675,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-03",
+        "entry_number": 675,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.675.0.pdf",
+        "id": 435277126,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-03T16:11:23.855120Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2026-06-16T07:00:59.600538Z"
+        },
+        "pacer_doc_id": "042022205865",
+        "page_count": 3,
+        "short_description": "Declaration",
+        "snippet": "Case 25-10068-CTG Doc675 Filed 04/03/25 Pagelof3\n\nIN THE UNITED STATES BANKRUPTCY COURT\nFOR THE DISTRICT GF DELAWARE\n\nIn re: Chapter 11\nJOANN INC., ef ai.,! Case No. 25-10068 (CTG)\nDebtors. (Jointly Administered)\nRe: Docket No, 553\nDECLARATION\nOF DISINTERESTEDNESS\n\nOF JACKSON LEWIS P.C, PURSUANT TO THE ORDER\nAUTHORIZING THE DEBTORS TO RETAIN AND COMPENSATE\nPROFESSIONALS UTILIZED IN THE ORDINARY COURSE OF BUSINESS\n\nI, Corey Donovan Tracey, declare under penalty of perjury:\n\n1. Iam a Principal of "
+      },
+      {
+        "absolute_url": "/docket/69545727/674/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Disinterestedness of Bird & Bird Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business (related document(s)553) Filed by JOANN Inc.. (Reilley, Patrick) (Entered: 04/03/2025)",
+        "docket_entry_id": 421249915,
+        "docket_id": 69545727,
+        "document_number": 674,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-03",
+        "entry_number": 674,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.674.0.pdf",
+        "id": 435244974,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-03T13:18:30.723430Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022205307",
+        "page_count": 70,
+        "short_description": "Declaration",
+        "snippet": "Case 25-10068-CTG   Doc 674   Filed 04/03/25   Page 1 of 70\n\fCase 25-10068-CTG   Doc 674   Filed 04/03/25   Page 2 of 70\n\fCase 25-10068-CTG   Doc 674   Filed 04/03/25   Page 3 of 70\n\n\n\n\n                          BENNY LAM\n\f                                   Case 25-10068-CTG   Doc 674   Filed 04/03/25    Page 4 of 70\n                                                                                                         EXHIBIT 1\n\n\n                        Name                             Clean N"
+      },
+      {
+        "absolute_url": "/docket/69545727/673/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Disinterestedness of Harter Secrest & Emery LLP Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business (related document(s)553) Filed by JOANN Inc.. (Reilley, Patrick) (Entered: 04/03/2025)",
+        "docket_entry_id": 421249080,
+        "docket_id": 69545727,
+        "document_number": 673,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-03",
+        "entry_number": 673,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.673.0.pdf",
+        "id": 435244137,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-03T13:13:59.432139Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022205294",
+        "page_count": 72,
+        "short_description": "Declaration",
+        "snippet": "                   Case 25-10068-CTG             Doc 673       Filed 04/03/25         Page 1 of 72\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al.,1                                  "
+      },
+      {
+        "absolute_url": "/docket/69545727/668/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Disinterestedness of Hahn Loeser & Parks LLP Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business (related document(s)553) Filed by JOANN Inc.. (Reilley, Patrick) (Entered: 04/02/2025)",
+        "docket_entry_id": 421180338,
+        "docket_id": 69545727,
+        "document_number": 668,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-02",
+        "entry_number": 668,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.668.0.pdf",
+        "id": 435173368,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-02T19:20:44.687252Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022204187",
+        "page_count": 72,
+        "short_description": "Declaration",
+        "snippet": "                  Case 25-10068-CTG              Doc 668       Filed 04/02/25         Page 1 of 72\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al.,1                                  "
+      },
+      {
+        "absolute_url": "/docket/69545727/664/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Disinterestedness of Siegel Jennings Co., L.P.A., Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Course of Business (related document(s)553) Filed by JOANN Inc.. (Reilley, Patrick) (Entered: 04/01/2025)",
+        "docket_entry_id": 421099383,
+        "docket_id": 69545727,
+        "document_number": 664,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-01",
+        "entry_number": 664,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.664.0.pdf",
+        "id": 435089381,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-01T23:17:30.599841Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022202522",
+        "page_count": 71,
+        "short_description": "Declaration",
+        "snippet": "                  Case 25-10068-CTG              Doc 664       Filed 04/01/25         Page 1 of 71\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al.,1                                  "
+      },
+      {
+        "absolute_url": "/docket/69545727/663/1/joann-inc/",
+        "attachment_number": 1,
+        "cites": [
+          780365
+        ],
+        "description": "Certification of Counsel Regarding Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief (related document(s)468, 469) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Order) (Reilley, Patrick) Modified on 4/2/2025 (nab). (Entered: 04/01/2025)",
+        "docket_entry_id": 421093255,
+        "docket_id": 69545727,
+        "document_number": 663,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-04-01",
+        "entry_number": 663,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.663.1.pdf",
+        "id": 435083060,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-01T22:11:14.523798Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022202428",
+        "page_count": 210,
+        "short_description": "Exhibit 1 - Revised Order",
+        "snippet": "Case 25-10068-CTG   Doc 663-1   Filed 04/01/25   Page 1 of 210\n\n\n\n\n                        Exhibit 1\n\n                      Revised Order\n\f                Case 25-10068-CTG              Doc 663-1        Filed 04/01/25         Page 2 of 210\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                      )\n    In re:                                                   "
+      },
+      {
+        "absolute_url": "/docket/69545727/663/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Application of Debtors for Entry of an Order (I) Authorizing the Employment and Retention of Deloitte Tax LLP as Tax Advisory Services Provider to the Debtors and Debtors in Possession, Effective as of the Petition Date, (II) Approving the Terms of the Engagement Agreements, and (III) Granting Related Relief (related document(s)468, 469) Filed by JOANN Inc.. (Attachments: # 1 Exhibit 1 - Revised Order) (Reilley, Patrick) Modified on 4/2/2025 (nab). (Entered: 04/01/2025)",
+        "docket_entry_id": 421093255,
+        "docket_id": 69545727,
+        "document_number": 663,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-04-01",
+        "entry_number": 663,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.663.0.pdf",
+        "id": 435083059,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-04-01T22:11:12.879356Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022202427",
+        "page_count": 3,
+        "short_description": "Certification of Counsel(Aty)",
+        "snippet": "                   Case 25-10068-CTG              Doc 663       Filed 04/01/25         Page 1 of 3\n\n\n\n\n                         IN THE UNITED STATES BANKRUPTCY COURT\n                              FOR THE DISTRICT OF DELAWARE\n\n                                                                )\n    In re:                                                      )        Chapter 11\n                                                                )\n    JOANN INC., et al., 1                                 "
+      },
+      {
+        "absolute_url": "/docket/69545727/659/joann-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Official Committee of Unsecured Creditors to File Under Seal the Names of Certain Confidential Parties in Interest Attached to the Committee's Professional Retention Applications (related document(s) 526, 527, 528, 529, 530, 531, 532) Signed on 3/31/2025. (NAB) (Entered: 03/31/2025)",
+        "docket_entry_id": 420912715,
+        "docket_id": 69545727,
+        "document_number": 659,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-03-31",
+        "entry_number": 659,
+        "filepath_local": "recap/gov.uscourts.deb.195265/gov.uscourts.deb.195265.659.0.pdf",
+        "id": 434897423,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-03-31T18:54:54.840551Z",
+          "score": {
+            "bm25": 8.5696945
+          },
+          "timestamp": "2025-04-29T16:28:09.821358Z"
+        },
+        "pacer_doc_id": "042022198275",
+        "page_count": 3,
+        "short_description": "Order",
+        "snippet": "                  Case 25-10068-CTG             Doc 659         Filed 03/31/25       Page 1 of 3\n\n\n\n\n                          IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE DISTRICT OF DELAWARE\n\n                                                            )\n    In re:                                                  )     Chapter 11\n                                                            )\n                                                            )     Case No"
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?cursor=cz04LjU2OTY5NDUmcz00MzY0MzE0MzUmdD1yZCZkPTIwMjYtMTAtMTAmcD0z&description=employ+OR+retain+OR+retention+OR+%22ordinary+course%22+OR+%22claims+agent%22+OR+%22noticing+agent%22+OR+%22engagement+letter%22&q=docket_id%3A69545727+AND+is_available%3Atrue&type=rd"
+}

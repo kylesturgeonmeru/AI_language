@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 97,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xMzQ1MDQwNjAwMDAwMC4wJnM9NDczNDAzNjA4JnQ9cmQmZD0yMDI2LTEwLTExJnA9Mg%3D%3D&description=%28AlixPartners+OR+%22Alvarez+%26+Marsal%22%29+AND+%28employ+OR+retain+OR+retention%29&filed_after=01%2F01%2F2025&order_by=entry_date_filed+desc&q=chapter%3A11&type=rd",
+    "previous": null,
+    "results": [
+      {
+        "absolute_url": "/docket/73444275/938/damis-holdings-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER AUTHORIZING THE DAMIS DEBTORS TO EMPLOY AND RETAIN ALIXPARTNERS, LLP AS THEIR FORENSIC ADVISORY CONSULTANT EFFECTIVE AS OF JULY 28, 2026 (Related Doc # 664). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 8/27/2026. (bwj) (Entered: 08/27/2026)",
+        "docket_entry_id": 476076725,
+        "docket_id": 73444275,
+        "document_number": 938,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-27",
+        "entry_number": 938,
+        "filepath_local": null,
+        "id": 491628781,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-27T21:05:52.395035Z",
+          "score": {
+            "bm25": 13463885000000.0
+          },
+          "timestamp": "2026-09-25T18:11:17.302428Z"
+        },
+        "pacer_doc_id": "118071406532",
+        "page_count": null,
+        "short_description": "Application (Generic)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Minute of Hearing Held, OUTCOME: ORDER TO BE SUBMITTED (related document:664 Application re: DAMIS Debtors' Application for Entry of an Order Authorizing the Employment and Retention of AlixPartners, LLP as Their Forensic Advisory Consultant Effective as of July 28, 2026. Hearing scheduled for 8/26/26 at 2:00 PM, CMG - Courtroom 3, Trenton Filed by Michael P. Pompeo on behalf of DAMIS Holdings LLC. Objection deadline is 8/14/2026. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) Filed by Debtor DAMIS Holdings LLC) (hwn)",
+        "docket_entry_id": 479446863,
+        "docket_id": 73444275,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-26",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 495097610,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-09-25T18:11:16.988272Z",
+          "score": {
+            "bm25": 13463799000000.0
+          },
+          "timestamp": "2026-09-25T18:11:17.048985Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73444275/901/damis-holdings-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Document re: Certification of Counsel Regarding Entry of Order Authorizing the DAMIS Debtors to Employ and Retain AlixPartners, LLP as Their Forensic Advisory Consultant Effective as of July 28, 2026 (related document:664 Application (Generic) filed by Debtor DAMIS Holdings LLC, 894 Document filed by Debtor DAMIS Holdings LLC) filed by Michael P. Pompeo on behalf of DAMIS Holdings LLC. (Attachments: # 1 Exhibit A # 2 Exhibit B) (Pompeo, Michael) (Entered: 08/25/2026)",
+        "docket_entry_id": 475766411,
+        "docket_id": 73444275,
+        "document_number": 901,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-25",
+        "entry_number": 901,
+        "filepath_local": null,
+        "id": 491309188,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-25T21:34:57.027416Z",
+          "score": {
+            "bm25": 13463712000000.0
+          },
+          "timestamp": "2026-08-27T17:35:26.178288Z"
+        },
+        "pacer_doc_id": "118071392194",
+        "page_count": null,
+        "short_description": "Document",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Hearing Scheduled. (related document:664 Application re: DAMIS Debtors' Application for Entry of an Order Authorizing the Employment and Retention of AlixPartners, LLP as Their Forensic Advisory Consultant Effective as of July 28, 2026. Filed by Michael P. Pompeo on behalf of DAMIS Holdings LLC. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) filed by Debtor DAMIS Holdings LLC) Hearing scheduled for 8/26/2026 at 2:00 PM, CMG - Courtroom 3, Trenton. (rms)",
+        "docket_entry_id": 476032079,
+        "docket_id": 73444275,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-17",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 491582119,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-27T17:35:15.604134Z",
+          "score": {
+            "bm25": 13463021000000.0
+          },
+          "timestamp": "2026-08-27T17:35:18.351975Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73444275/664/damis-holdings-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application re: DAMIS Debtors' Application for Entry of an Order Authorizing the Employment and Retention of AlixPartners, LLP as Their Forensic Advisory Consultant Effective as of July 28, 2026. Hearing scheduled for 8/26/26 at 2:00 PM, CMG - Courtroom 3, Trenton Filed by Michael P. Pompeo on behalf of DAMIS Holdings LLC. Objection deadline is 8/14/2026. (Attachments: # 1 Notice # 2 Exhibit A # 3 Exhibit B # 4 Exhibit C) (Pompeo, Michael) (Entered: 08/07/2026)",
+        "docket_entry_id": 473669551,
+        "docket_id": 73444275,
+        "document_number": 664,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-07",
+        "entry_number": 664,
+        "filepath_local": null,
+        "id": 489142609,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-07T19:03:09.544695Z",
+          "score": {
+            "bm25": 13462157000000.0
+          },
+          "timestamp": "2026-08-12T15:36:52.596067Z"
+        },
+        "pacer_doc_id": "118071287282",
+        "page_count": null,
+        "short_description": "Application (Generic) - Only use if no other event is applicable",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73205273/614/qvc-group-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: of Gregory Depalma Regarding Stipulation and Agreed Order Regarding Certain Reporting Obligations and Deadlines, Notice of Filing of Amended Retention Orders and Redlines, Stipulation and Agreed Order Regarding Certain Reporting Obligations and Deadlines, Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of April 16, 2026, Order Authorizing the Employment of Gray Reed as co-counsel to the Debtors and Debtors in Possession, Effective as of the Petition Date, Order Authorizing the Retention and Employment of AlixPartners, LLP as Financial Advisor Effective as of the Petition Date, Order Authorizing (I) the Retention and Employment of Evercore Group L.L.C. as Investment Banker Effective as of the Petition Date and (II) Granting Related Relief, Order (I) Authorizing the Retention and Employment of KPMG LLP to Provide Audit and Tax Consulting Services Effective as of the Petition Date and (II) Granting Related Relief, Order Authorizing the Retention and Employment of PwC US Business Advisory LLP as Accounting Advisory Provider and Valuation Services Provider to the Debtors, Effective as of April 17, 2026, Order Authorizing the Retention and Employment of PwC US Tax as Tax Services Provider to the Debtors, Effective as of April 16, 2026, Order Authorizing the Retention and Employment of Katten Muchin Rosenman LLP as Counsel to QVC, Inc. at the Sole Direction of the Disinterested Directors Effective as of the Petition Date, Order Approving QVC Group, Inc.s Application for Entry of an Order Authorizing the Retention and Employment of Kobre & Kim LLP as Special Counsel to the Special Committee of the Board of Directors of QVC Group, Inc. Effective as of the Petition Date, Order Authorizing the Employment and Retention of Milbank LLP as Counsel to Qurate Retail Group, Inc. and Liberty Interactive LLC Effective as of the Petition Date, Order Authorizing the Retention and Employment of Seward & Kissel LLP as Counsel to the Disinterested Directors of QRI Cornerstone, Inc. Effective as of the Petition Date, and Declaration of Disinterestedness of Akerman LLP Pursuant to the Order (I) Authorizing the Retention and Compensation of Certain Professionals Utilized in the Ordinary Course of Business and (II) Granting Related Relief. (related document(s):579 Stipulation, 580 Notice, 585 Declaration, 586 Generic Order, 587 Generic Order, 588 Generic Order, 589 Generic Order, 590 Generic Order, 591 Generic Order, 592 Generic Order, 593 Generic Order, 594 Generic Order, 595 Generic Order, 596 Generic Order). Filed by Kroll Restructuring Administration LLC (Steele, Benjamin) (Entered: 06/30/2026)",
+        "docket_entry_id": 469353574,
+        "docket_id": 73205273,
+        "document_number": 614,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-30",
+        "entry_number": 614,
+        "filepath_local": null,
+        "id": 484686425,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-01T02:33:14.314958Z",
+          "score": {
+            "bm25": 13458874000000.0
+          },
+          "timestamp": "2026-07-07T15:21:44.043735Z"
+        },
+        "pacer_doc_id": "178054679105",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73205273/588/qvc-group-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Employment and Retention of AlixPartners, LLP as Financial Advisor to the Debtors Effective as of the Petition Date, Signed on 6/22/2026 (Related document(s):260 Generic Application, 476 Order on Generic Application, 580 Notice) (gc4) (Entered: 06/22/2026)",
+        "docket_entry_id": 468349363,
+        "docket_id": 73205273,
+        "document_number": 588,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-22",
+        "entry_number": 588,
+        "filepath_local": null,
+        "id": 483640628,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-22T23:01:40.443584Z",
+          "score": {
+            "bm25": 13458183000000.0
+          },
+          "timestamp": "2026-06-22T23:13:47.088189Z"
+        },
+        "pacer_doc_id": "178054629839",
+        "page_count": null,
+        "short_description": "Generic Order",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73205273/580/qvc-group-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice of Filing of Amended Retention Orders and Redlines. (Related document(s):474 Order on Generic Application, 475 Order on Generic Application, 476 Order on Generic Application, 477 Order on Generic Application, 479 Order on Generic Application, 480 Order on Generic Application, 481 Order on Generic Application, 482 Order on Generic Application, 483 Order on Generic Application, 484 Order on Generic Application, 485 Order on Generic Application) Filed by QVC Group, Inc. (Attachments: # 1 K&E Proposed Amended Retention Order # 2 Gray Reed Proposed Amended Retention Order # 3 AlixPartners Proposed Amended Retention Order # 4 Evercore Proposed Amended Retention Order # 5 KPMG Proposed Amended Retention Order # 6 PwC US Business Advisory Proposed Amended Retention Order # 7 PwC US Tax Proposed Amended Retention Order # 8 Katten Proposed Amended Retention Order # 9 Kobre & Kim Proposed Amended Retention Order # 10 Milbank Proposed Amended Retention Order # 11 Seward & Kissel Proposed Amended Retention Order) (Brookner, Jason) (Entered: 06/19/2026)",
+        "docket_entry_id": 468163063,
+        "docket_id": 73205273,
+        "document_number": 580,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-19",
+        "entry_number": 580,
+        "filepath_local": null,
+        "id": 483447052,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-19T23:01:45.563266Z",
+          "score": {
+            "bm25": 13457924000000.0
+          },
+          "timestamp": "2026-06-22T19:40:36.060030Z"
+        },
+        "pacer_doc_id": "178054620464",
+        "page_count": null,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72130479/949/stg-logistics-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Third Supplemental Declaration of Jason Keyes of AlixPartners, LLP in support of (related document:272 Application for Retention filed by Other Prof. Alixpartners, LLP, 393 Support filed by Other Prof. Alixpartners, LLP, 518 Support filed by Other Prof. Alixpartners, LLP) filed by Michael D. Sirota on behalf of Alixpartners, LLP. (Sirota, Michael) (Entered: 06/12/2026)",
+        "docket_entry_id": 467307415,
+        "docket_id": 72130479,
+        "document_number": 949,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-12",
+        "entry_number": 949,
+        "filepath_local": null,
+        "id": 482567352,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-12T20:34:57.375233Z",
+          "score": {
+            "bm25": 13457318000000.0
+          },
+          "timestamp": "2026-09-24T14:02:53.433677Z"
+        },
+        "pacer_doc_id": "118070981280",
+        "page_count": null,
+        "short_description": "Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73205273/476/qvc-group-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Employment and Retention of AlixPartners, LLP as Financial Advisor to the Debtors Effective as of the Petition Date (Related Doc # 260) Signed on 6/10/2026. (gc4) (Entered: 06/10/2026)",
+        "docket_entry_id": 466933077,
+        "docket_id": 73205273,
+        "document_number": 476,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-06-10",
+        "entry_number": 476,
+        "filepath_local": null,
+        "id": 482184376,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-10T15:05:54.741219Z",
+          "score": {
+            "bm25": 13457145000000.0
+          },
+          "timestamp": "2026-06-15T14:59:45.730847Z"
+        },
+        "pacer_doc_id": "178054567024",
+        "page_count": null,
+        "short_description": "Generic Application",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73205273/305/qvc-group-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: of Sonia Akter Regarding Stipulated Confidentiality Agreement and Protective Order, Certificate of Counsel Regarding the Debtors Emergency Motion for Entry of Interim and Final Orders (I) Authorizing the QVC Debtors (A) to Enter Into the DIP LC Facility, (B) Fund the LC Cash Collateral Account, and (C) Grant Liens and Provide Administrative Expense Claims, (II) Modifying the Automatic Stay, (III) Scheduling a Final Hearing, and (IV) Granting Related Relief, Debtors Application for Entry of an Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP as Attorneys for the Debtors and Debtors in Possession Effective as of April 16, 2026, Debtors Application for Entry of an Order Authorizing the Employment of Gray Reed as Co-Counsel to the Debtors and Debtors in Possession, Effective as of the Petition Date, Debtors Application for Entry of an Order Authorizing the Employment and Retention of AlixPartners, LLP as Financial Advisor to the Debtors Effective as of the Petition Date, Debtors Application for Entry of an Order (I) Authorizing the Retention and Employment of Evercore Group L.L.C. as Investment Banker Effective as of the Petition Date and (II) Granting Related Relief, QVC Group, Inc.s Application for Entry of an Order Authorizing the Retention and Employment of Holtz, Slavett, Drabkin & Warner, APLC as Special Tax Counsel to the Special Committee of the Board of Directors of QVC Group, Inc. Effective as of the Petition Date, Debtors Application for Entry of an Order (I) Authorizing the Retention and Employment of KPMG LLP to Provide Audit and Tax Consulting Services Effective as of the Petition Date and (II) Granting Related Relief, Debtors Application for Entry of an Order Authorizing the Retention and Employment of PwC US Business Advisory LLP as Accounting Advisory and Valuation Services Provider to the Debtors, Effective as of April 17, 2026, Debtors Application for Entry of an Order Authorizing the Retention and Employment of PwC US Tax LLP as Tax Services Provider to the Debtors, Effective as of April 16, 2026, Debtors Application for Entry of an Order Authorizing the Retention and Employment of Katten Muchin Rosenman LLP as Counsel to QVC, Inc. at the Sole Direction of the Disinterested Directors Effective as of the Petition Date, QVC Group, Inc.s Application for Entry of an Order Authorizing the Retention and Employment of Kobre & Kim LLP as Special Counsel to the Special Committee of the Board of Directors of QVC Group, Inc. Effective as of the Petition Date, Debtors Application for Entry of an Order Authorizing the Employment and Retention of Milbank LLP as Counsel to Qurate Retail Group, Inc. and Liberty Interactive LLC Effective as of the Petition Date, and Application for Entry of an Order Authorizing the Retention and Employment of Seward & Kissel LLP as Counsel to the Disinterested Directors of QRI Cornerstone, Inc. Effective as of the Petition Date. (related document(s):250 Stipulation, 257 Certificate, 258 Generic Application, 259 Generic Application, 260 Generic Application, 261 Generic Application, 262 Generic Application, 263 Generic Application, 264 Generic Application, 265 Generic Application, 266 Generic Application, 267 Generic Application, 268 Generic Application, 269 Generic Application). Filed by Kroll Restructuring Administration LLC (Steele, Benjamin) (Entered: 05/21/2026)",
+        "docket_entry_id": 464846410,
+        "docket_id": 73205273,
+        "document_number": 305,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-05-21",
+        "entry_number": 305,
+        "filepath_local": null,
+        "id": 480034829,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-05-21T19:05:48.255257Z",
+          "score": {
+            "bm25": 13455417000000.0
+          },
+          "timestamp": "2026-05-22T14:38:34.113018Z"
+        },
+        "pacer_doc_id": "178054454950",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73205273/260/qvc-group-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application DEBTORS APPLICATION FOR ENTRY OF AN ORDER AUTHORIZING THE EMPLOYMENT AND RETENTION OF ALIXPARTNERS, LLP AS FINANCIAL ADVISOR TO THE DEBTORS EFFECTIVE AS OF THE PETITION DATE Filed by Debtor QVC Group, Inc. (Attachments: # 1 Proposed Order) (Brookner, Jason) (Entered: 05/16/2026)",
+        "docket_entry_id": 464305406,
+        "docket_id": 73205273,
+        "document_number": 260,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-05-16",
+        "entry_number": 260,
+        "filepath_local": null,
+        "id": 479474551,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-05-16T18:01:08.591207Z",
+          "score": {
+            "bm25": 13454985000000.0
+          },
+          "timestamp": "2026-05-18T22:20:56.495464Z"
+        },
+        "pacer_doc_id": "178054428241",
+        "page_count": null,
+        "short_description": "Generic Application",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72267129/309/avenger-flight-group-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration of Disinterestedness of Alvarez and Marsal Tax, LLC Pursuant to the Order Authorizing the Debtors to Retain and Compensate Professionals Utilized in the Ordinary Court of Business (related document(s)181) Filed by Avenger Flight Group, LLC. (Caloway, Mary) (Entered: 04/13/2026)",
+        "docket_entry_id": 460545396,
+        "docket_id": 72267129,
+        "document_number": 309,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-13",
+        "entry_number": 309,
+        "filepath_local": null,
+        "id": 475609638,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-13T15:31:48.666982Z",
+          "score": {
+            "bm25": 13452134000000.0
+          },
+          "timestamp": "2026-08-14T16:06:34.020404Z"
+        },
+        "pacer_doc_id": "042022928011",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72202377/715/multi-color-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Second Supplemental Declaration of Eric S. Koza of AlixPartners, LLP in support of (related document:438 Application for Retention filed by Other Prof. Alixpartners, LLP, 541 Support filed by Other Prof. Alixpartners, LLP) filed by Michael D. Sirota on behalf of Alixpartners, LLP. (Sirota, Michael) (Entered: 04/08/2026)",
+        "docket_entry_id": 460103263,
+        "docket_id": 72202377,
+        "document_number": 715,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-04-08",
+        "entry_number": 715,
+        "filepath_local": null,
+        "id": 475151553,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-04-08T18:36:03.291786Z",
+          "score": {
+            "bm25": 13451702000000.0
+          },
+          "timestamp": "2026-06-26T17:05:11.385660Z"
+        },
+        "pacer_doc_id": "118070616997",
+        "page_count": null,
+        "short_description": "Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72141043/1530/saks-global-enterprises-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: Global Debtors Objection to Emergency Motion of Nancy Getz for Relief from the Automatic Stay to Permit the Continuation of Litigation and Pursue Insurance Proceeds (Docket No. 1488), Declaration in Support of Global Debtors Objection to Emergency Motion of Nancy Getz for Relief from the Automatic Stay to Permit the Continuation of Litigation and Pursue Insurance Proceeds (Docket No. 1489), Global Debtors Notice of Intent to Adduce Testimony from a Remote Location by Telephone and Video Technology (Docket No. 1490), Order Authorizing the Official Committee of Unsecured Creditors to Employ and Retain Alixpartners, LLP as its Financial Advisor Effective as of February 2, 2026 (Docket No. 1494), Order (I) Authorizing the Retention and Employment of Houlihan Lokey Capital, Inc. as Investment Banker to the Official Committee of Unsecured Creditors Pursuant to 11 U.S.C. \u00a7\u00a7 328(a) and 1103, Effective as of February 2, 2026; (II) Waiving Certain Timekeeping Requirements; and (III) Granting Related Relief (Docket No. 1495), Order Pursuant to 11 U.S.C. \u00a7 327(a), Fed. R. Bankr. P. 2014(a) and 2016, and Local Rules 2014-1 and 2016-1 Authorizing Retention and Employment of Lawson & Moshenberg as Conflicts Counsel for the SO5 Digital Debtors (Docket No. 1496), Global Debtors Sixth Omnibus Motion for Entry of Order, Pursuant to Sections 105(a) and 365(a) of the Bankruptcy Code, Authorizing Global Debtors to Reject Certain Executory Contracts, Effective as of the Rejection Date (Docket No. 1502), Global Debtors Seventh Omnibus Motion for Entry of Order, Pursuant to Sections 105(a), 365(a), and 554 of the Bankruptcy Code, Authorizing Debtors to (I) Reject Certain Unexpired Leases of Nonresidential Real Property and (II) Abandon Personal Property (Docket No. 1503) (Filed By Stretto ).(Related document(s):1488 Objection, 1489 Declaration, 1490 Notice, 1494 Order on Application to Employ, 1495 Order on Application to Employ, 1496 Order on Application to Employ, 1502 Motion to Reject Lease or Executory Contract, 1503 Motion to Reject Lease or Executory Contract) (Betance, Sheryl) (Entered: 03/31/2026)",
+        "docket_entry_id": 459164846,
+        "docket_id": 72141043,
+        "document_number": 1530,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-31",
+        "entry_number": 1530,
+        "filepath_local": null,
+        "id": 474184196,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-31T17:31:39.694292Z",
+          "score": {
+            "bm25": 13451011000000.0
+          },
+          "timestamp": "2026-09-17T13:35:45.420364Z"
+        },
+        "pacer_doc_id": "178054158927",
+        "page_count": null,
+        "short_description": "Certificate",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72141043/1515/saks-global-enterprises-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: Agreed Order and Certificate of Counsel (Docket No. 1456), Application to Employ. Objections/Request for Hearing Due in 21 days (Docket No. 1457), Notice of Amendment to Lists of Ordinary Course Professionals (Docket No. 1460), Declaration of Ellen Smith in Support of Employment of Riveron Consulting, LLC as a Professional Utilized in the Ordinary Course of Business (Docket No. 1461), Fifth Omnibus Order, Pursuant to Sections 105(a) and 365(a) of the Bankruptcy Code, Authorizing Global Debtors to Reject Certain Executory Contracts (Docket No. 1462), Supplemental Declaration of David MacGreevey of AlixPartners, LLP (Docket No. 1466), Second Supplemental Declaration of Debra M. Sinclair in Support of Global Debtors' Application for Order Authorizing the Retention and Employment of Willkie Farr & Gallagher LLP as Co-Counsel for The Global Debtors Effective as of the Petition Date (Docket No. 1467), Objection Global Debtors' Omnibus Objection to (I) Motion of Andrei Rus for Relief from the Automatic Stay and Declaratory Carve-Out to Pursue Non-Debtor Tortfeasors and (II) Motion of Creditor Andrei Rus for Allowance of Administrative Expense Pursuant to 11 U.S.C. Section 503(b)(1)(A) (Docket No. 1468) (Filed By Stretto ).(Related document(s):1456 Agreed Order and Certificate of Counsel, 1457 Application to Employ, 1460 Notice, 1461 Declaration, 1462 Generic Order, 1466 Declaration, 1467 Declaration, 1468 Objection) (Betance, Sheryl) (Entered: 03/30/2026)",
+        "docket_entry_id": 459086503,
+        "docket_id": 72141043,
+        "document_number": 1515,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-30",
+        "entry_number": 1515,
+        "filepath_local": "recap/gov.uscourts.txsb.491023/gov.uscourts.txsb.491023.1515.0.pdf",
+        "id": 474104049,
+        "is_available": true,
+        "meta": {
+          "date_created": "2026-03-31T00:01:45.734794Z",
+          "score": {
+            "bm25": 13450925000000.0
+          },
+          "timestamp": "2026-09-17T13:35:45.420364Z"
+        },
+        "pacer_doc_id": "178054154956",
+        "page_count": 22,
+        "short_description": "Certificate",
+        "snippet": "             Case 26-90103 Document 1515 Filed in TXSB on 03/30/26 Page 1 of 22\n\n\n\n\n                             IN THE UNITED STATES BANKRUPTCY COURT\n                               FOR THE SOUTHERN DISTRICT OF TEXAS\n                                        HOUSTON DIVISION\n\n                                                                  )\n    In re:                                                        ) Chapter 11\n                                                                  )\n    SAKS G"
+      },
+      {
+        "absolute_url": "/docket/72130479/518/stg-logistics-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Second Supplemental Declaration of Jason Keyes of AlixPartners, LLP in support of (related document:272 Application for Retention filed by Other Prof. Alixpartners, LLP, 393 Support filed by Other Prof. Alixpartners, LLP) filed by Michael D. Sirota on behalf of Alixpartners, LLP. (Sirota, Michael) (Entered: 03/30/2026)",
+        "docket_entry_id": 459036520,
+        "docket_id": 72130479,
+        "document_number": 518,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-30",
+        "entry_number": 518,
+        "filepath_local": null,
+        "id": 474053109,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-30T19:31:27.749432Z",
+          "score": {
+            "bm25": 13450925000000.0
+          },
+          "timestamp": "2026-09-24T14:02:31.870294Z"
+        },
+        "pacer_doc_id": "118070567809",
+        "page_count": null,
+        "short_description": "Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72141043/1494/saks-global-enterprises-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Official Committee of Unsecured Creditors to Employ and Retain AlixPartners, LLP as its Financial Advisor Effective as of February 2, 2026 (Related Doc # 1115) Signed on 3/27/2026. (gc4) (Entered: 03/27/2026)",
+        "docket_entry_id": 458809242,
+        "docket_id": 72141043,
+        "document_number": 1494,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-27",
+        "entry_number": 1494,
+        "filepath_local": null,
+        "id": 473820793,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-27T17:02:53.627564Z",
+          "score": {
+            "bm25": 13450665000000.0
+          },
+          "timestamp": "2026-09-17T13:35:45.420364Z"
+        },
+        "pacer_doc_id": "178054142327",
+        "page_count": null,
+        "short_description": "Order to Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72141043/1484/saks-global-enterprises-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection Regarding Application of the Official Committee of Unsecured Creditors for Entry of an Order Authorizing the Employment and Retention of AlixPartners, LLP as Its Financial Advisor Effective as of February 2, 2026 (Filed By Official Committee of Unsecured Creditors ).(Related document(s):1115 Application to Employ) (Attachments: # 1 Proposed Order) (Phillips, Ian) (Entered: 03/26/2026)",
+        "docket_entry_id": 458671001,
+        "docket_id": 72141043,
+        "document_number": 1484,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-26",
+        "entry_number": 1484,
+        "filepath_local": null,
+        "id": 473679811,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-26T18:03:23.901829Z",
+          "score": {
+            "bm25": 13450579000000.0
+          },
+          "timestamp": "2026-09-17T13:35:45.420364Z"
+        },
+        "pacer_doc_id": "178054135664",
+        "page_count": null,
+        "short_description": "Certificate of No Objection (Complex 11 ONLY)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72202377/541/multi-color-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Supplemental Declaration of Eric S. Koza of AlixPartners, LLP in support of (related document:438 Application for Retention filed by Other Prof. Alixpartners, LLP) filed by Michael D. Sirota on behalf of Alixpartners, LLP. (Sirota, Michael) (Entered: 03/24/2026)",
+        "docket_entry_id": 458401077,
+        "docket_id": 72202377,
+        "document_number": 541,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-24",
+        "entry_number": 541,
+        "filepath_local": null,
+        "id": 473403608,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-24T21:34:31.235694Z",
+          "score": {
+            "bm25": 13450406000000.0
+          },
+          "timestamp": "2026-06-26T17:05:11.385660Z"
+        },
+        "pacer_doc_id": "118070536311",
+        "page_count": null,
+        "short_description": "Support",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=chapter%3A11&description=%28AlixPartners+OR+%22Alvarez+%26+Marsal%22%29+AND+%28employ+OR+retain+OR+retention%29&court=deb+njb+txsb+txnb+nysb+vaeb+ganb&filed_after=01%2F01%2F2025&order_by=entry_date_filed+desc"
+}

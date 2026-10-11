@@ -1,0 +1,532 @@
+{
+  "response": {
+    "count": 97,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xMzQzOTQzNDAwMDAwMC4wJnM9NDU5MDY3ODI5JnQ9cmQmZD0yMDI2LTEwLTExJnA9Mw%3D%3D&description=%28AlixPartners+OR+%22Alvarez+%26+Marsal%22%29+AND+%28employ+OR+retain+OR+retention%29&filed_after=01%2F01%2F2025&order_by=entry_date_filed+desc&q=chapter%3A11&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xMzQ1MDQwNjAwMDAwMC4wJnM9NDczMzIyMzkwJnI9MSZ0PXJkJmQ9MjAyNi0xMC0xMSZwPTE%3D&description=%28AlixPartners+OR+%22Alvarez+%26+Marsal%22%29+AND+%28employ+OR+retain+OR+retention%29&filed_after=01%2F01%2F2025&order_by=entry_date_filed+desc&q=chapter%3A11&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/72202377/533/multi-color-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Granting Application to Employ AlixPartners, LLP as FINANCIAL ADVISOR (Related Doc # 438). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 3/24/2026. (wiq) (Entered: 03/24/2026)",
+        "docket_entry_id": 458322046,
+        "docket_id": 72202377,
+        "document_number": 533,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-24",
+        "entry_number": 533,
+        "filepath_local": null,
+        "id": 473322390,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-24T15:35:02.764421Z",
+          "score": {
+            "bm25": 13450406000000.0
+          },
+          "timestamp": "2026-06-26T17:05:11.385660Z"
+        },
+        "pacer_doc_id": "118070532107",
+        "page_count": null,
+        "short_description": "Retention ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72202377/528/multi-color-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Vacating Order for (related document:511 ORDER (I) AUTHORIZING THE EMPLOYMENT AND RETENTION OF ALIXPARTNERS, LLP AS FINANCIAL ADVISOR FOR THE DEBTORS EFFECTIVE AS OF THE PETITION DATE AND (II) GRANTING RELATED RELIEF (Related Doc 438). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 3/20/2026. (llb) *** ENTERED IN ERROR. UST'S OBJECTION DEADLINE HAD NOT LAPSED. REVISED ORDERS TO BE SUBMITTED *** TEXT/Modified on 3/23/2026 (wiq).). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 3/23/2026. (wiq) (Entered: 03/23/2026)",
+        "docket_entry_id": 458208602,
+        "docket_id": 72202377,
+        "document_number": 528,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-23",
+        "entry_number": 528,
+        "filepath_local": null,
+        "id": 473206383,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-23T18:05:54.798379Z",
+          "score": {
+            "bm25": 13450320000000.0
+          },
+          "timestamp": "2026-06-26T17:05:11.385660Z"
+        },
+        "pacer_doc_id": "118070527260",
+        "page_count": null,
+        "short_description": "Vacating Order",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72202377/511/multi-color-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER (I) AUTHORIZING THE EMPLOYMENT AND RETENTION OF ALIXPARTNERS, LLP AS FINANCIAL ADVISOR FOR THE DEBTORS EFFECTIVE AS OF THE PETITION DATE AND (II) GRANTING RELATED RELIEF (Related Doc 438). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 3/20/2026. (llb) *** ENTERED IN ERROR. UST'S OBJECTION DEADLINE HAD NOT LAPSED. REVISED ORDERS TO BE SUBMITTED *** TEXT/Modified on 3/23/2026 (wiq). (Entered: 03/20/2026)",
+        "docket_entry_id": 457993448,
+        "docket_id": 72202377,
+        "document_number": 511,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-20",
+        "entry_number": 511,
+        "filepath_local": null,
+        "id": 472986201,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-20T18:35:13.475239Z",
+          "score": {
+            "bm25": 13450061000000.0
+          },
+          "timestamp": "2026-06-26T17:05:11.385660Z"
+        },
+        "pacer_doc_id": "118070517059",
+        "page_count": null,
+        "short_description": "Retention ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72141043/1443/saks-global-enterprises-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: Order (I) Authorizing the Retention and Employment of Berkeley Research Group, LLC, to Provide (A) Mark Weinsten as Chief Restructuring Officer and (B) Additional Personnel for the Global Debtors, Effective as of the Petition Date and (II) Granting Related Relief (Docket No. 1108), Order Authorizing the Retention and Employment of A&G Realty Partners, LLC as Real Estate Consultant and Advisor to the Global Debtors and Global Debtors in Possession (Docket No. 1111), Order (I) Authorizing the SO5 Digital Debtors to (A) Retain and Employ Accordion Partners, LLC as its Financial Advisors and (B) Designate Andrew D.J. Hede and Chief Restructuring Officer Effective as of the Petition Date, and (III) Granting Related Relief (Docket No. 1112), Application to Employ AlixPartners, LLP as Financial Advisor to the Official Committee of Unsecured Creditors Effective as of February 2, 2026. Objections/Request for Hearing Due in 21 days (Docket No. 1115), and Application to Employ Houlihan Lokey Capital, Inc. as Investment Banker to the Official Committee of Unsecured Creditors, Effective as of February 2, 2026; (II) Waiving Certain Time-Keeping Requirements; and (III) Granting Related Relief. Objections/Request for Hearing Due in 21 days (Docket No. 1116) (Filed By Stretto ).(Related document(s):1108 Order on Application to Employ, 1111 Order on Application to Employ, 1112 Order on Application to Employ, 1115 Application to Employ, 1116 Application to Employ) (Betance, Sheryl) (Entered: 03/18/2026)",
+        "docket_entry_id": 457650130,
+        "docket_id": 72141043,
+        "document_number": 1443,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-18",
+        "entry_number": 1443,
+        "filepath_local": null,
+        "id": 472637402,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-18T18:05:51.665793Z",
+          "score": {
+            "bm25": 13449888000000.0
+          },
+          "timestamp": "2026-09-17T13:35:45.420364Z"
+        },
+        "pacer_doc_id": "178054093267",
+        "page_count": null,
+        "short_description": "Certificate",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72130479/393/stg-logistics-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "First Supplemental Declaration of Jason Keyes of AlixPartners, LLP in support of (related document:272 Application for Retention filed by Other Prof. Alixpartners, LLP) filed by Michael D. Sirota on behalf of Alixpartners, LLP. (Sirota, Michael) (Entered: 03/12/2026)",
+        "docket_entry_id": 456967085,
+        "docket_id": 72130479,
+        "document_number": 393,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-12",
+        "entry_number": 393,
+        "filepath_local": null,
+        "id": 471940071,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-12T19:34:10.694169Z",
+          "score": {
+            "bm25": 13449369000000.0
+          },
+          "timestamp": "2026-05-18T20:04:31.834525Z"
+        },
+        "pacer_doc_id": "118070462001",
+        "page_count": null,
+        "short_description": "Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72202377/438/multi-color-corporation/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application For Retention of Professional AlixPartners, LLP as Financial Advisor for the Debtors Effective as of the Petition Date and (II) Granting Related Relief Filed by Michael D. Sirota on behalf of Alixpartners, LLP. Objection deadline is 3/19/2026. (Sirota, Michael) (Entered: 03/12/2026)",
+        "docket_entry_id": 456929800,
+        "docket_id": 72202377,
+        "document_number": 438,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-12",
+        "entry_number": 438,
+        "filepath_local": null,
+        "id": 471902444,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-12T17:04:00.151267Z",
+          "score": {
+            "bm25": 13449369000000.0
+          },
+          "timestamp": "2026-06-26T17:05:11.385660Z"
+        },
+        "pacer_doc_id": "118070460514",
+        "page_count": null,
+        "short_description": "Retention (Do Not Use to Employ/Appoint an Examiner)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72141043/1115/saks-global-enterprises-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application to Employ AlixPartners, LLP as Financial Advisor to the Official Committee of Unsecured Creditors Effective as of February 2, 2026. Objections/Request for Hearing Due in 21 days. Filed by Creditor Committee Official Committee of Unsecured Creditors (Attachments: # 1 Exhibit A # 2 Exhibit B # 3 Exhibit C # 4 Certificate of Service) (Phillips, Ian) (Entered: 03/04/2026)",
+        "docket_entry_id": 455878876,
+        "docket_id": 72141043,
+        "document_number": 1115,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-04",
+        "entry_number": 1115,
+        "filepath_local": null,
+        "id": 470833167,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-05T02:35:18.846888Z",
+          "score": {
+            "bm25": 13448678000000.0
+          },
+          "timestamp": "2026-09-17T13:35:45.420364Z"
+        },
+        "pacer_doc_id": "178054024751",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72130479/342/stg-logistics-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "ORDER AUTHORIZING THE EMPLOYMENT AND RETENTION OF ALIXPARTNERS, LLP AS FINANCIAL ADVISOR FOR THE DEBTORS EFFECTIVE AS OF THE PETITION DATE (Related Doc # 272). Service of notice of the entry of this order pursuant to Rule 9022 was made on the appropriate parties. See BNC Certificate of Notice. Signed on 3/2/2026. (km) (Entered: 03/02/2026)",
+        "docket_entry_id": 455481702,
+        "docket_id": 72130479,
+        "document_number": 342,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-03-02",
+        "entry_number": 342,
+        "filepath_local": null,
+        "id": 470427074,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-03-02T14:35:04.465769Z",
+          "score": {
+            "bm25": 13448505000000.0
+          },
+          "timestamp": "2026-05-18T20:04:31.834525Z"
+        },
+        "pacer_doc_id": "118070395878",
+        "page_count": null,
+        "short_description": "Retention ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72130479/272/stg-logistics-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application For Retention of Professional AlixPartners, LLP as as Financial Advisor for the Debtors Effective as of the Petition Date Filed by Michael D. Sirota on behalf of Alixpartners, LLP. Objection deadline is 2/20/2026. (Sirota, Michael) (Entered: 02/13/2026)",
+        "docket_entry_id": 453891385,
+        "docket_id": 72130479,
+        "document_number": 272,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-02-13",
+        "entry_number": 272,
+        "filepath_local": null,
+        "id": 468792248,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-02-14T00:05:01.762857Z",
+          "score": {
+            "bm25": 13447037000000.0
+          },
+          "timestamp": "2026-05-18T20:04:31.834525Z"
+        },
+        "pacer_doc_id": "118070301455",
+        "page_count": null,
+        "short_description": "Retention (Do Not Use to Employ/Appoint an Examiner)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Minute of Hearing Held, OUTCOME: Granted (related document:1152 Interim Application for Compensation for Alvarez & Marsal North America, LLC, Other Professional, period: 7/1/2025 to 9/30/2025, fee: $2,282,843.00, expenses: $703.98. Filed by Alvarez & Marsal North America, LLC. Hearing scheduled for 12/17/2025 at 02:00 PM, MBK - Courtroom 8, Trenton.. (Attachments: # 1 Exhibit A-Retention Order # 2 Exhibit B-Expenses # 3 Exhibit C-Certification of Richard Newman # 4 Exhibit D-Proposed Order Granting the First Interim Application for Allowance of Fees and Reimbursement of Expenses of Alvarez and Marsal North America, LLC as Financial Advisors for the period July 1, 2025 through and including September 30, 2025) Filed by Other Prof. Alvarez & Marsal North America, LLC) (llb)",
+        "docket_entry_id": 469179558,
+        "docket_id": 70497339,
+        "document_number": null,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-12-17",
+        "entry_number": null,
+        "filepath_local": null,
+        "id": 484503192,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-06-29T23:01:24.540087Z",
+          "score": {
+            "bm25": 13442026000000.0
+          },
+          "timestamp": "2026-06-29T23:01:25.152856Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/71495163/570/anthology-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Official Committee of Unsecured Creditors to Employ and Retain AlixPartners, LLP as its Financial Advisor Effective as of October 14, 2025 (Related Doc # 368), Signed on 12/8/2025. (abh4) (Entered: 12/08/2025)",
+        "docket_entry_id": 446456042,
+        "docket_id": 71495163,
+        "document_number": 570,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-12-08",
+        "entry_number": 570,
+        "filepath_local": null,
+        "id": 461181602,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-12-08T16:02:32.993249Z",
+          "score": {
+            "bm25": 13441248000000.0
+          },
+          "timestamp": "2026-10-01T15:05:25.058774Z"
+        },
+        "pacer_doc_id": "178053575942",
+        "page_count": null,
+        "short_description": "Order to Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/71830416/252/office-properties-income-trust-and-the-official-committee-of-unsecured/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration re: Supplemental Declaration of John R. Castellano of AlixPartners, LLP (Filed By Office Properties Income Trust ).(Related document(s):208 Application to Employ) (Davidson, Timothy) (Entered: 12/05/2025)",
+        "docket_entry_id": 446349265,
+        "docket_id": 71830416,
+        "document_number": 252,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-12-05",
+        "entry_number": 252,
+        "filepath_local": null,
+        "id": 461069200,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-12-05T22:34:26.629892Z",
+          "score": {
+            "bm25": 13440989000000.0
+          },
+          "timestamp": "2026-06-29T19:04:29.803033Z"
+        },
+        "pacer_doc_id": "178053569631",
+        "page_count": null,
+        "short_description": "Declaration",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70497339/1152/4/powin-llc/",
+        "attachment_number": 4,
+        "cites": [],
+        "description": "Interim Application for Compensation for Alvarez & Marsal North America, LLC, Other Professional, period: 7/1/2025 to 9/30/2025, fee: $2,282,843.00, expenses: $703.98. Filed by Alvarez & Marsal North America, LLC. Hearing scheduled for 12/17/2025 at 02:00 PM, MBK - Courtroom 8, Trenton.. (Attachments: # 1 Exhibit A-Retention Order # 2 Exhibit B-Expenses # 3 Exhibit C-Certification of Richard Newman # 4 Exhibit D-Proposed Order Granting the First Interim Application for Allowance of Fees and Reimbursement of Expenses of Alvarez and Marsal North America, LLC as Financial Advisors for the period July 1, 2025 through and including September 30, 2025) (Stolz, Daniel) (Entered: 11/26/2025)",
+        "docket_entry_id": 445493062,
+        "docket_id": 70497339,
+        "document_number": 1152,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-11-26",
+        "entry_number": 1152,
+        "filepath_local": "recap/gov.uscourts.njb.1127384/gov.uscourts.njb.1127384.1152.4.pdf",
+        "id": 460191746,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-11-26T17:58:25.797344Z",
+          "score": {
+            "bm25": 13440211000000.0
+          },
+          "timestamp": "2026-06-29T23:01:11.945315Z"
+        },
+        "pacer_doc_id": "118069854329",
+        "page_count": 4,
+        "short_description": "Exhibit D-Proposed Order Granting the First Interim Application for Allowance of",
+        "snippet": "  Case 25-16137-MBK Doc 1152-4 Filed 11/26/25 Entered 11/26/25 12:57:33 Desc\nExhibit D-Proposed Order Granting the First Interim Application for Allowance of Page 1 of 4\n\n\n\n\n                                       EXHIBIT D\n                                    PROPOSED ORDER\n\f  Case 25-16137-MBK Doc 1152-4 Filed 11/26/25 Entered 11/26/25 12:57:33 Desc\nExhibit D-Proposed Order Granting the First Interim Application for Allowance of Page 2 of 4\n\n\n\n      UNITED STATES BANKRUPTCY COURT\n      DISTRICT "
+      },
+      {
+        "absolute_url": "/docket/70497339/1152/3/powin-llc/",
+        "attachment_number": 3,
+        "cites": [],
+        "description": "Interim Application for Compensation for Alvarez & Marsal North America, LLC, Other Professional, period: 7/1/2025 to 9/30/2025, fee: $2,282,843.00, expenses: $703.98. Filed by Alvarez & Marsal North America, LLC. Hearing scheduled for 12/17/2025 at 02:00 PM, MBK - Courtroom 8, Trenton.. (Attachments: # 1 Exhibit A-Retention Order # 2 Exhibit B-Expenses # 3 Exhibit C-Certification of Richard Newman # 4 Exhibit D-Proposed Order Granting the First Interim Application for Allowance of Fees and Reimbursement of Expenses of Alvarez and Marsal North America, LLC as Financial Advisors for the period July 1, 2025 through and including September 30, 2025) (Stolz, Daniel) (Entered: 11/26/2025)",
+        "docket_entry_id": 445493062,
+        "docket_id": 70497339,
+        "document_number": 1152,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-11-26",
+        "entry_number": 1152,
+        "filepath_local": "recap/gov.uscourts.njb.1127384/gov.uscourts.njb.1127384.1152.3.pdf",
+        "id": 460191745,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-11-26T17:58:25.781237Z",
+          "score": {
+            "bm25": 13440211000000.0
+          },
+          "timestamp": "2026-06-29T23:01:11.939066Z"
+        },
+        "pacer_doc_id": "118069854328",
+        "page_count": 4,
+        "short_description": "Exhibit C-Certification of Richard Newman",
+        "snippet": "Case 25-16137-MBK Doc 1152-3 Filed 11/26/25 Entered 11/26/25 12:57:33   Desc\n              Exhibit C-Certification of Richard Newman Page 1 of 4\n\n\n\n\n                               EXHIBIT C\n                   CERTIFICATION OF RICHARD NEWMAN\n\fCase 25-16137-MBK Doc 1152-3 Filed 11/26/25 Entered 11/26/25 12:57:33                                       Desc\n              Exhibit C-Certification of Richard Newman Page 2 of 4\n\n\n\nUNITED STATES BANKRUPTCY COURT\nDISTRICT OF NEW JERSEY\n\nCaption in Complian"
+      },
+      {
+        "absolute_url": "/docket/70497339/1152/2/powin-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Interim Application for Compensation for Alvarez & Marsal North America, LLC, Other Professional, period: 7/1/2025 to 9/30/2025, fee: $2,282,843.00, expenses: $703.98. Filed by Alvarez & Marsal North America, LLC. Hearing scheduled for 12/17/2025 at 02:00 PM, MBK - Courtroom 8, Trenton.. (Attachments: # 1 Exhibit A-Retention Order # 2 Exhibit B-Expenses # 3 Exhibit C-Certification of Richard Newman # 4 Exhibit D-Proposed Order Granting the First Interim Application for Allowance of Fees and Reimbursement of Expenses of Alvarez and Marsal North America, LLC as Financial Advisors for the period July 1, 2025 through and including September 30, 2025) (Stolz, Daniel) (Entered: 11/26/2025)",
+        "docket_entry_id": 445493062,
+        "docket_id": 70497339,
+        "document_number": 1152,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-11-26",
+        "entry_number": 1152,
+        "filepath_local": "recap/gov.uscourts.njb.1127384/gov.uscourts.njb.1127384.1152.2.pdf",
+        "id": 460191744,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-11-26T17:58:25.648283Z",
+          "score": {
+            "bm25": 13440211000000.0
+          },
+          "timestamp": "2026-06-29T23:01:11.941075Z"
+        },
+        "pacer_doc_id": "118069854327",
+        "page_count": 2,
+        "short_description": "Exhibit B-Expenses",
+        "snippet": "Case 25-16137-MBK   Doc 1152-2 Filed 11/26/25 Entered 11/26/25 12:57:33   Desc\n                       Exhibit B-Expenses Page 1 of 2\n\n\n\n\n                               EXHIBIT B\n                      ITEMIZED EXPENSE RECORDS\n        FOR THE PERIOD OF JULY 1, 2025 THROUGH SEPTEMBER 30, 2025\n\f     Case 25-16137-MBK                Doc 1152-2 Filed 11/26/25 Entered 11/26/25 12:57:33    Desc\n                                         Exhibit B-Expenses Page 2 of 2\n\n                                     "
+      },
+      {
+        "absolute_url": "/docket/70497339/1152/1/powin-llc/",
+        "attachment_number": 1,
+        "cites": [
+          9495663
+        ],
+        "description": "Interim Application for Compensation for Alvarez & Marsal North America, LLC, Other Professional, period: 7/1/2025 to 9/30/2025, fee: $2,282,843.00, expenses: $703.98. Filed by Alvarez & Marsal North America, LLC. Hearing scheduled for 12/17/2025 at 02:00 PM, MBK - Courtroom 8, Trenton.. (Attachments: # 1 Exhibit A-Retention Order # 2 Exhibit B-Expenses # 3 Exhibit C-Certification of Richard Newman # 4 Exhibit D-Proposed Order Granting the First Interim Application for Allowance of Fees and Reimbursement of Expenses of Alvarez and Marsal North America, LLC as Financial Advisors for the period July 1, 2025 through and including September 30, 2025) (Stolz, Daniel) (Entered: 11/26/2025)",
+        "docket_entry_id": 445493062,
+        "docket_id": 70497339,
+        "document_number": 1152,
+        "document_type": "Attachment",
+        "entry_date_filed": "2025-11-26",
+        "entry_number": 1152,
+        "filepath_local": "recap/gov.uscourts.njb.1127384/gov.uscourts.njb.1127384.1152.1.pdf",
+        "id": 460191743,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-11-26T17:58:25.635627Z",
+          "score": {
+            "bm25": 13440211000000.0
+          },
+          "timestamp": "2026-06-29T23:01:11.928815Z"
+        },
+        "pacer_doc_id": "118069854326",
+        "page_count": 7,
+        "short_description": "Exhibit A-Retention Order",
+        "snippet": "Case 25-16137-MBK   Doc 1152-1 Filed 11/26/25 Entered 11/26/25 12:57:33   Desc\n                     Exhibit A-Retention Order Page 1 of 7\n\n\n\n\n                             EXHIBIT A\n               ALVAREZ AND MARSAL NORTH AMERICA, LLC\n                         RETENTION ORDER\n\f    Case\n     Case25-16137-MBK\n          25-16137-MBK Doc\n                        Doc750\n                            1152-1FiledFiled\n                                        08/18/25\n                                         "
+      },
+      {
+        "absolute_url": "/docket/70497339/1152/powin-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Interim Application for Compensation for Alvarez & Marsal North America, LLC, Other Professional, period: 7/1/2025 to 9/30/2025, fee: $2,282,843.00, expenses: $703.98. Filed by Alvarez & Marsal North America, LLC. Hearing scheduled for 12/17/2025 at 02:00 PM, MBK - Courtroom 8, Trenton.. (Attachments: # 1 Exhibit A-Retention Order # 2 Exhibit B-Expenses # 3 Exhibit C-Certification of Richard Newman # 4 Exhibit D-Proposed Order Granting the First Interim Application for Allowance of Fees and Reimbursement of Expenses of Alvarez and Marsal North America, LLC as Financial Advisors for the period July 1, 2025 through and including September 30, 2025) (Stolz, Daniel) (Entered: 11/26/2025)",
+        "docket_entry_id": 445493062,
+        "docket_id": 70497339,
+        "document_number": 1152,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-26",
+        "entry_number": 1152,
+        "filepath_local": "recap/gov.uscourts.njb.1127384/gov.uscourts.njb.1127384.1152.0.pdf",
+        "id": 460191742,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-11-26T17:58:15.401461Z",
+          "score": {
+            "bm25": 13440211000000.0
+          },
+          "timestamp": "2026-06-29T23:01:11.933731Z"
+        },
+        "pacer_doc_id": "118069854325",
+        "page_count": 15,
+        "short_description": "Compensation",
+        "snippet": "Case 25-16137-MBK            Doc 1152 Filed 11/26/25 Entered 11/26/25 12:57:33                            Desc Main\n                                     Document    Page 1 of 15\n\n\n\n                               UNITED STATES BANKRUPTCY COURT\n                                    DISTRICT OF NEW JERSEY\n\n                      FIRST INTERIM FEE APPLICATION COVER SHEET\n\n Debtor: Powin, LLC, et al,1                               Applicant: Alvarez & Marsal North America,\n                              "
+      },
+      {
+        "absolute_url": "/docket/71233134/502/spirit-aviation-holdings-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Signed On 11-25-2025, Authorizing The Official Committee Of Unsecured Creditors To Employ And Retain AlixPartners, LLP As Its Financial Advisor Effective As Of September 19, 2025 (Related Doc # 309) (Ebanks, Liza) (Entered: 11/25/2025)",
+        "docket_entry_id": 445360005,
+        "docket_id": 71233134,
+        "document_number": 502,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-25",
+        "entry_number": 502,
+        "filepath_local": null,
+        "id": 460052958,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-11-25T18:32:35.207298Z",
+          "score": {
+            "bm25": 13440125000000.0
+          },
+          "timestamp": "2026-04-08T14:28:32.195149Z"
+        },
+        "pacer_doc_id": "126024234349",
+        "page_count": null,
+        "short_description": "Order RE: Application to Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70147736/3296/new-rite-aid-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Fifth Supplemental Declaration of David MacGreevey of AlixPartners, LLP in support of (related document:1315 Application for Retention filed by Creditor Committee Official Committee of Unsecured Creditors, 1379 Support filed by Other Prof. Alixpartners, LLP, 1461 Support filed by Other Prof. Alixpartners, LLP, 1491 Order on Application For Retention, 1828 Support filed by Other Prof. Alixpartners, LLP, 2480 Support filed by Other Prof. Alixpartners, LLP) filed by Andrew H. Sherman on behalf of Alixpartners, LLP. (Sherman, Andrew) (Entered: 11/21/2025)",
+        "docket_entry_id": 445034004,
+        "docket_id": 70147736,
+        "document_number": 3296,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-21",
+        "entry_number": 3296,
+        "filepath_local": "recap/gov.uscourts.njb.1126059/gov.uscourts.njb.1126059.3296.0.pdf",
+        "id": 459716813,
+        "is_available": true,
+        "meta": {
+          "date_created": "2025-11-21T22:53:47.115434Z",
+          "score": {
+            "bm25": 13439779000000.0
+          },
+          "timestamp": "2026-02-05T18:51:44.243023Z"
+        },
+        "pacer_doc_id": "118069832422",
+        "page_count": 2,
+        "short_description": "Support",
+        "snippet": "Case 25-14861-MBK               Doc 3296       Filed 11/21/25 Entered 11/21/25 17:47:57                      Desc Main\n                                             Document      Page 1 of 2\n\n\n                                 UNITED STATES BANKRUPTCY COURT\n                                      DISTRICT OF NEW JERSEY\n\n                                                               Chapter 11\n     In re:\n                                                               Case No. 25-14861 (MBK)\n     NEW "
+      },
+      {
+        "absolute_url": "/docket/71495163/427/anthology-inc-and-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of Service re: Application to Employ Herbert Smith Freehills Kramer (US) LLP, Motion to File Under Seal and Application to Employ AlixPartners, LLP (Filed By Official Committee of Unsecured Creditors ).(Related document(s):365 Application to Employ, 367 Motion to Seal, 368 Application to Employ) (Attachments: # 1 Service List) (Prostok, Jeffrey) (Entered: 11/17/2025)",
+        "docket_entry_id": 444402036,
+        "docket_id": 71495163,
+        "document_number": 427,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2025-11-17",
+        "entry_number": 427,
+        "filepath_local": null,
+        "id": 459067829,
+        "is_available": false,
+        "meta": {
+          "date_created": "2025-11-17T20:31:27.739249Z",
+          "score": {
+            "bm25": 13439434000000.0
+          },
+          "timestamp": "2026-10-01T15:05:25.058774Z"
+        },
+        "pacer_doc_id": "178053475059",
+        "page_count": null,
+        "short_description": "Certificate",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xMzQ1MDQwNjAwMDAwMC4wJnM9NDczNDAzNjA4JnQ9cmQmZD0yMDI2LTEwLTExJnA9Mg%3D%3D&description=%28AlixPartners+OR+%22Alvarez+%26+Marsal%22%29+AND+%28employ+OR+retain+OR+retention%29&filed_after=01%2F01%2F2025&order_by=entry_date_filed+desc&q=chapter%3A11&type=rd"
+}

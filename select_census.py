@@ -16,7 +16,9 @@ from collections import Counter
 
 from common import DATA, atomic_write_text
 
-RETAIN = r"employ|retain|retention|appoint|claims and noticing|claims agent|noticing agent|ordinary course"
+# "employ" but not "employee"; "ordinary course" only for OCP motions, not trade claims.
+RETAIN = (r"employ(?!ee)|\bretain\b|retention (and employment )?of|\bappoint|claims and noticing|claims agent|"
+          r"noticing agent|professionals? utilized in the ordinary course|ordinary course professional")
 APPLICATION = re.compile(r"^(sealed )?(application|motion)\b.*?(" + RETAIN + ")", re.I)
 ORDER = re.compile(r"^order\b.*?(" + RETAIN + ")", re.I)
 NOT_RETENTION = re.compile(r"compensation|interim fee|monthly fee|shorten|prepetition (trade|wages|taxes)|"

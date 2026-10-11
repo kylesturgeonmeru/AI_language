@@ -15,7 +15,7 @@ rank,docket_id,debtor,court_id,case_number,funded_debt_musd,available_retention_
 14,70335865,"Chapter 11 : BROADWAY REALTY I CO., LLC",nysb,25-11050,1100.0,8,1,True
 15,71705830,"AMBIPAR EMERGENCY RESPONSE, Chapter 11 Case No. 25-90524 (ARP)",txsb,25-90524,1050.0,0,0,False
 16,73410103,Case No. 26-90564 (ARP) GOLDENPEAKS POLAND HOLDING LIMITED,txsb,26-90564,1015.0,1,0,False
-17,73450943,") Chapter 11 ) GOHEALTH, INC.",deb,26-10914,772.0,43,2,True
+17,73450943,") Chapter 11 ) GOHEALTH, INC.",deb,26-10914,772.0,43,1,True
 18,71919403,LUGANO DIAMONDS & JEWELRY INC.,deb,25-12055,718.2,2,1,True
 19,72366159,) Chapter 11 ) CUMULUS MEDIA INC.,txsb,26-90346,697.1,1,0,False
 20,71035961,) Chapter 11 ) CLAIRE’S HOLDINGS LLC,deb,25-11454,690.8,60,0,False
@@ -36,7 +36,7 @@ rank,docket_id,debtor,court_id,case_number,funded_debt_musd,available_retention_
 35,72222161,"Chapter 11 Case No. 26-90004 (MXM) INSPIRED HEALTHCARE CAPITAL HOLDINGS, LLC",txnb,26-90004,260.0,3,0,False
 36,72222785,"Chapter 11 Case No. 26-90004 (MXM) INSPIRED HEALTHCARE CAPITAL HOLDINGS, LLC",txnb,26-90004,260.0,1,0,False
 37,72035284,iROBOT CORPORATION,deb,25-12197,190.0,0,0,False
-38,69744209,Chapter 11 Brightmark Plastics Renewal LLC,deb,25-10472,178.0,1,1,True
+38,69744209,Chapter 11 Brightmark Plastics Renewal LLC,deb,25-10472,178.0,1,0,False
 39,71012535,AGDP HOLDING INC.,deb,25-11446,155.3,1,0,False
 40,70568234,"Higher Ground Education, Inc.",txnb,25-80121,144.2,2,0,False
 41,70937321,"Chapter 11 DESKTOP METAL, INC.",txsb,25-90268,138.0,0,0,False
@@ -44,12 +44,12 @@ rank,docket_id,debtor,court_id,case_number,funded_debt_musd,available_retention_
 43,69585213,"Chapter 11 JERVOIS TEXAS, LLC",txsb,25-90002,100.0,1,0,False
 44,69651079,Nikola Corp.,deb,25-10258,97.7,3,1,True
 45,72218033,"Chapter 11 CARBON HEALTH TECHNOLOGIES, INC.",txsb,26-90306,77.0,5,0,False
-46,73673073,") Chapter 11 ) OMNIS PLEASANTS, LLC1 ) Case No. 26-11169 (___) )",deb,26-11169,70.8,11,1,True
+46,73673073,") Chapter 11 ) OMNIS PLEASANTS, LLC1 ) Case No. 26-11169 (___) )",deb,26-11169,70.8,11,0,False
 47,69826539,"Chapter 11 Hooters of America, LLC",txnb,25-80078,70.0,4,0,False
 48,71314102,"US MAGNESIUM LLC,1",deb,25-11696,67.0,2,1,True
 49,71114153,"TITAN CNG, LLC",deb,25-11525,46.0,0,0,False
 50,70242583,"Chapter: 11 FLAGSHIP RESORT DEVELOPMENT CORPORATION,1 Case No.: 25-15047 (JNP)",njb,25-15047,45.5,1,0,False
-51,70716560,"MY JOB MATCHER, INC.",deb,25-11280,42.2,10,2,True
+51,70716560,"MY JOB MATCHER, INC.",deb,25-11280,42.2,10,1,True
 52,74914772,"§ Chapter 11 § FRC Balance, LLC",txsb,26-90806,42.1,0,0,False
 53,74914777,"§ Chapter 11 § FRC Balance, LLC",txsb,26-90806,42.1,0,0,False
 54,69898417,") ) Chapter 11 ) ) Case No. 25-90113 (ARP) GLOBAL CLEAN ENERGY HOLDINGS, INC.",txsb,25-90113,30.3,2,1,True

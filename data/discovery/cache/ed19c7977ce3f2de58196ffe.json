@@ -1,0 +1,241 @@
+{
+  "response": {
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "assignedTo": "Christopher Lopez",
+        "assigned_to_id": 8975,
+        "attorney": [
+          "Ashley L. Harper",
+          "Andrew Jimenez",
+          "Jana Smith Whitworth",
+          "Kaleb Bailey",
+          "Timothy Alvin Davidson, II"
+        ],
+        "attorney_id": [
+          15959250,
+          15959251,
+          15959252,
+          15959254,
+          16115515
+        ],
+        "caseName": "Braskem Idesa, S.A.P.I.",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, S.D. Texas",
+        "court_citation_string": "Bankr. S.D. Tex.",
+        "court_id": "txsb",
+        "dateArgued": null,
+        "dateFiled": "2026-08-17",
+        "dateTerminated": null,
+        "docketNumber": "26-90762",
+        "docket_absolute_url": "/docket/74661780/braskem-idesa-sapi/",
+        "docket_id": 74661780,
+        "firm": [
+          "U.S. Department of Justice, United States Trustee Program",
+          "Hunton Andrews Kurth LLP",
+          "Office of United States Trustee"
+        ],
+        "firm_id": [
+          630051,
+          399547,
+          885645
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2026-08-18T04:17:25.781677Z",
+          "score": {
+            "bm25": 4.0
+          },
+          "timestamp": "2026-08-18T13:34:20.979991Z"
+        },
+        "pacer_case_id": "499510",
+        "party": [
+          "US Trustee",
+          "Braskem Idesa, S.A.P.I."
+        ],
+        "party_id": [
+          23535513,
+          23535507
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Edward L. Morris",
+        "assigned_to_id": 8971,
+        "attorney": [
+          "John J. Kane",
+          "Michael S Winograd",
+          "Robert J. Stark",
+          "Emily Meraia",
+          "Steven A Tyrrell",
+          "Mark C. Taylor",
+          "Bennett S. Silverberg",
+          "Jason S. Brookner",
+          "Kenneth J Aulet",
+          "Amber Michelle Carson",
+          "JaKayla DaBera",
+          "Sharon I Dwoskin"
+        ],
+        "attorney_id": [
+          13933325,
+          16172465,
+          16172466,
+          16019799,
+          16019800,
+          16019801,
+          16019802,
+          16019803,
+          16019804,
+          16019805,
+          16019806,
+          16019807
+        ],
+        "caseName": "Signal National LLC",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, N.D. Texas",
+        "court_citation_string": "Bankr. N.D. Tex.",
+        "court_id": "txnb",
+        "dateArgued": null,
+        "dateFiled": "2026-08-09",
+        "dateTerminated": null,
+        "docketNumber": "26-90190",
+        "docket_absolute_url": "/docket/73739399/signal-national-llc/",
+        "docket_id": 73739399,
+        "firm": [
+          "Kane Russell Coleman & Logan PC",
+          "Dal/Hou/Wac",
+          "Kane Russell Coleman Logan PC",
+          "Gray Reed",
+          "Brown Rudnick LLP"
+        ],
+        "firm_id": [
+          1359298,
+          583939,
+          1034470,
+          752338,
+          1052436,
+          1340757
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2026-08-09T18:30:35.095176Z",
+          "score": {
+            "bm25": 4.0
+          },
+          "timestamp": "2026-08-10T16:08:14.062626Z"
+        },
+        "pacer_case_id": "545878",
+        "party": [
+          "Official Committee of Unsecured Creditors",
+          "Signal National LLC",
+          "United States Trustee"
+        ],
+        "party_id": [
+          20405888,
+          23645477,
+          20405887
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      },
+      {
+        "assignedTo": "Christine M. Gravelle",
+        "assigned_to_id": 8880,
+        "attorney": [
+          "Michael D. Sirota",
+          "Frank F. Velocci",
+          "Michael P. Pompeo",
+          "Nicholas Bassett",
+          "Kristopher M. Hansen",
+          "Kyle McEvilly",
+          "Gabriel Sasson",
+          "Brett S. Theisen",
+          "Amanda R Simone",
+          "Robert Malone",
+          "Jeffrey M. Sponder",
+          "Erez Gilad"
+        ],
+        "attorney_id": [
+          13707172,
+          15995854,
+          15995855,
+          15995856,
+          15995857,
+          15995858,
+          15995859,
+          15995860,
+          15995861,
+          13696026,
+          13696027,
+          15938527
+        ],
+        "caseName": "DAMIS Holdings LLC",
+        "case_name_full": "",
+        "cause": "",
+        "chapter": "11",
+        "court": "United States Bankruptcy Court, D. New Jersey",
+        "court_citation_string": "Bankr. D.N.J.",
+        "court_id": "njb",
+        "dateArgued": null,
+        "dateFiled": "2026-06-04",
+        "dateTerminated": null,
+        "docketNumber": "26-16439",
+        "docket_absolute_url": "/docket/73444275/damis-holdings-llc/",
+        "docket_id": 73444275,
+        "firm": [
+          "Connell Foley LLP",
+          "Cole Schotz P.C.",
+          "Paul Hastings LLP",
+          "Drinker Biddle & Reath LLP",
+          "Faegre Drinker Biddle & Reath LLP"
+        ],
+        "firm_id": [
+          600006,
+          137582,
+          279376,
+          50581,
+          61654,
+          598751
+        ],
+        "jurisdictionType": "",
+        "juryDemand": "",
+        "meta": {
+          "date_created": "2026-06-05T00:03:39.353520Z",
+          "score": {
+            "bm25": 4.0
+          },
+          "timestamp": "2026-06-05T00:13:57.263110Z"
+        },
+        "pacer_case_id": "1143072",
+        "party": [
+          "U.S. Trustee",
+          "DAMIS Holdings LLC",
+          "Official Committee of Unsecured Creditors"
+        ],
+        "party_id": [
+          19972317,
+          19972318,
+          23604159
+        ],
+        "referredTo": null,
+        "referred_to_id": null,
+        "suitNature": "",
+        "trustee_str": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?type=d&q=docket_id%3A%2874661780+OR+73739399+OR+73444275%29"
+}

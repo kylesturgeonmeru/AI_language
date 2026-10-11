@@ -1,0 +1,530 @@
+{
+  "response": {
+    "count": 325,
+    "next": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xMzQ1OTQ3OTAwMDAwMC4wJnM9NDg1NDAxMDgzJnQ9cmQmZD0yMDI2LTEwLTExJnA9Mw%3D%3D&description=Alvarez+AND+Marsal+AND+%28employ+OR+retain+OR+retention%29&filed_after=01%2F01%2F2025&order_by=entry_date_filed+desc&q=chapter%3A11&type=rd",
+    "previous": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xMzQ2MTg5ODAwMDAwMC4wJnM9NDg4NzMzMDA2JnI9MSZ0PXJkJmQ9MjAyNi0xMC0xMSZwPTE%3D&description=Alvarez+AND+Marsal+AND+%28employ+OR+retain+OR+retention%29&filed_after=01%2F01%2F2025&order_by=entry_date_filed+desc&q=chapter%3A11&type=rd",
+    "results": [
+      {
+        "absolute_url": "/docket/73450943/190/gohealth-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit/Declaration of Service of i. Order Authorizing the Debtors to Employ and Retain Alvarez & Marsal North America LLC; ii. Order Authorizing the Employment and Retention of Donlin, Recano & Company, LLC; iii. Order Authorizing the Employment and Retention of Pachulski Stang Ziehl & Jones LLP; and iv. Order Authorizing the Retention and Employment of Kirkland & Ellis LLP and Kirkland & Ellis International LLP. Filed by Donlin Recano and Company LLC. (related document(s)172, 173, 174, 175) (Jordan, Lillian) (Entered: 08/04/2026)",
+        "docket_entry_id": 473271635,
+        "docket_id": 73450943,
+        "document_number": 190,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-08-04",
+        "entry_number": 190,
+        "filepath_local": null,
+        "id": 488733006,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-08-05T00:04:59.268282Z",
+          "score": {
+            "bm25": 13461898000000.0
+          },
+          "timestamp": "2026-08-05T12:38:38.621436Z"
+        },
+        "pacer_doc_id": "042023122940",
+        "page_count": null,
+        "short_description": "Affidavit/Declaration of Service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73482578/255/searles-valley-minerals-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Alvarez & Marsal North America, LLC as Financial Advisor Effective as of July 2, 2026 Filed by Committee of Unsecured Creditors. Hearing scheduled for 8/26/2026 at 01:30 PM at US Bankruptcy Court, 824 Market St., 6th Fl., Courtroom #1, Wilmington, Delaware. Objections due by 8/13/2026. (Attachments: # 1 Notice of Application and Hearing # 2 Exhibit A - Proposed Order # 3 Exhibit B - Declaration of Mark Greenberg # 4 Certificate of Service) (Ward, Matthew) (Entered: 07/30/2026)",
+        "docket_entry_id": 472732620,
+        "docket_id": 73482578,
+        "document_number": 255,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-30",
+        "entry_number": 255,
+        "filepath_local": null,
+        "id": 488175758,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-30T21:35:55.663591Z",
+          "score": {
+            "bm25": 13461466000000.0
+          },
+          "timestamp": "2026-08-05T13:06:34.932655Z"
+        },
+        "pacer_doc_id": "042023114715",
+        "page_count": null,
+        "short_description": "Employ/Retain - Application/Motion",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73410103/443/goldenpeaks-poland-holding-limited/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: of Nelson Crespin Regarding Certificate of No Objection to Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Pachulski Stang Ziehl & Jones LLP as Counsel for the Debtors, Effective as of May 29, 2026, Certificate of No Objection to Debtors' Application to Employ and Retain Alvarez & Marsal North America, LLC as Financial Advisors to Debtors and Debtors in Possession Pursuant to Sections 327(a) and 328 of the Bankruptcy Code Effective as of the Petition Date, Certificate of No Objection to Debtors' Application for Entry of an Order Authorizing the Employment and Retention of SSW Spaczyski, Szczepaniak, Wickel, Godziowska sp.k. as Special Polish Counsel Effective as of the Petition Date, and Certificate of No Objection to Debtors' Motion for Entry of an Order Establishing Procedures for Interim Compensation and Reimbursement of Expenses. (related document(s):362 Certificate of No Objection, 363 Certificate of No Objection, 364 Certificate of No Objection, 365 Certificate of No Objection). Filed by Kroll Restructuring Administration LLC (Steele, Benjamin) (Entered: 07/30/2026)",
+        "docket_entry_id": 472726554,
+        "docket_id": 73410103,
+        "document_number": 443,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-30",
+        "entry_number": 443,
+        "filepath_local": null,
+        "id": 488169592,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-30T21:06:07.106245Z",
+          "score": {
+            "bm25": 13461466000000.0
+          },
+          "timestamp": "2026-10-08T23:06:42.144338Z"
+        },
+        "pacer_doc_id": "178054855838",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70511494/2423/2/marelli-automotive-lighting-usa-llc/",
+        "attachment_number": 2,
+        "cites": [],
+        "description": "Declaration in Support /Third Supplemental Declaration of Tony Simon in Support of Debtors' Application to Employ and Retain Alvarez & Marsal North America, LLC as Financial Advisors to Debtors and Debtors in Possession Pursuant to Sections 327(A) and 328 of the Bankruptcy Code (related document(s)261, 468, 478, 1210) Filed by Marelli Automotive Lighting USA LLC. (Attachments: # 1 Schedule A - New Parties # 2 Schedule B - Potential Connections or Related Parties) (Jones, Laura Davis) (Entered: 07/29/2026)",
+        "docket_entry_id": 472599558,
+        "docket_id": 70511494,
+        "document_number": 2423,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-07-29",
+        "entry_number": 2423,
+        "filepath_local": null,
+        "id": 488040075,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-30T02:03:02.580798Z",
+          "score": {
+            "bm25": 13461380000000.0
+          },
+          "timestamp": "2026-07-30T15:13:41.471173Z"
+        },
+        "pacer_doc_id": "042023112118",
+        "page_count": 2,
+        "short_description": "Schedule B - Potential Connections or Related Parties",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70511494/2423/1/marelli-automotive-lighting-usa-llc/",
+        "attachment_number": 1,
+        "cites": [],
+        "description": "Declaration in Support /Third Supplemental Declaration of Tony Simon in Support of Debtors' Application to Employ and Retain Alvarez & Marsal North America, LLC as Financial Advisors to Debtors and Debtors in Possession Pursuant to Sections 327(A) and 328 of the Bankruptcy Code (related document(s)261, 468, 478, 1210) Filed by Marelli Automotive Lighting USA LLC. (Attachments: # 1 Schedule A - New Parties # 2 Schedule B - Potential Connections or Related Parties) (Jones, Laura Davis) (Entered: 07/29/2026)",
+        "docket_entry_id": 472599558,
+        "docket_id": 70511494,
+        "document_number": 2423,
+        "document_type": "Attachment",
+        "entry_date_filed": "2026-07-29",
+        "entry_number": 2423,
+        "filepath_local": null,
+        "id": 488040074,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-30T02:03:02.460085Z",
+          "score": {
+            "bm25": 13461380000000.0
+          },
+          "timestamp": "2026-07-30T15:13:41.473398Z"
+        },
+        "pacer_doc_id": "042023112117",
+        "page_count": 11,
+        "short_description": "Schedule A - New Parties",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/70511494/2423/marelli-automotive-lighting-usa-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Declaration in Support /Third Supplemental Declaration of Tony Simon in Support of Debtors' Application to Employ and Retain Alvarez & Marsal North America, LLC as Financial Advisors to Debtors and Debtors in Possession Pursuant to Sections 327(A) and 328 of the Bankruptcy Code (related document(s)261, 468, 478, 1210) Filed by Marelli Automotive Lighting USA LLC. (Attachments: # 1 Schedule A - New Parties # 2 Schedule B - Potential Connections or Related Parties) (Jones, Laura Davis) (Entered: 07/29/2026)",
+        "docket_entry_id": 472599558,
+        "docket_id": 70511494,
+        "document_number": 2423,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-29",
+        "entry_number": 2423,
+        "filepath_local": null,
+        "id": 488039483,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-30T02:01:36.317732Z",
+          "score": {
+            "bm25": 13461380000000.0
+          },
+          "timestamp": "2026-07-30T15:13:41.473221Z"
+        },
+        "pacer_doc_id": "042023112116",
+        "page_count": null,
+        "short_description": "Declaration in Support",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73450943/172/gohealth-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing the Debtors to Employ and Retain Alvarez & Marsal North America LLC as Financial Advisors to the Debtors and Debtors in Possession Pursuant to Sections 327(a) and 328 of the Bankruptcy Code (related document(s)124, 170) Order Signed on 7/23/2026. (AMH) (Entered: 07/23/2026)",
+        "docket_entry_id": 471879438,
+        "docket_id": 73450943,
+        "document_number": 172,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-23",
+        "entry_number": 172,
+        "filepath_local": null,
+        "id": 487295411,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-23T16:05:56.600561Z",
+          "score": {
+            "bm25": 13460861000000.0
+          },
+          "timestamp": "2026-07-23T20:11:20.016437Z"
+        },
+        "pacer_doc_id": "042023101745",
+        "page_count": null,
+        "short_description": "Employ (Application)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72222161/1188/inspired-healthcare-capital-holdings-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "BNC certificate of mailing - PDF document. (RE: related document(s)1154 Order granting application to employ Alvarez & Marsal North America, LLC as Financial Advisor (related document 905) Entered on 7/20/2026.) No. of Notices: 1. Notice Date 07/22/2026. (Admin.)",
+        "docket_entry_id": 471827129,
+        "docket_id": 72222161,
+        "document_number": 1188,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-22",
+        "entry_number": 1188,
+        "filepath_local": null,
+        "id": 487241908,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-23T04:32:34.113314Z",
+          "score": {
+            "bm25": 13460775000000.0
+          },
+          "timestamp": "2026-07-27T13:53:16.785306Z"
+        },
+        "pacer_doc_id": "176052518337",
+        "page_count": null,
+        "short_description": "BNC certificate of mailing - PDF document",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73450943/170/gohealth-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certification of Counsel Regarding Order Authorizing the Debtors to Employ and Retain Alvarez & Marsal North America LLC as Financial Advisors to the Debtors and Debtors in Possession Pursuant to Sections 327(a) and 328 of the Bankruptcy Code (related document(s)124) Filed by GoHealth, Inc.. (Attachments: # 1 Exhibit A - Proposed Order # 2 Exhibit B - Redline) (Jones, Laura Davis) (Entered: 07/22/2026)",
+        "docket_entry_id": 471822443,
+        "docket_id": 73450943,
+        "document_number": 170,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-22",
+        "entry_number": 170,
+        "filepath_local": null,
+        "id": 487237180,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-23T04:05:46.848323Z",
+          "score": {
+            "bm25": 13460775000000.0
+          },
+          "timestamp": "2026-07-23T12:46:29.659434Z"
+        },
+        "pacer_doc_id": "042023101125",
+        "page_count": null,
+        "short_description": "Certification of Counsel(Aty)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73410103/367/goldenpeaks-poland-holding-limited/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order Authorizing Debtors to Employ and Retain Alvarez & Marsal North America, LLC as Financial Advisors to Debtors and Debtors in Possession Pursuant to Sections 327(a) and 328 of the Bankruptcy Code Effective as of the Petition Date (Related Doc # 161) Signed on 7/21/2026. (gc4) (Entered: 07/21/2026)",
+        "docket_entry_id": 471669896,
+        "docket_id": 73410103,
+        "document_number": 367,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-21",
+        "entry_number": 367,
+        "filepath_local": null,
+        "id": 487080110,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-21T23:32:41.423785Z",
+          "score": {
+            "bm25": 13460688000000.0
+          },
+          "timestamp": "2026-10-08T23:06:42.144338Z"
+        },
+        "pacer_doc_id": "178054798791",
+        "page_count": null,
+        "short_description": "Order to Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73410103/363/goldenpeaks-poland-holding-limited/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of No Objection To Debtors' Application To Employ And Retain Alvarez & Marsal North America, LLC As Financial Advisors To Debtors And Debtors In Possession Pursuant To Sections 327(A) And 328 Of The Bankruptcy Code Effective As Of The Petition Date (Filed By GOLDENPEAKS POLAND HOLDING LIMITED ).(Related document(s):161 Application to Employ) (Attachments: # 1 Proposed Order) (Wallen, Benjamin) (Entered: 07/21/2026)",
+        "docket_entry_id": 471641132,
+        "docket_id": 73410103,
+        "document_number": 363,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-21",
+        "entry_number": 363,
+        "filepath_local": null,
+        "id": 487050868,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-21T20:35:10.839499Z",
+          "score": {
+            "bm25": 13460688000000.0
+          },
+          "timestamp": "2026-10-08T23:06:42.144338Z"
+        },
+        "pacer_doc_id": "178054795934",
+        "page_count": null,
+        "short_description": "Certificate of No Objection (Complex 11 ONLY)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72222161/1154/inspired-healthcare-capital-holdings-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Order granting application to employ Alvarez & Marsal North America, LLC as Financial Advisor (related document # 905) Entered on 7/20/2026. (Chambers, D)",
+        "docket_entry_id": 471462312,
+        "docket_id": 72222161,
+        "document_number": 1154,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-20",
+        "entry_number": 1154,
+        "filepath_local": null,
+        "id": 486868274,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-20T18:06:14.754151Z",
+          "score": {
+            "bm25": 13460602000000.0
+          },
+          "timestamp": "2026-07-27T13:53:16.012432Z"
+        },
+        "pacer_doc_id": "176052500503",
+        "page_count": null,
+        "short_description": "Employ",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/71417875/1058/omnicare-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of service re: Witness and Exhibit List for July 15, 2026 Hearing (Docket No. 1040), Order Regarding Debtors First Omnibus Objection to Certain Claims (Amended Claims, Duplicate Claims, No Liability Claims, and Satisfied Claims) (Docket No. 1041), Order Regarding Debtors Second Omnibus Objection to Certain Claims (Incorrect Debtor and/or Incorrect Amount) (Docket No. 1042), Order Regarding Debtors Third Omnibus Objection to Certain Claims (Satisfied Scheduled Claims) (Docket No. 1043), Order Regarding Debtors Fourth Omnibus Objection to Certain Claims (Satisfied Scheduled Claims) (Docket No. 1044), Notice of Ninth Staffing Report of Alvarez & Marsal North America, LLC as Chief Restructuring Officer of Omnicare, LLC and Supporting Personnel to the Debtors for the Period June 1, 2026 Through June 30, 2026 (Docket No. 1045), Eighth Monthly Fee Statement of Jenner & Block LLP, As Counsel for the Debtors and Debtors-in-possession, for Allowance of Compensation and Reimbursement of Expenses for the Period from May 1, 2026 Through May 31, 2026 (Docket No. 1046), and Third Supplemental Declaration of Anne OBrien in Support of The Debtors Application for Entry of Order Authorizing the Employment and Retention of Quarles & Brady LLP as Special Counsel to the Debtors, Effective as of the Retention Date (Docket No. 1047) Filed by Claims Agent Stretto Inc (related document(s)1040 Witness and Exhibit List Witness and Exhibit List for July 15, 2026 Hearing filed by Debtor Omnicare, LLC (RE: related document(s)1001 Motion for leave Debtors' Motion for Entry of an Order (I) Authorizing the Debtors to Implement a Key Employee Incentive Plan and Supplemental Key Employee Retention Plan; (II) Modifying the Terms of the Prior KERP Order; and (III) Granting Rel). (Attachments: # 1 Exhibit 1 # 2 Exhibit 2) filed by Debtor Omnicare, LLC, 1041 Order regarding first omnibus objection to claim number(s) (RE: related document(s)928 Objection to claim filed by Debtor Omnicare, LLC). Entered on 7/13/2026 (Blanco, J.), 1042 Order regarding second omnibus objection to claim number(s) (RE: related document(s)930 Objection to claim filed by Debtor Omnicare, LLC). Entered on 7/13/2026 (Blanco, J.), 1043 Order regarding third omnibus objection to claim number(s) (RE: related document(s)932 Objection to claim filed by Debtor Omnicare, LLC). Entered on 7/13/2026 (Blanco, J.), 1044 Order regarding fourth omnibus objection to claim number(s) (RE: related document(s)934 Objection to claim filed by Debtor Omnicare, LLC). Entered on 7/13/2026 (Blanco, J.), 1045 Notice Notice of Ninth Staffing Report of Alvarez & Marsal North America, LLC as Chief Restructuring Officer of Omnicare, LLC and Supporting Personnel to the Debtors for the Period June 1, 2026 Through June 30, 2026 filed by Debtor Omnicare, LLC (RE: related document(s)258 Order granting application to employ Alvarez & Marsal North Amercia, LLC as co-chief restructuring officers (related document 136) Entered on 11/3/2025. (Blanco, J.)). filed by Debtor Omnicare, LLC, 1046 Notice Notice of Eighth Monthly Fee Statement of Jenner & Block LLP, As Counsel for the Debtors and Debtors in Possession, For Allowance of Compensation and Reimbursement of Expenses for the Period From May 1, 2026 Through May 31, 2026 filed by Debtor Omnicare, LLC. filed by Debtor Omnicare, LLC, 1047 Declaration re: Third Supplemental Declaration of Anne O'Brien In Support Of the Debtors' Application for Entry of Order Authorizing the Employment and Retention of Quarles & Brady LLP as Special Counsel to the Debtors, Effective as of the Retention Date filed by Debtor Omnicare, LLC (RE: related document(s)550 Application to employ Quarles & Brady LLP as Special Counsel Debtors' Application for Entry of Order Authorizing the Employment and Retention of Quarles & Brady LLP as Special Pharmacy and Regulatory Counsel Effective as of the Retention Date<, 784 Declaration, 920 Declaration). filed by Debtor Omnicare, LLC). (Betance, Sheryl)",
+        "docket_entry_id": 471092664,
+        "docket_id": 71417875,
+        "document_number": 1058,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-16",
+        "entry_number": 1058,
+        "filepath_local": null,
+        "id": 486488178,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-16T17:06:56.272721Z",
+          "score": {
+            "bm25": 13460256000000.0
+          },
+          "timestamp": "2026-08-19T15:14:09.697035Z"
+        },
+        "pacer_doc_id": "176052485135",
+        "page_count": null,
+        "short_description": "Certificate of service",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72222161/1115/inspired-healthcare-capital-holdings-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Certificate of no objection filed by Creditor Official Committee of Delaware Statutory Trust (DST) Investors (RE: related document(s)905 Application to employ Alvarez & Marsal North America, LLC as Financial Advisor Effective as of May 21, 2026). (Levitt, Steven)",
+        "docket_entry_id": 471067144,
+        "docket_id": 72222161,
+        "document_number": 1115,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-16",
+        "entry_number": 1115,
+        "filepath_local": null,
+        "id": 486461928,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-16T15:03:38.698527Z",
+          "score": {
+            "bm25": 13460256000000.0
+          },
+          "timestamp": "2026-07-27T13:53:15.355378Z"
+        },
+        "pacer_doc_id": "176052483836",
+        "page_count": null,
+        "short_description": "Certificate of no objection",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73388469/331/trinseo-plc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Sealed Motion / Application of The Official Committee of Unsecured Creditors for Entry of an Order Authorizing Employment and Retention of Alvarez & Marsal North America, LLC as Financial Advisor Effective as of June 15, 2026 Filed by Creditor Committee The Official Committee of Unsecured Creditors (Attachments: # 1 Exhibit A # 2 Exhibit B) (Perez, Alexander) (Entered: 07/15/2026)",
+        "docket_entry_id": 471042835,
+        "docket_id": 73388469,
+        "document_number": 331,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-15",
+        "entry_number": 331,
+        "filepath_local": null,
+        "id": 486436938,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-16T10:43:24.054924Z",
+          "score": {
+            "bm25": 13460170000000.0
+          },
+          "timestamp": "2026-07-16T18:35:46.415560Z"
+        },
+        "pacer_doc_id": "",
+        "page_count": null,
+        "short_description": "",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73388469/330/trinseo-plc-and-the-official-committee-of-unsecured-creditors/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application of The Official Committee of Unsecured Creditors for Entry of an Order Authorizing Employment and Retention of Alvarez & Marsal North America, LLC as Financial Advisor Effective as of June 15, 2026 Filed by Creditor Committee The Official Committee of Unsecured Creditors (Attachments: # 1 Exhibit A # 2 Exhibit B) (Perez, Alexander) (Entered: 07/15/2026)",
+        "docket_entry_id": 470983949,
+        "docket_id": 73388469,
+        "document_number": 330,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-15",
+        "entry_number": 330,
+        "filepath_local": null,
+        "id": 486376465,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-15T21:03:03.792213Z",
+          "score": {
+            "bm25": 13460170000000.0
+          },
+          "timestamp": "2026-07-16T18:35:46.415560Z"
+        },
+        "pacer_doc_id": "178054762544",
+        "page_count": null,
+        "short_description": "Generic Application",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/71417875/1045/omnicare-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice Notice of Ninth Staffing Report of Alvarez & Marsal North America, LLC as Chief Restructuring Officer of Omnicare, LLC and Supporting Personnel to the Debtors for the Period June 1, 2026 Through June 30, 2026 filed by Debtor Omnicare, LLC (RE: related document(s)258 Order granting application to employ Alvarez & Marsal North Amercia, LLC as co-chief restructuring officers (related document 136) Entered on 11/3/2025. (Blanco, J.)). (Peck, Ian)",
+        "docket_entry_id": 470653231,
+        "docket_id": 71417875,
+        "document_number": 1045,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-13",
+        "entry_number": 1045,
+        "filepath_local": null,
+        "id": 486036296,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-13T19:32:49.997074Z",
+          "score": {
+            "bm25": 13459997000000.0
+          },
+          "timestamp": "2026-08-19T15:14:09.293605Z"
+        },
+        "pacer_doc_id": "176052468463",
+        "page_count": null,
+        "short_description": "Notice (generic)",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73410103/321/goldenpeaks-poland-holding-limited/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Affidavit Re: of Nelson Crespin Regarding Order (I) Setting Bar Dates for Filing Proofs of Claim, Including Requests for Payment Under Section 503(b)(9); (II) Establishing Amended Schedules Bar Date and Rejection Damages Bar Date; (III) Approving the Form of and Manner for Filing Proofs of Claim, Including Section 503(b)(9) Requests; and (IV) Approving Notice of Bar Dates, Debtors' Reply in Support of DIP Financing Motion, Debtors' Application for Entry of an Order Authorizing the Retention and Employment of Pachulski Stang Ziehl & Jones LLP as Counsel for the Debtors, Effective as of May 29, 2026, Debtors' Application to Employ and Retain Alvarez & Marsal North America, LLC as Financial Advisors to Debtors and Debtors in Possession Pursuant to Sections 327(a) and 328 of the Bankruptcy Code Effective as of the Petition Date, Debtors' Application for Entry of an Order Authorizing the Employment and Retention of SSW Spaczyski, Szczepaniak, Wickel, Godziowska sp.k. as Special Polish Counsel Effective as of the Petition Date, Debtors' Motion for Entry of an Order Authorizing the Retention and Compensation of Certain Professionals Utilized in the Ordinary Course of Business, Debtors' Motion for Entry of an Order Establishing Procedures for Interim Compensation and Reimbursement of Expenses, Order (I) Approving Bid Procedures for Sale of the Debtors' Assets, (II) Approving the Stalking Horse APA and Expense Reimbursement, (III) Scheduling Certain Dates with Respect Thereto, (IV) Approving the Form and Manner of Notice Thereof, and (V) Approving Contract Assumption and Assignment Procedures, Final Order (I) Authorizing the Debtors to (A) Obtain Postpetition Financing and (B) Grant Junior and Senior Liens and Superpriority Administrative Expense Claims; (II) Modifying the Automatic Stay; and (III) Granting Related Relief, Debtors' Second Amended Witness and Exhibit List, and Agenda for Hearing Scheduled for June 30, 2026, at 11:00 a.m. (prevailing Central Time). (related document(s):156 Proposed Order, 159 Reply, 160 Application to Employ, 161 Application to Employ, 162 Application to Employ, 163 Generic Motion, 164 Generic Motion, 166 Proposed Order, 172 Proposed Order, 175 Witness List, Exhibit List, 176 Agenda). Filed by Kroll Restructuring Administration LLC (Steele, Benjamin) (Entered: 07/09/2026)",
+        "docket_entry_id": 470281339,
+        "docket_id": 73410103,
+        "document_number": 321,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-09",
+        "entry_number": 321,
+        "filepath_local": null,
+        "id": 485653362,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-09T19:08:32.562776Z",
+          "score": {
+            "bm25": 13459652000000.0
+          },
+          "timestamp": "2026-10-08T23:06:42.144338Z"
+        },
+        "pacer_doc_id": "178054729994",
+        "page_count": null,
+        "short_description": "Affidavit",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/72141043/3030/saks-global-enterprises-llc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Notice / Second Monthly Fee Statement of Alvarez & Marsal North America, LLC as Financial Advisors to the Special Committee for the Period From April 1, 2026 Through April 30, 2026. (Related document(s):1812 Order on Application to Employ) Filed by Alvarez & Marsal North America, LLC (Downing, Elizabeth) (Entered: 07/08/2026)",
+        "docket_entry_id": 470148275,
+        "docket_id": 72141043,
+        "document_number": 3030,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-08",
+        "entry_number": 3030,
+        "filepath_local": null,
+        "id": 485511225,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-08T20:37:07.130450Z",
+          "score": {
+            "bm25": 13459565000000.0
+          },
+          "timestamp": "2026-09-17T13:35:45.420364Z"
+        },
+        "pacer_doc_id": "178054723153",
+        "page_count": null,
+        "short_description": "Notice",
+        "snippet": ""
+      },
+      {
+        "absolute_url": "/docket/73450943/124/gohealth-inc/",
+        "attachment_number": null,
+        "cites": [],
+        "description": "Application/Motion to Employ/Retain Alvarez & Marsal North Americal LLC as Financial Advisors to the Debtors and Debtors in Possession Pursuant to Sections 327(a) and 328 of the Bankruptcy Code Filed by GoHealth, Inc.. Hearing scheduled for 8/6/2026 at 11:00 AM at US Bankruptcy Court, 824 Market St., 3rd Fl., Courtroom #7, Wilmington, Delaware. Objections due by 7/21/2026. (Attachments: # 1 Notice # 2 Exhibit A - Proposed Order # 3 Exhibit B - Engagement Letter # 4 Exhibit C - Frank Declaration) (Jones, Laura Davis) (Entered: 07/07/2026)",
+        "docket_entry_id": 470042946,
+        "docket_id": 73450943,
+        "document_number": 124,
+        "document_type": "PACER Document",
+        "entry_date_filed": "2026-07-07",
+        "entry_number": 124,
+        "filepath_local": null,
+        "id": 485401083,
+        "is_available": false,
+        "meta": {
+          "date_created": "2026-07-08T02:01:44.136954Z",
+          "score": {
+            "bm25": 13459479000000.0
+          },
+          "timestamp": "2026-07-08T02:01:48.691172Z"
+        },
+        "pacer_doc_id": "042023074147",
+        "page_count": null,
+        "short_description": "Employ/Retain - Application/Motion",
+        "snippet": ""
+      }
+    ]
+  },
+  "url": "https://www.courtlistener.com/api/rest/v4/search/?court=deb+njb+txsb+txnb+nysb+vaeb+ganb&cursor=cz0xMzQ2MjA3MTAwMDAwMC4wJnM9NDg5MDQwNjYxJnQ9cmQmZD0yMDI2LTEwLTExJnA9Mg%3D%3D&description=Alvarez+AND+Marsal+AND+%28employ+OR+retain+OR+retention%29&filed_after=01%2F01%2F2025&order_by=entry_date_filed+desc&q=chapter%3A11&type=rd"
+}

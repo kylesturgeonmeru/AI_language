@@ -9,6 +9,7 @@ Usage: python fetch.py --tracks B B_related [--ids-file data/fetch_list_b.csv] [
 """
 import argparse
 import csv
+import re
 import io
 from pathlib import Path
 
@@ -149,6 +150,18 @@ def agent_preflight():
             print(f"{name}: robots.txt not retrieved ({str(e)[:120]})")
 
 
+def agent_page(agent, url):
+    """GET one claims agent page with plain HTTP (logged, paced) and save it for review."""
+    from urllib.parse import urlparse
+    sess = Session()
+    body = sess.get(url, "agent_" + agent, purpose="agent page")
+    name = re.sub(r"[^A-Za-z0-9]+", "_", urlparse(url).path + "_" + urlparse(url).query).strip("_") or "index"
+    out = AGENTS / "pages" / agent / f"{name}.html"
+    atomic_write_bytes(out, body)
+    print(f"{url}: {len(body)} bytes -> {out}")
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tracks", nargs="+", default=[])
@@ -157,9 +170,12 @@ def main():
     ap.add_argument("--ids-file", help="CSV with a recap_doc_id column; fetch only these (curated list)")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--agent-preflight", action="store_true", help="save claims agents' robots.txt for review")
+    ap.add_argument("--agent-page", nargs=2, metavar=("AGENT", "URL"), help="save one claims agent page (plain HTTP)")
     args = ap.parse_args()
     if args.agent_preflight:
         return agent_preflight()
+    if args.agent_page:
+        return agent_page(*args.agent_page)
     require_env("COURTLISTENER_TOKEN")
     if args.ranking:
         return fetch_ranking(args.dry_run)

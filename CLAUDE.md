@@ -22,7 +22,7 @@ Benchmark how restructuring professionals address AI use in engagement letters a
 ## Sources
 1. CourtListener REST API v4 with `COURTLISTENER_TOKEN`. Read the current API docs before writing request code; confirm parameter names instead of assuming them. The anonymous quota is shared and exhausted, so never call without the token.
 2. SEC EDGAR full-text search with `SEC_USER_AGENT`.
-3. Claims agent sites (Kroll, Stretto, Epiq, Omni, Verita): never scraped. Missing documents go on the Manual Pull List with case name, docket number, and claims agent docket URL.
+3. Claims agent sites (Kroll, Stretto, Epiq, Omni, Verita): changed 10/11/2026 (Kyle). Polite, logged downloads are allowed through `fetch.py` only: check each site's terms of use and robots.txt first and skip any site that prohibits automated access; no logins, no CAPTCHA workarounds; at most one request every 3 seconds per site; same run log and PDF validation as RECAP. Start with a one-case pilot per agent and report results before pulling the rest. Anything blocked stays on the Manual Pull List with case name, docket number, and claims agent docket URL.
 4. PACER: not used without Kyle's approval and a hard dollar cap enforced in code.
 Public records only. No logins, paywalls, or CAPTCHA workarounds.
 

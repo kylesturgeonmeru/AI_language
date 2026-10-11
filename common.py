@@ -173,6 +173,8 @@ class Session:
             return {"User-Agent": os.environ["SEC_USER_AGENT"], "Accept-Encoding": "gzip, deflate"}
         if source == "cl_storage":
             return {"User-Agent": "MERU research (CourtListener RECAP download)"}
+        if source.startswith("agent_"):
+            return {"User-Agent": os.environ.get("SEC_USER_AGENT", "MERU research")}
         return {}
 
     def _pace(self, source):
@@ -203,6 +205,8 @@ class Session:
             self._last_sec = time.monotonic()
         elif source == "cl_storage":
             time.sleep(1.0)
+        elif source.startswith("agent_"):
+            time.sleep(3.0)  # claims agent sites: at most one request every 3 seconds
 
     def get(self, url, source, params=None, purpose=None):
         """GET and return the body bytes, or raise. Logs every attempt."""

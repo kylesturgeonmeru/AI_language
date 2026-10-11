@@ -124,6 +124,31 @@ def fetch_ranking(dry_run):
     print(f"Ranking manifest: {ok} ok, {len(manifest) - ok} failed.")
 
 
+# Claims agent sites (CLAUDE.md source rule 3, changed 10/11/2026): polite,
+# logged downloads only where terms and robots.txt allow automated access.
+AGENT_HOSTS = {
+    "kroll": "https://restructuring.ra.kroll.com",
+    "stretto": "https://cases.stretto.com",
+    "epiq": "https://dm.epiq11.com",
+    "omni": "https://omniagentsolutions.com",
+    "verita": "https://www.veritaglobal.net",
+}
+AGENTS = DATA / "agents"
+
+
+def agent_preflight():
+    """Fetch and save each agent's robots.txt (logged) for review before any download."""
+    sess = Session()
+    for name, host in AGENT_HOSTS.items():
+        url = host + "/robots.txt"
+        try:
+            body = sess.get(url, "agent_" + name, purpose=f"preflight robots.txt {name}")
+            atomic_write_bytes(AGENTS / "robots" / f"{name}.txt", body)
+            print(f"{name}: robots.txt {len(body)} bytes")
+        except Exception as e:
+            print(f"{name}: robots.txt not retrieved ({str(e)[:120]})")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tracks", nargs="+", default=[])
@@ -131,7 +156,10 @@ def main():
                     help="fetch first-day declarations for the Track A ranking (exempt from the cap)")
     ap.add_argument("--ids-file", help="CSV with a recap_doc_id column; fetch only these (curated list)")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--agent-preflight", action="store_true", help="save claims agents' robots.txt for review")
     args = ap.parse_args()
+    if args.agent_preflight:
+        return agent_preflight()
     require_env("COURTLISTENER_TOKEN")
     if args.ranking:
         return fetch_ranking(args.dry_run)

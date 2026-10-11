@@ -80,5 +80,5 @@ Download cap: 149 of 400 research documents used. All PDFs passed validation (he
 5. **Entered orders:** 23 entered retention orders in RECAP against 32 applications; R14 is coded not_available where the order is missing.
 6. **Selection bias.** RECAP holds documents that someone bought on PACER or that were free. Track A prevalence describes large cases' retention filings that are in RECAP, not all large cases.
 7. **Not covered:** fee applications and fee examiner reports (optional Phase 5), and individual SEC leads (the one lead, Sleep Number's 8-K EX-10.1, is an asset purchase agreement, out of scope).
-8. **Manual Pull List:** 78 documents.
+8. **Manual Pull List:** 78 documents, left open (Kyle, 10/11/2026). All five claims agents are closed to automated retrieval: Kroll and Stretto return 403, Omni's robots.txt excludes Claude agents, Verita's TLS chain is incomplete, and Epiq's terms prohibit automated searches.
 

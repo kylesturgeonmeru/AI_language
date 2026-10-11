@@ -84,5 +84,5 @@ No filing addresses how AI affects billed time or expenses (R10: 0 of 35 filings
 ## Confidence and next steps
 
 - **Low confidence throughout.** The provisions come from 4 firms, court treatment from 1 case, and census prevalence from 32 RECAP filings in 17 cases.
-- **Strengthen prevalence.** Pull the original top-10 applications from the claims agent sites (78 documents on the Manual Pull List), or approve a capped PACER budget.
+- **Known gap, left open (Kyle, 10/11/2026).** The original top 10 cases' applications (78 documents on the Manual Pull List) are not in RECAP. All five claims agents are closed to automated retrieval: Kroll and Stretto block automated requests, Omni's robots.txt excludes Claude agents, Verita's TLS chain is broken, and Epiq's terms prohibit automated searches. A manual pull or a capped PACER budget remains possible later.
 - **Optional Phase 5.** Search fee applications and examiner reports for AI time entries and charges.

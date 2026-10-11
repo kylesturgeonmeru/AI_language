@@ -1,6 +1,6 @@
 # Discovery summary (Checkpoint 1 input)
 
-Generated 10/10/2026. Counts are discovery candidates, not confirmed AI provisions; role, filing type, and firm are guesses from the docket text.
+Generated 10/11/2026. Counts are discovery candidates, not confirmed AI provisions; role, filing type, and firm are guesses from the docket text.
 
 ## Track B (AI terms in retention filings)
 

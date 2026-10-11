@@ -240,7 +240,10 @@ def track_a_rank(sess, dockets, max_pages):
     return rows
 
 
-MIN_AVAILABLE_APPLICATIONS = 3  # census qualification (Kyle chose re-pick by coverage, 10/09/2026)
+# Census rule (Kyle, 10/11/2026): only 4 of 63 ranked cases had 3+ applications in
+# RECAP, so Track A covers every retention application in RECAP across all ranked
+# cases. A case is included with at least one available application.
+MIN_AVAILABLE_APPLICATIONS = 1
 
 
 def track_a_census(sess, dockets, docs, top_n, max_pages):
@@ -254,13 +257,13 @@ def track_a_census(sess, dockets, docs, top_n, max_pages):
     """
     from select_census import kind  # same rules used to pick documents to fetch
     path = DATA / "track_a_ranking.csv"
-    if top_n <= 0 or not path.exists():
+    if not path.exists():
         return []
     with open(path, newline="", encoding="utf-8") as f:
         ranked = sorted((r for r in csv.DictReader(f) if r["rank"]), key=lambda r: int(r["rank"]))
     coverage = []
     for r in ranked:
-        if sum(1 for c in coverage if c["qualifies"]) >= top_n:
+        if top_n and sum(1 for c in coverage if c["qualifies"]) >= top_n:
             break
         params = {"type": "rd", "q": f"docket_id:{r['docket_id']} AND is_available:true",
                   "description": RETENTION_DESC}
@@ -411,8 +414,9 @@ def main():
     ap.add_argument("--max-pages", type=int, default=10)
     ap.add_argument("--sec", action="store_true",
                     help="rerun SEC EDGAR search (dropped as a source 10/09/2026; off by default)")
-    ap.add_argument("--track-a-top", type=int, default=10,
-                    help="census size for Track A phase 2 (approved 10/09/2026: top 10)")
+    ap.add_argument("--track-a-top", type=int, default=0,
+                    help="stop after this many qualifying cases; 0 checks every ranked case "
+                         "(Kyle, 10/11/2026: all retention applications in RECAP)")
     ap.add_argument("--census-max-pages", type=int, default=25)
     ap.add_argument("--max-wait", type=int, default=3700,
                     help="longest pause (seconds) for a rate window before stopping; use a small value "

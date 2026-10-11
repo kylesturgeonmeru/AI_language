@@ -131,10 +131,12 @@ AGENT_HOSTS = {
     "kroll": "https://restructuring.ra.kroll.com",
     "stretto": "https://cases.stretto.com",
     "epiq": "https://dm.epiq11.com",
+    "epiq_docs": "https://document.epiq11.com",
     "omni": "https://omniagentsolutions.com",
     "verita": "https://www.veritaglobal.net",
 }
 AGENTS = DATA / "agents"
+CHROMIUM = "/opt/pw-browsers/chromium"  # preinstalled; do not run "playwright install"
 
 
 def agent_preflight():
@@ -162,6 +164,84 @@ def agent_page(agent, url):
     return out
 
 
+def agent_render(agent, url):
+    """Render one claims agent page in headless Chromium (logged, paced) and save it.
+
+    For sites that build pages with JavaScript (Epiq; approved by Kyle 10/11/2026).
+    No logins and no CAPTCHA handling: a challenge page is saved as-is and is a block.
+    """
+    import os
+    import time
+    from urllib.parse import urlparse
+    from playwright.sync_api import sync_playwright
+    time.sleep(3.0)
+    name = re.sub(r"[^A-Za-z0-9]+", "_", urlparse(url).path).strip("_") or "index"
+    out = AGENTS / "pages" / agent / name
+    seen = []
+    with sync_playwright() as p:
+        browser = p.chromium.launch(executable_path=CHROMIUM, proxy={"server": os.environ["HTTPS_PROXY"]})
+        page = browser.new_page(user_agent=os.environ.get("SEC_USER_AGENT", "MERU research"))
+        page.on("response", lambda r: seen.append(f"{r.status} {r.url}"))
+        try:
+            resp = page.goto(url, wait_until="networkidle", timeout=90000)
+            html = page.content().encode("utf-8")
+            log_request(url, resp.status if resp else None, body=html, source="agent_" + agent,
+                        purpose="render page")
+            atomic_write_bytes(out.with_suffix(".html"), html)
+            page.screenshot(path=str(out.with_suffix(".png")), full_page=False)
+        except Exception as e:
+            log_request(url, None, error=type(e).__name__, source="agent_" + agent, purpose="render page")
+            raise
+        finally:
+            browser.close()
+    atomic_write_text(out.with_suffix(".responses.txt"), "\n".join(seen) + "\n")
+    print(f"rendered {url}: {len(html)} bytes, {len(seen)} responses -> {out}")
+    return out
+
+
+def epiq_docket_search(project, docket_numbers, debug=False):
+    """Use Epiq's public docket page like a visitor: clear the case filter, enter
+    docket numbers, and read the result cards (docket number, case, text, links).
+
+    Approved by Kyle 10/11/2026. Paced, logged; no API calls of our own.
+    """
+    import os
+    import time
+    from playwright.sync_api import sync_playwright
+    url = f"https://dm.epiq11.com/case/{project}/dockets"
+    shots = AGENTS / "pages" / "epiq" / f"{project}_search"
+    shots.mkdir(parents=True, exist_ok=True)
+    time.sleep(3.0)
+    with sync_playwright() as p:
+        browser = p.chromium.launch(executable_path=CHROMIUM, proxy={"server": os.environ["HTTPS_PROXY"]})
+        page = browser.new_page(user_agent=os.environ.get("SEC_USER_AGENT", "MERU research"),
+                                viewport={"width": 1280, "height": 1600})
+        resp = page.goto(url, wait_until="networkidle", timeout=90000)
+        log_request(url, resp.status if resp else None, source="agent_epiq", purpose="docket page")
+        if debug:
+            page.screenshot(path=str(shots / "1_loaded.png"), full_page=True)
+        # Remove every preset case-number chip so all debtors' dockets are searched.
+        for _ in range(5):
+            chip = page.locator("button.epiq-tag-remove >> visible=true")
+            if chip.count() == 0:
+                break
+            chip.first.click()
+            page.wait_for_load_state("networkidle")
+            time.sleep(3.0)
+        page.locator("#caseDocketNumberFilter >> visible=true").fill(",".join(str(n) for n in docket_numbers))
+        page.locator("#caseDocketFilterButton >> visible=true").click()
+        page.wait_for_load_state("networkidle")
+        time.sleep(3.0)
+        if debug:
+            page.screenshot(path=str(shots / "2_searched.png"), full_page=True)
+        html = page.content()
+        log_request(url + "#docket-search", 200, body=html.encode("utf-8"), source="agent_epiq",
+                    purpose=f"docket search {docket_numbers}")
+        atomic_write_text(shots / "results.html", html)
+        browser.close()
+    return html
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--tracks", nargs="+", default=[])
@@ -171,11 +251,18 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--agent-preflight", action="store_true", help="save claims agents' robots.txt for review")
     ap.add_argument("--agent-page", nargs=2, metavar=("AGENT", "URL"), help="save one claims agent page (plain HTTP)")
+    ap.add_argument("--agent-render", nargs=2, metavar=("AGENT", "URL"), help="render one claims agent page (headless)")
+    ap.add_argument("--epiq-search", nargs=2, metavar=("PROJECT", "DOCKETS"),
+                    help="Epiq docket search by comma-separated docket numbers (debug screenshots)")
     args = ap.parse_args()
     if args.agent_preflight:
         return agent_preflight()
     if args.agent_page:
         return agent_page(*args.agent_page)
+    if args.agent_render:
+        return agent_render(*args.agent_render)
+    if args.epiq_search:
+        return epiq_docket_search(args.epiq_search[0], args.epiq_search[1].split(","), debug=True)
     require_env("COURTLISTENER_TOKEN")
     if args.ranking:
         return fetch_ranking(args.dry_run)
